@@ -1,0 +1,23 @@
+---
+import Layout from '../../layouts/Layout-web.astro';
+import { getLangFromUrl, useTranslations } from '../../utils/i18n';
+import QuickHelpContent from '../../components/help/QuickHelpContent.astro';
+import LanguageSwitcher from '../../components/home/LanguageSwitcher.astro';
+
+// Get current language (will be 'th' for this page)
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+
+// Page title translation
+const pageTitle = {
+  en: 'Quick Help — NinjaLingo',
+  th: 'คู่มือด่วน — NinjaLingo',
+};
+---
+
+<Layout title={t('title', pageTitle)} lang={lang}>
+  <main class="overflow-auto min-h-screen bg-white">
+    <LanguageSwitcher currentLang={lang} />
+    <QuickHelpContent lang={lang} />
+  </main>
+</Layout>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="180" viewBox="0 0 600 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="titleDesc">
+  <title id="titleDesc">NinjaLingo app flow and review buttons</title>
+  <rect width="600" height="180" rx="12" fill="#fff" stroke="#e5e7eb"/>
+
+  <!-- Flow boxes -->
+  <g font-family="Inter, Arial, sans-serif">
+    <rect x="18" y="28" width="120" height="56" rx="8" fill="#f8fafc" stroke="#cbd5e1" />
+    <text x="78" y="62" fill="#0f172a" font-size="14" text-anchor="middle">Card Set</text>
+
+    <rect x="168" y="28" width="140" height="56" rx="8" fill="#f8fafc" stroke="#cbd5e1" />
+    <text x="238" y="62" fill="#0f172a" font-size="14" text-anchor="middle">Dashboard</text>
+
+    <rect x="338" y="28" width="100" height="56" rx="8" fill="#f8fafc" stroke="#cbd5e1" />
+    <text x="388" y="62" fill="#0f172a" font-size="14" text-anchor="middle">Review</text>
+
+    <rect x="458" y="28" width="120" height="56" rx="8" fill="#f8fafc" stroke="#cbd5e1" />
+    <text x="518" y="62" fill="#0f172a" font-size="14" text-anchor="middle">Success</text>
+
+    <!-- Arrows -->
+    <path d="M138 56 H168" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)" />
+    <path d="M308 56 H338" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)" />
+    <path d="M438 56 H458" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)" />
+
+    <defs>
+      <marker id="arrow" markerWidth="10" markerHeight="10" refX="6" refY="5" orient="auto">
+        <path d="M0 0 L10 5 L0 10 z" fill="#94a3b8" />
+      </marker>
+    </defs>
+  </g>
+
+  <!-- Buttons legend -->
+  <g transform="translate(24,100)" font-family="Inter, Arial, sans-serif">
+    <text x="0" y="0" fill="#0f172a" font-size="13" font-weight="600">Review Buttons</text>
+
+    <g transform="translate(0,14)">
+      <rect x="0" y="6" width="20" height="20" rx="4" fill="#10b981" />
+      <text x="30" y="22" fill="#0f172a" font-size="12">Confident</text>
+    </g>
+
+    <g transform="translate(140,14)">
+      <rect x="0" y="6" width="20" height="20" rx="4" fill="#6366f1" />
+      <text x="30" y="22" fill="#0f172a" font-size="12">Show me</text>
+    </g>
+
+    <g transform="translate(280,14)">
+      <rect x="0" y="6" width="20" height="20" rx="4" fill="#f59e0b" />
+      <text x="30" y="22" fill="#0f172a" font-size="12">Easy</text>
+    </g>
+
+    <g transform="translate(380,14)">
+      <rect x="0" y="6" width="20" height="20" rx="4" fill="#3b82f6" />
+      <text x="30" y="22" fill="#0f172a" font-size="12">Good</text>
+    </g>
+
+    <g transform="translate(480,14)">
+      <rect x="0" y="6" width="20" height="20" rx="4" fill="#ef4444" />
+      <text x="30" y="22" fill="#0f172a" font-size="12">Again</text>
+    </g>
+  </g>
+
+</svg>

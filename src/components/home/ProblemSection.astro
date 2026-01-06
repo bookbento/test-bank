@@ -1,0 +1,48 @@
+---
+import { useTranslations, type Lang } from '../../utils/i18n';
+
+interface Props {
+  lang: Lang;
+}
+
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+
+// Problem section translations
+const translations = {
+  title: {
+    en: 'The Problem: Learning Too Many Words at Once ⚡',
+    th: 'ปัญหา: การท่องศัพท์ทีละเยอะๆ ⚡',
+  },
+  story: {
+    en: `Imagine you have 1000 vocabulary words to master. 
+        <b>Day 1:</b> you review 1000 words. Some you remember vaguely, some you've already mastered.
+        <b>Day 2:</b> you filter out the words you already know, leaving only the ones you're not confident with.
+        <b>A Week passes</b> - words you once knew are now uncertain, so you have to review all 1000 words again!!!<br /><br />
+        With <strong>NinjaLingo</strong>, we track every word. <b>Hard words? We bring them up frequently.
+        Easy words? We calculate and bring them up for review at the perfect time</b> using Spaced Repetition technique.
+        This way, we don't waste much time, but we remember more accurately and for longer.`,
+    th: `สมติว่าคุณมีคำศัพท์ 1000 คำที่ต้องจำให้ได้ 
+       <b>วันที่ 1:</b> คุณท่องไป 1000 คำ บางคำจำได้ลางๆ บางคำจำได้แล้ว
+       <b>วันที่ 2:</b> คุณคัดคำที่จำได้แล้วออกมา ให้เหลือท่องเฉพาะที่ยังไม่แม่น
+       <b>ผ่านไปสัปดาห์นึง</b> คำที่เคยจำได้ตอนนี้เริ่มไม่แน่ใจ เลยต้องมาทบทวนใหม่ทั้ง 1000 คำอีกครั้ง!!!<br /><br />
+       กับ <strong>NinjaLingo</strong> เราจะติดตามทุกคำ <b>คำไหนยาก! เราก็เอาขึ้นมาบ่อยๆ 
+       คำไหนง่าย? เราก็เอามาคำนวนแล้วหยิบขึ้นมาทบทวนในเวลาที่สมบูรณ์</b>แบบตามเทคนิค Spaced repetition 
+       ทำให้เราไม่ต้องเสียเวลาเยอะ แต่กลับจดจำได้แม่นขึ้น นานขึ้น`,
+  },
+};
+---
+
+<section class="px-6 lg:px-12 py-8 bg-white/50">
+  <div class="max-w-4xl mx-auto text-center space-y-8">
+    <h2 class="text-3xl font-bold text-gray-800">
+      {t('title', translations.title)}
+    </h2>
+    <div class="p-8 rounded-xl border shadow-sm bg-white text-left">
+      <p
+        class="story text-lg text-gray-700 font-medium leading-relaxed"
+        set:html={t('story', translations.story)}
+      />
+    </div>
+  </div>
+</section>

@@ -1,0 +1,834 @@
+[
+  {
+    "id": "ielts-by-category-culture-belief",
+    "front": {
+      "icon": "",
+      "title": "Belief",
+      "description": "bɪˈliːf"
+    },
+    "back": {
+      "icon": "🙏",
+      "title": "ความเชื่อ",
+      "description": "His **belief** in himself helped him overcome challenges."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-culture",
+    "front": {
+      "icon": "",
+      "title": "Culture",
+      "description": "ˈkʌltʃər"
+    },
+    "back": {
+      "icon": "🌍",
+      "title": "วัฒนธรรม",
+      "description": "Learning about a new **culture** can be a rewarding experience."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-cultural-heritage",
+    "front": {
+      "icon": "",
+      "title": "Cultural Heritage",
+      "description": "ˈkʌltʃərəl ˈhɛrɪtɪdʒ"
+    },
+    "back": {
+      "icon": "🏛️",
+      "title": "มรดกทางวัฒนธรรม",
+      "description": "The ancient temple is a significant part of our **Cultural Heritage**."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-cultural-norms",
+    "front": {
+      "icon": "",
+      "title": "Cultural Norms",
+      "description": "ˈkʌltʃərəl nɔːrmz"
+    },
+    "back": {
+      "icon": "🌍",
+      "title": "บรรทัดฐานทางวัฒนธรรม",
+      "description": "Understanding different **cultures** can enrich your travel experiences."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-ethics",
+    "front": {
+      "icon": "",
+      "title": "Ethics",
+      "description": "ˈɛθɪks"
+    },
+    "back": {
+      "icon": "⚖️",
+      "title": "จริยธรรม",
+      "description": "She demonstrated strong **Ethics** in her decision-making."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-heritage",
+    "front": {
+      "icon": "",
+      "title": "Heritage",
+      "description": "ˈhɛrɪtɪdʒ"
+    },
+    "back": {
+      "icon": "🏛️",
+      "title": "มรดก",
+      "description": "Protecting our cultural **heritage** is essential for future generations."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-values",
+    "front": {
+      "icon": "",
+      "title": "Values",
+      "description": "/ˈvæljuːz/"
+    },
+    "back": {
+      "icon": "🎭",
+      "title": "คุณค่า",
+      "description": "The company's core **values** include integrity and innovation."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-parades",
+    "front": {
+      "icon": "",
+      "title": "Parades",
+      "description": "/pəˈreɪdz/"
+    },
+    "back": {
+      "icon": "🎊",
+      "title": "ขบวนพาเหรด",
+      "description": "The cat jumped **gracefully** over the fence."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-public-duty",
+    "front": {
+      "icon": "",
+      "title": "Public duty",
+      "description": "/ˈpʌblɪk ˈduːti/"
+    },
+    "back": {
+      "icon": "🏛️",
+      "title": "หน้าที่สาธารณะ",
+      "description": "It is a **public duty** to vote."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-rituals",
+    "front": {
+      "icon": "",
+      "title": "Rituals",
+      "description": "ˈrɪtʃuəlz"
+    },
+    "back": {
+      "icon": "🪚",
+      "title": "พิธีกรรม",
+      "description": "Many **rituals** are performed during the ceremony."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-mythology",
+    "front": {
+      "icon": "",
+      "title": "Mythology",
+      "description": "/mɪˈθɒlədʒi/"
+    },
+    "back": {
+      "icon": "✨",
+      "title": "เทพปกรณัม",
+      "description": "Greek **mythology** is full of interesting stories about gods and goddesses."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-myth",
+    "front": {
+      "icon": "",
+      "title": "Myth",
+      "description": "/mɪθ/"
+    },
+    "back": {
+      "icon": "✨",
+      "title": "ตำนาน",
+      "description": "The story of the dragon was a local **myth**."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-subculture",
+    "front": {
+      "icon": "",
+      "title": "Subculture",
+      "description": "/ˈsʌbkʌltʃər/"
+    },
+    "back": {
+      "icon": "🤘",
+      "title": "วัฒนธรรมย่อย",
+      "description": "The goth **subculture** has a distinct fashion and music style."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-globalisation",
+    "front": {
+      "icon": "",
+      "title": "Globalisation",
+      "description": "ˌɡloʊbəlɪˈzeɪʃən"
+    },
+    "back": {
+      "icon": "🌎",
+      "title": "โลกาภิวัตน์",
+      "description": "**Globalisation** has led to increased interconnectedness among nations."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-fine-art",
+    "front": {
+      "icon": "",
+      "title": "Fine art",
+      "description": "faɪn ɑːrt"
+    },
+    "back": {
+      "icon": "🖼️",
+      "title": "วิจิตรศิลป์",
+      "description": "She appreciates the beauty of **Fine art**."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-migrant-worker",
+    "front": {
+      "icon": "",
+      "title": "Migrant Worker",
+      "description": "ˈmaɪɡrənt ˈwɜːrkər"
+    },
+    "back": {
+      "icon": "👷",
+      "title": "แรงงานข้ามชาติ",
+      "description": "The **Migrant Worker** sent money home to support their family."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-ancestry",
+    "front": {
+      "icon": "",
+      "title": "Ancestry",
+      "description": "ˈænsɛstri"
+    },
+    "back": {
+      "icon": "🌳",
+      "title": "เชื้อสาย",
+      "description": "My **ancestry** can be traced back to ancient China."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-architecture",
+    "front": {
+      "icon": "",
+      "title": "Architecture",
+      "description": "ˈɑːrkɪtektʃər"
+    },
+    "back": {
+      "icon": "🏛️",
+      "title": "สถาปัตยกรรม",
+      "description": "The ancient **architecture** of Rome is truly breathtaking."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-art",
+    "front": {
+      "icon": "",
+      "title": "Art",
+      "description": "/ɑːrt/"
+    },
+    "back": {
+      "icon": "🎨",
+      "title": "ศิลปะ",
+      "description": "**Art** is a beautiful form of expression."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-ceremony",
+    "front": {
+      "icon": "",
+      "title": "Ceremony",
+      "description": "/ˈsɛrɪməni/"
+    },
+    "back": {
+      "icon": "🪅",
+      "title": "พิธี",
+      "description": "The graduation **ceremony** was held in the auditorium."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-cuisine",
+    "front": {
+      "icon": "",
+      "title": "Cuisine",
+      "description": "/kwɪˈziːn/"
+    },
+    "back": {
+      "icon": "🧑‍🍳",
+      "title": "อาหาร (a-harn)",
+      "description": "The French **cuisine** is known for its rich flavors."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-custom",
+    "front": {
+      "icon": "",
+      "title": "Custom",
+      "description": "ˈkʌstəm"
+    },
+    "back": {
+      "icon": "🪡",
+      "title": "ประเพณี",
+      "description": "It is **custom** to shake hands when meeting someone new."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-dance",
+    "front": {
+      "icon": "",
+      "title": "Dance",
+      "description": "/dæns/"
+    },
+    "back": {
+      "icon": "💃",
+      "title": "เต้นรำ",
+      "description": "She loves to **Dance** every weekend."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-dialect",
+    "front": {
+      "icon": "",
+      "title": "Dialect",
+      "description": "/ˈdaɪəˌlɛkt/"
+    },
+    "back": {
+      "icon": "🗣️",
+      "title": "ภาษาถิ่น",
+      "description": "The local **dialect** was difficult for the tourists to understand."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-education",
+    "front": {
+      "icon": "",
+      "title": "Education",
+      "description": "/ˌɛdʒuˈkeɪʃən/"
+    },
+    "back": {
+      "icon": "🧑‍🎓",
+      "title": "การศึกษา",
+      "description": "**Education** is key to a brighter future."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-ethnic-group",
+    "front": {
+      "icon": "",
+      "title": "Ethnic group",
+      "description": "/ˈɛθnɪk ɡruːp/"
+    },
+    "back": {
+      "icon": "👥",
+      "title": "กลุ่มชาติพันธุ์",
+      "description": "The **ethnic group** maintained their unique traditions."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-festival",
+    "front": {
+      "icon": "",
+      "title": "Festival",
+      "description": "/ˈfɛstɪvəl/"
+    },
+    "back": {
+      "icon": "🎉",
+      "title": "เทศกาล",
+      "description": "The annual **festival** brought the community together."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-folklore",
+    "front": {
+      "icon": "",
+      "title": "Folklore",
+      "description": "ˈfoʊklɔːr"
+    },
+    "back": {
+      "icon": "🧚",
+      "title": "คติชนวิทยา",
+      "description": "The ancient **folklore** of the region tells tales of mythical creatures."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-geography",
+    "front": {
+      "icon": "",
+      "title": "Geography",
+      "description": "/dʒiˈɒɡrəfi/"
+    },
+    "back": {
+      "icon": "🌍",
+      "title": "ภูมิศาสตร์",
+      "description": "The study of **Geography** helps us understand the Earth's physical features."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-government",
+    "front": {
+      "icon": "",
+      "title": "Government",
+      "description": "ˈɡʌvənmənt"
+    },
+    "back": {
+      "icon": "🏛️",
+      "title": "รัฐบาล",
+      "description": "The **Government** announced new policies today."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-greeting",
+    "front": {
+      "icon": "",
+      "title": "Greeting",
+      "description": "/ˈɡriːtɪŋ/"
+    },
+    "back": {
+      "icon": "👋",
+      "title": "สวัสดี",
+      "description": "A warm **greeting** can make someone's day."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-habit",
+    "front": {
+      "icon": "",
+      "title": "Habit",
+      "description": "ˈhæbɪt"
+    },
+    "back": {
+      "icon": "🔄",
+      "title": "นิสัย",
+      "description": "Brushing your teeth daily is a good **habit**."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-handicraft",
+    "front": {
+      "icon": "",
+      "title": "Handicraft",
+      "description": "ˈhændikræft"
+    },
+    "back": {
+      "icon": "🧵",
+      "title": "หัตถกรรม",
+      "description": "The local **Handicraft** market offers unique handmade items."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-history",
+    "front": {
+      "icon": "",
+      "title": "History",
+      "description": "ˈhɪstəri"
+    },
+    "back": {
+      "icon": "📜",
+      "title": "ประวัติศาสตร์",
+      "description": "**History** is an important subject in school."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-holiday",
+    "front": {
+      "icon": "",
+      "title": "Holiday",
+      "description": "ˈhɒlɪdeɪ"
+    },
+    "back": {
+      "icon": "🎉",
+      "title": "วันหยุด",
+      "description": "We are looking forward to our **Holiday** next month."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-humor",
+    "front": {
+      "icon": "",
+      "title": "Humor",
+      "description": "ˈhjuːmər"
+    },
+    "back": {
+      "icon": "😂",
+      "title": "อารมณ์ขัน",
+      "description": "Her **humor** always brightens the room."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-identity",
+    "front": {
+      "icon": "",
+      "title": "Identity",
+      "description": "/aɪˈdɛntɪti/"
+    },
+    "back": {
+      "icon": "👤",
+      "title": "อัตลักษณ์",
+      "description": "The company's new logo represents its **identity**."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-language",
+    "front": {
+      "icon": "",
+      "title": "Language",
+      "description": "ˈlæŋɡwɪdʒ"
+    },
+    "back": {
+      "icon": "🗣️",
+      "title": "ภาษา",
+      "description": "**Language** is a powerful tool for communication."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-law",
+    "front": {
+      "icon": "",
+      "title": "Law",
+      "description": "/lɔː/"
+    },
+    "back": {
+      "icon": "⚖️",
+      "title": "กฎหมาย",
+      "description": "He studied criminal **law** in college."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-legend",
+    "front": {
+      "icon": "",
+      "title": "Legend",
+      "description": "ˈlɛdʒənd"
+    },
+    "back": {
+      "icon": "⭐",
+      "title": "ตำนาน",
+      "description": "The **legend** of the lost city fascinated archaeologists for decades."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-literature",
+    "front": {
+      "icon": "",
+      "title": "Literature",
+      "description": "ˈlɪtərətʃər"
+    },
+    "back": {
+      "icon": "📚",
+      "title": "วรรณกรรม",
+      "description": "She enjoys studying **Literature** in her free time."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-manner",
+    "front": {
+      "icon": "",
+      "title": "Manner",
+      "description": "/ˈmænər/"
+    },
+    "back": {
+      "icon": "🙏",
+      "title": "มารยาท",
+      "description": "Her quiet **manner** made her approachable."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-media",
+    "front": {
+      "icon": "",
+      "title": "Media",
+      "description": "ˈmiːdiə"
+    },
+    "back": {
+      "icon": "📺",
+      "title": "สื่อ",
+      "description": "**Media** plays a significant role in shaping public opinion."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-music",
+    "front": {
+      "icon": "",
+      "title": "Music",
+      "description": "/ˈmjuːzɪk/"
+    },
+    "back": {
+      "icon": "🎵",
+      "title": "ดนตรี",
+      "description": "She found peace in listening to **Music**."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-norm",
+    "front": {
+      "icon": "",
+      "title": "Norm",
+      "description": "/nɔːrm/"
+    },
+    "back": {
+      "icon": "📏",
+      "title": "บรรทัดฐาน",
+      "description": "It is the **norm** for students to complete their homework before class."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-oral-tradition",
+    "front": {
+      "icon": "",
+      "title": "Oral tradition",
+      "description": "/ˈɔːrəl trəˈdɪʃən/"
+    },
+    "back": {
+      "icon": "🗣️",
+      "title": "มุขปาฐะ",
+      "description": "The tribe relied on **oral tradition** to pass down stories."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-philosophy",
+    "front": {
+      "icon": "",
+      "title": "Philosophy",
+      "description": "/fɪˈlɒsəfi/"
+    },
+    "back": {
+      "icon": "🤔",
+      "title": "ปรัชญา",
+      "description": "She enjoyed studying **Philosophy** in college."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-political-system",
+    "front": {
+      "icon": "",
+      "title": "Political system",
+      "description": "pəˈlɪtɪkl̩ ˈsɪstəm"
+    },
+    "back": {
+      "icon": "🏛️",
+      "title": "ระบบการเมือง",
+      "description": "The nation's **political system** influences its economic stability."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-population",
+    "front": {
+      "icon": "",
+      "title": "Population",
+      "description": "/ˌpɒpjʊˈleɪʃən/"
+    },
+    "back": {
+      "icon": "👨‍👩‍👧‍👦",
+      "title": "ประชากร",
+      "description": "The cat sat on the **mat**."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-religion",
+    "front": {
+      "icon": "",
+      "title": "Religion",
+      "description": "/rɪˈlɪdʒən/"
+    },
+    "back": {
+      "icon": "🙏",
+      "title": "ศาสนา",
+      "description": "**Religion** plays a significant role in many cultures."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-social-structure",
+    "front": {
+      "icon": "",
+      "title": "Social structure",
+      "description": "ˈsoʊʃəl ˈstrʌktʃər"
+    },
+    "back": {
+      "icon": "🏘️",
+      "title": "โครงสร้างทางสังคม",
+      "description": "The anthropologist studied the **social structure** of the ancient civilization."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-song",
+    "front": {
+      "icon": "",
+      "title": "Song",
+      "description": "sɒŋ"
+    },
+    "back": {
+      "icon": "🎶",
+      "title": "เพลง",
+      "description": "The artist wrote a beautiful **Song**."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-storytelling",
+    "front": {
+      "icon": "",
+      "title": "Storytelling",
+      "description": "ˈstɔːriˌtɛlɪŋ"
+    },
+    "back": {
+      "icon": "📚",
+      "title": "การเล่าเรื่อง",
+      "description": "**Storytelling** is a powerful way to connect with people."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-symbol",
+    "front": {
+      "icon": "",
+      "title": "Symbol",
+      "description": "ˈsɪmbəl"
+    },
+    "back": {
+      "icon": "⚛️",
+      "title": "สัญลักษณ์",
+      "description": "The dove is a **symbol** of peace."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-taboo",
+    "front": {
+      "icon": "",
+      "title": "Taboo",
+      "description": "/təˈbuː/"
+    },
+    "back": {
+      "icon": "🚫",
+      "title": "ข้อห้าม",
+      "description": "In some cultures, it is **taboo** to discuss personal finances openly."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-tradition",
+    "front": {
+      "icon": "",
+      "title": "Tradition",
+      "description": "tɹəˈdɪʃən"
+    },
+    "back": {
+      "icon": "📜",
+      "title": "ประเพณี",
+      "description": "It is a **tradition** to have turkey for Thanksgiving."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-to-conserve",
+    "front": {
+      "icon": "",
+      "title": "To conserve",
+      "description": "tʊ kənˈsɜrv"
+    },
+    "back": {
+      "icon": "🌳",
+      "title": "อนุรักษ์",
+      "description": "We must work together to **conserve** our natural resources."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-value",
+    "front": {
+      "icon": "",
+      "title": "Value",
+      "description": "['væljuː]"
+    },
+    "back": {
+      "icon": "💰",
+      "title": "คุณค่า",
+      "description": "The company places a high **value** on customer satisfaction."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-verbal-communication",
+    "front": {
+      "icon": "",
+      "title": "Verbal communication",
+      "description": "/ˈvɜːrbəl kəˌmjuːnɪˈkeɪʃən/"
+    },
+    "back": {
+      "icon": "🗣️",
+      "title": "การสื่อสารด้วยวาจา",
+      "description": "**Verbal communication** is essential for clear understanding."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-visual-art",
+    "front": {
+      "icon": "",
+      "title": "Visual art",
+      "description": "ˈvɪʒuəl ɑːrt"
+    },
+    "back": {
+      "icon": "🖼️",
+      "title": "ทัศนศิลป์",
+      "description": "**Visual art** can be a powerful form of expression."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-way-of-life",
+    "front": {
+      "icon": "",
+      "title": "Way of life",
+      "description": "/ˈweɪ əv laɪf/"
+    },
+    "back": {
+      "icon": "🎭",
+      "title": "วิถีชีวิต",
+      "description": "The local **culture** is very vibrant."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-wedding",
+    "front": {
+      "icon": "",
+      "title": "Wedding",
+      "description": "/ˈwɛdɪŋ/"
+    },
+    "back": {
+      "icon": "💒",
+      "title": "งานแต่งงาน",
+      "description": "The **Wedding** ceremony was beautiful."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-work",
+    "front": {
+      "icon": "",
+      "title": "Work",
+      "description": "/wɜːrk/"
+    },
+    "back": {
+      "icon": "🏗️",
+      "title": "งาน",
+      "description": "We need to **Work** together to finish the project."
+    }
+  },
+  {
+    "id": "ielts-by-category-culture-writing-system",
+    "front": {
+      "icon": "",
+      "title": "Writing system",
+      "description": "ˈraɪtɪŋ ˈsɪstəm"
+    },
+    "back": {
+      "icon": "✍️",
+      "title": "ระบบการเขียน",
+      "description": "The ancient Egyptians developed a complex **writing system**."
+    }
+  }
+]

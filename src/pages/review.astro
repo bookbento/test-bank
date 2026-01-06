@@ -1,0 +1,63 @@
+---
+import Layout from '../layouts/Layout.astro';
+import SimpleFlashCardApp from '../components/flashcard/SimpleFlashCardApp';
+import type { FlashcardData } from '../types/flashcard';
+
+// Simple mock card for testing
+const testCard: FlashcardData = {
+  id: 'test-card',
+  front: {
+    icon: '🌟',
+    title: '爱',
+    description: 'ài',
+  },
+  back: {
+    icon: '❤️',
+    title: 'love',
+    description: 'I love you - 我爱你',
+  },
+};
+
+const testCard2: FlashcardData = {
+  id: 'ielts-002-analytical',
+  front: {
+    icon: '',
+    title: 'analytical',
+    description: '/ˌænəˈlɪtɪkl/',
+  },
+  back: {
+    icon: '🧠',
+    title: 'เกี่ยวกับการวิเคราะห์',
+    description:
+      'He has a strong **analytical** mind and is great at solving complex problems.',
+  },
+};
+
+const testCard3: FlashcardData = {
+  id: 'chinese-essencial-in-communication-3-thai-weather-forecast',
+  front: {
+    icon: '',
+    title: '天气预报',
+    description: 'tiānqì yùbào',
+  },
+  back: {
+    icon: '📺',
+    title: 'พยากรณ์อากาศ',
+    description:
+      '今天的**天气预报**说会下雨。 (Jīntiān de **tiānqì yùbào** shuō huì xià yǔ.) พยากรณ์**อากาศ**วันนี้บอกว่าฝนจะตก พยากรณ์**อากาศ**วันนี้บอกว่าฝนจะตก',
+  },
+};
+
+const allCards = [testCard, testCard2, testCard3];
+
+const pageTitle = 'FlashCard Test | NinjaLingo';
+---
+
+<Layout title={pageTitle}>
+  <!-- Simple container for the FlashCard test app -->
+  <div
+    class="min-h-screen bg-gradient-to-br from-blue-50 via-yellow-50 to-green-50"
+  >
+    <SimpleFlashCardApp client:load testCard={allCards[2]} />
+  </div>
+</Layout>

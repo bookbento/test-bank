@@ -1,0 +1,90 @@
+{
+  "home": {
+    "title": "Remember - Learn Smarter, Not Harder",
+    "hero": {
+      "heading": "Learn Smarter, Not Harder",
+      "subheading": "Stop Wasting Time 🚀",
+      "description": "Struggling to remember vocabulary? Our AI-powered SM-2 algorithm ensures you review the right words at the right time. No more guesswork, just smarter learning.",
+      "cta": "🚀 Start Learning Now",
+      "benefits": "Save time • Learn faster • Remember longer"
+    },
+    "problem": {
+      "title": "The Problem: Wasting Time on Vocabulary You Already Know 💡",
+      "story": "You have 100 vocabulary words to learn. <b>Day 1:</b> you review 20 words. Some stick, some don't. <b>Day 2:</b> you should review the ones you struggled with, but which ones were those? By <b>week 2</b>, you're lost - do you review all 100 again?<br /><br />With <strong>Remember</strong>, our SM-2 algorithm tracks your progress. Hard words? Review tomorrow. Easy words? Review next week. You'll never waste time on words you already know, and you'll never forget the ones you're learning."
+    },
+    "howItWorks": {
+      "title": "How It Works",
+      "step1": {
+        "title": "1. Rate Yourself",
+        "description": "Easy = 5 points<br />Completely forgot = 1 point<br /><span class=\"text-blue-600\">AI learns your difficulty level</span>"
+      },
+      "step2": {
+        "title": "2. Calculate Timing",
+        "description": "Hard words = Review more often<br />Easy words = Review less often<br /><span class=\"text-blue-600\">Each word has its own schedule</span>"
+      },
+      "step3": {
+        "title": "3. Perfect Review",
+        "description": "Review when you're <strong>\"about to forget\"</strong> Not too early, not too late <span class=\"text-blue-600\">Save time, remember longer</span>"
+      }
+    },
+    "decks": {
+      "title": "Start Learning Now!",
+      "hsk1Thai": {
+        "title": "HSK 1 (Thai)",
+        "subtitle": "Beginner Chinese",
+        "cards": "210 cards",
+        "tag": "Popular"
+      },
+      "businessChinese": {
+        "title": "Business Chinese",
+        "subtitle": "Professional vocabulary",
+        "cards": "156 cards",
+        "tag": "Business"
+      },
+      "ieltsAdjectives": {
+        "title": "IELTS Adjectives",
+        "subtitle": "Essential descriptive words",
+        "cards": "200 cards",
+        "tag": "IELTS"
+      },
+      "chineseEssentials1": {
+        "title": "Chinese Essentials 1",
+        "subtitle": "Basic communication",
+        "cards": "103 cards",
+        "tag": "Beginner"
+      },
+      "chineseEssentials2": {
+        "title": "Chinese Essentials 2",
+        "subtitle": "Advanced communication",
+        "cards": "87 cards",
+        "tag": "Advanced"
+      },
+      "hsk1English": {
+        "title": "HSK 1 (English)",
+        "subtitle": "Chinese for English speakers",
+        "cards": "210 cards",
+        "tag": "English"
+      }
+    },
+    "benefits": {
+      "title": "Why Choose Remember?",
+      "rememberLonger": {
+        "title": "Remember Longer",
+        "description": "<strong>Spaced Repetition</strong> technique backed by science Like muscle training - the more you train, the stronger it gets"
+      },
+      "saveTime": {
+        "title": "Save Time",
+        "description": "No need to review daily<br />Just review when you're <strong>\"about to forget\"</strong> Less time, better results"
+      },
+      "kidFriendly": {
+        "title": "Kid-Friendly",
+        "description": "Designed for children to use<br /><strong>Just rate yourself</strong> - AI handles the rest. <span class=\"text-blue-600\">Simple, not stressful</span>"
+      }
+    },
+    "footer": {
+      "createdWith": "Created with",
+      "byDad": "by a dad who wanted effective learning for his child",
+      "readStory": "Read the full story →"
+    }
+  }
+}

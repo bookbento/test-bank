@@ -1,0 +1,63 @@
+---
+// Astro component for feedback bubble - static version for landing pages
+const FEEDBACK_URL = 'https://forms.gle/ycHYdyPvmHRfsqdHA';
+---
+
+<div class="fixed bottom-4 right-4 z-50 flex flex-col items-end">
+  <!-- Feedback Bubble -->
+  <div class="relative group">
+    <!-- Close button -->
+    <button
+      id="feedback-close"
+      class="absolute -top-2 -right-2 w-5 h-5 bg-gray-400 hover:bg-gray-500 text-white rounded-full flex items-center justify-center text-xs opacity-0 group-hover:opacity-100 transition-opacity duration-200 z-10"
+      title="Hide feedback"
+    >
+      ✕
+    </button>
+
+    <!-- Main feedback button -->
+    <button
+      id="feedback-button"
+      class="bg-gradient-to-r from-blue-500 to-blue-600 hover:from-blue-600 hover:to-blue-700 text-white rounded-full px-4 py-3 shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-200 flex items-center justify-center"
+      title="Send feedback"
+    >
+      <span class="text-sm font-rounded font-semibold">Feedback</span>
+    </button>
+
+    <!-- Tooltip -->
+    <div
+      class="absolute right-full mr-3 top-1/2 transform -translate-y-1/2 opacity-0 group-hover:opacity-100 transition-opacity duration-200 pointer-events-none"
+    >
+      <div
+        class="bg-gray-800 text-white text-sm px-3 py-2 rounded-lg whitespace-nowrap"
+      >
+        Open Google form
+        <div
+          class="absolute left-full top-1/2 transform -translate-y-1/2 border-4 border-transparent border-l-gray-800"
+        >
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script define:vars={{ FEEDBACK_URL }}>
+  // Handle feedback button click
+  document.addEventListener('DOMContentLoaded', () => {
+    const feedbackButton = document.getElementById('feedback-button');
+    const closeButton = document.getElementById('feedback-close');
+    const bubble = document.querySelector('.fixed.bottom-4.right-4');
+
+    if (feedbackButton) {
+      feedbackButton.addEventListener('click', () => {
+        window.open(FEEDBACK_URL, '_blank', 'noopener,noreferrer');
+      });
+    }
+
+    if (closeButton && bubble) {
+      closeButton.addEventListener('click', () => {
+        bubble.style.display = 'none';
+      });
+    }
+  });
+</script>

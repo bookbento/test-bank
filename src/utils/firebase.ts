@@ -1,0 +1,192 @@
+// Firebase configuration and initialization
+// This file contains the Firebase setup and utility functions for authentication and Firestore
+
+import { initializeApp, type FirebaseApp } from 'firebase/app';
+import { getAuth, type Auth } from 'firebase/auth';
+import { getFirestore, type Firestore } from 'firebase/firestore';
+import { type Analytics } from 'firebase/analytics';
+
+// Firebase configuration object - using environment variables for security
+const firebaseConfig = {
+  apiKey:
+    import.meta.env.PUBLIC_FIREBASE_API_KEY ||
+    'AIzaSyDPQE3fesCq9nN84-zVBYHJRyMUR-pWgLk',
+  authDomain:
+    import.meta.env.PUBLIC_FIREBASE_AUTH_DOMAIN ||
+    'remember-me-c8da6.firebaseapp.com',
+  projectId: import.meta.env.PUBLIC_FIREBASE_PROJECT_ID || 'remember-me-c8da6',
+  storageBucket:
+    import.meta.env.PUBLIC_FIREBASE_STORAGE_BUCKET ||
+    'remember-me-c8da6.firebasestorage.app',
+  messagingSenderId:
+    import.meta.env.PUBLIC_FIREBASE_MESSAGING_SENDER_ID || '818564421697',
+  appId:
+    import.meta.env.PUBLIC_FIREBASE_APP_ID ||
+    '1:818564421697:web:f2abcf83ca42a9c3978ec0',
+  measurementId:
+    import.meta.env.PUBLIC_FIREBASE_MEASUREMENT_ID || 'G-ZK2QES54E1',
+  // Note: Removed webClientSecret and webClientId as they should not be in client-side code
+};
+
+// Initialize Firebase app
+let app: FirebaseApp;
+let auth: Auth;
+let firestore: Firestore;
+let analytics: Analytics | null = null;
+
+try {
+  // Initialize Firebase
+  app = initializeApp(firebaseConfig);
+
+  // Initialize Firebase services
+  auth = getAuth(app);
+  firestore = getFirestore(app);
+
+  // Initialize Analytics only in production and when supported
+  // This prevents analytics in development and handles browser compatibility and content blockers
+  if (typeof window !== 'undefined' && !import.meta.env.DEV) {
+    // Use dynamic import to avoid content blocker issues during bundle time
+    import('firebase/analytics')
+      .then(({ getAnalytics, isSupported }) => {
+        return isSupported().then((supported) => {
+          if (supported) {
+            try {
+              analytics = getAnalytics(app);
+              console.log('# Firebase Analytics initialized successfully');
+            } catch (error) {
+              // Handle case where getAnalytics fails due to content blockers
+              console.log(
+                '# Firebase Analytics initialization blocked (this is normal with ad blockers)'
+              );
+              analytics = null;
+            }
+          } else {
+            console.warn('# Firebase Analytics not supported in this browser');
+          }
+        });
+      })
+      .catch((_error) => {
+        // Content blocker or other error - silently fail
+        console.log(
+          '# Firebase Analytics blocked or unavailable (this is normal with ad blockers)'
+        );
+        analytics = null;
+      });
+  } else if (import.meta.env.DEV) {
+    console.log('# Firebase Analytics disabled in development mode');
+  }
+
+  // Expose Firebase app to window for debugging in development
+  if (typeof window !== 'undefined' && import.meta.env.DEV) {
+    window.firebaseApp = app;
+  }
+
+  console.log('# Firebase initialized successfully');
+} catch (error) {
+  console.error('Firebase initialization failed:', error);
+  throw new Error(
+    'Failed to initialize Firebase. Please check the configuration.'
+  );
+}
+
+// Export Firebase services
+export { app, auth, firestore, analytics };
+
+// Export Firebase configuration for reference
+export { firebaseConfig };
+
+// Type definitions for Firebase errors
+export interface FirebaseError {
+  code: string;
+  message: string;
+  name: string;
+}
+
+// Helper function to check if an error is a Firebase error
+export const isFirebaseError = (error: any): error is FirebaseError => {
+  return (
+    error && typeof error === 'object' && 'code' in error && 'message' in error
+  );
+};
+
+// Analytics availability checker
+export const isAnalyticsAvailable = (): boolean => {
+  return analytics !== null && !import.meta.env.DEV;
+};
+
+// Get analytics instance (returns null if not available)
+export const getAnalyticsInstance = (): Analytics | null => {
+  return analytics;
+};
+
+// Firebase connection status checker
+export const checkFirebaseConnection = async (): Promise<boolean> => {
+  try {
+    // Simple connectivity test by checking auth state
+    return new Promise((resolve) => {
+      const unsubscribe = auth.onAuthStateChanged(
+        () => {
+          unsubscribe();
+          resolve(true);
+        },
+        (error) => {
+          console.error('Firebase connection error:', error);
+          unsubscribe();
+          resolve(false);
+        }
+      );
+
+      // Timeout after 5 seconds
+      setTimeout(() => {
+        unsubscribe();
+        resolve(false);
+      }, 5000);
+    });
+  } catch (error) {
+    console.error('Firebase connection check failed:', error);
+    return false;
+  }
+};
+
+// Firebase error message mapper for user-friendly errors
+export const getFirebaseErrorMessage = (error: FirebaseError): string => {
+  switch (error.code) {
+    case 'auth/user-not-found':
+      return 'No account found with this email address.';
+    case 'auth/wrong-password':
+      return 'Incorrect password. Please try again.';
+    case 'auth/email-already-in-use':
+      return 'An account with this email already exists.';
+    case 'auth/weak-password':
+      return 'Password should be at least 6 characters long.';
+    case 'auth/invalid-email':
+      return 'Please enter a valid email address.';
+    case 'auth/too-many-requests':
+      return 'Too many failed attempts. Please try again later.';
+    case 'auth/network-request-failed':
+      return 'Network error. Please check your internet connection.';
+    case 'permission-denied':
+      return "You don't have permission to access this data.";
+    case 'unavailable':
+      return 'Service is currently unavailable. Please try again later.';
+    case 'cancelled':
+      return 'Operation was cancelled.';
+    case 'deadline-exceeded':
+      return 'Request timed out. Please try again.';
+    default:
+      return error.message || 'An unexpected error occurred. Please try again.';
+  }
+};
+
+// Export a default Firebase instance for convenience
+export default {
+  app,
+  auth,
+  firestore,
+  analytics,
+  checkConnection: checkFirebaseConnection,
+  getErrorMessage: getFirebaseErrorMessage,
+  isFirebaseError,
+  isAnalyticsAvailable,
+  getAnalyticsInstance,
+};

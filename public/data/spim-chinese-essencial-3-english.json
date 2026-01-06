@@ -1,0 +1,2901 @@
+[
+  {
+    "id": "chinese-essencial-in-communication-3-cloudy-day",
+    "front": {
+      "icon": "",
+      "title": "阴天",
+      "description": "yīntiān"
+    },
+    "back": {
+      "icon": "☁️",
+      "title": "cloudy day",
+      "description": "今天是**阴天**。 (Jīntiān shì **yīntiān**.) Today is a **cloudy day**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-weather",
+    "front": {
+      "icon": "",
+      "title": "天气",
+      "description": "tiānqì"
+    },
+    "back": {
+      "icon": "☀️",
+      "title": "weather",
+      "description": "今天**天气**怎么样？ (Jīntiān **tiānqì** zěnmeyàng?) How is the **weather** today?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-weather-forecast",
+    "front": {
+      "icon": "",
+      "title": "天气预报",
+      "description": "tiānqì yùbào"
+    },
+    "back": {
+      "icon": "📺",
+      "title": "weather forecast",
+      "description": "我看了**天气预报**。 (Wǒ kànle **tiānqì yùbào**.) I watched the **weather forecast**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-forecast",
+    "front": {
+      "icon": "",
+      "title": "预报",
+      "description": "yùbào"
+    },
+    "back": {
+      "icon": "🔮",
+      "title": "to forecast",
+      "description": "谁能**预报**未来？ (Shéi néng **yùbào** wèilái?) Who can **forecast** the future?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-be-likely-to",
+    "front": {
+      "icon": "",
+      "title": "会",
+      "description": "huì"
+    },
+    "back": {
+      "icon": "🤔",
+      "title": "be likely to",
+      "description": "明天**会**下雨吗？ (Míngtiān **huì** xià yǔ ma?) Is it **likely to** rain tomorrow?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-rain",
+    "front": {
+      "icon": "",
+      "title": "下雨",
+      "description": "xià yǔ"
+    },
+    "back": {
+      "icon": "🌧️",
+      "title": "to rain",
+      "description": "外面开始**下雨**了。 (Wàimiàn kāishǐ **xià yǔ** le.) It started **to rain** outside。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-heavy-rain",
+    "front": {
+      "icon": "",
+      "title": "大雨",
+      "description": "dà yǔ"
+    },
+    "back": {
+      "icon": "⛈️",
+      "title": "heavy rain",
+      "description": "我们遇到了**大雨**。 (Wǒmen yù dàole **dà yǔ**.) We encountered **heavy rain**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-light-rain-drizzle",
+    "front": {
+      "icon": "",
+      "title": "小雨",
+      "description": "xiǎo yǔ"
+    },
+    "back": {
+      "icon": "☔",
+      "title": "light rain, drizzle",
+      "description": "现在只是**小雨**。 (Xiànzài zhǐshì **xiǎo yǔ**.) It's only **light rain** now。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-why",
+    "front": {
+      "icon": "",
+      "title": "为什么",
+      "description": "wèishénme"
+    },
+    "back": {
+      "icon": "❓",
+      "title": "why",
+      "description": "你**为什么**在这里？ (Nǐ **wèishénme** zài zhèlǐ?) **Why** are you here?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-measure-word",
+    "front": {
+      "icon": "",
+      "title": "把",
+      "description": "bǎ"
+    },
+    "back": {
+      "icon": "🔑",
+      "title": "(measure word)",
+      "description": "我有两**把**钥匙。 (Wǒ yǒu liǎng **bǎ** yàoshi.) I have two **(measure word)** keys。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-umbrella",
+    "front": {
+      "icon": "",
+      "title": "伞",
+      "description": "sǎn"
+    },
+    "back": {
+      "icon": "☂️",
+      "title": "umbrella",
+      "description": "请带你的**伞**。 (Qǐng dài nǐ de **sǎn**.) Please bring your **umbrella**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-here",
+    "front": {
+      "icon": "",
+      "title": "这里",
+      "description": "zhèlǐ"
+    },
+    "back": {
+      "icon": "📍",
+      "title": "here",
+      "description": "我在**这里**等你。 (Wǒ zài **zhèlǐ** děng nǐ.) I'm waiting for you **here**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-scenery",
+    "front": {
+      "icon": "",
+      "title": "风景",
+      "description": "fēngjǐng"
+    },
+    "back": {
+      "icon": "🏞️",
+      "title": "scenery",
+      "description": "山上的**风景**很美。 (Shānshàng de **fēngjǐng** hěn měi.) The **scenery** on the mountain is beautiful。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-beautiful",
+    "front": {
+      "icon": "",
+      "title": "美",
+      "description": "měi"
+    },
+    "back": {
+      "icon": "💖",
+      "title": "beautiful",
+      "description": "这朵花很**美**。 (Zhè duǒ huā hěn **měi**.) This flower is very **beautiful**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-air",
+    "front": {
+      "icon": "",
+      "title": "空气",
+      "description": "kōngqì"
+    },
+    "back": {
+      "icon": "💨",
+      "title": "air",
+      "description": "**空气**非常清新。 (**Kōngqì** fēicháng qīngxīn.) The **air** is very fresh。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-fresh",
+    "front": {
+      "icon": "",
+      "title": "新鲜",
+      "description": "xīnxian"
+    },
+    "back": {
+      "icon": "🌱",
+      "title": "fresh",
+      "description": "我喜欢吃**新鲜**的水果。 (Wǒ xǐhuān chī **xīnxian** de shuǐguǒ.) I like to eat **fresh** fruit。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-regrettable",
+    "front": {
+      "icon": "",
+      "title": "可惜",
+      "description": "kěxī"
+    },
+    "back": {
+      "icon": "😔",
+      "title": "regrettable",
+      "description": "**可惜**我不能去。 (**Kěxī** wǒ bù néng qù.) It's **regrettable** that I can't go。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-climb-a-mountain",
+    "front": {
+      "icon": "",
+      "title": "爬山",
+      "description": "pá shān"
+    },
+    "back": {
+      "icon": "⛰️",
+      "title": "to climb a mountain",
+      "description": "我们周末去**爬山**吧。 (Wǒmen zhōumò qù **pá shān** ba.) Let's **climb a mountain** on the weekend。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-auxiliary-word",
+    "front": {
+      "icon": "",
+      "title": "了",
+      "description": "le"
+    },
+    "back": {
+      "icon": "✅",
+      "title": "(auxiliary word)",
+      "description": "我吃完饭**了**。 (Wǒ chī wán fàn **le**.) I finished eating **(auxiliary word)**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-stop",
+    "front": {
+      "icon": "",
+      "title": "停",
+      "description": "tíng"
+    },
+    "back": {
+      "icon": "🛑",
+      "title": "to stop",
+      "description": "请**停**车！ (Qǐng **tíng** chē!) Please **stop** the car!"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-picnic",
+    "front": {
+      "icon": "",
+      "title": "野餐",
+      "description": "yěcān"
+    },
+    "back": {
+      "icon": "🧺",
+      "title": "to picnic",
+      "description": "我们一起去**野餐**。 (Wǒmen yīqǐ qù **yěcān**.) Let's go **to picnic** together。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-wind",
+    "front": {
+      "icon": "",
+      "title": "风",
+      "description": "fēng"
+    },
+    "back": {
+      "icon": "🌬️",
+      "title": "wind",
+      "description": "今天的**风**很大。 (Jīntiān de **fēng** hěn dà.) Today's **wind** is very strong。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-go-down-a-mountain",
+    "front": {
+      "icon": "",
+      "title": "下山",
+      "description": "xià shān"
+    },
+    "back": {
+      "icon": "🔽",
+      "title": "to go down a mountain",
+      "description": "我们该**下山**了。 (Wǒmen gāi **xià shān** le.) We should **go down a mountain** now。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-rainbow",
+    "front": {
+      "icon": "",
+      "title": "彩虹",
+      "description": "cǎihóng"
+    },
+    "back": {
+      "icon": "🌈",
+      "title": "rainbow",
+      "description": "看！有一道**彩虹**。 (Kàn! Yǒu yī dào **cǎihóng**.) Look! There is a **rainbow**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-botanical-garden",
+    "front": {
+      "icon": "",
+      "title": "植物园",
+      "description": "zhíwùyuán"
+    },
+    "back": {
+      "icon": "🌳",
+      "title": "botanical garden",
+      "description": "我喜欢去**植物园**散步。 (Wǒ xǐhuān qù **zhíwùyuán** sànbù.) I like to take a walk in the **botanical garden**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-the-wind-blows",
+    "front": {
+      "icon": "",
+      "title": "刮风",
+      "description": "guā fēng"
+    },
+    "back": {
+      "icon": "💨",
+      "title": "the wind blows",
+      "description": "今天**刮风**很大。 (Jīntiān **guā fēng** hěn dà.) **The wind blows** strongly today。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-clear-day",
+    "front": {
+      "icon": "",
+      "title": "晴天",
+      "description": "qíngtiān"
+    },
+    "back": {
+      "icon": "☀️",
+      "title": "clear day",
+      "description": "明天是**晴天**。 (Míngtiān shì **qíngtiān**.) Tomorrow is a **clear day**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-daytime",
+    "front": {
+      "icon": "",
+      "title": "白天",
+      "description": "báitiān"
+    },
+    "back": {
+      "icon": "🌞",
+      "title": "daytime",
+      "description": "**白天**很长。 (**Báitiān** hěn cháng.) The **daytime** is long。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-sunny",
+    "front": {
+      "icon": "",
+      "title": "晴",
+      "description": "qíng"
+    },
+    "back": {
+      "icon": "😎",
+      "title": "sunny",
+      "description": "天气**晴**朗。 (Tiānqì **qíng**lǎng.) The weather is **sunny** and clear。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-change",
+    "front": {
+      "icon": "",
+      "title": "转",
+      "description": "zhuǎn"
+    },
+    "back": {
+      "icon": "🔄",
+      "title": "to change",
+      "description": "天气会**转**晴。 (Tiānqì huì **zhuǎn** qíng.) The weather will **change** to sunny。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-cloudy",
+    "front": {
+      "icon": "",
+      "title": "阴",
+      "description": "yīn"
+    },
+    "back": {
+      "icon": "🌥️",
+      "title": "cloudy",
+      "description": "今天**阴**天。 (Jīntiān **yīn**tiān.) Today is **cloudy**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-noon",
+    "front": {
+      "icon": "",
+      "title": "中午",
+      "description": "zhōngwǔ"
+    },
+    "back": {
+      "icon": "🕛",
+      "title": "noon",
+      "description": "我们**中午**吃饭。 (Wǒmen **zhōngwǔ** chīfàn.) We eat lunch at **noon**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-shower",
+    "front": {
+      "icon": "",
+      "title": "阵雨",
+      "description": "zhènyǔ"
+    },
+    "back": {
+      "icon": "🌦️",
+      "title": "shower",
+      "description": "可能会有**阵雨**。 (Kěnéng huì yǒu **zhènyǔ**.) There might be a **shower**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-north-wind",
+    "front": {
+      "icon": "",
+      "title": "北风",
+      "description": "běifēng"
+    },
+    "back": {
+      "icon": "⬆️",
+      "title": "north wind",
+      "description": "**北风**很冷。 (**Běifēng** hěn lěng.) The **north wind** is cold。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-force",
+    "front": {
+      "icon": "",
+      "title": "级",
+      "description": "jí"
+    },
+    "back": {
+      "icon": "💪",
+      "title": "force",
+      "description": "风力是三**级**。 (Fēnglì shì sān **jí**.) The wind **force** is level three。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-most",
+    "front": {
+      "icon": "",
+      "title": "最",
+      "description": "zuì"
+    },
+    "back": {
+      "icon": "⭐",
+      "title": "most",
+      "description": "她是**最**好的。 (Tā shì **zuì** hǎo de.) She is the **most** good (the best)。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-temperature",
+    "front": {
+      "icon": "",
+      "title": "气温",
+      "description": "qìwēn"
+    },
+    "back": {
+      "icon": "🌡️",
+      "title": "temperature",
+      "description": "明天的**气温**是多少？ (Míngtiān de **qìwēn** shì duōshǎo?) What is tomorrow's **temperature**?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-degree",
+    "front": {
+      "icon": "",
+      "title": "度",
+      "description": "dù"
+    },
+    "back": {
+      "icon": "📏",
+      "title": "degree",
+      "description": "今天二十五**度**。 (Jīntiān èrshíwǔ **dù**.) Today is twenty-five **degree**s。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-night-time",
+    "front": {
+      "icon": "",
+      "title": "夜间",
+      "description": "yèjiān"
+    },
+    "back": {
+      "icon": "🌙",
+      "title": "night time",
+      "description": "**夜间**很安静。 (**Yèjiān** hěn ānjìng.) The **night time** is very quiet。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-morning",
+    "front": {
+      "icon": "",
+      "title": "早上",
+      "description": "zǎoshang"
+    },
+    "back": {
+      "icon": "🌅",
+      "title": "morning",
+      "description": "我喜欢在**早上**工作。 (Wǒ xǐhuān zài **zǎoshang** gōngzuò.) I like to work in the **morning**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-jog",
+    "front": {
+      "icon": "",
+      "title": "跑步",
+      "description": "pǎobù"
+    },
+    "back": {
+      "icon": "🏃",
+      "title": "to jog",
+      "description": "他每天都去**跑步**。 (Tā měitiān dōu qù **pǎobù**.) He goes **to jog** every day。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-habit",
+    "front": {
+      "icon": "",
+      "title": "习惯",
+      "description": "xíguàn"
+    },
+    "back": {
+      "icon": "🧘",
+      "title": "habit",
+      "description": "这是一个好**习惯**。 (Zhè shì yīgè hǎo **xíguàn**.) This is a good **habit**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-take-exercise",
+    "front": {
+      "icon": "",
+      "title": "锻炼",
+      "description": "duànliàn"
+    },
+    "back": {
+      "icon": "💪",
+      "title": "to take exercise",
+      "description": "我们应该多**锻炼**。 (Wǒmen yīnggāi duō **duànliàn**.) We should **to take exercise** more。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-breakfast",
+    "front": {
+      "icon": "",
+      "title": "早饭",
+      "description": "zǎofàn"
+    },
+    "back": {
+      "icon": "🍳",
+      "title": "breakfast",
+      "description": "你吃了**早饭**吗？ (Nǐ chīle **zǎofàn** ma?) Did you eat **breakfast**?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-should",
+    "front": {
+      "icon": "",
+      "title": "该",
+      "description": "gāi"
+    },
+    "back": {
+      "icon": "🧭",
+      "title": "should",
+      "description": "你**该**回家了。 (Nǐ **gāi** huí jiā le.) You **should** go home now。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-common",
+    "front": {
+      "icon": "",
+      "title": "一般",
+      "description": "yìbān"
+    },
+    "back": {
+      "icon": "👍",
+      "title": "common",
+      "description": "这很**一般**。 (Zhè hěn **yìbān**.) This is very **common**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-used-in-a-declarative-sentence-for-emphasis",
+    "front": {
+      "icon": "",
+      "title": "可",
+      "description": "kě"
+    },
+    "back": {
+      "icon": "❗",
+      "title": "(used in a declarative sentence for emphasis)",
+      "description": "你**可**真厉害！ (Nǐ **kě** zhēn lìhài!) You are **(used for emphasis)** truly amazing!"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-chinese-dish",
+    "front": {
+      "icon": "",
+      "title": "中国菜",
+      "description": "Zhōngguó cài"
+    },
+    "back": {
+      "icon": "🍜",
+      "title": "Chinese dish",
+      "description": "我喜欢吃**中国菜**。 (Wǒ xǐhuān chī **Zhōngguó cài**.) I like to eat **Chinese dish**es。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-taste-of-food",
+    "front": {
+      "icon": "",
+      "title": "口味",
+      "description": "kǒuwèi"
+    },
+    "back": {
+      "icon": "😋",
+      "title": "taste of food",
+      "description": "你的**口味**是什么？ (Nǐ de **kǒuwèi** shì shénme?) What is your **taste of food**?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-hot-spicy",
+    "front": {
+      "icon": "",
+      "title": "辣",
+      "description": "là"
+    },
+    "back": {
+      "icon": "🌶️",
+      "title": "hot, spicy",
+      "description": "这个菜很**辣**。 (Zhège cài hěn **là**.) This dish is very **hot, spicy**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-love",
+    "front": {
+      "icon": "",
+      "title": "爱",
+      "description": "ài"
+    },
+    "back": {
+      "icon": "❤️",
+      "title": "to love",
+      "description": "我**爱**我的家人。 (Wǒ **ài** wǒ de jiārén.) I **to love** my family。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-sour-sweet",
+    "front": {
+      "icon": "",
+      "title": "酸甜",
+      "description": "suāntián"
+    },
+    "back": {
+      "icon": "🍬",
+      "title": "sour-sweet",
+      "description": "他喜欢吃**酸甜**口味的糖。 (Tā xǐhuān chī **suāntián** kǒuwèi de táng.) He likes **sour-sweet** flavored candy。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-light",
+    "front": {
+      "icon": "",
+      "title": "清淡",
+      "description": "qīngdàn"
+    },
+    "back": {
+      "icon": "🥗",
+      "title": "light",
+      "description": "我喜欢吃**清淡**的食物。 (Wǒ xǐhuān chī **qīngdàn** de shíwù.) I like **light** food。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-greasy",
+    "front": {
+      "icon": "",
+      "title": "油腻",
+      "description": "yóunì"
+    },
+    "back": {
+      "icon": "🤢",
+      "title": "greasy",
+      "description": "这个肉太**油腻**了。 (Zhège ròu tài **yóunì** le.) This meat is too **greasy**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-measure-word",
+    "front": {
+      "icon": "",
+      "title": "只",
+      "description": "zhī"
+    },
+    "back": {
+      "icon": "🐾",
+      "title": "(measure word)",
+      "description": "我有一**只**猫。 (Wǒ yǒu yī **zhī** māo.) I have one **(measure word)** cat。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-hand",
+    "front": {
+      "icon": "",
+      "title": "手",
+      "description": "shǒu"
+    },
+    "back": {
+      "icon": "✋",
+      "title": "hand",
+      "description": "请举**手**。 (Qǐng jǔ **shǒu**.) Please raise your **hand**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-write",
+    "front": {
+      "icon": "",
+      "title": "写",
+      "description": "xiě"
+    },
+    "back": {
+      "icon": "✍️",
+      "title": "to write",
+      "description": "我会**写**汉字。 (Wǒ huì **xiě** Hànzì.) I can **to write** Chinese characters。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-characters-written-with-a-writing-brush",
+    "front": {
+      "icon": "",
+      "title": "毛笔字",
+      "description": "máobǐ zì"
+    },
+    "back": {
+      "icon": "🖌️",
+      "title": "characters written with a writing brush",
+      "description": "他正在练习**毛笔字**。 (Tā zhèngzài liànxí **máobǐ zì**.) He is practicing **characters written with a writing brush**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-chinese-writing-brush",
+    "front": {
+      "icon": "",
+      "title": "毛笔",
+      "description": "máobǐ"
+    },
+    "back": {
+      "icon": "🖋️",
+      "title": "Chinese writing brush",
+      "description": "这是一支**毛笔**。 (Zhè shì yī zhī **máobǐ**.) This is a **Chinese writing brush**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-character",
+    "front": {
+      "icon": "",
+      "title": "字",
+      "description": "zì"
+    },
+    "back": {
+      "icon": "🔠",
+      "title": "character",
+      "description": "这个**字**很难。 (Zhège **zì** hěn nán.) This **character** is difficult。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-performance",
+    "front": {
+      "icon": "",
+      "title": "演出",
+      "description": "yǎnchū"
+    },
+    "back": {
+      "icon": "🎭",
+      "title": "performance",
+      "description": "今晚有精彩的**演出**。 (Jīnwǎn yǒu jīngcǎi de **yǎnchū**.) There is a wonderful **performance** tonight。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-in-the-process-of",
+    "front": {
+      "icon": "",
+      "title": "正在",
+      "description": "zhèngzài"
+    },
+    "back": {
+      "icon": "⏳",
+      "title": "in the process of",
+      "description": "他**正在**吃饭。 (Tā **zhèngzài** chīfàn.) He is **in the process of** eating。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-practice",
+    "front": {
+      "icon": "",
+      "title": "练习",
+      "description": "liànxí"
+    },
+    "back": {
+      "icon": "📚",
+      "title": "to practice",
+      "description": "我需要多**练习**。 (Wǒ xūyào duō **liànxí**.) I need **to practice** more。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-not-easy",
+    "front": {
+      "icon": "",
+      "title": "不容易",
+      "description": "bù róngyì"
+    },
+    "back": {
+      "icon": "😥",
+      "title": "not easy",
+      "description": "这件事情**不容易**。 (Zhè jiàn shìqíng **bù róngyì**.) This matter is **not easy**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-easy",
+    "front": {
+      "icon": "",
+      "title": "容易",
+      "description": "róngyì"
+    },
+    "back": {
+      "icon": "💡",
+      "title": "easy",
+      "description": "学中文很**容易**。 (Xué Zhōngwén hěn **róngyì**.) Learning Chinese is **easy**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-pour",
+    "front": {
+      "icon": "",
+      "title": "倒",
+      "description": "dào"
+    },
+    "back": {
+      "icon": "💧",
+      "title": "to pour",
+      "description": "请给我**倒**一杯水。 (Qǐng gěi wǒ **dào** yī bēi shuǐ.) Please **to pour** me a glass of water。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-cup-measure-word",
+    "front": {
+      "icon": "",
+      "title": "杯",
+      "description": "bēi"
+    },
+    "back": {
+      "icon": "☕",
+      "title": "cup (measure word)",
+      "description": "我要一**杯**咖啡。 (Wǒ yào yī **bēi** kāfēi.) I want one **cup (measure word)** of coffee。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-right-now",
+    "front": {
+      "icon": "",
+      "title": "在",
+      "description": "zài"
+    },
+    "back": {
+      "icon": "⌚",
+      "title": "right now",
+      "description": "他**在**家。 (Tā **zài** jiā.) He is at home **right now**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-modal-word",
+    "front": {
+      "icon": "",
+      "title": "呀",
+      "description": "ya"
+    },
+    "back": {
+      "icon": "🗣️",
+      "title": "(modal word)",
+      "description": "好**呀**！ (Hǎo **ya**!) Okay **(modal word)**!"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-modal-word",
+    "front": {
+      "icon": "",
+      "title": "呢",
+      "description": "ne"
+    },
+    "back": {
+      "icon": "💬",
+      "title": "(modal word)",
+      "description": "你**呢**？ (Nǐ **ne**?) How about you **(modal word)**?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-disturb",
+    "front": {
+      "icon": "",
+      "title": "打扰",
+      "description": "dǎrǎo"
+    },
+    "back": {
+      "icon": "🔇",
+      "title": "to disturb",
+      "description": "对不起，**打扰**了。 (Duìbùqǐ, **dǎrǎo** le.) Sorry **to disturb** you."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-oneself",
+    "front": {
+      "icon": "",
+      "title": "自己",
+      "description": "zìjǐ"
+    },
+    "back": {
+      "icon": "👤",
+      "title": "oneself",
+      "description": "我可以照顾**自己**。 (Wǒ kěyǐ zhàogù **zìjǐ**.) I can take care of **oneself**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-station-stop",
+    "front": {
+      "icon": "",
+      "title": "车站",
+      "description": "chēzhàn"
+    },
+    "back": {
+      "icon": "🚌",
+      "title": "station, stop",
+      "description": "我在**车站**等你。 (Wǒ zài **chēzhàn** děng nǐ.) I'm waiting for you at the **station, stop**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-the-entrance-to-a-hutong",
+    "front": {
+      "icon": "",
+      "title": "胡同口儿",
+      "description": "hútòng kǒur"
+    },
+    "back": {
+      "icon": "➡️",
+      "title": "the entrance to a hutong",
+      "description": "请在**胡同口儿**见。 (Qǐng zài **hútòng kǒur** jiàn.) Please meet at **the entrance to a hutong**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-hutong-lane-alley",
+    "front": {
+      "icon": "",
+      "title": "胡同",
+      "description": "hútòng"
+    },
+    "back": {
+      "icon": "🏘️",
+      "title": "hutong, lane, alley",
+      "description": "我们住在一条**胡同**里。 (Wǒmen zhù zài yī tiáo **hútòng** lǐ.) We live in a **hutong, lane, alley**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-downtown",
+    "front": {
+      "icon": "",
+      "title": "市中心",
+      "description": "shì zhōngxīn"
+    },
+    "back": {
+      "icon": "🏙️",
+      "title": "downtown",
+      "description": "这里是**市中心**。 (Zhèlǐ shì **shì zhōngxīn**.) This is **downtown**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-center",
+    "front": {
+      "icon": "",
+      "title": "中心",
+      "description": "zhōngxīn"
+    },
+    "back": {
+      "icon": "🎯",
+      "title": "center",
+      "description": "找到问题的**中心**。 (Zhǎodào wèntí de **zhōngxīn**.) Find the **center** of the problem。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-seem-be-like",
+    "front": {
+      "icon": "",
+      "title": "好像",
+      "description": "hǎoxiàng"
+    },
+    "back": {
+      "icon": "🧐",
+      "title": "seem, be like",
+      "description": "你**好像**很累。 (Nǐ **hǎoxiàng** hěn lèi.) You **seem, be like** very tired。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-green-plot",
+    "front": {
+      "icon": "",
+      "title": "绿地",
+      "description": "lǜdì"
+    },
+    "back": {
+      "icon": "🌿",
+      "title": "green plot",
+      "description": "小区里有很多**绿地**。 (Xiǎoqū lǐ yǒu hěn duō **lǜdì**.) There are many **green plot**s in the community。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-garden",
+    "front": {
+      "icon": "",
+      "title": "花园",
+      "description": "huāyuán"
+    },
+    "back": {
+      "icon": "🌸",
+      "title": "garden",
+      "description": "我在**花园**里种花。 (Wǒ zài **huāyuán** lǐ zhòng huā.) I plant flowers in the **garden**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-of-an-old-couple-husband-or-wife",
+    "front": {
+      "icon": "",
+      "title": "老伴儿",
+      "description": "lǎobànr"
+    },
+    "back": {
+      "icon": "👵",
+      "title": "(of an old couple) husband or wife",
+      "description": "他和他**老伴儿**一起散步。 (Tā hé tā **lǎobànr** yīqǐ sànbù.) He takes a walk with his **(of an old couple) husband or wife**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-side",
+    "front": {
+      "icon": "",
+      "title": "旁边",
+      "description": "pángbiān"
+    },
+    "back": {
+      "icon": "➡️",
+      "title": "side",
+      "description": "我坐在他**旁边**。 (Wǒ zuò zài tā **pángbiān**.) I sat by his **side**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-supermarket",
+    "front": {
+      "icon": "",
+      "title": "超市",
+      "description": "chāoshì"
+    },
+    "back": {
+      "icon": "🛒",
+      "title": "supermarket",
+      "description": "我们去**超市**买菜。 (Wǒmen qù **chāoshì** mǎi cài.) We go to the **supermarket** to buy food。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-restaurant",
+    "front": {
+      "icon": "",
+      "title": "饭馆儿",
+      "description": "fànguǎnr"
+    },
+    "back": {
+      "icon": "🍽️",
+      "title": "restaurant",
+      "description": "我们去那个**饭馆儿**吃饭。 (Wǒmen qù nàgè **fànguǎnr** chīfàn.) We go to that **restaurant** to eat。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-taste",
+    "front": {
+      "icon": "",
+      "title": "尝",
+      "description": "cháng"
+    },
+    "back": {
+      "icon": "👅",
+      "title": "to taste",
+      "description": "你**尝**尝这个菜。 (Nǐ **cháng**chang zhège cài.) You **to taste** this dish。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-house",
+    "front": {
+      "icon": "",
+      "title": "房子",
+      "description": "fángzi"
+    },
+    "back": {
+      "icon": "🏠",
+      "title": "house",
+      "description": "他买了一栋新**房子**。 (Tā mǎile yī dòng xīn **fángzi**.) He bought a new **house**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-suburban-district",
+    "front": {
+      "icon": "",
+      "title": "郊区",
+      "description": "jiāoqū"
+    },
+    "back": {
+      "icon": "🌳",
+      "title": "suburban district",
+      "description": "我住在**郊区**。 (Wǒ zhù zài **jiāoqū**.) I live in the **suburban district**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-beauty-parlor",
+    "front": {
+      "icon": "",
+      "title": "美容院",
+      "description": "měiróngyuàn"
+    },
+    "back": {
+      "icon": "💅",
+      "title": "beauty parlor",
+      "description": "她常去**美容院**。 (Tā cháng qù **měiróngyuàn**.) She often goes to the **beauty parlor**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-traffic",
+    "front": {
+      "icon": "",
+      "title": "交通",
+      "description": "jiāotōng"
+    },
+    "back": {
+      "icon": "🚦",
+      "title": "traffic",
+      "description": "这个城市的**交通**很方便。 (Zhège chéngshì de **jiāotōng** hěn fāngbiàn.) The **traffic** in this city is very convenient。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-subway-station",
+    "front": {
+      "icon": "",
+      "title": "地铁站",
+      "description": "dìtiě zhàn"
+    },
+    "back": {
+      "icon": "🚇",
+      "title": "subway station",
+      "description": "**地铁站**在哪里？ (**Dìtiě zhàn** zài nǎlǐ?) Where is the **subway station**?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-town-city",
+    "front": {
+      "icon": "",
+      "title": "城里",
+      "description": "chénglǐ"
+    },
+    "back": {
+      "icon": "📍",
+      "title": "town, city",
+      "description": "他现在**城里**工作。 (Tā xiànzài **chénglǐ** gōngzuò.) He works in the **town, city** now。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-need-to-take",
+    "front": {
+      "icon": "",
+      "title": "要",
+      "description": "yào"
+    },
+    "back": {
+      "icon": "⏳",
+      "title": "to need, to take",
+      "description": "你**要**多久才能完成？ (Nǐ **yào** duōjiǔ cáinéng wánchéng?) How long will it **to need,"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-neighbor",
+    "front": {
+      "icon": "",
+      "title": "邻居",
+      "description": "línjū"
+    },
+    "back": {
+      "icon": "🧑‍🤝‍🧑",
+      "title": "neighbor",
+      "description": "我的**邻居**很友好。 (Wǒ de **línjū** hěn yǒuhǎo.) My **neighbor** is friendly。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-go-back",
+    "front": {
+      "icon": "",
+      "title": "回",
+      "description": "huí"
+    },
+    "back": {
+      "icon": "🔙",
+      "title": "to go back",
+      "description": "我想**回**家。 (Wǒ xiǎng **huí** jiā.) I want **to go back** home。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-post-office",
+    "front": {
+      "icon": "",
+      "title": "邮局",
+      "description": "yóujú"
+    },
+    "back": {
+      "icon": "📮",
+      "title": "post office",
+      "description": "我去了**邮局**。 (Wǒ qùle **yóujú**.) I went to the **post office**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-fetch",
+    "front": {
+      "icon": "",
+      "title": "取",
+      "description": "qǔ"
+    },
+    "back": {
+      "icon": "📥",
+      "title": "to fetch",
+      "description": "我需要去**取**包裹。 (Wǒ xūyào qù **qǔ** bāoguǒ.) I need **to fetch** the parcel。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-password",
+    "front": {
+      "icon": "",
+      "title": "密码",
+      "description": "mìmǎ"
+    },
+    "back": {
+      "icon": "🔒",
+      "title": "password",
+      "description": "请记住你的**密码**。 (Qǐng jìzhù nǐ de **mìmǎ**.) Please remember your **password**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-delivery-locker",
+    "front": {
+      "icon": "",
+      "title": "快递柜",
+      "description": "kuàidìguì"
+    },
+    "back": {
+      "icon": "📦",
+      "title": "delivery locker",
+      "description": "包裹已放入**快递柜**。 (Bāoguǒ yǐ fàng rù **kuàidìguì**.) The parcel has been put into the **delivery locker**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-screen",
+    "front": {
+      "icon": "",
+      "title": "屏幕",
+      "description": "píngmù"
+    },
+    "back": {
+      "icon": "🖥️",
+      "title": "screen",
+      "description": "这个**屏幕**很亮。 (Zhège **píngmù** hěn liàng.) This **screen** is very bright。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-fill-in",
+    "front": {
+      "icon": "",
+      "title": "填",
+      "description": "tián"
+    },
+    "back": {
+      "icon": "✍️",
+      "title": "to fill in",
+      "description": "请**填**写这张表格。 (Qǐng **tián**xiě zhè zhāng biǎogé.) Please **to fill in** this form。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-chinese-dumpling",
+    "front": {
+      "icon": "",
+      "title": "饺子",
+      "description": "jiǎozi"
+    },
+    "back": {
+      "icon": "🥟",
+      "title": "Chinese dumpling",
+      "description": "我们周末吃**饺子**。 (Wǒmen zhōumò chī **jiǎozi**.) We eat **Chinese dumpling**s on the weekend。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-just",
+    "front": {
+      "icon": "",
+      "title": "刚",
+      "description": "gāng"
+    },
+    "back": {
+      "icon": "⏱️",
+      "title": "just",
+      "description": "她**刚**离开。 (Tā **gāng** líkāi.) She **just** left。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-relation",
+    "front": {
+      "icon": "",
+      "title": "关系",
+      "description": "guānxi"
+    },
+    "back": {
+      "icon": "🤝",
+      "title": "relation",
+      "description": "我们有良好的**关系**。 (Wǒmen yǒu liánghǎo de **guānxi**.) We have a good **relation**ship。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-visit",
+    "front": {
+      "icon": "",
+      "title": "看望",
+      "description": "kànwàng"
+    },
+    "back": {
+      "icon": "🧑‍🤝‍🧑",
+      "title": "to visit",
+      "description": "我**看望**了我的奶奶。 (Wǒ **kànwàng**le wǒ de nǎinai.) I went **to visit** my grandma。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-courtyard-house",
+    "front": {
+      "icon": "",
+      "title": "四合院",
+      "description": "Sìhéyuàn"
+    },
+    "back": {
+      "icon": "🏠",
+      "title": "Courtyard house",
+      "description": "我想住在**四合院**里。 (Wǒ xiǎng zhù zài **sìhéyuàn** lǐ.) I want to live in a **quadrangle (traditional residential compound in northern China)**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-courtyard",
+    "front": {
+      "icon": "",
+      "title": "院儿",
+      "description": "yuànr"
+    },
+    "back": {
+      "icon": "🪴",
+      "title": "courtyard",
+      "description": "我们坐在**院儿**里聊天。 (Wǒmen zuò zài **yuànr** lǐ liáotiān.) We sat and chatted in the **courtyard**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-north-facing-house",
+    "front": {
+      "icon": "",
+      "title": "北房",
+      "description": "běifáng"
+    },
+    "back": {
+      "icon": "↖️",
+      "title": "north-facing house",
+      "description": "**北房**光线不好。 (**Běifáng** guāngxiàn bù hǎo.) The **north-facing house** does not have good lighting。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-south-facing-house",
+    "front": {
+      "icon": "",
+      "title": "南房",
+      "description": "nánfáng"
+    },
+    "back": {
+      "icon": "↙️",
+      "title": "south-facing house",
+      "description": "**南房**很温暖。 (**Nánfáng** hěn wēnnuǎn.) The **south-facing house** is very warm。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-go-over",
+    "front": {
+      "icon": "",
+      "title": "过去",
+      "description": "guòqu"
+    },
+    "back": {
+      "icon": "🚶",
+      "title": "to go over",
+      "description": "请从这儿**过去**。 (Qǐng cóng zhèr **guòqu**.) Please **to go over** from here。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-post-to-send",
+    "front": {
+      "icon": "",
+      "title": "寄",
+      "description": "jì"
+    },
+    "back": {
+      "icon": "📧",
+      "title": "to post, to send",
+      "description": "我想**寄**包裹。 (Wǒ xiǎng **jì** bāoguǒ.) I want **to post, to send** a parcel。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-measure-word-for-paper",
+    "front": {
+      "icon": "",
+      "title": "张",
+      "description": "zhāng"
+    },
+    "back": {
+      "icon": "📄",
+      "title": "(measure word for paper)",
+      "description": "给我一**张**纸。 (Gěi wǒ yī **zhāng** zhǐ.) Give me one **(measure word for paper)** of paper。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-postcard",
+    "front": {
+      "icon": "",
+      "title": "明信片",
+      "description": "míngxìnpiàn"
+    },
+    "back": {
+      "icon": "🖼️",
+      "title": "postcard",
+      "description": "我收到了**明信片**。 (Wǒ shōudào le **míngxìnpiàn**.) I received a **postcard**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-letter",
+    "front": {
+      "icon": "",
+      "title": "信",
+      "description": "xìn"
+    },
+    "back": {
+      "icon": "✉️",
+      "title": "letter",
+      "description": "他写了一封**信**。 (Tā xiěle yī fēng **xìn**.) He wrote a **letter**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-water-transport",
+    "front": {
+      "icon": "",
+      "title": "水路",
+      "description": "shuǐlù"
+    },
+    "back": {
+      "icon": "🚢",
+      "title": "water transport",
+      "description": "货物走**水路**。 (Huòwù zǒu **shuǐlù**.) The goods go by **water transport**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-air-transport",
+    "front": {
+      "icon": "",
+      "title": "航空",
+      "description": "hángkōng"
+    },
+    "back": {
+      "icon": "✈️",
+      "title": "air transport",
+      "description": "我选择**航空**。 (Wǒ xuǎnzé **hángkōng**.) I chose **air transport**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-stamp",
+    "front": {
+      "icon": "",
+      "title": "邮票",
+      "description": "yóupiào"
+    },
+    "back": {
+      "icon": "🏷️",
+      "title": "stamp",
+      "description": "请买一张**邮票**。 (Qǐng mǎi yī zhāng **yóupiào**.) Please buy a **stamp**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-parcel",
+    "front": {
+      "icon": "",
+      "title": "包裹",
+      "description": "bāoguǒ"
+    },
+    "back": {
+      "icon": "🎁",
+      "title": "parcel",
+      "description": "**包裹**很重。 (**Bāoguǒ** hěn zhòng.) The **parcel** is heavy。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-need",
+    "front": {
+      "icon": "",
+      "title": "需要",
+      "description": "xūyào"
+    },
+    "back": {
+      "icon": "🙏",
+      "title": "to need",
+      "description": "你**需要**什么？ (Nǐ **xūyào** shénme?) What do you **to need**?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-how-long",
+    "front": {
+      "icon": "",
+      "title": "多长时间",
+      "description": "duō cháng shíjiān"
+    },
+    "back": {
+      "icon": "❓",
+      "title": "how long",
+      "description": "从这里到那儿**多长时间**？ (Cóng zhèlǐ dào nà'er **duō cháng shíjiān**?) **How long** is it from here to there?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-long",
+    "front": {
+      "icon": "",
+      "title": "长",
+      "description": "cháng"
+    },
+    "back": {
+      "icon": "📏",
+      "title": "long",
+      "description": "你的头发真**长**。 (Nǐ de tóufà zhēn **cháng**.) Your hair is really **long**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-express-delivery",
+    "front": {
+      "icon": "",
+      "title": "特快专递",
+      "description": "tèkuài zhuǎndì"
+    },
+    "back": {
+      "icon": "🚀",
+      "title": "express delivery",
+      "description": "请发**特快专递**。 (Qǐng fā **tèkuài zhuǎndì**.) Please send by **express delivery**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-tea",
+    "front": {
+      "icon": "",
+      "title": "茶叶",
+      "description": "cháyè"
+    },
+    "back": {
+      "icon": "🍵",
+      "title": "tea",
+      "description": "这种**茶叶**很好。 (Zhè zhǒng **cháyè** hěn hǎo.) This kind of **tea** is very good。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-weigh",
+    "front": {
+      "icon": "",
+      "title": "称",
+      "description": "chēng"
+    },
+    "back": {
+      "icon": "⚖️",
+      "title": "to weigh",
+      "description": "请**称**一下重量。 (Qǐng **chēng** yīxià zhòngliàng.) Please **to weigh** the mass。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-fast-mail",
+    "front": {
+      "icon": "",
+      "title": "快递",
+      "description": "kuàidì"
+    },
+    "back": {
+      "icon": "🏍️",
+      "title": "fast mail",
+      "description": "这个**快递**很快。 (Zhège **kuàidì** hěn kuài.) This **fast mail** is very fast。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-week",
+    "front": {
+      "icon": "",
+      "title": "周",
+      "description": "zhōu"
+    },
+    "back": {
+      "icon": "🗓️",
+      "title": "week",
+      "description": "我下**周**会回来。 (Wǒ xià **zhōu** huì huílái.) I will be back next **week**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-parcel-form",
+    "front": {
+      "icon": "",
+      "title": "包裹单",
+      "description": "bāoguǒdān"
+    },
+    "back": {
+      "icon": "📝",
+      "title": "parcel form",
+      "description": "请给我一张**包裹单**。 (Qǐng gěi wǒ yī zhāng **bāoguǒdān**.) Please give me a **parcel form**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-addressee",
+    "front": {
+      "icon": "",
+      "title": "收件人",
+      "description": "shōujiànrén"
+    },
+    "back": {
+      "icon": "🏷️",
+      "title": "addressee",
+      "description": "请写清楚**收件人**。 (Qǐng xiě qīngchu **shōujiànrén**.) Please write the **addressee** clearly。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-address",
+    "front": {
+      "icon": "",
+      "title": "地址",
+      "description": "dìzhǐ"
+    },
+    "back": {
+      "icon": "🗺️",
+      "title": "address",
+      "description": "请告诉我你的**地址**。 (Qǐng gàosù wǒ nǐ de **dìzhǐ**.) Please tell me your **address**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-what-a-coincidence",
+    "front": {
+      "icon": "",
+      "title": "真巧",
+      "description": "zhēn qiǎo"
+    },
+    "back": {
+      "icon": "😮",
+      "title": "what a coincidence",
+      "description": "**真巧**！我们在这里见面了。 (**Zhēn qiǎo**! Wǒmen zài zhèlǐ jiànmiàn le.) **What a coincidence**! We met here。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-us-dollar",
+    "front": {
+      "icon": "",
+      "title": "美元",
+      "description": "Měiyuán"
+    },
+    "back": {
+      "icon": "💵",
+      "title": "US dollar",
+      "description": "一百**美元**。 (Yī bǎi **Měiyuán**.) One hundred **US dollar**s。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-exchange-rate",
+    "front": {
+      "icon": "",
+      "title": "汇率",
+      "description": "huìlǜ"
+    },
+    "back": {
+      "icon": "💱",
+      "title": "exchange rate",
+      "description": "今天的**汇率**是多少？ (Jīntiān de **huìlǜ** shì duōshǎo?) What is today's **exchange rate**?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-exchange",
+    "front": {
+      "icon": "",
+      "title": "换",
+      "description": "huàn"
+    },
+    "back": {
+      "icon": "↔️",
+      "title": "to exchange",
+      "description": "我想**换**钱。 (Wǒ xiǎng **huàn** qián.) I want **to exchange** money。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-japanese-yen",
+    "front": {
+      "icon": "",
+      "title": "日元",
+      "description": "Rìyuán"
+    },
+    "back": {
+      "icon": "💴",
+      "title": "Japanese yen",
+      "description": "请给我**日元**。 (Qǐng gěi wǒ **Rìyuán**.) Please give me **Japanese yen**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-yesterday",
+    "front": {
+      "icon": "",
+      "title": "昨天",
+      "description": "zuótiān"
+    },
+    "back": {
+      "icon": "⏪",
+      "title": "yesterday",
+      "description": "我**昨天**很忙。 (Wǒ **zuótiān** hěn máng.) I was busy **yesterday**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-same",
+    "front": {
+      "icon": "",
+      "title": "一样",
+      "description": "yīyàng"
+    },
+    "back": {
+      "icon": "👯",
+      "title": "same",
+      "description": "我们穿**一样**的衣服。 (Wǒmen chuān **yīyàng** de yīfú.) We wear the **same** clothes。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-department-store",
+    "front": {
+      "icon": "",
+      "title": "百货商场",
+      "description": "bǎihuò shāngchǎng"
+    },
+    "back": {
+      "icon": "🛍️",
+      "title": "department store",
+      "description": "她去**百货商场**买东西。 (Tā qù **bǎihuò shāngchǎng** mǎi dōngxī.) She goes to the **department store** to shop。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-market-mall",
+    "front": {
+      "icon": "",
+      "title": "商场",
+      "description": "shāngchǎng"
+    },
+    "back": {
+      "icon": "🏬",
+      "title": "market, mall",
+      "description": "**商场**里人很多。 (**Shāngchǎng** lǐ rén hěn duō.) There are many people in the **market**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-clothes-clothing",
+    "front": {
+      "icon": "",
+      "title": "衣服",
+      "description": "yīfu"
+    },
+    "back": {
+      "icon": "👕",
+      "title": "clothes, clothing",
+      "description": "我要买新**衣服**。 (Wǒ yào mǎi xīn **yīfu**.) I want to buy new **clothes**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-franchised-store",
+    "front": {
+      "icon": "",
+      "title": "专卖店",
+      "description": "zhuānmàidiàn"
+    },
+    "back": {
+      "icon": "💎",
+      "title": "franchised store",
+      "description": "这是一家手机**专卖店**。 (Zhè shì yī jiā shǒujī **zhuānmàidiàn**.) This is a mobile phone **franchised store**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-sometimes",
+    "front": {
+      "icon": "",
+      "title": "有时候",
+      "description": "yǒu shíhou"
+    },
+    "back": {
+      "icon": "🤷",
+      "title": "sometimes",
+      "description": "我**有时候**会很懒。 (Wǒ **yǒu shíhou** huì hěn lǎn.) I am lazy **sometimes**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-customize",
+    "front": {
+      "icon": "",
+      "title": "定做",
+      "description": "dìngzuò"
+    },
+    "back": {
+      "icon": "🧵",
+      "title": "customize",
+      "description": "我想**定做**一件衬衫。 (Wǒ xiǎng **dìngzuò** yī jiàn chènshān.) I want to **customize** a shirt。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-similar",
+    "front": {
+      "icon": "",
+      "title": "差不多",
+      "description": "chàbuduō"
+    },
+    "back": {
+      "icon": "🆗",
+      "title": "similar",
+      "description": "我们的想法**差不多**。 (Wǒmen de xiǎngfǎ **chàbuduō**.) Our ideas are **similar**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-deposit-money",
+    "front": {
+      "icon": "",
+      "title": "存钱",
+      "description": "cún qián"
+    },
+    "back": {
+      "icon": "💰",
+      "title": "to deposit money",
+      "description": "我每个月都**存钱**。 (Wǒ měi gè yuè dōu **cún qián**.) I **to deposit money** every month。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-deposit",
+    "front": {
+      "icon": "",
+      "title": "存",
+      "description": "cún"
+    },
+    "back": {
+      "icon": "🏦",
+      "title": "to deposit",
+      "description": "他把书**存**在图书馆。 (Tā bǎ shū **cún** zài túshū guǎn.) He **to deposit** the book in the library。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-foreign-currency",
+    "front": {
+      "icon": "",
+      "title": "外币",
+      "description": "wàibì"
+    },
+    "back": {
+      "icon": "🌐",
+      "title": "foreign currency",
+      "description": "我需要兑换一些**外币**。 (Wǒ xūyào duìhuàn yīxiē **wàibì**.) I need to exchange some **foreign currency**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-bank-card",
+    "front": {
+      "icon": "",
+      "title": "银行卡",
+      "description": "yínhángkǎ"
+    },
+    "back": {
+      "icon": "💳",
+      "title": "bank card",
+      "description": "我的**银行卡**不见了。 (Wǒ de **yínhángkǎ** bú jiàn le.) My **bank card** is missing。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-manage",
+    "front": {
+      "icon": "",
+      "title": "办",
+      "description": "bàn"
+    },
+    "back": {
+      "icon": "📝",
+      "title": "to manage",
+      "description": "我需要去**办**一张新卡。 (Wǒ xūyào qù **bàn** yī zhāng xīn kǎ.) I need **to manage** a new card。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-set-up",
+    "front": {
+      "icon": "",
+      "title": "设置",
+      "description": "shèzhì"
+    },
+    "back": {
+      "icon": "⚙️",
+      "title": "to set up",
+      "description": "请**设置**你的语言。 (Qǐng **shèzhì** nǐ de yǔyán.) Please **to set up** your language。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-withdraw-money",
+    "front": {
+      "icon": "",
+      "title": "取钱",
+      "description": "qǔ qián"
+    },
+    "back": {
+      "icon": "🏧",
+      "title": "to withdraw money",
+      "description": "我去自动取款机**取钱**。 (Wǒ qù zìdòng qǔkuǎnjī **qǔ qián**.) I go to the ATM **to withdraw money**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-overcoat",
+    "front": {
+      "icon": "",
+      "title": "大衣",
+      "description": "dàyī"
+    },
+    "back": {
+      "icon": "🧥",
+      "title": "overcoat",
+      "description": "冬天需要穿**大衣**。 (Dōngtiān xūyào chuān **dàyī**.) You need to wear an **overcoat** in winter。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-suggest",
+    "front": {
+      "icon": "",
+      "title": "建议",
+      "description": "jiànyì"
+    },
+    "back": {
+      "icon": "🗣️",
+      "title": "to suggest",
+      "description": "我接受你的**建议**。 (Wǒ jiēshòu nǐ de **jiànyì**.) I accept your **to suggest**ion。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-youth",
+    "front": {
+      "icon": "",
+      "title": "年轻人",
+      "description": "niánqīngrén"
+    },
+    "back": {
+      "icon": "🧑‍🤝‍🧑",
+      "title": "youth",
+      "description": "**年轻人**充满活力。 (**Niánqīngrén** chōngmǎn huólì.) **Youth** are full of energy。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-price",
+    "front": {
+      "icon": "",
+      "title": "价钱",
+      "description": "jiàqián"
+    },
+    "back": {
+      "icon": "💲",
+      "title": "price",
+      "description": "这个**价钱**可以接受。 (Zhège **jiàqián** kěyǐ jiēshòu.) This **price** is acceptable。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-gift",
+    "front": {
+      "icon": "",
+      "title": "礼物",
+      "description": "lǐwù"
+    },
+    "back": {
+      "icon": "🎁",
+      "title": "gift",
+      "description": "谢谢你的**礼物**。 (Xièxie nǐ de **lǐwù**.) Thank you for your **gift**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-go-shopping",
+    "front": {
+      "icon": "",
+      "title": "逛街",
+      "description": "guàngjiē"
+    },
+    "back": {
+      "icon": "🛍️",
+      "title": "to go shopping",
+      "description": "我们去**逛街**吧。 (Wǒmen qù **guàngjiē** ba.) Let's **to go shopping**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-second-hand-store",
+    "front": {
+      "icon": "",
+      "title": "旧货商店",
+      "description": "jiùhuò shāngdiàn"
+    },
+    "back": {
+      "icon": "♻️",
+      "title": "second-hand store",
+      "description": "他喜欢去**旧货商店**。 (Tā xǐhuān qù **jiùhuò shāngdiàn**.) He likes to go to the **second-hand store**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-stroll",
+    "front": {
+      "icon": "",
+      "title": "逛",
+      "description": "guàng"
+    },
+    "back": {
+      "icon": "🚶",
+      "title": "to stroll",
+      "description": "我喜欢在公园**逛**。 (Wǒ xǐhuān zài gōngyuán **guàng**.) I like **to stroll** in the park。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-old",
+    "front": {
+      "icon": "",
+      "title": "老",
+      "description": "lǎo"
+    },
+    "back": {
+      "icon": "👴",
+      "title": "old",
+      "description": "我的爷爷很**老**了。 (Wǒ de yéye hěn **lǎo** le.) My grandpa is very **old**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-record",
+    "front": {
+      "icon": "",
+      "title": "唱片",
+      "description": "chàngpiàn"
+    },
+    "back": {
+      "icon": "💿",
+      "title": "record",
+      "description": "他收藏了很多**唱片**。 (Tā shōucángle hěn duō **chàngpiàn**.) He collects many **record**s。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-old-fashioned",
+    "front": {
+      "icon": "",
+      "title": "老式",
+      "description": "lǎoshì"
+    },
+    "back": {
+      "icon": "🕰️",
+      "title": "old-fashioned",
+      "description": "这是一部**老式**电话。 (Zhè shì yī bù **lǎoshì** diànhuà.) This is an **old-fashioned** telephone。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-camera",
+    "front": {
+      "icon": "",
+      "title": "照相机",
+      "description": "zhàoxiàngjī"
+    },
+    "back": {
+      "icon": "📸",
+      "title": "camera",
+      "description": "我买了一台新**照相机**。 (Wǒ mǎile yī tái xīn **zhàoxiàngjī**.) I bought a new **camera**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-complexion-face",
+    "front": {
+      "icon": "",
+      "title": "脸色",
+      "description": "liǎnsè"
+    },
+    "back": {
+      "icon": "😔",
+      "title": "complexion, face",
+      "description": "你的**脸色**不好。 (Nǐ de **liǎnsè** bù hǎo.) Your **complexion, face** is not good。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-catch-a-cold",
+    "front": {
+      "icon": "",
+      "title": "感冒",
+      "description": "gǎnmào"
+    },
+    "back": {
+      "icon": "🤧",
+      "title": "to catch a cold",
+      "description": "我**感冒**了。 (Wǒ **gǎnmào** le.) I **to catch a cold**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-serious",
+    "front": {
+      "icon": "",
+      "title": "严重",
+      "description": "yánzhòng"
+    },
+    "back": {
+      "icon": "⚠️",
+      "title": "serious",
+      "description": "他的病情很**严重**。 (Tā de bìngqíng hěn **yánzhòng**.) His illness is very **serious**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-throat",
+    "front": {
+      "icon": "",
+      "title": "嗓子",
+      "description": "sǎngzi"
+    },
+    "back": {
+      "icon": "🗣️",
+      "title": "throat",
+      "description": "我**嗓子**疼。 (Wǒ **sǎngzi** téng.) My **throat** hurts。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-hurt",
+    "front": {
+      "icon": "",
+      "title": "疼",
+      "description": "téng"
+    },
+    "back": {
+      "icon": "🤕",
+      "title": "hurt",
+      "description": "我的头很**疼**。 (Wǒ de tóu hěn **téng**.) My head **hurt**s。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-have-a-fever",
+    "front": {
+      "icon": "",
+      "title": "发烧",
+      "description": "fāshāo"
+    },
+    "back": {
+      "icon": "🔥",
+      "title": "to have a fever",
+      "description": "他**发烧**了。 (Tā **fāshāo** le.) He **to have a fever**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-register",
+    "front": {
+      "icon": "",
+      "title": "挂号",
+      "description": "guà hào"
+    },
+    "back": {
+      "icon": "📋",
+      "title": "to register",
+      "description": "我去看病需要**挂号**。 (Wǒ qù kànbìng xūyào **guà hào**.) I need **to register** to see a doctor。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-register",
+    "front": {
+      "icon": "",
+      "title": "挂",
+      "description": "guà"
+    },
+    "back": {
+      "icon": "🏷️",
+      "title": "to register",
+      "description": "你**挂**哪个医生？ (Nǐ **guà** nǎge yīshēng?) Which doctor do you **to register** for?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-section",
+    "front": {
+      "icon": "",
+      "title": "科",
+      "description": "kē"
+    },
+    "back": {
+      "icon": "🏥",
+      "title": "section",
+      "description": "请去内**科**。 (Qǐng qù nèi **kē**.) Please go to the internal **section**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-internal-medicine",
+    "front": {
+      "icon": "",
+      "title": "内科",
+      "description": "nèikē"
+    },
+    "back": {
+      "icon": "🩺",
+      "title": "internal medicine",
+      "description": "我去看**内科**医生。 (Wǒ qù kàn **nèikē** yīshēng.) I am going to see an **internal medicine** doctor。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-surgical-department",
+    "front": {
+      "icon": "",
+      "title": "外科",
+      "description": "wàikē"
+    },
+    "back": {
+      "icon": "🔪",
+      "title": "surgical department",
+      "description": "他需要看**外科**。 (Tā xūyào kàn **wàikē**.) He needs to see the **surgical department**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-head",
+    "front": {
+      "icon": "",
+      "title": "头",
+      "description": "tóu"
+    },
+    "back": {
+      "icon": "🧠",
+      "title": "head",
+      "description": "他摇了摇**头**。 (Tā yáole yáo **tóu**.) He shook his **head**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-cough",
+    "front": {
+      "icon": "",
+      "title": "咳嗽",
+      "description": "késou"
+    },
+    "back": {
+      "icon": "🤧",
+      "title": "to cough",
+      "description": "请不要**咳嗽**。 (Qǐng bùyào **késou**.) Please don't **to cough**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-measure",
+    "front": {
+      "icon": "",
+      "title": "量",
+      "description": "liáng"
+    },
+    "back": {
+      "icon": "📏",
+      "title": "to measure",
+      "description": "请**量**一下身高。 (Qǐng **liáng** yīxià shēngāo.) Please **to measure** the height。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-temperature",
+    "front": {
+      "icon": "",
+      "title": "体温",
+      "description": "tǐwēn"
+    },
+    "back": {
+      "icon": "🌡️",
+      "title": "temperature",
+      "description": "我的**体温**是 37 度。 (Wǒ de **tǐwēn** shì 37 dù.) My **temperature** is 37 degrees。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-take-medicine",
+    "front": {
+      "icon": "",
+      "title": "吃药",
+      "description": "chī yào"
+    },
+    "back": {
+      "icon": "💊",
+      "title": "to take medicine",
+      "description": "记得**吃药**。 (Jìde **chī yào**.) Remember **to take medicine**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-medicine",
+    "front": {
+      "icon": "",
+      "title": "药",
+      "description": "yào"
+    },
+    "back": {
+      "icon": "🧪",
+      "title": "medicine",
+      "description": "这个**药**很有效。 (Zhège **yào** hěn yǒuxiào.) This **medicine** is very effective。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-measure-word",
+    "front": {
+      "icon": "",
+      "title": "片",
+      "description": "piàn"
+    },
+    "back": {
+      "icon": "⬜",
+      "title": "(measure word)",
+      "description": "请给我三**片**面包。 (Qǐng gěi wǒ sān **piàn** miànbāo.) Please give me three **(measure word)**s of bread。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-antiphlogistic-drug",
+    "front": {
+      "icon": "",
+      "title": "消炎药",
+      "description": "xiāoyán yào"
+    },
+    "back": {
+      "icon": "🛡️",
+      "title": "antiphlogistic drug",
+      "description": "他服用了**消炎药**。 (Tā fúyòngle **xiāoyán yào**.) He took the **antiphlogistic drug**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-get-inflamed",
+    "front": {
+      "icon": "",
+      "title": "发炎",
+      "description": "fāyán"
+    },
+    "back": {
+      "icon": "🔴",
+      "title": "to get inflamed",
+      "description": "你的喉咙**发炎**了。 (Nǐ de hóulóng **fāyán** le.) Your throat **to get inflamed**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-effect",
+    "front": {
+      "icon": "",
+      "title": "效果",
+      "description": "xiàoguǒ"
+    },
+    "back": {
+      "icon": "✨",
+      "title": "effect",
+      "description": "治疗的**效果**很好。 (Zhìliáo de **xiàoguǒ** hěn hǎo.) The **effect** of the treatment is very good。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-western-medicine",
+    "front": {
+      "icon": "",
+      "title": "西药",
+      "description": "xīyào"
+    },
+    "back": {
+      "icon": "💊",
+      "title": "Western medicine",
+      "description": "**西药**见效快。 (**Xīyào** jiànxiào kuài.) **Western medicine** works quickly。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-traditional-chinese-medicine",
+    "front": {
+      "icon": "",
+      "title": "中药",
+      "description": "zhōngyào"
+    },
+    "back": {
+      "icon": "🌿",
+      "title": "traditional Chinese medicine",
+      "description": "我喜欢喝**中药**。 (Wǒ xǐhuān hē **zhōngyào**.) I like to drink **traditional Chinese medicine**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-measure-word",
+    "front": {
+      "icon": "",
+      "title": "粒",
+      "description": "lì"
+    },
+    "back": {
+      "icon": "🟡",
+      "title": "(measure word)",
+      "description": "一天吃三**粒**。 (Yī tiān chī sān **lì**.) Take three **(measure word)**s a day。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-before-meal",
+    "front": {
+      "icon": "",
+      "title": "饭前",
+      "description": "fàn qián"
+    },
+    "back": {
+      "icon": "🍽️",
+      "title": "before meal",
+      "description": "请在**饭前**休息。 (Qǐng zài **fàn qián** xiūxí.) Please rest **before meal**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-please-come-in",
+    "front": {
+      "icon": "",
+      "title": "请进",
+      "description": "qǐng jìn"
+    },
+    "back": {
+      "icon": "🚪",
+      "title": "please come in",
+      "description": "**请进**！ (**Qǐng jìn**!) **Please come in**!"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-come-into",
+    "front": {
+      "icon": "",
+      "title": "进",
+      "description": "jìn"
+    },
+    "back": {
+      "icon": "➡️",
+      "title": "come into",
+      "description": "他**进**房间了。 (Tā **jìn** fángjiān le.) He **come into** the room。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-clear-up",
+    "front": {
+      "icon": "",
+      "title": "收拾",
+      "description": "shōushi"
+    },
+    "back": {
+      "icon": "🧹",
+      "title": "to clear up",
+      "description": "我需要**收拾**房间。 (Wǒ xūyào **shōushi** fángjiān.) I need **to clear up** the room。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-wash",
+    "front": {
+      "icon": "",
+      "title": "洗",
+      "description": "xǐ"
+    },
+    "back": {
+      "icon": "🧼",
+      "title": "to wash",
+      "description": "我每天都**洗**澡。 (Wǒ měitiān dōu **xǐ** zǎo.) I **to wash** my body every day。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-sweep",
+    "front": {
+      "icon": "",
+      "title": "打扫",
+      "description": "dǎsǎo"
+    },
+    "back": {
+      "icon": "🧽",
+      "title": "to sweep",
+      "description": "我们一起**打扫**卫生。 (Wǒmen yīqǐ **dǎsǎo** wèishēng.) Let's **to sweep** up。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-wipe",
+    "front": {
+      "icon": "",
+      "title": "擦",
+      "description": "cā"
+    },
+    "back": {
+      "icon": "🧤",
+      "title": "to wipe",
+      "description": "请**擦**一下窗户。 (Qǐng **cā** yīxià chuānghù.) Please **to wipe** the window。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-floor",
+    "front": {
+      "icon": "",
+      "title": "地板",
+      "description": "dìbǎn"
+    },
+    "back": {
+      "icon": "🏠",
+      "title": "floor",
+      "description": "这个**地板**是木头的。 (Zhège **dìbǎn** shì mùtou de.) This **floor** is made of wood。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-take-a-photograph",
+    "front": {
+      "icon": "",
+      "title": "摄影",
+      "description": "shèyǐng"
+    },
+    "back": {
+      "icon": "📷",
+      "title": "to take a photograph",
+      "description": "他喜欢**摄影**。 (Tā xǐhuān **shèyǐng**.) He likes **to take a photograph**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-play-tennis",
+    "front": {
+      "icon": "",
+      "title": "打网球",
+      "description": "dǎ wǎngqiú"
+    },
+    "back": {
+      "icon": "🎾",
+      "title": "to play tennis",
+      "description": "我**打网球**打得很好。 (Wǒ **dǎ wǎngqiú** dǎ de hěn hǎo.) I **to play tennis** very well。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-play",
+    "front": {
+      "icon": "",
+      "title": "打",
+      "description": "dǎ"
+    },
+    "back": {
+      "icon": "🏏",
+      "title": "to play",
+      "description": "你会**打**篮球吗？ (Nǐ huì **dǎ** lánqiú ma?) Can you **to play** basketball?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-tennis",
+    "front": {
+      "icon": "",
+      "title": "网球",
+      "description": "wǎngqiú"
+    },
+    "back": {
+      "icon": "🎽",
+      "title": "tennis",
+      "description": "**网球**比赛很有趣。 (**Wǎngqiú** bǐsài hěn yǒuqù.) **Tennis** matches are interesting。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-sport",
+    "front": {
+      "icon": "",
+      "title": "运动",
+      "description": "yùndòng"
+    },
+    "back": {
+      "icon": "🏅",
+      "title": "sport",
+      "description": "跑步是一项很好的**运动**。 (Pǎobù shì yī xiàng hěn hǎo de **yùndòng**.) Running is a very good **sport**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-football",
+    "front": {
+      "icon": "",
+      "title": "足球",
+      "description": "zúqiú"
+    },
+    "back": {
+      "icon": "⚽",
+      "title": "football",
+      "description": "我们去看**足球**比赛。 (Wǒmen qù kàn **zúqiú** bǐsài.) We are going to watch a **football** game。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-often",
+    "front": {
+      "icon": "",
+      "title": "经常",
+      "description": "jīngcháng"
+    },
+    "back": {
+      "icon": "🔄",
+      "title": "often",
+      "description": "我**经常**去那里。 (Wǒ **jīngcháng** qù nàlǐ.) I **often** go there。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-play-football",
+    "front": {
+      "icon": "",
+      "title": "踢足球",
+      "description": "tī zúqiú"
+    },
+    "back": {
+      "icon": "🥅",
+      "title": "to play football",
+      "description": "孩子们在**踢足球**。 (Háizimen zài **tī zúqiú**.) The children are **to play football**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-kick",
+    "front": {
+      "icon": "",
+      "title": "踢",
+      "description": "tī"
+    },
+    "back": {
+      "icon": "🦵",
+      "title": "to kick",
+      "description": "他用脚**踢**了一下。 (Tā yòng jiǎo **tī** le yīxià.) He **to kick**ed it with his foot。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-ball-game",
+    "front": {
+      "icon": "",
+      "title": "球赛",
+      "description": "qiúsài"
+    },
+    "back": {
+      "icon": "🏟️",
+      "title": "ball game",
+      "description": "我们去看**球赛**吧。 (Wǒmen qù kàn **qiúsài** ba.) Let's go watch a **ball game**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-movie",
+    "front": {
+      "icon": "",
+      "title": "电影",
+      "description": "diànyǐng"
+    },
+    "back": {
+      "icon": "🎬",
+      "title": "movie",
+      "description": "我喜欢看恐怖**电影**。 (Wǒ xǐhuān kàn kǒngbù **diànyǐng**.) I like to watch horror **movie**s。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-perform",
+    "front": {
+      "icon": "",
+      "title": "演",
+      "description": "yǎn"
+    },
+    "back": {
+      "icon": "🎭",
+      "title": "to perform",
+      "description": "她**演**了一个重要的角色。 (Tā **yǎn**le yīgè zhòngyào de juésè.) She **to perform** an important role。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-seafood",
+    "front": {
+      "icon": "",
+      "title": "海鲜",
+      "description": "hǎixiān"
+    },
+    "back": {
+      "icon": "🦞",
+      "title": "seafood",
+      "description": "这里的**海鲜**很新鲜。 (Zhèlǐ de **hǎixiān** hěn xīnxian.) The **seafood** here is very fresh。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-rice-noodles",
+    "front": {
+      "icon": "",
+      "title": "米线",
+      "description": "mǐxiàn"
+    },
+    "back": {
+      "icon": "🍜",
+      "title": "rice noodles",
+      "description": "我点了一碗**米线**。 (Wǒ diǎnle yī wǎn **mǐxiàn**.) I ordered a bowl of **rice noodles**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-snack",
+    "front": {
+      "icon": "",
+      "title": "小吃",
+      "description": "xiǎochī"
+    },
+    "back": {
+      "icon": "🥨",
+      "title": "snack",
+      "description": "我想尝尝当地的**小吃**。 (Wǒ xiǎng chángchang dāngdì de **xiǎochī**.) I want to try the local **snack**s。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-like-that-so",
+    "front": {
+      "icon": "",
+      "title": "那么",
+      "description": "nàme"
+    },
+    "back": {
+      "icon": "🤔",
+      "title": "like that, so",
+      "description": "他跑得**那么**快！ (Tā pǎo de **nàme** kuài!) He runs **like that, so** fast!"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-go-away-on-a-business-trip",
+    "front": {
+      "icon": "",
+      "title": "出差",
+      "description": "chūchāi"
+    },
+    "back": {
+      "icon": "💼",
+      "title": "to go away on a business trip",
+      "description": "我的爸爸经常**出差**。 (Wǒ de bàba jīngcháng **chūchāi**.) My father often **to go away on a business trip**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-guangdong",
+    "front": {
+      "icon": "",
+      "title": "广东",
+      "description": "Guǎngdōng"
+    },
+    "back": {
+      "icon": "🇨🇳",
+      "title": "Guangdong",
+      "description": "他想去**广东**旅游。 (Tā xiǎng qù **Guǎngdōng** lǚyóu.) He wants to travel to **Guangdong**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-yunnan",
+    "front": {
+      "icon": "",
+      "title": "云南",
+      "description": "Yúnnán"
+    },
+    "back": {
+      "icon": "🏞️",
+      "title": "Yunnan",
+      "description": "**云南**的气候很好。 (**Yúnnán** de qìhòu hěn hǎo.) The climate in **Yunnan** is very good。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-sichuan",
+    "front": {
+      "icon": "",
+      "title": "四川",
+      "description": "Sìchuān"
+    },
+    "back": {
+      "icon": "🐼",
+      "title": "Sichuan",
+      "description": "**四川**以辣闻名。 (**Sìchuān** yǐ là wénmíng.) **Sichuan** is famous for being spicy。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-all-along",
+    "front": {
+      "icon": "",
+      "title": "从来",
+      "description": "cónglái"
+    },
+    "back": {
+      "icon": "🕰️",
+      "title": "All along",
+      "description": "我**从来**没去过。 (Wǒ **cónglái** méi qùguò.) I have **all along** never been there。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-that-time",
+    "front": {
+      "icon": "",
+      "title": "当时",
+      "description": "dāngshí"
+    },
+    "back": {
+      "icon": "📅",
+      "title": "that time",
+      "description": "**当时**我很年轻。 (**Dāngshí** wǒ hěn niánqīng.) **That time** I was very young。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-interview",
+    "front": {
+      "icon": "",
+      "title": "采访",
+      "description": "cǎifǎng"
+    },
+    "back": {
+      "icon": "🎤",
+      "title": "to interview",
+      "description": "记者正在**采访**他。 (Jìzhě zhèngzài **cǎifǎng** tā.) The reporter is **to interview**ing him。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-be-wounded",
+    "front": {
+      "icon": "",
+      "title": "受伤",
+      "description": "shòushāng"
+    },
+    "back": {
+      "icon": "🩹",
+      "title": "to be wounded",
+      "description": "他从马上**受伤**了。 (Tā cóng mǎ shàng **shòushāng** le.) He **to be wounded** from the horse。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-look-after",
+    "front": {
+      "icon": "",
+      "title": "照顾",
+      "description": "zhàogù"
+    },
+    "back": {
+      "icon": "🤗",
+      "title": "to look after",
+      "description": "她**照顾**她的妹妹。 (Tā **zhàogù** tā de mèimei.) She **to look after** her younger sister。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-afterwards",
+    "front": {
+      "icon": "",
+      "title": "后来",
+      "description": "hòulái"
+    },
+    "back": {
+      "icon": "➡️",
+      "title": "afterwards",
+      "description": "**后来**他离开了。 (**Hòulái** tā líkāi le.) **Afterwards**, he left"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-love-each-other",
+    "front": {
+      "icon": "",
+      "title": "相爱",
+      "description": "xiāng'ài"
+    },
+    "back": {
+      "icon": "💕",
+      "title": "to love each other",
+      "description": "他们两个**相爱**。 (Tāmen liǎng ge **xiāng'ài**.) The two of them **to love each other**。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-to-forget",
+    "front": {
+      "icon": "",
+      "title": "忘",
+      "description": "wàng"
+    },
+    "back": {
+      "icon": "🧠",
+      "title": "to forget",
+      "description": "不要**忘**记我。 (Bú yào **wàng**jì wǒ.) Don't **to forget** me。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-kung-fu-film",
+    "front": {
+      "icon": "",
+      "title": "武打片",
+      "description": "wǔdǎpiàn"
+    },
+    "back": {
+      "icon": "🥋",
+      "title": "kung fu film",
+      "description": "我喜欢看**武打片**。 (Wǒ xǐhuān kàn **wǔdǎpiàn**.) I like to watch **kung fu film**s。"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-love-movie",
+    "front": {
+      "icon": "",
+      "title": "爱情片",
+      "description": "àiqíngpiàn"
+    },
+    "back": {
+      "icon": "💖",
+      "title": "love movie",
+      "description": "她最爱看**爱情片**。 (Tā zuì ài kàn **àiqíngpiàn**.) She loves to watch **love movie**s the most。"
+    }
+  }
+]

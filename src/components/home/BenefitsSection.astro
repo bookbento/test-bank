@@ -1,0 +1,165 @@
+---
+import EmojiSVG from '../EmojiSVG.astro';
+import { useTranslations, type Lang } from '../../utils/i18n';
+
+interface Props {
+  lang: Lang;
+}
+
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+
+// Benefits section translations
+const translations = {
+  title: {
+    en: 'Why Train with NinjaLingo?',
+    th: 'ทำไมต้องฝึกกับ NinjaLingo?',
+  },
+  benefits: {
+    rememberLonger: {
+      title: {
+        en: 'Master Forever',
+        th: 'เชี่ยวชาญตลอดกาล',
+      },
+      description: {
+        en: '<strong>Ancient Spaced Repetition</strong> technique perfected by masters. Like ninja training - the more you practice, the sharper your skills become',
+        th: 'เทคนิค <strong>Spaced Repetition โบราณ</strong> ที่ปรับปรุงโดยอาจารย์ใหญ่ เหมือนการฝึกนินจา - ยิ่งฝึกมาก ยิ่งแหลมคม',
+      },
+    },
+    saveTime: {
+      title: {
+        en: 'Lightning Efficiency',
+        th: 'ประสิทธิภาพกริบฟ้า',
+      },
+      description: {
+        en: 'No wasted movements<br />Strike only when <strong>"memory fades"</strong> Maximum impact, minimum effort',
+        th: 'ไม่เสียท่าเปล่าๆ<br />โจมตีเฉพาะเมื่อ<strong>"ความทรงจำจางหาย"</strong> ผลสูงสุด พลังงานต่ำสุด',
+      },
+    },
+    kidFriendly: {
+      title: {
+        en: 'Young Ninja Training',
+        th: 'ฝึกนินจาน้อย',
+      },
+      description: {
+        en: 'Designed for young apprentices<br /><strong>Just assess your strike</strong> - AI Sensei guides the way. <span class="text-blue-600">Fun, not frightening</span>',
+        th: 'ออกแบบสำหรับศิษย์น้อย<br /><strong>แค่ประเมินการโจมตี</strong> - เซนเซอี AI ชี้ทาง <span class="text-blue-600">สนุก ไม่น่ากลัว</span>',
+      },
+    },
+  },
+  footer: {
+    createdWith: {
+      en: 'Forged with',
+      th: 'หลอมด้วย',
+    },
+    byDad: {
+      en: 'by a ninja master who wanted powerful learning for his apprentice',
+      th: 'โดยอาจารย์นินจาที่ต้องการให้ศิษย์เรียนได้อย่างทรงพลัง',
+    },
+    readStory: {
+      en: 'Read the legend →',
+      th: 'อ่านตำนาน →',
+    },
+  },
+};
+---
+
+<section class="px-6 lg:px-12 pt-16 mb-16 bg-white/50">
+  <div class="max-w-6xl mx-auto text-center space-y-20">
+    <div>
+      <h2
+        class="text-3xl py-2 font-bold bg-gradient-to-r from-red-600 via-orange-600 to-yellow-600 bg-clip-text text-transparent mb-12"
+      >
+        {t('title', translations.title)}
+        <EmojiSVG emoji="💪" size={32} />
+      </h2>
+
+      <div class="grid grid-cols-1 sm:grid-cols-3 gap-8">
+        <div class="p-8 bg-white rounded-xl shadow-sm border space-y-4">
+          <div class="text-5xl flex justify-center">
+            <EmojiSVG emoji="🧠" size={60} />
+          </div>
+          <h4 class="text-xl font-semibold text-gray-800">
+            {
+              t(
+                'benefits.rememberLonger.title',
+                translations.benefits.rememberLonger.title
+              )
+            }
+          </h4>
+          <p
+            class="text-gray-600"
+            set:html={t(
+              'benefits.rememberLonger.description',
+              translations.benefits.rememberLonger.description
+            )}
+          />
+          <a
+            href="https://www.scientificamerican.com/article/how-to-become-a-memory-master/"
+            class="text-blue-600 hover:text-blue-500 underline"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+          </a>
+        </div>
+        <div class="p-8 bg-white rounded-xl shadow-sm border space-y-4">
+          <div class="text-5xl flex justify-center">
+            <EmojiSVG emoji="⚡" size={60} />
+          </div>
+          <h4 class="text-xl font-semibold text-gray-800">
+            {t('benefits.saveTime.title', translations.benefits.saveTime.title)}
+          </h4>
+          <p
+            class="text-gray-600"
+            set:html={t(
+              'benefits.saveTime.description',
+              translations.benefits.saveTime.description
+            )}
+          >
+            <a
+              href="https://www.supermemo.com/en/archives1990-2003/english/sm2"
+              class="text-blue-600 hover:text-blue-500 underline"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+            </a>
+          </p>
+        </div>
+        <div class="p-8 bg-white rounded-xl shadow-sm border space-y-4">
+          <div class="text-5xl flex justify-center">
+            <EmojiSVG emoji="🏹" size={60} />
+          </div>
+          <h4 class="text-xl font-semibold text-gray-800">
+            {
+              t(
+                'benefits.kidFriendly.title',
+                translations.benefits.kidFriendly.title
+              )
+            }
+          </h4>
+          <p
+            class="text-gray-600"
+            set:html={t(
+              'benefits.kidFriendly.description',
+              translations.benefits.kidFriendly.description
+            )}
+          />
+        </div>
+      </div>
+    </div>
+
+    <p class="text-gray-500 text-sm mt-8">
+      {t('footer.createdWith', translations.footer.createdWith)}
+      <EmojiSVG emoji="💝" size={20} />
+      {t('footer.byDad', translations.footer.byDad)}<br />
+      <a
+        href="https://medium.com/p/f2875a0f8277"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="text-blue-600 hover:text-blue-700 underline"
+      >
+        {t('footer.readStory', translations.footer.readStory)}
+      </a>
+    </p>
+  </div>
+</section>

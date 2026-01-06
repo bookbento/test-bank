@@ -1,0 +1,821 @@
+[
+  {
+    "id": "ielts-by-category-education-academic-achievement",
+    "front": {
+      "icon": "",
+      "title": "Academic Achievement",
+      "description": "/ˌækəˈdɛmɪk əˈtʃiːvmənt/"
+    },
+    "back": {
+      "icon": "🎓",
+      "title": "adj, n. ผลสัมฤทธิ์ทางการเรียน",
+      "description": "Her **academic achievement** earned her a scholarship to a top university."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-elective-subject",
+    "front": {
+      "icon": "",
+      "title": "Elective Subject",
+      "description": "ɪˈlɛktɪv ˈsʌbdʒɪkt"
+    },
+    "back": {
+      "icon": "🧑‍🎓",
+      "title": "n. วิชาเลือก",
+      "description": "Students can choose an **Elective Subject** to broaden their studies."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-study-skills",
+    "front": {
+      "icon": "",
+      "title": "Study Skills",
+      "description": "ˈstʌdi skɪlz"
+    },
+    "back": {
+      "icon": "🎓",
+      "title": "n. ทักษะการเรียน",
+      "description": "Developing strong **Study Skills** can greatly improve academic performance."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-syllabus",
+    "front": {
+      "icon": "",
+      "title": "Syllabus",
+      "description": "ˈsɪləbəs"
+    },
+    "back": {
+      "icon": "📖",
+      "title": "n. หลักสูตร",
+      "description": "The **syllabus** outlines the course requirements."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-flying-colors",
+    "front": {
+      "icon": "",
+      "title": "Flying Colors",
+      "description": "/ˈflaɪɪŋ ˈkʌlərz/"
+    },
+    "back": {
+      "icon": "🌈",
+      "title": "n. สอบผ่านฉลุย",
+      "description": "She passed her exam with **Flying Colors**."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-data-gathering",
+    "front": {
+      "icon": "",
+      "title": "Data-gathering",
+      "description": "ˈdeɪtə ˈɡæðərɪŋ"
+    },
+    "back": {
+      "icon": "📊",
+      "title": "n. การรวบรวมข้อมูล",
+      "description": "Effective **data-gathering** is crucial for accurate research."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-distance-learning",
+    "front": {
+      "icon": "",
+      "title": "Distance learning",
+      "description": "ˈdɪstəns ˈlɜrnɪŋ"
+    },
+    "back": {
+      "icon": "💻",
+      "title": "n. การเรียนทางไกล",
+      "description": "The university offers a comprehensive program in **distance learning**."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-passfail-the-exam",
+    "front": {
+      "icon": "",
+      "title": "Pass/fail the exam",
+      "description": "pæs/feɪl ði ɪɡˈzæm"
+    },
+    "back": {
+      "icon": "⚖️",
+      "title": "v. สอบผ่าน/สอบตก",
+      "description": "Students will have to **pass/fail the exam** to complete the course."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-drop-out-of-school",
+    "front": {
+      "icon": "",
+      "title": "Drop out of school",
+      "description": "drɒp aʊt əv skuːl"
+    },
+    "back": {
+      "icon": "🚏",
+      "title": "v. ออกโรงเรียน",
+      "description": "He decided to go back to **school** to finish his degree."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-learning-materials",
+    "front": {
+      "icon": "",
+      "title": "Learning Materials",
+      "description": "/ˈlɜːrnɪŋ məˈtɪriəlz/"
+    },
+    "back": {
+      "icon": "🧑‍🎓",
+      "title": "n. สื่อการเรียนรู้",
+      "description": "**Education** is key to a brighter future."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-group-work",
+    "front": {
+      "icon": "",
+      "title": "Group Work",
+      "description": "ɡruːp wɜːrk"
+    },
+    "back": {
+      "icon": "🤝",
+      "title": "n. งานกลุ่ม",
+      "description": "**Group Work** is a common activity in many educational settings."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-curriculum",
+    "front": {
+      "icon": "",
+      "title": "Curriculum",
+      "description": "/kəˈrɪkjʊləm/"
+    },
+    "back": {
+      "icon": "📚",
+      "title": "n. หลักสูตร",
+      "description": "The new school **curriculum** focuses on hands-on learning experiences."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-autonomous-learning",
+    "front": {
+      "icon": "",
+      "title": "Autonomous Learning",
+      "description": "/ɔˈtɒnəməs ˈlɜːrnɪŋ/"
+    },
+    "back": {
+      "icon": "🧑‍🎓",
+      "title": "n. การเรียนรู้แบบอิสระ",
+      "description": "Through **autonomous learning**, students take charge of their own educational journey."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-mixed-school",
+    "front": {
+      "icon": "",
+      "title": "Mixed school",
+      "description": "/mɪkst skuːl/"
+    },
+    "back": {
+      "icon": "🏫",
+      "title": "n. สหศึกษา",
+      "description": "My sister goes to a **mixed school**."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-seperate-schools",
+    "front": {
+      "icon": "",
+      "title": "Seperate schools",
+      "description": "ˈsɛpərɪt skulz"
+    },
+    "back": {
+      "icon": "🏫",
+      "title": "v. โรงเรียนแยก",
+      "description": "The community debated the impact of **separate schools** on educational equity."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-assessment",
+    "front": {
+      "icon": "",
+      "title": "Assessment",
+      "description": "/əˈsɛsmənt/"
+    },
+    "back": {
+      "icon": "📝",
+      "title": "n. การประเมิน",
+      "description": "The teacher will conduct an **assessment** of the students' progress."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-attendance",
+    "front": {
+      "icon": "",
+      "title": "Attendance",
+      "description": "/əˈtɛndəns/"
+    },
+    "back": {
+      "icon": "🗓️",
+      "title": "n. การเข้าร่วม",
+      "description": "**Attendance** at the seminar is mandatory."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-benchmark",
+    "front": {
+      "icon": "",
+      "title": "Benchmark",
+      "description": "['bɛntʃmɑːrk]"
+    },
+    "back": {
+      "icon": "🎯",
+      "title": "n. มาตรฐาน",
+      "description": "Setting a high **benchmark** for quality ensures customer satisfaction."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-dissertation",
+    "front": {
+      "icon": "",
+      "title": "Dissertation",
+      "description": "/ˌdɪsərˈteɪʃən/"
+    },
+    "back": {
+      "icon": "🎓",
+      "title": "n. วิทยานิพนธ์",
+      "description": "Her **dissertation** focused on the impact of social media on modern communication."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-formal-examinations",
+    "front": {
+      "icon": "",
+      "title": "Formal examinations",
+      "description": "ˈfɔːrməl ɪɡˌzæmɪˈneɪʃənz"
+    },
+    "back": {
+      "icon": "📝",
+      "title": "n. การสอบ",
+      "description": "Students must prepare for their **formal examinations** at the end of the semester."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-feedback",
+    "front": {
+      "icon": "",
+      "title": "Feedback",
+      "description": "ˈfiːdbæk"
+    },
+    "back": {
+      "icon": "🗣️",
+      "title": "n. ผลตอบรับ",
+      "description": "We value your **Feedback** on the new educational program."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-grade",
+    "front": {
+      "icon": "",
+      "title": "Grade",
+      "description": "ɡreɪd"
+    },
+    "back": {
+      "icon": "💯",
+      "title": "n. เกรด",
+      "description": "She received a good **Grade** on her test."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-homework",
+    "front": {
+      "icon": "",
+      "title": "Homework",
+      "description": "ˈhoʊmˌwɜrk"
+    },
+    "back": {
+      "icon": "📚",
+      "title": "n. การบ้าน",
+      "description": "Students must complete their **Homework** every night."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-inclusion",
+    "front": {
+      "icon": "",
+      "title": "Inclusion",
+      "description": "ɪnˈkluːʒən"
+    },
+    "back": {
+      "icon": "🤝",
+      "title": "n. การรวม",
+      "description": "The goal of the program is to promote social **inclusion**."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-lecture",
+    "front": {
+      "icon": "",
+      "title": "Lecture",
+      "description": "/ˈlɛktʃər/"
+    },
+    "back": {
+      "icon": "🗣️",
+      "title": "n. บรรยาย",
+      "description": "The **lecture** was engaging and informative."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-literacy",
+    "front": {
+      "icon": "",
+      "title": "Literacy",
+      "description": "ˈlɪtərəsi"
+    },
+    "back": {
+      "icon": "📚",
+      "title": "n. การรู้หนังสือ",
+      "description": "Promoting adult **literacy** is crucial for community development."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-methodology",
+    "front": {
+      "icon": "",
+      "title": "Methodology",
+      "description": "/ˌmɛθəˈdɒlədʒi/"
+    },
+    "back": {
+      "icon": "📊",
+      "title": "n. ระเบียบวิธี",
+      "description": "The research team developed a new **methodology** for data analysis."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-numeracy",
+    "front": {
+      "icon": "",
+      "title": "Numeracy",
+      "description": "/ˈnjuːmərəsɪ/"
+    },
+    "back": {
+      "icon": "🧮",
+      "title": "n. การคิดคำนวณ",
+      "description": "Good **numeracy** skills are essential for managing personal finances."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-orientation",
+    "front": {
+      "icon": "",
+      "title": "Orientation",
+      "description": "ˌɔriɛnˈteɪʃən"
+    },
+    "back": {
+      "icon": "🧭",
+      "title": "n. ปฐมนิเทศ",
+      "description": "The new employees attended an **orientation** session."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-plagiarism",
+    "front": {
+      "icon": "",
+      "title": "Plagiarism",
+      "description": "ˈpleɪdʒərɪzəm"
+    },
+    "back": {
+      "icon": "✍️",
+      "title": "n. การคัดลอกผลงานผู้อื่น",
+      "description": "**Plagiarism** is a serious academic offense."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-presentation",
+    "front": {
+      "icon": "",
+      "title": "Presentation",
+      "description": "/ˌprɛzənˈteɪʃən/"
+    },
+    "back": {
+      "icon": "🗣️",
+      "title": "n. การนำเสนอ",
+      "description": "The **presentation** was informative and engaging."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-qualification",
+    "front": {
+      "icon": "",
+      "title": "Qualification",
+      "description": "kwɒlɪfɪˈkeɪʃən"
+    },
+    "back": {
+      "icon": "🎓",
+      "title": "n. วุฒิการศึกษา",
+      "description": "Please remember to **submit** your assignment by Friday."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-research",
+    "front": {
+      "icon": "",
+      "title": "Research",
+      "description": "/ˈriːsɜːtʃ/"
+    },
+    "back": {
+      "icon": "🔬",
+      "title": "n. งานวิจัย",
+      "description": "The **Research** conducted was very thorough."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-scholarship",
+    "front": {
+      "icon": "",
+      "title": "Scholarship",
+      "description": "ˈskɒləʃɪp"
+    },
+    "back": {
+      "icon": "🎓",
+      "title": "n. ทุนการศึกษา",
+      "description": "She received a **Scholarship** to attend college."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-skill",
+    "front": {
+      "icon": "",
+      "title": "Skill",
+      "description": "/skɪl/"
+    },
+    "back": {
+      "icon": "💪",
+      "title": "n. ทักษะ",
+      "description": "Developing a new **skill** can open up many opportunities."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-self-study",
+    "front": {
+      "icon": "",
+      "title": "Self-study",
+      "description": "/ˌsɛlfˈstʌdi/"
+    },
+    "back": {
+      "icon": "📚",
+      "title": "n. ศึกษาด้วยตนเอง",
+      "description": "**Self-study** is a great way to learn new skills."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-textbook",
+    "front": {
+      "icon": "",
+      "title": "Textbook",
+      "description": "ˈtɛkstˌbʊk"
+    },
+    "back": {
+      "icon": "📚",
+      "title": "n. ตำราเรียน",
+      "description": "The student studied the **textbook** for the exam."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-thesis",
+    "front": {
+      "icon": "",
+      "title": "Thesis",
+      "description": "/ˈθiːsɪs/"
+    },
+    "back": {
+      "icon": "✍️",
+      "title": "n. วิทยานิพนธ์",
+      "description": "Her **thesis** explored the impact of social media on political discourse."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-tutorial",
+    "front": {
+      "icon": "",
+      "title": "Tutorial",
+      "description": "/tuːˈtɔːriəl/"
+    },
+    "back": {
+      "icon": "📚",
+      "title": "n. บทเรียน",
+      "description": "I need to **focus** on my studies."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-university",
+    "front": {
+      "icon": "",
+      "title": "University",
+      "description": "/ˌjuːnɪˈvɜːrsəti/"
+    },
+    "back": {
+      "icon": "🎓",
+      "title": "n. มหาวิทยาลัย",
+      "description": "She applied to her dream **University** for a scholarship."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-vocabulary",
+    "front": {
+      "icon": "",
+      "title": "Vocabulary",
+      "description": "/vəˈkæbjəˌlɛri/"
+    },
+    "back": {
+      "icon": "📚",
+      "title": "n. คำศัพท์",
+      "description": "Learning new **vocabulary** can improve your writing skills."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-workshop",
+    "front": {
+      "icon": "",
+      "title": "Workshop",
+      "description": "ˈwɜːrkʃɑːp"
+    },
+    "back": {
+      "icon": "🛠️",
+      "title": "n. เวิร์คช็อป",
+      "description": "The team attended a **workshop** on effective communication."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-yearbook",
+    "front": {
+      "icon": "",
+      "title": "Yearbook",
+      "description": "ˈjɪərbʊk"
+    },
+    "back": {
+      "icon": "📸",
+      "title": "n. หนังสือรุ่น",
+      "description": "The **cat** sat on the mat."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-access",
+    "front": {
+      "icon": "",
+      "title": "Access",
+      "description": "ˈæk.sɛs"
+    },
+    "back": {
+      "icon": "🔑",
+      "title": "n. เข้าถึง",
+      "description": "Please grant me **Access** to the document."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-collaboration",
+    "front": {
+      "icon": "",
+      "title": "Collaboration",
+      "description": "kəˌlæbəˈreɪʃən"
+    },
+    "back": {
+      "icon": "🤝",
+      "title": "n. ความร่วมมือ",
+      "description": "Effective **collaboration** is key to team success."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-creativity",
+    "front": {
+      "icon": "",
+      "title": "Creativity",
+      "description": "/ˌkriːeɪˈtɪvɪti/"
+    },
+    "back": {
+      "icon": "💡",
+      "title": "n. ความคิดสร้างสรรค์",
+      "description": "**Creativity** is essential for problem-solving."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-critical-thinking",
+    "front": {
+      "icon": "",
+      "title": "Critical thinking",
+      "description": "ˈkrɪtɪkəl ˈθɪŋkɪŋ"
+    },
+    "back": {
+      "icon": "🤔",
+      "title": "n. การคิดเชิงวิพากษ์",
+      "description": "**Critical thinking** is essential for problem-solving."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-cultural-diversity",
+    "front": {
+      "icon": "",
+      "title": "Cultural diversity",
+      "description": "ˈkʌltʃərəl daɪˈvɜːrsɪti"
+    },
+    "back": {
+      "icon": "🌍",
+      "title": "n. ความหลากหลายทางวัฒนธรรม",
+      "description": "**Cultural diversity** is a valuable asset in any community."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-rote-learning",
+    "front": {
+      "icon": "",
+      "title": "Rote-learning",
+      "description": "/ˈroʊt ˈlɜːrnɪŋ/"
+    },
+    "back": {
+      "icon": "🧠",
+      "title": "n. การเรียนรู้แบบท่องจำ",
+      "description": "**Rote-learning** can be effective for memorizing facts."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-early-childhood-education",
+    "front": {
+      "icon": "",
+      "title": "Early childhood education",
+      "description": "ˈɜːrli ˈtʃaɪldhʊd ˌɛdʒuˈkeɪʃən"
+    },
+    "back": {
+      "icon": "👶",
+      "title": "n. การศึกษาปฐมวัย",
+      "description": "**Education** is key to a brighter future."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-global-citizenship",
+    "front": {
+      "icon": "",
+      "title": "Global citizenship",
+      "description": "/ˈɡloʊbəl ˈsɪtɪzənˌʃɪp/"
+    },
+    "back": {
+      "icon": "🌍",
+      "title": "n. พลเมืองโลก",
+      "description": "**Global citizenship** emphasizes our shared responsibility for the world."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-guided-learning",
+    "front": {
+      "icon": "",
+      "title": "Guided learning",
+      "description": "ˈɡaɪdɪd ˈlɜːrnɪŋ"
+    },
+    "back": {
+      "icon": "👩‍🏫",
+      "title": "n. การเรียนรู้แบบมีผู้ชี้แนะ",
+      "description": "The teacher used **guided learning** to help the students understand the difficult concept."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-inclusive-education",
+    "front": {
+      "icon": "",
+      "title": "Inclusive education",
+      "description": "/ɪnˈkluːsɪv ˌɛdʒuˈkeɪʃən/"
+    },
+    "back": {
+      "icon": "🤝",
+      "title": "n. การศึกษาแบบเรียนร่วม",
+      "description": "**Inclusive education** ensures that all students, regardless of their abilities or backgrounds, have access to quality learning opportunities."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-lifelong-learning",
+    "front": {
+      "icon": "",
+      "title": "Lifelong learning",
+      "description": "/ˈlaɪflɒŋ ˈlɜːrnɪŋ/"
+    },
+    "back": {
+      "icon": "📚",
+      "title": "n. การเรียนรู้ตลอดชีวิต",
+      "description": "**Lifelong learning** is essential for personal and professional growth."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-problem-solving",
+    "front": {
+      "icon": "",
+      "title": "Problem-solving",
+      "description": "/ˈprɒbləm ˈsɒlvɪŋ/"
+    },
+    "back": {
+      "icon": "💡",
+      "title": "n. การแก้ปัญหา",
+      "description": "**Problem-solving** is a valuable skill in any profession."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-resilience",
+    "front": {
+      "icon": "",
+      "title": "Resilience",
+      "description": "/rɪˈzɪliəns/"
+    },
+    "back": {
+      "icon": "💪",
+      "title": "n. ความยืดหยุ่น",
+      "description": "Her **resilience** helped her overcome the challenges."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-pedagogical-experts",
+    "front": {
+      "icon": "",
+      "title": "Pedagogical (experts)",
+      "description": "/ˌpɛdəˈɡɒdʒɪkəl/ (/ˈɛkspɜːrts/)"
+    },
+    "back": {
+      "icon": "👩‍🏫",
+      "title": "adj. การสอน (ผู้เชี่ยวชาญ)",
+      "description": "The school implemented **pedagogical** reforms to improve teaching methods."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-master’s-degree",
+    "front": {
+      "icon": "",
+      "title": "Master’s Degree",
+      "description": "ˈmæstərz dɪˈɡriː"
+    },
+    "back": {
+      "icon": "🎓",
+      "title": "n. ปริญญาโท",
+      "description": "She believes that **education** is key to success."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-bookworm",
+    "front": {
+      "icon": "",
+      "title": "Bookworm",
+      "description": "/ˈbʊkˌwɜrm/"
+    },
+    "back": {
+      "icon": "🐛",
+      "title": "n. หนอนหนังสือ",
+      "description": "My sister is such a **Bookworm**; she reads at least three books a week."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-technology-integration",
+    "front": {
+      "icon": "",
+      "title": "Technology integration",
+      "description": "tɛkˈnɒlədʒi ˌɪntɪˈɡreɪʃən"
+    },
+    "back": {
+      "icon": "💻",
+      "title": "n. การบูรณาการเทคโนโลยี",
+      "description": "**Technology integration** in the classroom can greatly enhance the learning experience."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-twenty-first-century-skills",
+    "front": {
+      "icon": "",
+      "title": "Twenty-first century skills",
+      "description": "ˈtwɛnti fɜrst ˈsɛntʃəri skɪlz"
+    },
+    "back": {
+      "icon": "📚",
+      "title": "n. ทักษะแห่งศตวรรษที่ 21",
+      "description": "**Twenty-first century skills** are essential for success in today's world."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-hit-the-books",
+    "front": {
+      "icon": "",
+      "title": "Hit the Books",
+      "description": "/hɪt ðə bʊks/"
+    },
+    "back": {
+      "icon": "📚",
+      "title": "v. อ่านหนังสือ",
+      "description": "I need to **Hit the Books** tonight for my final exam."
+    }
+  },
+  {
+    "id": "ielts-by-category-education-continuous-assessment",
+    "front": {
+      "icon": "",
+      "title": "Continuous assessment",
+      "description": "kənˈtɪnjuəs əˈsɛsmənt"
+    },
+    "back": {
+      "icon": "🔄",
+      "title": "n. การประเมินอย่างต่อเนื่อง",
+      "description": "The teacher uses **continuous assessment** to monitor student progress throughout the semester."
+    }
+  }
+]

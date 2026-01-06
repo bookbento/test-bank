@@ -1,0 +1,3525 @@
+[
+  {
+    "id": "chinese-essencial-in-communication-1-english-you",
+    "front": {
+      "icon": "",
+      "title": "你",
+      "description": "nǐ"
+    },
+    "back": {
+      "icon": "👤",
+      "title": "you",
+      "description": "**你**好。 (Nǐ hǎo.) **You** are good. (or Hello.)"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-well-good",
+    "front": {
+      "icon": "",
+      "title": "好",
+      "description": "hǎo"
+    },
+    "back": {
+      "icon": "👍",
+      "title": "well, good",
+      "description": "你**好**。 (Nǐ **hǎo**.) You are **good**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-you-polite-form",
+    "front": {
+      "icon": "",
+      "title": "您",
+      "description": "nín"
+    },
+    "back": {
+      "icon": "🙇",
+      "title": "you (polite form)",
+      "description": "**您**贵姓？ (**Nín** guìxìng?) What is **your** surname (polite)?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-you-plural-form",
+    "front": {
+      "icon": "",
+      "title": "你们",
+      "description": "nǐmen"
+    },
+    "back": {
+      "icon": "👥",
+      "title": "you (plural form)",
+      "description": "**你们**是学生吗？ (**Nǐmen** shì xuéshēng ma?) Are **you** (plural) students?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-i'm-sorry",
+    "front": {
+      "icon": "",
+      "title": "对不起",
+      "description": "duìbuqǐ"
+    },
+    "back": {
+      "icon": "😥",
+      "title": "I'm sorry",
+      "description": "我做错了，**对不起**。 (Wǒ zuòcuòle, **duìbuqǐ**.) I made a mistake, **I'm sorry**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-it-doesn't-matter",
+    "front": {
+      "icon": "",
+      "title": "没关系",
+      "description": "méi guānxi"
+    },
+    "back": {
+      "icon": "😌",
+      "title": "it doesn't matter",
+      "description": "**没关系**，下次注意。 (**Méi guānxi**), xiàcì zhùyì. **It doesn't matter**, be careful next time."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-eh-expressing-question",
+    "front": {
+      "icon": "",
+      "title": "嗯",
+      "description": "ńg"
+    },
+    "back": {
+      "icon": "🤔",
+      "title": "eh (expressing question)",
+      "description": "**嗯**? 你说什么? (**Ńg**)? Nǐ shuō shénme? **Eh**? What did you say?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-student",
+    "front": {
+      "icon": "",
+      "title": "学生",
+      "description": "xuéshēng"
+    },
+    "back": {
+      "icon": "🧑‍🎓",
+      "title": "student",
+      "description": "我是一个**学生**。 (Wǒ shì yí ge **xuéshēng**.) I am a **student**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-a-particle-used-at-the-end-of-a-question",
+    "front": {
+      "icon": "",
+      "title": "吗",
+      "description": "ma"
+    },
+    "back": {
+      "icon": "❓",
+      "title": "(a particle used at the end of a question)",
+      "description": "你是老师**吗**？ (Nǐ shì lǎoshī **ma**)? Are you a teacher**?**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-your-surname-honorific",
+    "front": {
+      "icon": "",
+      "title": "贵姓",
+      "description": "guìxìng"
+    },
+    "back": {
+      "icon": "📜",
+      "title": "(your) surname (honorific)",
+      "description": "请问您**贵姓**？ (Qǐngwèn nín **guìxìng**)? May I ask **your surname**?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-be-surnamed",
+    "front": {
+      "icon": "",
+      "title": "姓",
+      "description": "xìng"
+    },
+    "back": {
+      "icon": "👨‍👩‍👧",
+      "title": "to be surnamed",
+      "description": "我**姓**王。 (Wǒ **xìng** Wáng.) I **am surnamed** Wang."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-may-i-ask...",
+    "front": {
+      "icon": "",
+      "title": "请问",
+      "description": "qǐngwèn"
+    },
+    "back": {
+      "icon": "🗣️",
+      "title": "may I ask...",
+      "description": "**请问**，厕所在哪里？ (**Qǐngwèn**), cèsuǒ zài nǎlǐ? **May I ask**, where is the restroom?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-please",
+    "front": {
+      "icon": "",
+      "title": "请",
+      "description": "qǐng"
+    },
+    "back": {
+      "icon": "🙏",
+      "title": "please",
+      "description": "**请**坐。 (**Qǐng**) zuò. **Please** sit."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-ask",
+    "front": {
+      "icon": "",
+      "title": "问",
+      "description": "wèn"
+    },
+    "back": {
+      "icon": "❓",
+      "title": "to ask",
+      "description": "我**问**老师一个问题。 (Wǒ **wèn** lǎoshī yí ge wèntí.) I **ask** the teacher a question."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-know",
+    "front": {
+      "icon": "",
+      "title": "认识",
+      "description": "rènshi"
+    },
+    "back": {
+      "icon": "👋",
+      "title": "to know",
+      "description": "很高兴**认识**你。 (Hěn gāoxìng **rènshi** nǐ.) Very happy **to know** you."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-very-quite",
+    "front": {
+      "icon": "",
+      "title": "很",
+      "description": "hěn"
+    },
+    "back": {
+      "icon": "⬆️",
+      "title": "very, quite",
+      "description": "我**很**高兴。 (Wǒ **hěn**) gāoxìng. I am **very** happy."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-happy",
+    "front": {
+      "icon": "",
+      "title": "高兴",
+      "description": "gāoxìng"
+    },
+    "back": {
+      "icon": "😄",
+      "title": "happy",
+      "description": "我很高兴**高兴**。 (Wǒ hěn **gāoxìng**.) I am very **happy**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-too-also-as-well",
+    "front": {
+      "icon": "",
+      "title": "也",
+      "description": "yě"
+    },
+    "back": {
+      "icon": "➕",
+      "title": "too, also, as well",
+      "description": "我**也**是学生。 (Wǒ **yě**) shì xuéshēng. I am a student **too**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-i-me",
+    "front": {
+      "icon": "",
+      "title": "我",
+      "description": "wǒ"
+    },
+    "back": {
+      "icon": "🙋",
+      "title": "I, me",
+      "description": "**我**是麦克。 (**Wǒ**) shì Màikè. **I** am Mike."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-be",
+    "front": {
+      "icon": "",
+      "title": "是",
+      "description": "shì"
+    },
+    "back": {
+      "icon": "✅",
+      "title": "to be",
+      "description": "他**是**老师。 (Tā **shì**) lǎoshī. He **is** a teacher."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-liu-shaohua",
+    "front": {
+      "icon": "",
+      "title": "刘少华",
+      "description": "Liú Shàohuá"
+    },
+    "back": {
+      "icon": "🇨🇳",
+      "title": "Liu Shaohua",
+      "description": "**刘少华**是我的朋友。 (**Liú Shàohuá**) shì wǒ de péngyǒu. **Liu Shaohua** is my friend."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-zhao-yulan",
+    "front": {
+      "icon": "",
+      "title": "赵玉兰",
+      "description": "Zhào Yùlán"
+    },
+    "back": {
+      "icon": "🇨🇳",
+      "title": "Zhao Yulan",
+      "description": "**赵玉兰**很高兴。 (**Zhào Yùlán**) hěn gāoxìng. **Zhao Yulan** is very happy."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-mike",
+    "front": {
+      "icon": "",
+      "title": "麦克",
+      "description": "Màikè"
+    },
+    "back": {
+      "icon": "🇺🇸",
+      "title": "Mike",
+      "description": "**麦克**是学生。 (**Màikè**) shì xuéshēng. **Mike** is a student."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-zhang-fangfang",
+    "front": {
+      "icon": "",
+      "title": "张芳芳",
+      "description": "Zhāng Fāngfāng"
+    },
+    "back": {
+      "icon": "🇨🇳",
+      "title": "Zhang Fangfang",
+      "description": "**张芳芳**姓张。 (**Zhāng Fāngfāng**) xìng Zhāng. **Zhang Fangfang** is surnamed Zhang."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-zhang-yuanyuan",
+    "front": {
+      "icon": "",
+      "title": "张圆圆",
+      "description": "Zhāng Yuányuán"
+    },
+    "back": {
+      "icon": "🇨🇳",
+      "title": "Zhang Yuanyuan",
+      "description": "**张圆圆**也是老师。 (**Zhāng Yuányuán**) yě shì lǎoshī. **Zhang Yuányuán** is also a teacher."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-kim-taesung",
+    "front": {
+      "icon": "",
+      "title": "金太成",
+      "description": "Jīn Tàichéng"
+    },
+    "back": {
+      "icon": "🇰🇷",
+      "title": "Kim Taesung",
+      "description": "**金太成**很高兴认识你。 (**Jīn Tàichéng**) hěn gāoxìng rènshi nǐ. **Kim Taesung** is very happy to know you."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-yamaguchi-kazuko",
+    "front": {
+      "icon": "",
+      "title": "山口和子",
+      "description": "Shānkǒu Hézǐ"
+    },
+    "back": {
+      "icon": "🇯🇵",
+      "title": "Yamaguchi Kazuko",
+      "description": "**山口和子**是学生。 (**Shānkǒu Hézǐ**) shì xuéshēng. **Yamaguchi Kazuko** is a student."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-wang-yang",
+    "front": {
+      "icon": "",
+      "title": "王杨",
+      "description": "Wáng Yáng"
+    },
+    "back": {
+      "icon": "🇨🇳",
+      "title": "Wang Yang",
+      "description": "**王杨**，你好！ (**Wáng Yáng**), nǐ hǎo! **Wang Yang**, hello!"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-mary",
+    "front": {
+      "icon": "",
+      "title": "玛丽",
+      "description": "Mǎlì"
+    },
+    "back": {
+      "icon": "🇬🇧",
+      "title": "Mary",
+      "description": "**玛丽**是老师。 (**Mǎlì**) shì lǎoshī. **Mary** is a teacher."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-faye",
+    "front": {
+      "icon": "",
+      "title": "菲雅",
+      "description": "Fēiyǎ"
+    },
+    "back": {
+      "icon": "🇺🇸",
+      "title": "Faye",
+      "description": "**菲雅**不是学生。 (**Fēiyǎ**) bú shì xuéshēng. **Faye** is not a student."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-li-dongsheng",
+    "front": {
+      "icon": "",
+      "title": "李冬生",
+      "description": "Lǐ Dōngshēng"
+    },
+    "back": {
+      "icon": "🇨🇳",
+      "title": "Li Dongsheng",
+      "description": "**李冬生**姓李。 (**Lǐ Dōngshēng**) xìng Lǐ. **Li Dongsheng** is surnamed Li."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-chen-xiaohong",
+    "front": {
+      "icon": "",
+      "title": "陈晓红",
+      "description": "Chén Xiǎohóng"
+    },
+    "back": {
+      "icon": "🇨🇳",
+      "title": "Chen Xiaohong",
+      "description": "**陈晓红**很高兴。 (**Chén Xiǎohóng**) hěn gāoxìng. **Chen Xiaohong** is very happy."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-she-her",
+    "front": {
+      "icon": "",
+      "title": "她",
+      "description": "tā"
+    },
+    "back": {
+      "icon": "👩",
+      "title": "she, her",
+      "description": "**她**是老师。 (**Tā**) shì lǎoshī. **She** is a teacher."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-who",
+    "front": {
+      "icon": "",
+      "title": "谁",
+      "description": "shéi"
+    },
+    "back": {
+      "icon": "🧐",
+      "title": "who",
+      "description": "你是**谁**？ (Nǐ shì **shéi**)? **Who** are you?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-he-him",
+    "front": {
+      "icon": "",
+      "title": "他",
+      "description": "tā"
+    },
+    "back": {
+      "icon": "👨",
+      "title": "he, him",
+      "description": "**他**是学生。 (**Tā**) shì xuéshēng. **He** is a student."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-teacher",
+    "front": {
+      "icon": "",
+      "title": "老师",
+      "description": "lǎoshī"
+    },
+    "back": {
+      "icon": "🧑‍🏫",
+      "title": "teacher",
+      "description": "我的**老师**姓王。 (Wǒ de **lǎoshī**) xìng Wáng. My **teacher** is surnamed Wang."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-be-called-as",
+    "front": {
+      "icon": "",
+      "title": "叫",
+      "description": "jiào"
+    },
+    "back": {
+      "icon": "🗣️",
+      "title": "to be called as",
+      "description": "我**叫**麦克。 (Wǒ **jiào**) Màikè. I **am called as** Mike."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-what",
+    "front": {
+      "icon": "",
+      "title": "什么",
+      "description": "shénme"
+    },
+    "back": {
+      "icon": "❓",
+      "title": "what",
+      "description": "你**叫**什么名字？ (Nǐ jiào **shénme** míngzì?) **What** is your name?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-name",
+    "front": {
+      "icon": "",
+      "title": "名字",
+      "description": "míngzi"
+    },
+    "back": {
+      "icon": "🏷️",
+      "title": "name",
+      "description": "我的**名字**叫李冬生。 (Wǒ de **míngzi**) jiào Lǐ Dōngshēng. My **name** is Li Dongsheng."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-name",
+    "front": {
+      "icon": "",
+      "title": "姓名",
+      "description": "xìngmíng"
+    },
+    "back": {
+      "icon": "🏷️",
+      "title": "name",
+      "description": "我的**姓名**是李冬生。 (Wǒ de **xìngmíng**) shì Lǐ Dōngshēng. My **name** is Li Dongsheng."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-nationality",
+    "front": {
+      "icon": "",
+      "title": "国籍",
+      "description": "guójí"
+    },
+    "back": {
+      "icon": "🌍",
+      "title": "nationality",
+      "description": "我的**国籍**是中国。 (Wǒ de **guójí**) shì Zhōngguó. My **nationality** is Chinese."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-again",
+    "front": {
+      "icon": "",
+      "title": "再",
+      "description": "zài"
+    },
+    "back": {
+      "icon": "🔄",
+      "title": "again",
+      "description": "请**再**说一次。 (Qǐng **zài**) shuō yí cì. Please say it **again**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-say-to-speak",
+    "front": {
+      "icon": "",
+      "title": "说",
+      "description": "shuō"
+    },
+    "back": {
+      "icon": "🗣️",
+      "title": "to say, to speak",
+      "description": "我**说**中文。 (Wǒ **shuō**) Zhōngwén. I **speak** Chinese."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-one",
+    "front": {
+      "icon": "",
+      "title": "一",
+      "description": "yī"
+    },
+    "back": {
+      "icon": "1️⃣",
+      "title": "one",
+      "description": "我有一个**一**。 (Wǒ yǒu **yī** ge.) I have **one**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-measure-times-of-actions",
+    "front": {
+      "icon": "",
+      "title": "遍",
+      "description": "biàn"
+    },
+    "back": {
+      "icon": "🔢",
+      "title": "(measure times of actions)",
+      "description": "我再说一**遍**。 (Wǒ zài shuō yí **biàn**.) I say it one **time** more."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-which;-where",
+    "front": {
+      "icon": "",
+      "title": "哪",
+      "description": "nǎ"
+    },
+    "back": {
+      "icon": "🗺️",
+      "title": "which; where",
+      "description": "你是**哪**国人？ (Nǐ shì **nǎ** guó rén?) **Which** country person are you?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-country-state",
+    "front": {
+      "icon": "",
+      "title": "国",
+      "description": "guó"
+    },
+    "back": {
+      "icon": "🌎",
+      "title": "country, state",
+      "description": "我爱我的**国**。 (Wǒ ài wǒ de **guó**.) I love my **country**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-people-person",
+    "front": {
+      "icon": "",
+      "title": "人",
+      "description": "rén"
+    },
+    "back": {
+      "icon": "🧑",
+      "title": "people, person",
+      "description": "我是一个**人**。 (Wǒ shì **rén**.) I am a **person**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-oh-understanding",
+    "front": {
+      "icon": "",
+      "title": "哦",
+      "description": "ò"
+    },
+    "back": {
+      "icon": "😮",
+      "title": "oh (understanding)",
+      "description": "**哦**，我明白了。 (**Ò**), wǒ míngbáile. **Oh**, I understand."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-indicating-a-possessive-relationship",
+    "front": {
+      "icon": "",
+      "title": "的",
+      "description": "de"
+    },
+    "back": {
+      "icon": "✨",
+      "title": "(indicating a possessive relationship)",
+      "description": "这是我**的**书。 (Zhè shì wǒ **de**) shū. This is my **(possessive)** book."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-passport",
+    "front": {
+      "icon": "",
+      "title": "护照",
+      "description": "hùzhào"
+    },
+    "back": {
+      "icon": "🛂",
+      "title": "passport",
+      "description": "请给我看你的**护照**。 (Qǐng gěi wǒ kàn nǐ de **hùzhào**.) Please show me your **passport**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-give",
+    "front": {
+      "icon": "",
+      "title": "给",
+      "description": "gěi"
+    },
+    "back": {
+      "icon": "🎁",
+      "title": "to give",
+      "description": "**给**我一杯水。 (**Gěi**) wǒ yī bēi shuǐ. **Give** me a glass of water."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-thank",
+    "front": {
+      "icon": "",
+      "title": "谢谢",
+      "description": "xièxie"
+    },
+    "back": {
+      "icon": "🙏",
+      "title": "to thank",
+      "description": "**谢谢**你。 (**Xièxie**) nǐ. **Thank** you."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-rawson",
+    "front": {
+      "icon": "",
+      "title": "罗森",
+      "description": "Luósēn"
+    },
+    "back": {
+      "icon": "👨",
+      "title": "Rawson",
+      "description": "**罗森**是澳大利亚人。 (**Luósēn**) shì Àodàlìyà rén. **Rawson** is Australian."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-france",
+    "front": {
+      "icon": "",
+      "title": "法国",
+      "description": "Fǎguó"
+    },
+    "back": {
+      "icon": "🇫🇷",
+      "title": "France",
+      "description": "他去**法国**。 (Tā qù **Fǎguó**.) He goes to **France**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-everybody",
+    "front": {
+      "icon": "",
+      "title": "大家",
+      "description": "dàjiā"
+    },
+    "back": {
+      "icon": "🧑‍🤝‍🧑",
+      "title": "everybody",
+      "description": "**大家**好！ (**Dàjiā**) hǎo! Hello **everybody**!"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-coach",
+    "front": {
+      "icon": "",
+      "title": "教练",
+      "description": "jiàoliàn"
+    },
+    "back": {
+      "icon": "⚽",
+      "title": "coach",
+      "description": "我是足球**教练**。 (Wǒ shì zúqiú **jiàoliàn**.) I am a football **coach**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-nurse",
+    "front": {
+      "icon": "",
+      "title": "护士",
+      "description": "hùshi"
+    },
+    "back": {
+      "icon": "⚕️",
+      "title": "nurse",
+      "description": "她是一个**护士**。 (Tā shì yí ge **hùshi**.) She is a **nurse**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-measure-word",
+    "front": {
+      "icon": "",
+      "title": "名",
+      "description": "míng"
+    },
+    "back": {
+      "icon": "📏",
+      "title": "(measure word)",
+      "description": "请说一**名**。 (Qǐng shuō yī **míng**.) Please say **one person** (formal)."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-college-student",
+    "front": {
+      "icon": "",
+      "title": "大学生",
+      "description": "dàxuésheng"
+    },
+    "back": {
+      "icon": "🎓",
+      "title": "college student",
+      "description": "我是一个**大学生**。 (Wǒ shì **dàxuésheng**.) I am a **college student**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-secretary",
+    "front": {
+      "icon": "",
+      "title": "秘书",
+      "description": "mìshū"
+    },
+    "back": {
+      "icon": "💼",
+      "title": "secretary",
+      "description": "他/她是我的**秘书**。 (Tā/Tā shì wǒ de **mìshū**.) He/She is my **secretary**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-okey",
+    "front": {
+      "icon": "",
+      "title": "好",
+      "description": "hǎo"
+    },
+    "back": {
+      "icon": "👌",
+      "title": "Okey",
+      "description": "**好**，我们走吧。 (**Hǎo**), wǒmen zǒu ba. **Okay** (conclusion), let's go."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-jane",
+    "front": {
+      "icon": "",
+      "title": "珍妮",
+      "description": "Zhēnnī"
+    },
+    "back": {
+      "icon": "👩",
+      "title": "Jane",
+      "description": "**珍妮**很高兴。 (**Zhēnnī**) hěn gāoxìng. **Jane** is very happy."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-australia",
+    "front": {
+      "icon": "",
+      "title": "澳大利亚",
+      "description": "Àodàlìyà"
+    },
+    "back": {
+      "icon": "🇦🇺",
+      "title": "Australia",
+      "description": "我来自**澳大利亚**。 (Wǒ láizì **Àodàlìyà**.) I come from **Australia**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-germany",
+    "front": {
+      "icon": "",
+      "title": "德国",
+      "description": "Déguó"
+    },
+    "back": {
+      "icon": "🇩🇪",
+      "title": "Germany",
+      "description": "我住在**德国**。 (Wǒ zhùzài **Déguó**.) I live in **Germany**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-everyday",
+    "front": {
+      "icon": "",
+      "title": "每天",
+      "description": "měitiān"
+    },
+    "back": {
+      "icon": "🗓️",
+      "title": "everyday",
+      "description": "我**每天**工作。 (Wǒ **měitiān**) gōngzuò. I work **everyday**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-library",
+    "front": {
+      "icon": "",
+      "title": "图书馆",
+      "description": "túshūguǎn"
+    },
+    "back": {
+      "icon": "📚",
+      "title": "library",
+      "description": "我下午去**图书馆**。 (Wǒ xiàwǔ qù **túshūguǎn**.) I go to the **library** in the afternoon."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-afternoon",
+    "front": {
+      "icon": "",
+      "title": "下午",
+      "description": "xiàwǔ"
+    },
+    "back": {
+      "icon": "🌞",
+      "title": "afternoon",
+      "description": "我**下午**工作。 (Wǒ **xiàwǔ**) gōngzuò. I work in the **afternoon**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-work",
+    "front": {
+      "icon": "",
+      "title": "工作",
+      "description": "gōngzuò"
+    },
+    "back": {
+      "icon": "👷",
+      "title": "to work",
+      "description": "我**工作**很忙。 (Wǒ **gōngzuò**) hěn máng. I **work** very busy."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-at-in-on",
+    "front": {
+      "icon": "",
+      "title": "在",
+      "description": "zài"
+    },
+    "back": {
+      "icon": "📍",
+      "title": "at, in, on",
+      "description": "我**在**家。 (Wǒ **zài**) jiā. I am **at** home."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-where",
+    "front": {
+      "icon": "",
+      "title": "哪儿",
+      "description": "nǎr"
+    },
+    "back": {
+      "icon": "🗺️",
+      "title": "where",
+      "description": "你**在**哪儿？ (Nǐ zài **nǎr**)? **Where** are you?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-measure-word",
+    "front": {
+      "icon": "",
+      "title": "家",
+      "description": "jiā"
+    },
+    "back": {
+      "icon": "🏠",
+      "title": "(measure word)",
+      "description": "我有五**家**公司。 (Wǒ yǒu wǔ **jiā**) gōngsī. I have five **firms**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-firm-company",
+    "front": {
+      "icon": "",
+      "title": "公司",
+      "description": "gōngsī"
+    },
+    "back": {
+      "icon": "🏢",
+      "title": "firm, company",
+      "description": "我在**公司**工作。 (Wǒ zài **gōngsī**) gōngzuò. I work at the **company**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-department-manager",
+    "front": {
+      "icon": "",
+      "title": "部门经理",
+      "description": "bùmén jīnglǐ"
+    },
+    "back": {
+      "icon": "🥇",
+      "title": "department manager",
+      "description": "我是**部门经理**。 (Wǒ shì **bùmén jīnglǐ**.) I am a **department manager**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-do-to-make",
+    "front": {
+      "icon": "",
+      "title": "做",
+      "description": "zuò"
+    },
+    "back": {
+      "icon": "🛠️",
+      "title": "to do, to make",
+      "description": "你**做**什么工作？ (Nǐ **zuò**) shénme gōngzuò? **What** work do you do?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-clerk",
+    "front": {
+      "icon": "",
+      "title": "职员",
+      "description": "zhíyuán"
+    },
+    "back": {
+      "icon": "👨‍💻",
+      "title": "clerk",
+      "description": "她是一名**职员**。 (Tā shì yī míng **zhíyuán**.) She is a **clerk**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-a-particle-used-at-the-end-of-a-question",
+    "front": {
+      "icon": "",
+      "title": "吧",
+      "description": "ba"
+    },
+    "back": {
+      "icon": "💬",
+      "title": "a particle (used at the end of a question)",
+      "description": "我们走**吧**。 (Wǒmen zǒu **ba**.) Let's go, **okay**?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-no-not",
+    "front": {
+      "icon": "",
+      "title": "不",
+      "description": "bù"
+    },
+    "back": {
+      "icon": "❌",
+      "title": "no, not",
+      "description": "我**不**是老师。 (Wǒ **bù**) shì lǎoshī. I am **not** a teacher."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-united-states-of-america-usa",
+    "front": {
+      "icon": "",
+      "title": "美国",
+      "description": "Měiguó"
+    },
+    "back": {
+      "icon": "🇺🇸",
+      "title": "United States of America (USA)",
+      "description": "他是**美国**人。 (Tā shì **Měiguó** rén.) He is from the **United States of America**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-united-kingdom-uk",
+    "front": {
+      "icon": "",
+      "title": "英国",
+      "description": "Yīngguó"
+    },
+    "back": {
+      "icon": "🇬🇧",
+      "title": "United Kingdom (UK)",
+      "description": "我去过**英国**。 (Wǒ qù guo **Yīngguó**.) I have been to the **United Kingdom**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-japan",
+    "front": {
+      "icon": "",
+      "title": "日本",
+      "description": "Rìběn"
+    },
+    "back": {
+      "icon": "🇯🇵",
+      "title": "Japan",
+      "description": "**日本**人很高兴。 (**Rìběn**) rén hěn gāoxìng. **Japanese** people are very happy."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-republic-of-korea",
+    "front": {
+      "icon": "",
+      "title": "韩国",
+      "description": "Hánguó"
+    },
+    "back": {
+      "icon": "🇰🇷",
+      "title": "Republic of Korea",
+      "description": "她是**韩国**人。 (Tā shì **Hánguó** rén.) She is from the **Republic of Korea**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-dad-father",
+    "front": {
+      "icon": "",
+      "title": "爸爸",
+      "description": "bàba"
+    },
+    "back": {
+      "icon": "👨‍👧",
+      "title": "dad, father",
+      "description": "我爱我的**爸爸**。 (Wǒ ài wǒ de **bàba**.) I love my **dad**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-mom-mother",
+    "front": {
+      "icon": "",
+      "title": "妈妈",
+      "description": "māma"
+    },
+    "back": {
+      "icon": "👩‍👦",
+      "title": "mom, mother",
+      "description": "我爱我的**妈妈**。 (Wǒ ài wǒ de **māma**.) I love my **mom**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-place",
+    "front": {
+      "icon": "",
+      "title": "地方",
+      "description": "dìfāng"
+    },
+    "back": {
+      "icon": "🗺️",
+      "title": "place",
+      "description": "这是什么**地方**？ (Zhè shì shénme **dìfāng**)? What **place** is this?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-from",
+    "front": {
+      "icon": "",
+      "title": "从",
+      "description": "cóng"
+    },
+    "back": {
+      "icon": "⬅️",
+      "title": "from",
+      "description": "我**从**家来。 (Wǒ **cóng**) jiā lái. I come **from** home."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-come",
+    "front": {
+      "icon": "",
+      "title": "来",
+      "description": "lái"
+    },
+    "back": {
+      "icon": "➡️",
+      "title": "to come",
+      "description": "你**来**这里。 (Nǐ **lái**) zhèlǐ. **Come** here."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-but",
+    "front": {
+      "icon": "",
+      "title": "但",
+      "description": "dàn"
+    },
+    "back": {
+      "icon": "🛑",
+      "title": "but",
+      "description": "我想去，**但**我很忙。 (Wǒ xiǎng qù, **dàn**) wǒ hěn máng. I want to go, **but** I am busy."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-oh-expressing-doubt",
+    "front": {
+      "icon": "",
+      "title": "哦",
+      "description": "ò"
+    },
+    "back": {
+      "icon": "🤨",
+      "title": "oh (expressing doubt)",
+      "description": "**哦**? 真的吗？ (**Ò**)? Zhēn de ma? **Oh**? Really?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-beijing",
+    "front": {
+      "icon": "",
+      "title": "北京",
+      "description": "Běijīng"
+    },
+    "back": {
+      "icon": "🇨🇳",
+      "title": "Beijing",
+      "description": "我明天去**北京**。 (Wǒ míngtiān qù **Běijīng**.) I go to **Beijing** tomorrow."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-shanghai",
+    "front": {
+      "icon": "",
+      "title": "上海",
+      "description": "Shànghǎi"
+    },
+    "back": {
+      "icon": "🇨🇳",
+      "title": "Shanghai",
+      "description": "**上海**很漂亮。 (**Shànghǎi**) hěn piàoliang. **Shanghai** is very beautiful."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-guangdong",
+    "front": {
+      "icon": "",
+      "title": "广东",
+      "description": "Guǎngdōng"
+    },
+    "back": {
+      "icon": "🇨🇳",
+      "title": "Guangdong",
+      "description": "我的家在**广东**。 (Wǒ de jiā zài **Guǎngdōng**.) My home is in **Guangdong**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-tokyo",
+    "front": {
+      "icon": "",
+      "title": "东京",
+      "description": "Dōngjīng"
+    },
+    "back": {
+      "icon": "🇯🇵",
+      "title": "Tokyo",
+      "description": "我想去**东京**。 (Wǒ xiǎng qù **Dōngjīng**.) I want to go to **Tokyo**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-london",
+    "front": {
+      "icon": "",
+      "title": "伦敦",
+      "description": "Lúndūn"
+    },
+    "back": {
+      "icon": "🇬🇧",
+      "title": "London",
+      "description": "**伦敦**是英国的首都。 (**Lúndūn**) shì Yīngguó de shǒudū. **London** is the capital of the UK."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-china",
+    "front": {
+      "icon": "",
+      "title": "中国",
+      "description": "Zhōngguó"
+    },
+    "back": {
+      "icon": "🇨🇳",
+      "title": "China",
+      "description": "我是**中国**人。 (Wǒ shì **Zhōngguó**) rén. I am **Chinese**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-little-friend",
+    "front": {
+      "icon": "",
+      "title": "小朋友",
+      "description": "xiǎopéngyǒu"
+    },
+    "back": {
+      "icon": "👧",
+      "title": "little friend",
+      "description": "**小朋友**你好！ (**Xiǎopéngyǒu**) nǐ hǎo! Hello, **little friend**!"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-how-many;-several",
+    "front": {
+      "icon": "",
+      "title": "几",
+      "description": "jǐ"
+    },
+    "back": {
+      "icon": "🔢",
+      "title": "how many; several",
+      "description": "你有**几**本书？ (Nǐ yǒu **jǐ**) běn shū? How many books do you have?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-measure-word-used-for-age",
+    "front": {
+      "icon": "",
+      "title": "岁",
+      "description": "suì"
+    },
+    "back": {
+      "icon": "🎂",
+      "title": "(measure word, used for age)",
+      "description": "你多大**岁**了？ (Nǐ duō dà **suì**) le? How old (age) are you?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-guess",
+    "front": {
+      "icon": "",
+      "title": "猜",
+      "description": "cāi"
+    },
+    "back": {
+      "icon": "🤫",
+      "title": "to guess",
+      "description": "你**猜**我是谁？ (Nǐ **cāi**) wǒ shì shéi? **Guess** who I am?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-correct-right",
+    "front": {
+      "icon": "",
+      "title": "对",
+      "description": "duì"
+    },
+    "back": {
+      "icon": "✅",
+      "title": "correct, right",
+      "description": "你说得很**对**。 (Nǐ shuō de hěn **duì**.) What you said is very **correct**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-aunty",
+    "front": {
+      "icon": "",
+      "title": "阿姨",
+      "description": "āyí"
+    },
+    "back": {
+      "icon": "👵",
+      "title": "aunty",
+      "description": "**阿姨**，你好！ (**Āyí**), nǐ hǎo! Hello, **aunty**!"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-how-old",
+    "front": {
+      "icon": "",
+      "title": "多大",
+      "description": "duō dà"
+    },
+    "back": {
+      "icon": "❓",
+      "title": "how old",
+      "description": "你**多大**了？ (Nǐ **duō dà**) le? **How old** are you?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-this",
+    "front": {
+      "icon": "",
+      "title": "这",
+      "description": "zhè"
+    },
+    "back": {
+      "icon": "👇",
+      "title": "this",
+      "description": "**这**是我的书。 (**Zhè**) shì wǒ de shū. **This** is my book."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-secret",
+    "front": {
+      "icon": "",
+      "title": "秘密",
+      "description": "mìmì"
+    },
+    "back": {
+      "icon": "🤐",
+      "title": "secret",
+      "description": "这是一个**秘密**。 (Zhè shì yí ge **mìmì**.) This is a **secret**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-li-ming",
+    "front": {
+      "icon": "",
+      "title": "李明",
+      "description": "Lǐ Míng"
+    },
+    "back": {
+      "icon": "👨",
+      "title": "Li Ming",
+      "description": "**李明**是我的同学。 (**Lǐ Míng**) shì wǒ de tóngxué. **Li Ming** is my classmate."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-business-matter",
+    "front": {
+      "icon": "",
+      "title": "事",
+      "description": "shì"
+    },
+    "back": {
+      "icon": "📝",
+      "title": "business, matter",
+      "description": "我有一件**事**。 (Wǒ yǒu yí jiàn **shì**.) I have a **matter**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-want",
+    "front": {
+      "icon": "",
+      "title": "想",
+      "description": "xiǎng"
+    },
+    "back": {
+      "icon": "💭",
+      "title": "to want",
+      "description": "我**想**去北京。 (Wǒ **xiǎng**) qù Běijīng. I **want** to go to Beijing."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-keep-fit",
+    "front": {
+      "icon": "",
+      "title": "健身",
+      "description": "jiànshēn"
+    },
+    "back": {
+      "icon": "🏋️",
+      "title": "to keep fit",
+      "description": "我**健身**。 (Wǒ **jiànshēn**.) I **keep fit**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-this-year",
+    "front": {
+      "icon": "",
+      "title": "今年",
+      "description": "jīnnián"
+    },
+    "back": {
+      "icon": "📅",
+      "title": "this year",
+      "description": "**今年**我十八岁。 (**Jīnnián**) wǒ shíbā suì. **This year** I am eighteen."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-female",
+    "front": {
+      "icon": "",
+      "title": "女",
+      "description": "nǚ"
+    },
+    "back": {
+      "icon": "♀️",
+      "title": "female",
+      "description": "她不是**女**老师。 (Tā bú shì **nǚ**) lǎoshī. She is not a **female** teacher."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-saturday",
+    "front": {
+      "icon": "",
+      "title": "星期六",
+      "description": "Xīngqīliù"
+    },
+    "back": {
+      "icon": "🥳",
+      "title": "Saturday",
+      "description": "我**星期六**休息。 (Wǒ **Xīngqīliù**) xiūxi. I rest on **Saturday**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-morning-am",
+    "front": {
+      "icon": "",
+      "title": "上午",
+      "description": "shàngwǔ"
+    },
+    "back": {
+      "icon": "☀️",
+      "title": "morning, am",
+      "description": "我**上午**去图书馆。 (Wǒ **shàngwǔ**) qù túshūguǎn. I go to the library in the **morning**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-can-may",
+    "front": {
+      "icon": "",
+      "title": "可以",
+      "description": "kěyǐ"
+    },
+    "back": {
+      "icon": "👍",
+      "title": "can, may",
+      "description": "你**可以**来。 (Nǐ **kěyǐ**) lái. You **can** come."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-aunt",
+    "front": {
+      "icon": "",
+      "title": "大妈",
+      "description": "dàmā"
+    },
+    "back": {
+      "icon": "👩‍🦳",
+      "title": "aunt",
+      "description": "**大妈**在健身。 (**Dàmā**) zài jiànshēn. The **aunt** is keeping fit."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-peking-opera",
+    "front": {
+      "icon": "",
+      "title": "京剧",
+      "description": "jīngjù"
+    },
+    "back": {
+      "icon": "🎭",
+      "title": "Peking opera",
+      "description": "我喜欢看**京剧**。 (Wǒ xǐhuān kàn **jīngjù**.) I like to watch **Peking opera**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-voice",
+    "front": {
+      "icon": "",
+      "title": "声音",
+      "description": "shēngyīn"
+    },
+    "back": {
+      "icon": "🎶",
+      "title": "voice",
+      "description": "你的**声音**很好听。 (Nǐ de **shēngyīn**) hěn hǎotīng. Your **voice** is very pleasant to hear."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-really",
+    "front": {
+      "icon": "",
+      "title": "真",
+      "description": "zhēn"
+    },
+    "back": {
+      "icon": "😲",
+      "title": "really",
+      "description": "你**真**高。 (Nǐ **zhēn**) gāo. You are **really** tall."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-pleasant-to-hear-sound-nice",
+    "front": {
+      "icon": "",
+      "title": "好听",
+      "description": "hǎotīng"
+    },
+    "back": {
+      "icon": "👂",
+      "title": "pleasant to hear, sound nice",
+      "description": "音乐很**好听**。 (Yīnyuè hěn **hǎotīng**.) The music is very **pleasant to hear**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-age",
+    "front": {
+      "icon": "",
+      "title": "年纪",
+      "description": "niánjì"
+    },
+    "back": {
+      "icon": "👵",
+      "title": "age",
+      "description": "他的**年纪**很大。 (Tā de **niánjì**) hěn dà. His **age** is very big (he is old)."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-grandmother",
+    "front": {
+      "icon": "",
+      "title": "外婆",
+      "description": "wàipó"
+    },
+    "back": {
+      "icon": "👵",
+      "title": "grandmother",
+      "description": "我爱我的**外婆**。 (Wǒ ài wǒ de **wàipó**.) I love my **grandmother**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-take-a-look",
+    "front": {
+      "icon": "",
+      "title": "看",
+      "description": "kàn"
+    },
+    "back": {
+      "icon": "👀",
+      "title": "to take a look",
+      "description": "**看**这个！ (**Kàn**) zhège! **Look** at this!"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-how",
+    "front": {
+      "icon": "",
+      "title": "怎么样",
+      "description": "zěnmeyàng"
+    },
+    "back": {
+      "icon": "🤔",
+      "title": "how",
+      "description": "你**怎么样**？ (Nǐ **zěnmeyàng**)? **How** are you?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-not-bad",
+    "front": {
+      "icon": "",
+      "title": "不错",
+      "description": "búcuò"
+    },
+    "back": {
+      "icon": "👌",
+      "title": "not bad",
+      "description": "我今天很**不错**。 (Wǒ jīntiān hěn **búcuò**.) I'm **not bad** today."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-foreigner",
+    "front": {
+      "icon": "",
+      "title": "外国人",
+      "description": "wàiguó rén"
+    },
+    "back": {
+      "icon": "🌍",
+      "title": "foreigner",
+      "description": "我不是**外国人**。 (Wǒ bú shì **wàiguó rén**.) I am not a **foreigner**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-foreign-country",
+    "front": {
+      "icon": "",
+      "title": "外国",
+      "description": "wàiguó"
+    },
+    "back": {
+      "icon": "✈️",
+      "title": "foreign country",
+      "description": "我要去**外国**。 (Wǒ yào qù **wàiguó**.) I want to go to a **foreign country**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-university",
+    "front": {
+      "icon": "",
+      "title": "大学",
+      "description": "dàxué"
+    },
+    "back": {
+      "icon": "🏛️",
+      "title": "university",
+      "description": "我在**大学**学习。 (Wǒ zài **dàxué**) xuéxí. I study at the **university**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-learn",
+    "front": {
+      "icon": "",
+      "title": "学习",
+      "description": "xuéxí"
+    },
+    "back": {
+      "icon": "🧠",
+      "title": "to learn",
+      "description": "我**学习**中文。 (Wǒ **xuéxí**) Zhōngwén. I **learn** Chinese."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-male",
+    "front": {
+      "icon": "",
+      "title": "男",
+      "description": "nán"
+    },
+    "back": {
+      "icon": "♂️",
+      "title": "male",
+      "description": "他是**男**学生。 (Tā shì **nán**) xuéshēng. He is a **male** student."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-or",
+    "front": {
+      "icon": "",
+      "title": "还是",
+      "description": "háishi"
+    },
+    "back": {
+      "icon": "⚖️",
+      "title": "or",
+      "description": "你喝茶**还是**咖啡？ (Nǐ hē chá **háishi**) kāfēi? Do you drink tea **or** coffee?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-stature-height",
+    "front": {
+      "icon": "",
+      "title": "个子",
+      "description": "gèzi"
+    },
+    "back": {
+      "icon": "⬆️",
+      "title": "stature, height",
+      "description": "他的**个子**很高。 (Tā de **gèzi**) hěn gāo. His **height** is very tall."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-tall",
+    "front": {
+      "icon": "",
+      "title": "高",
+      "description": "gāo"
+    },
+    "back": {
+      "icon": "📏",
+      "title": "tall",
+      "description": "他很**高**。 (Tā hěn **gāo**.) He is very **tall**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-meter-measure-word",
+    "front": {
+      "icon": "",
+      "title": "米",
+      "description": "mǐ"
+    },
+    "back": {
+      "icon": "📏",
+      "title": "meter (measure word)",
+      "description": "他有两**米**高。 (Tā yǒu liǎng **mǐ**) gāo. He is two **meters** tall."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-about-or-so-used-after-a-number",
+    "front": {
+      "icon": "",
+      "title": "左右",
+      "description": "zuǒyòu"
+    },
+    "back": {
+      "icon": "🔄",
+      "title": "about, or so (used after a number)",
+      "description": "他二十岁**左右**。 (Tā èrshí suì **zuǒyòu**.) He is **about** twenty years old."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-handsome",
+    "front": {
+      "icon": "",
+      "title": "帅",
+      "description": "shuài"
+    },
+    "back": {
+      "icon": "🤩",
+      "title": "handsome",
+      "description": "他很**帅**。 (Tā hěn **shuài**.) He is very **handsome**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-look-for",
+    "front": {
+      "icon": "",
+      "title": "找",
+      "description": "zhǎo"
+    },
+    "back": {
+      "icon": "🔎",
+      "title": "to look for",
+      "description": "我在**找**我的护照。 (Wǒ zài **zhǎo**) wǒ de hùzhào. I am **looking for** my passport."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-such-like-this",
+    "front": {
+      "icon": "",
+      "title": "这样",
+      "description": "zhèyàng"
+    },
+    "back": {
+      "icon": "👈",
+      "title": "such, like this",
+      "description": "我喜欢**这样**做。 (Wǒ xǐhuān **zhèyàng**) zuò. I like to do it **like this**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-boyfriend",
+    "front": {
+      "icon": "",
+      "title": "男朋友",
+      "description": "nán péngyǒu"
+    },
+    "back": {
+      "icon": "👫",
+      "title": "boyfriend",
+      "description": "他是我**男朋友**。 (Tā shì wǒ **nán péngyǒu**.) He is my **boyfriend**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-miss",
+    "front": {
+      "icon": "",
+      "title": "小姐",
+      "description": "xiǎojiě"
+    },
+    "back": {
+      "icon": "👸",
+      "title": "miss",
+      "description": "**小姐**，您贵姓？ (**Xiǎojiě**), nín guìxìng? **Miss**, what is your surname?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-tired-fatigued",
+    "front": {
+      "icon": "",
+      "title": "累",
+      "description": "lèi"
+    },
+    "back": {
+      "icon": "😴",
+      "title": "tired, fatigued",
+      "description": "我今天很**累**。 (Wǒ jīntiān hěn **lèi**.) I am very **tired** today."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-tomorrow",
+    "front": {
+      "icon": "",
+      "title": "明天",
+      "description": "míngtiān"
+    },
+    "back": {
+      "icon": "🌅",
+      "title": "tomorrow",
+      "description": "**明天**见。 (**Míngtiān**) jiàn. See you **tomorrow**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-have-a-rest",
+    "front": {
+      "icon": "",
+      "title": "休息",
+      "description": "xiūxi"
+    },
+    "back": {
+      "icon": "🛌",
+      "title": "to have a rest",
+      "description": "我今天想**休息**。 (Wǒ jīntiān xiǎng **xiūxi**.) I want **to have a rest** today."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-want-to-do",
+    "front": {
+      "icon": "",
+      "title": "要",
+      "description": "yào"
+    },
+    "back": {
+      "icon": "🙏",
+      "title": "to want (to do)",
+      "description": "我**要**去北京。 (Wǒ **yào**) qù Běijīng. I **want** to go to Beijing."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-too",
+    "front": {
+      "icon": "",
+      "title": "太",
+      "description": "tài"
+    },
+    "back": {
+      "icon": "😱",
+      "title": "too",
+      "description": "你**太**高了！ (Nǐ **tài**) gāo le! You are **too** tall!"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-overweight",
+    "front": {
+      "icon": "",
+      "title": "胖",
+      "description": "pàng"
+    },
+    "back": {
+      "icon": "🍔",
+      "title": "overweight",
+      "description": "我**胖**了。 (Wǒ **pàng**) le. I am **overweight** (got fat)."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-ah-modal-particle",
+    "front": {
+      "icon": "",
+      "title": "啊",
+      "description": "a"
+    },
+    "back": {
+      "icon": "😮",
+      "title": "ah (modal particle)",
+      "description": "好**啊**！ (Hǎo **a**) ! Good, **ah**!"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-weight",
+    "front": {
+      "icon": "",
+      "title": "体重",
+      "description": "tǐzhòng"
+    },
+    "back": {
+      "icon": "⚖️",
+      "title": "weight",
+      "description": "你的**体重**是多少？ (Nǐ de **tǐzhòng**) shì duōshǎo? What is your **weight**?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-kilogram-measure-word",
+    "front": {
+      "icon": "",
+      "title": "公斤",
+      "description": "gōngjīn"
+    },
+    "back": {
+      "icon": "⚖️",
+      "title": "kilogram (measure word)",
+      "description": "我有五十五**公斤**。 (Wǒ yǒu wǔshíwǔ **gōngjīn**.) I have fifty-five **kilograms**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-yet-still",
+    "front": {
+      "icon": "",
+      "title": "还",
+      "description": "hái"
+    },
+    "back": {
+      "icon": "⏳",
+      "title": "yet, still",
+      "description": "我**还**没去。 (Wǒ **hái**) méi qù. I haven't gone **yet**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-passable-not-bad",
+    "front": {
+      "icon": "",
+      "title": "可以",
+      "description": "kěyǐ"
+    },
+    "back": {
+      "icon": "👌",
+      "title": "passable, not bad",
+      "description": "他的中文**可以**。 (Tā de Zhōngwén **kěyǐ**.) His Chinese is **passable**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-we-us",
+    "front": {
+      "icon": "",
+      "title": "我们",
+      "description": "wǒmen"
+    },
+    "back": {
+      "icon": "👥",
+      "title": "we, us",
+      "description": "**我们**去学校。 (**Wǒmen**) qù xuéxiào. **We** go to school."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-school;-university",
+    "front": {
+      "icon": "",
+      "title": "学校",
+      "description": "xuéxiào"
+    },
+    "back": {
+      "icon": "🏫",
+      "title": "school; university",
+      "description": "我在**学校**学习。 (Wǒ zài **xuéxiào**) xuéxí. I study at **school**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-there-be;-to-have",
+    "front": {
+      "icon": "",
+      "title": "有",
+      "description": "yǒu"
+    },
+    "back": {
+      "icon": "✅",
+      "title": "there be; to have",
+      "description": "我**有**一个妹妹。 (Wǒ **yǒu**) yí ge mèimei. I **have** a younger sister."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-callisthenics",
+    "front": {
+      "icon": "",
+      "title": "健美操",
+      "description": "jiànměicāo"
+    },
+    "back": {
+      "icon": "🤸",
+      "title": "callisthenics",
+      "description": "我喜欢**健美操**。 (Wǒ xǐhuān **jiànměicāo**.) I like **callisthenics**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-competition",
+    "front": {
+      "icon": "",
+      "title": "比赛",
+      "description": "bǐsài"
+    },
+    "back": {
+      "icon": "🏆",
+      "title": "competition",
+      "description": "我参加**比赛**。 (Wǒ cānjiā **bǐsài**.) I participate in the **competition**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-participate-in",
+    "front": {
+      "icon": "",
+      "title": "参加",
+      "description": "cānjiā"
+    },
+    "back": {
+      "icon": "🙋",
+      "title": "to participate in",
+      "description": "我**参加**比赛。 (Wǒ **cānjiā**) bǐsài. I **participate in** the competition."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-act-as-to-serve-as",
+    "front": {
+      "icon": "",
+      "title": "当",
+      "description": "dāng"
+    },
+    "back": {
+      "icon": "🏅",
+      "title": "to act as, to serve as",
+      "description": "我**当**老师。 (Wǒ **dāng**) lǎoshī. I **act as** a teacher."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-go-to",
+    "front": {
+      "icon": "",
+      "title": "去",
+      "description": "qù"
+    },
+    "back": {
+      "icon": "🚶",
+      "title": "to go to",
+      "description": "我**去**北京。 (Wǒ **qù**) Běijīng. I **go to** Beijing."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-live",
+    "front": {
+      "icon": "",
+      "title": "住",
+      "description": "zhù"
+    },
+    "back": {
+      "icon": "🏡",
+      "title": "to live",
+      "description": "我**住**在宿舍。 (Wǒ **zhù**) zài sùshè. I **live** in the dormitory."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-dormitory",
+    "front": {
+      "icon": "",
+      "title": "宿舍",
+      "description": "sùshè"
+    },
+    "back": {
+      "icon": "🛌",
+      "title": "dormitory",
+      "description": "我住在**宿舍**。 (Wǒ zhùzài **sùshè**.) I live in the **dormitory**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-number-order",
+    "front": {
+      "icon": "",
+      "title": "号",
+      "description": "hào"
+    },
+    "back": {
+      "icon": "#️⃣",
+      "title": "number, order",
+      "description": "我的房间**号**是 302。 (Wǒ de fángjiān **hào**) shì sān líng èr. My room **number** is 302."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-building",
+    "front": {
+      "icon": "",
+      "title": "楼",
+      "description": "lóu"
+    },
+    "back": {
+      "icon": "🏢",
+      "title": "building",
+      "description": "我在三**楼**。 (Wǒ zài sān **lóu**.) I am on the third **floor/building**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-room",
+    "front": {
+      "icon": "",
+      "title": "房间",
+      "description": "fángjiān"
+    },
+    "back": {
+      "icon": "🚪",
+      "title": "room",
+      "description": "我的**房间**很大。 (Wǒ de **fángjiān**) hěn dà. My **room** is very big."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-telephone",
+    "front": {
+      "icon": "",
+      "title": "电话",
+      "description": "diànhuà"
+    },
+    "back": {
+      "icon": "📞",
+      "title": "telephone",
+      "description": "这是我的**电话**号码。 (Zhè shì wǒ de **diànhuà**) hàomǎ. This is my **telephone** number."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-meet-to-see",
+    "front": {
+      "icon": "",
+      "title": "见",
+      "description": "jiàn"
+    },
+    "back": {
+      "icon": "👋",
+      "title": "to meet, to see",
+      "description": "明天**见**！ (Míngtiān **jiàn**)! **See** you tomorrow!"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-hello",
+    "front": {
+      "icon": "",
+      "title": "喂",
+      "description": "wèi"
+    },
+    "back": {
+      "icon": "📞",
+      "title": "hello",
+      "description": "**喂**！你好！ (**Wèi**)! Nǐ hǎo! **Hello** (on the phone)!"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-home-family",
+    "front": {
+      "icon": "",
+      "title": "家",
+      "description": "jiā"
+    },
+    "back": {
+      "icon": "👨‍👩‍👧",
+      "title": "home, family",
+      "description": "我**家**在北京。 (Wǒ **jiā**) zài Běijīng. My **home** is in Beijing."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-in-place-time-direction-etc",
+    "front": {
+      "icon": "",
+      "title": "里",
+      "description": "lǐ"
+    },
+    "back": {
+      "icon": "📦",
+      "title": "in (place, time, direction, etc)",
+      "description": "房间**里**有人。 (Fángjiān **lǐ**) yǒu rén. There is someone **in** the room."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-today",
+    "front": {
+      "icon": "",
+      "title": "今天",
+      "description": "jīntiān"
+    },
+    "back": {
+      "icon": "🗓️",
+      "title": "today",
+      "description": "**今天**是星期六。 (**Jīntiān**) shì Xīngqīliù. **Today** is Saturday."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-evening",
+    "front": {
+      "icon": "",
+      "title": "晚上",
+      "description": "wǎnshang"
+    },
+    "back": {
+      "icon": "🌙",
+      "title": "evening",
+      "description": "我**晚上**休息。 (Wǒ **wǎnshang**) xiūxi. I rest in the **evening**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-banquet",
+    "front": {
+      "icon": "",
+      "title": "宴会",
+      "description": "yànhuì"
+    },
+    "back": {
+      "icon": "🥂",
+      "title": "banquet",
+      "description": "我参加一个**宴会**。 (Wǒ cānjiā yí ge **yànhuì**.) I attend a **banquet**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-hotel-restaurant",
+    "front": {
+      "icon": "",
+      "title": "饭店",
+      "description": "fàndiàn"
+    },
+    "back": {
+      "icon": "🏨",
+      "title": "hotel, restaurant",
+      "description": "我在这家**饭店**吃饭。 (Wǒ zài zhè jiā **fàndiàn**) chīfàn. I eat at this **restaurant**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-pick-up",
+    "front": {
+      "icon": "",
+      "title": "接",
+      "description": "jiē"
+    },
+    "back": {
+      "icon": "🤝",
+      "title": "to pick up",
+      "description": "我能去**接**你吗？ (Wǒ néng qù **jiē** nǐ ma?) Can I **pick up** you?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-residential-neighborhood",
+    "front": {
+      "icon": "",
+      "title": "小区",
+      "description": "xiǎoqū"
+    },
+    "back": {
+      "icon": "🏘️",
+      "title": "residential neighborhood",
+      "description": "我住在**小区**。 (Wǒ zhùzài **xiǎoqū**.) I live in the **residential neighborhood**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-floor-of-a-building",
+    "front": {
+      "icon": "",
+      "title": "层",
+      "description": "céng"
+    },
+    "back": {
+      "icon": "⬆️",
+      "title": "floor of a building",
+      "description": "我在三**层**。 (Wǒ zài sān **céng**.) I am on the third **floor**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-front",
+    "front": {
+      "icon": "",
+      "title": "前边",
+      "description": "qiánbiān"
+    },
+    "back": {
+      "icon": "➡️",
+      "title": "front",
+      "description": "房间**前边**有路。 (Fángjiān **qiánbiān**) yǒu lù. There is a road in **front** of the room."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-wait-to-expect",
+    "front": {
+      "icon": "",
+      "title": "等",
+      "description": "děng"
+    },
+    "back": {
+      "icon": "⏳",
+      "title": "to wait, to expect",
+      "description": "请**等**一会儿。 (Qǐng **děng**) yīhuìr. Please **wait** a little while."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-a-little-while",
+    "front": {
+      "icon": "",
+      "title": "一会儿",
+      "description": "yīhuìr"
+    },
+    "back": {
+      "icon": "⏱️",
+      "title": "a little while",
+      "description": "请等**一会儿**。 (Qǐng děng **yīhuìr**.) Please wait **a little while**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-chang'an-hotel",
+    "front": {
+      "icon": "",
+      "title": "长安饭店",
+      "description": "Cháng'ān Fàndiàn"
+    },
+    "back": {
+      "icon": "🏨",
+      "title": "Chang'an Hotel",
+      "description": "**长安饭店**很远。 (**Cháng'ān Fàndiàn**) hěn yuǎn. **Chang'an Hotel** is very far."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-yangguang-residential-neighborhood",
+    "front": {
+      "icon": "",
+      "title": "阳光小区",
+      "description": "Yángguāng Xiǎoqū"
+    },
+    "back": {
+      "icon": "🏘️",
+      "title": "Yangguang Residential Neighborhood",
+      "description": "我住在**阳光小区**。 (Wǒ zhùzài **Yángguāng Xiǎoqū**.) I live in **Yangguang Residential Neighborhood**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-the-second",
+    "front": {
+      "icon": "",
+      "title": "第二",
+      "description": "dì'èr"
+    },
+    "back": {
+      "icon": "🥈",
+      "title": "the second",
+      "description": "我是**第二**名。 (Wǒ shì **dì'èr**) míng. I am **the second** person."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-hospital",
+    "front": {
+      "icon": "",
+      "title": "医院",
+      "description": "yīyuàn"
+    },
+    "back": {
+      "icon": "🏥",
+      "title": "hospital",
+      "description": "我需要去**医院**。 (Wǒ xūyào qù **yīyuàn**.) I need to go to the **hospital**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-road",
+    "front": {
+      "icon": "",
+      "title": "路",
+      "description": "lù"
+    },
+    "back": {
+      "icon": "🛣️",
+      "title": "road",
+      "description": "这条**路**很长。 (Zhè tiáo **lù**) hěn cháng. This **road** is very long."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-be-away-from",
+    "front": {
+      "icon": "",
+      "title": "离",
+      "description": "lí"
+    },
+    "back": {
+      "icon": "↔️",
+      "title": "to be away from",
+      "description": "我家**离**学校很近。 (Wǒ jiā **lí**) xuéxiào hěn jìn. My home is **away from** school very close."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-here",
+    "front": {
+      "icon": "",
+      "title": "这儿",
+      "description": "zhèr"
+    },
+    "back": {
+      "icon": "📍",
+      "title": "here",
+      "description": "我住在**这儿**。 (Wǒ zhùzài **zhèr**.) I live **here**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-far",
+    "front": {
+      "icon": "",
+      "title": "远",
+      "description": "yuǎn"
+    },
+    "back": {
+      "icon": "🌍",
+      "title": "far",
+      "description": "学校很**远**。 (Xuéxiào hěn **yuǎn**.) The school is very **far**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-know",
+    "front": {
+      "icon": "",
+      "title": "知道",
+      "description": "zhīdào"
+    },
+    "back": {
+      "icon": "🧠",
+      "title": "to know",
+      "description": "你**知道**吗？ (Nǐ **zhīdào**) ma? Do you **know**?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-the-east",
+    "front": {
+      "icon": "",
+      "title": "东边",
+      "description": "dōngbiān"
+    },
+    "back": {
+      "icon": "🧭",
+      "title": "the east",
+      "description": "饭店在**东边**。 (Fàndiàn zài **dōngbiān**.) The hotel is on **the east** side."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-you-are-welcome",
+    "front": {
+      "icon": "",
+      "title": "别客气",
+      "description": "bié kèqi"
+    },
+    "back": {
+      "icon": "🙏",
+      "title": "you are welcome",
+      "description": "**别客气**。 (**Bié kèqi**). **You are welcome**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-no.-2-hospital",
+    "front": {
+      "icon": "",
+      "title": "第二医院",
+      "description": "Dì'èr Yīyuàn"
+    },
+    "back": {
+      "icon": "🏥",
+      "title": "No. 2 Hospital",
+      "description": "**第二医院**很远。 (**Dì'èr Yīyuàn**) hěn yuǎn. **No. 2 Hospital** is very far."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-dongcheng-road",
+    "front": {
+      "icon": "",
+      "title": "东城路",
+      "description": "Dōngchéng Lù"
+    },
+    "back": {
+      "icon": "🛣️",
+      "title": "Dongcheng Road",
+      "description": "**东城路**在这儿。 (**Dōngchéng Lù**) zài zhèr. **Dongcheng Road** is here."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-measure-word-used-for-family-members",
+    "front": {
+      "icon": "",
+      "title": "口",
+      "description": "kǒu"
+    },
+    "back": {
+      "icon": "👨‍👩‍👧",
+      "title": "(measure word, used for family members)",
+      "description": "我家有三**口**人。 (Wǒ jiā yǒu sān **kǒu**) rén. My family has three **members**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-four",
+    "front": {
+      "icon": "",
+      "title": "四",
+      "description": "sì"
+    },
+    "back": {
+      "icon": "4️⃣",
+      "title": "four",
+      "description": "我有**四**个朋友。 (Wǒ yǒu **sì**) ge péngyǒu. I have **four** friends."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-younger-sister",
+    "front": {
+      "icon": "",
+      "title": "妹妹",
+      "description": "mèimei"
+    },
+    "back": {
+      "icon": "👧",
+      "title": "younger sister",
+      "description": "我有一个**妹妹**。 (Wǒ yǒu yí ge **mèimei**.) I have a **younger sister**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-and",
+    "front": {
+      "icon": "",
+      "title": "和",
+      "description": "hé"
+    },
+    "back": {
+      "icon": "➕",
+      "title": "and",
+      "description": "我**和**妹妹。 (Wǒ **hé**) mèimei. I **and** younger sister."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-lawyer",
+    "front": {
+      "icon": "",
+      "title": "律师",
+      "description": "lǜshī"
+    },
+    "back": {
+      "icon": "👩‍⚖️",
+      "title": "lawyer",
+      "description": "我爸爸是**律师**。 (Wǒ bàba shì **lǜshī**.) My dad is a **lawyer**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-very-extremely",
+    "front": {
+      "icon": "",
+      "title": "非常",
+      "description": "fēicháng"
+    },
+    "back": {
+      "icon": "💯",
+      "title": "very, extremely",
+      "description": "我**非常**忙。 (Wǒ **fēicháng**) máng. I am **very** busy."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-busy",
+    "front": {
+      "icon": "",
+      "title": "忙",
+      "description": "máng"
+    },
+    "back": {
+      "icon": "🏃",
+      "title": "busy",
+      "description": "我今天很**忙**。 (Wǒ jīntiān hěn **máng**.) I am very **busy** today."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-often",
+    "front": {
+      "icon": "",
+      "title": "常常",
+      "description": "chángcháng"
+    },
+    "back": {
+      "icon": "⏳",
+      "title": "often",
+      "description": "我**常常**去图书馆。 (Wǒ **chángcháng**) qù túshūguǎn. I **often** go to the library."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-then-at-that-time",
+    "front": {
+      "icon": "",
+      "title": "那时",
+      "description": "nàshí"
+    },
+    "back": {
+      "icon": "🕰️",
+      "title": "then, at that time",
+      "description": "**那时**我在北京。 (**Nàshí**) wǒ zài Běijīng. **Then** I was in Beijing."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-pretty",
+    "front": {
+      "icon": "",
+      "title": "漂亮",
+      "description": "piàoliang"
+    },
+    "back": {
+      "icon": "✨",
+      "title": "pretty",
+      "description": "她很**漂亮**。 (Tā hěn **piàoliang**.) She is very **pretty**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-grandfather",
+    "front": {
+      "icon": "",
+      "title": "外公",
+      "description": "wàigōng"
+    },
+    "back": {
+      "icon": "👴",
+      "title": "grandfather",
+      "description": "我的**外公**是英国人。 (Wǒ de **wàigōng**) shì Yīngguó rén. My **grandfather** is British."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-hope-to-wish",
+    "front": {
+      "icon": "",
+      "title": "希望",
+      "description": "xīwàng"
+    },
+    "back": {
+      "icon": "🙏",
+      "title": "to hope, to wish",
+      "description": "我**希望**你来。 (Wǒ **xīwàng**) nǐ lái. I **hope** you come."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-bank",
+    "front": {
+      "icon": "",
+      "title": "银行",
+      "description": "yínháng"
+    },
+    "back": {
+      "icon": "🏦",
+      "title": "bank",
+      "description": "我明天要去**银行**。 (Wǒ míngtiān yào qù **yínháng**.) I am going to the **bank** tomorrow."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-but",
+    "front": {
+      "icon": "",
+      "title": "可是",
+      "description": "kěshì"
+    },
+    "back": {
+      "icon": "🛑",
+      "title": "but",
+      "description": "我想要，**可是**太贵了。 (Wǒ xiǎng yào, **kěshì**) tài guì le. I want it, **but** it's too expensive."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-doctor",
+    "front": {
+      "icon": "",
+      "title": "医生",
+      "description": "yīshēng"
+    },
+    "back": {
+      "icon": "🧑‍⚕️",
+      "title": "doctor",
+      "description": "我爸爸是**医生**。 (Wǒ bàba shì **yīshēng**.) My dad is a **doctor**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-brothers-and-sisters",
+    "front": {
+      "icon": "",
+      "title": "兄弟姐妹",
+      "description": "xiōngdì jiěmèi"
+    },
+    "back": {
+      "icon": "👨‍👩‍👧‍👦",
+      "title": "brothers and sisters",
+      "description": "我有很多**兄弟姐妹**。 (Wǒ yǒu hěn duō **xiōngdì jiěmèi**.) I have many **brothers and sisters**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-only",
+    "front": {
+      "icon": "",
+      "title": "只",
+      "description": "zhǐ"
+    },
+    "back": {
+      "icon": "🤏",
+      "title": "only",
+      "description": "我**只**有一个妹妹。 (Wǒ **zhǐ**) yǒu yí ge mèimei. I **only** have one younger sister."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-child",
+    "front": {
+      "icon": "",
+      "title": "孩子",
+      "description": "háizi"
+    },
+    "back": {
+      "icon": "👶",
+      "title": "child",
+      "description": "我有一个**孩子**。 (Wǒ yǒu yí ge **háizi**.) I have a **child**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-auxiliary-word",
+    "front": {
+      "icon": "",
+      "title": "呢",
+      "description": "ne"
+    },
+    "back": {
+      "icon": "❓",
+      "title": "(auxiliary word)",
+      "description": "你**呢**？ (Nǐ **ne**)? How about you?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-elder-sister",
+    "front": {
+      "icon": "",
+      "title": "姐姐",
+      "description": "jiějie"
+    },
+    "back": {
+      "icon": "👩",
+      "title": "elder sister",
+      "description": "我有一个**姐姐**。 (Wǒ yǒu yí ge **jiějie**.) I have an **elder sister**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-twins",
+    "front": {
+      "icon": "",
+      "title": "双胞胎",
+      "description": "shuāngbāotāi"
+    },
+    "back": {
+      "icon": "👯",
+      "title": "twins",
+      "description": "他们是**双胞胎**。 (Tāmen shì **shuāngbāotāi**.) They are **twins**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-front",
+    "front": {
+      "icon": "",
+      "title": "前面",
+      "description": "qiánmiàn"
+    },
+    "back": {
+      "icon": "➡️",
+      "title": "front",
+      "description": "房间**前面**有路。 (Fángjiān **qiánmiàn**) yǒu lù. There is a road in **front** of the room."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-just",
+    "front": {
+      "icon": "",
+      "title": "就",
+      "description": "jiù"
+    },
+    "back": {
+      "icon": "✅",
+      "title": "just",
+      "description": "我**就**是你。 (Wǒ **jiù**) shì nǐ. I **just** am you."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-escort",
+    "front": {
+      "icon": "",
+      "title": "送",
+      "description": "sòng"
+    },
+    "back": {
+      "icon": "🚗",
+      "title": "to escort",
+      "description": "我**送**你去机场。 (Wǒ **sòng**) nǐ qù jīchǎng. I **escort** you to the airport."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-parents",
+    "front": {
+      "icon": "",
+      "title": "父母",
+      "description": "fùmǔ"
+    },
+    "back": {
+      "icon": "👨‍👩‍👧",
+      "title": "parents",
+      "description": "我的**父母**很高兴。 (Wǒ de **fùmǔ**) hěn gāoxìng. My **parents** are very happy."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-together",
+    "front": {
+      "icon": "",
+      "title": "一起",
+      "description": "yīqǐ"
+    },
+    "back": {
+      "icon": "🤝",
+      "title": "together",
+      "description": "我们**一起**学习。 (Wǒmen **yīqǐ**) xuéxí. We study **together**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-all",
+    "front": {
+      "icon": "",
+      "title": "都",
+      "description": "dōu"
+    },
+    "back": {
+      "icon": "🌐",
+      "title": "all",
+      "description": "我们**都**是学生。 (Wǒmen **dōu**) shì xuéshēng. We are **all** students."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-grandpa",
+    "front": {
+      "icon": "",
+      "title": "爷爷",
+      "description": "yéye"
+    },
+    "back": {
+      "icon": "👴",
+      "title": "grandpa",
+      "description": "我的**爷爷**很老。 (Wǒ de **yéye**) hěn lǎo. My **grandpa** is very old."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-grandma",
+    "front": {
+      "icon": "",
+      "title": "奶奶",
+      "description": "nǎinai"
+    },
+    "back": {
+      "icon": "👵",
+      "title": "grandma",
+      "description": "**奶奶**，你好！ (**Nǎinai**), nǐ hǎo! Hello, **grandma**!"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-elder-brother",
+    "front": {
+      "icon": "",
+      "title": "哥哥",
+      "description": "gēge"
+    },
+    "back": {
+      "icon": "👦",
+      "title": "elder brother",
+      "description": "我有一个**哥哥**。 (Wǒ yǒu yí ge **gēge**.) I have an **elder brother**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-sister-in-law-wife-of-your-elder-brother",
+    "front": {
+      "icon": "",
+      "title": "嫂子",
+      "description": "sǎozi"
+    },
+    "back": {
+      "icon": "👰",
+      "title": "sister-in-law (wife of your elder brother)",
+      "description": "我爱我的**嫂子**。 (Wǒ ài wǒ de **sǎozi**.) I love my **sister-in-law**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-they",
+    "front": {
+      "icon": "",
+      "title": "他们",
+      "description": "tāmen"
+    },
+    "back": {
+      "icon": "🧑‍🤝‍🧑",
+      "title": "they",
+      "description": "**他们**是学生。 (**Tāmen**) shì xuéshēng. **They** are students."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-altogether",
+    "front": {
+      "icon": "",
+      "title": "一共",
+      "description": "yígòng"
+    },
+    "back": {
+      "icon": "➕",
+      "title": "altogether",
+      "description": "我们**一共**五个人。 (Wǒmen **yígòng**) wǔ ge rén. We are **altogether** five people."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-family",
+    "front": {
+      "icon": "",
+      "title": "家庭",
+      "description": "jiātíng"
+    },
+    "back": {
+      "icon": "🏠",
+      "title": "family",
+      "description": "我的**家庭**很幸福。 (Wǒ de **jiātíng**) hěn xìngfú. My **family** is very happy."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-o'clock-hour-measure-word",
+    "front": {
+      "icon": "",
+      "title": "点",
+      "description": "diǎn"
+    },
+    "back": {
+      "icon": "🕑",
+      "title": "o'clock, hour (measure word)",
+      "description": "现在两**点**。 (Xiànzài liǎng **diǎn**.) It is two **o'clock** now."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-half",
+    "front": {
+      "icon": "",
+      "title": "半",
+      "description": "bàn"
+    },
+    "back": {
+      "icon": "🕒",
+      "title": "half",
+      "description": "现在两点**半**。 (Xiànzài liǎng diǎn **bàn**.) It is two thirty (**half**) now."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-excuse-me",
+    "front": {
+      "icon": "",
+      "title": "劳驾",
+      "description": "láojià"
+    },
+    "back": {
+      "icon": "🗣️",
+      "title": "excuse me",
+      "description": "**劳驾**，请问... (**Láojià**), qǐngwèn... **Excuse me**, may I ask..."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-minute-measure-word",
+    "front": {
+      "icon": "",
+      "title": "分",
+      "description": "fēn"
+    },
+    "back": {
+      "icon": "⏱️",
+      "title": "minute (measure word)",
+      "description": "现在两点十分**分**。 (Xiànzài liǎng diǎn shí **fēn**.) It is two ten (**minute**) now."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-young-lady",
+    "front": {
+      "icon": "",
+      "title": "姑娘",
+      "description": "gūniang"
+    },
+    "back": {
+      "icon": "👸",
+      "title": "young lady",
+      "description": "**姑娘**，你好！ (**Gūniang**), nǐ hǎo! Hello, **young lady**!"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-be-less-than-to-be-short-of",
+    "front": {
+      "icon": "",
+      "title": "差",
+      "description": "chà"
+    },
+    "back": {
+      "icon": "⏳",
+      "title": "to be less than, to be short of",
+      "description": "现在**差**十分两点。 (Xiànzài **chà**) shí fēn liǎng diǎn. It is ten **less than** two o'clock."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-be-willing-to",
+    "front": {
+      "icon": "",
+      "title": "愿意",
+      "description": "yuànyì"
+    },
+    "back": {
+      "icon": "😊",
+      "title": "to be willing to",
+      "description": "我**愿意**去。 (Wǒ **yuànyì**) qù. I **am willing to** go."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-be-able-to",
+    "front": {
+      "icon": "",
+      "title": "能",
+      "description": "néng"
+    },
+    "back": {
+      "icon": "💪",
+      "title": "to be able to",
+      "description": "我**能**做。 (Wǒ **néng**) zuò. I **am able to** do it."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-time-moment",
+    "front": {
+      "icon": "",
+      "title": "时候",
+      "description": "shíhou"
+    },
+    "back": {
+      "icon": "⏰",
+      "title": "time, moment",
+      "description": "我没**时候**。 (Wǒ méi **shíhou**.) I don't have **time**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-be-off-duty-to-get-off-work",
+    "front": {
+      "icon": "",
+      "title": "下班",
+      "description": "xiàbān"
+    },
+    "back": {
+      "icon": "🚪",
+      "title": "to be off duty, to get off work",
+      "description": "我六点**下班**。 (Wǒ liù diǎn **xiàbān**.) I **get off work** at six o'clock."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-will-do",
+    "front": {
+      "icon": "",
+      "title": "行",
+      "description": "xíng"
+    },
+    "back": {
+      "icon": "👌",
+      "title": "will do",
+      "description": "可以**行**。 (Kěyǐ **xíng**.) It **will do**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-arrive-to-reach",
+    "front": {
+      "icon": "",
+      "title": "到",
+      "description": "dào"
+    },
+    "back": {
+      "icon": "📍",
+      "title": "to arrive, to reach",
+      "description": "我**到**家了。 (Wǒ **dào**) jiā le. I **arrived** home."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-eat",
+    "front": {
+      "icon": "",
+      "title": "吃",
+      "description": "chī"
+    },
+    "back": {
+      "icon": "🍴",
+      "title": "to eat",
+      "description": "我**吃**饭。 (Wǒ **chī**) fàn. I **eat** food."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-supper",
+    "front": {
+      "icon": "",
+      "title": "晚饭",
+      "description": "wǎnfàn"
+    },
+    "back": {
+      "icon": "🍲",
+      "title": "supper",
+      "description": "我们吃**晚饭**。 (Wǒmen chī **wǎnfàn**.) We eat **supper**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-start",
+    "front": {
+      "icon": "",
+      "title": "开始",
+      "description": "kāishǐ"
+    },
+    "back": {
+      "icon": "🏁",
+      "title": "to start",
+      "description": "**开始**工作。 (**Kāishǐ**) gōngzuò. **Start** working."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-train",
+    "front": {
+      "icon": "",
+      "title": "训练",
+      "description": "xùnliàn"
+    },
+    "back": {
+      "icon": "🏃",
+      "title": "to train",
+      "description": "我们需要**训练**。 (Wǒmen xūyào **xùnliàn**.) We need **to train**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-mr",
+    "front": {
+      "icon": "",
+      "title": "先生",
+      "description": "xiānsheng"
+    },
+    "back": {
+      "icon": "👨",
+      "title": "Mr",
+      "description": "**先生**，您贵姓？ (**Xiānsheng**), nín guìxìng? **Mr**, what is your surname?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-lately-recently",
+    "front": {
+      "icon": "",
+      "title": "最近",
+      "description": "zuìjìn"
+    },
+    "back": {
+      "icon": "🗓️",
+      "title": "lately, recently",
+      "description": "我**最近**很忙。 (Wǒ **zuìjìn**) hěn máng. I have been very busy **lately**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-get-up",
+    "front": {
+      "icon": "",
+      "title": "起床",
+      "description": "qǐ chuáng"
+    },
+    "back": {
+      "icon": "⏰",
+      "title": "to get up",
+      "description": "我早上六点**起床**。 (Wǒ zǎoshang liù diǎn **qǐ chuáng**.) I **get up** at six in the morning."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-later-after",
+    "front": {
+      "icon": "",
+      "title": "以后",
+      "description": "yǐhòu"
+    },
+    "back": {
+      "icon": "⏭️",
+      "title": "later, after",
+      "description": "**以后**我们再见。 (**Yǐhòu**) wǒmen zàijiàn. See you **later**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-sleep",
+    "front": {
+      "icon": "",
+      "title": "睡觉",
+      "description": "shuìjiào"
+    },
+    "back": {
+      "icon": "😴",
+      "title": "to sleep",
+      "description": "我**要**睡觉。 (Wǒ **yào** shuìjiào.) I **want** to sleep."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-such-so",
+    "front": {
+      "icon": "",
+      "title": "这么",
+      "description": "zhème"
+    },
+    "back": {
+      "icon": "😮",
+      "title": "such, so",
+      "description": "你**这么**高！ (Nǐ **zhème**) gāo! You are **so** tall!"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-go-to-work",
+    "front": {
+      "icon": "",
+      "title": "上班",
+      "description": "shàngbān"
+    },
+    "back": {
+      "icon": "🏢",
+      "title": "to go to work",
+      "description": "我七点**上班**。 (Wǒ qī diǎn **shàngbān**.) I **go to work** at seven o'clock."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-work-overtime",
+    "front": {
+      "icon": "",
+      "title": "加班",
+      "description": "jiābān"
+    },
+    "back": {
+      "icon": "🌙",
+      "title": "to work overtime",
+      "description": "我今天需要**加班**。 (Wǒ jīntiān xūyào **jiābān**.) I need **to work overtime** today."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-head-office",
+    "front": {
+      "icon": "",
+      "title": "总公司",
+      "description": "zǒnggōngsī"
+    },
+    "back": {
+      "icon": "🏛️",
+      "title": "head office",
+      "description": "我在**总公司**工作。 (Wǒ zài **zǒnggōngsī**) gōngzuò. I work at the **head office**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-measure-word",
+    "front": {
+      "icon": "",
+      "title": "项",
+      "description": "xiàng"
+    },
+    "back": {
+      "icon": "🏆",
+      "title": "(measure word)",
+      "description": "这是一**项**任务。 (Zhè shì yí **xiàng**) rènwu. This is one **item** (of a task)."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-important",
+    "front": {
+      "icon": "",
+      "title": "重要",
+      "description": "zhòngyào"
+    },
+    "back": {
+      "icon": "⭐",
+      "title": "important",
+      "description": "这件事很**重要**。 (Zhè jiàn shì hěn **zhòngyào**.) This matter is very **important**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-not-sure",
+    "front": {
+      "icon": "",
+      "title": "不一定",
+      "description": "bù yīdìng"
+    },
+    "back": {
+      "icon": "❓",
+      "title": "not sure",
+      "description": "**不一定**，明天再说。 (**Bù yīdìng**), míngtiān zài shuō. **Not sure**, let's discuss it tomorrow."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-sometimes-occasionally",
+    "front": {
+      "icon": "",
+      "title": "有时候",
+      "description": "yǒushíhou"
+    },
+    "back": {
+      "icon": "⏳",
+      "title": "sometimes, occasionally",
+      "description": "我**有时候**很忙。 (Wǒ **yǒushíhou**) hěn máng. I am busy **sometimes**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-friday",
+    "front": {
+      "icon": "",
+      "title": "星期五",
+      "description": "Xīngqīwǔ"
+    },
+    "back": {
+      "icon": "🥳",
+      "title": "Friday",
+      "description": "我**星期五**休息。 (Wǒ **Xīngqīwǔ**) xiūxi. I rest on **Friday**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-be-free",
+    "front": {
+      "icon": "",
+      "title": "有空儿",
+      "description": "yǒukòngr"
+    },
+    "back": {
+      "icon": "🧘",
+      "title": "to be free",
+      "description": "你**有空儿**吗？ (Nǐ **yǒukòngr**) ma? **Are** you **free**?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-put-off-until-some-time-later",
+    "front": {
+      "icon": "",
+      "title": "再说",
+      "description": "zàishuō"
+    },
+    "back": {
+      "icon": "⏭️",
+      "title": "to put off until some time later",
+      "description": "我们**再说**吧。 (Wǒmen **zàishuō**) ba. Let's **put off until some time later**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-really",
+    "front": {
+      "icon": "",
+      "title": "真的",
+      "description": "zhēn de"
+    },
+    "back": {
+      "icon": "😲",
+      "title": "really",
+      "description": "是**真的**吗？ (Shì **zhēn de**) ma? Is it **really**?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-nothing",
+    "front": {
+      "icon": "",
+      "title": "没什么",
+      "description": "méi shénme"
+    },
+    "back": {
+      "icon": "😌",
+      "title": "nothing",
+      "description": "**没什么**，小事。 (**Méi shénme**), xiǎoshì. **Nothing**, it's a small matter."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-welcome",
+    "front": {
+      "icon": "",
+      "title": "欢迎",
+      "description": "huānyíng"
+    },
+    "back": {
+      "icon": "👋",
+      "title": "to welcome",
+      "description": "**欢迎**你来！ (**Huānyíng**) nǐ lái! **Welcome** you to come!"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-next-time",
+    "front": {
+      "icon": "",
+      "title": "下次",
+      "description": "xià cì"
+    },
+    "back": {
+      "icon": "⏭️",
+      "title": "next time",
+      "description": "**下次**见！ (**Xià cì**) jiàn! See you **next time**!"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-wednesday",
+    "front": {
+      "icon": "",
+      "title": "星期三",
+      "description": "Xīngqīsān"
+    },
+    "back": {
+      "icon": "📅",
+      "title": "Wednesday",
+      "description": "我**星期三**休息。 (Wǒ **Xīngqīsān**) xiūxi. I rest on **Wednesday**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-ok",
+    "front": {
+      "icon": "",
+      "title": "好的",
+      "description": "hǎo de"
+    },
+    "back": {
+      "icon": "✅",
+      "title": "OK",
+      "description": "**好的**，没问题。 (**Hǎo de**), méi wèntí. **OK**, no problem."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-friend",
+    "front": {
+      "icon": "",
+      "title": "朋友",
+      "description": "péngyou"
+    },
+    "back": {
+      "icon": "🤝",
+      "title": "friend",
+      "description": "他是我最好的**朋友**。 (Tā shì wǒ zuì hǎo de **péngyou**.) He is my best **friend**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-daughter",
+    "front": {
+      "icon": "",
+      "title": "女儿",
+      "description": "nǚ'ér"
+    },
+    "back": {
+      "icon": "👧",
+      "title": "daughter",
+      "description": "我有一个**女儿**。 (Wǒ yǒu yí ge **nǚ'ér**.) I have a **daughter**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-learn",
+    "front": {
+      "icon": "",
+      "title": "学",
+      "description": "xué"
+    },
+    "back": {
+      "icon": "🧠",
+      "title": "to learn",
+      "description": "我**学**中文。 (Wǒ **xué**) Zhōngwén. I **learn** Chinese."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-teach",
+    "front": {
+      "icon": "",
+      "title": "教",
+      "description": "jiāo"
+    },
+    "back": {
+      "icon": "👨‍🏫",
+      "title": "to teach",
+      "description": "我**教**中文。 (Wǒ **jiāo**) Zhōngwén. I **teach** Chinese."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-time",
+    "front": {
+      "icon": "",
+      "title": "时间",
+      "description": "shíjiān"
+    },
+    "back": {
+      "icon": "⏰",
+      "title": "time",
+      "description": "我没有**时间**。 (Wǒ méiyǒu **shíjiān**.) I don't have **time**."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-not-to-have-to-be-without",
+    "front": {
+      "icon": "",
+      "title": "没有",
+      "description": "méiyǒu"
+    },
+    "back": {
+      "icon": "❌",
+      "title": "not to have, to be without",
+      "description": "我**没有**钱。 (Wǒ **méiyǒu**) qián. I **do not have** money."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-lesson-class",
+    "front": {
+      "icon": "",
+      "title": "课",
+      "description": "kè"
+    },
+    "back": {
+      "icon": "📚",
+      "title": "lesson, class",
+      "description": "我今天有中文**课**。 (Wǒ jīntiān yǒu Zhōngwén **kè**.) I have Chinese **class** today."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-for",
+    "front": {
+      "icon": "",
+      "title": "给",
+      "description": "gěi"
+    },
+    "back": {
+      "icon": "🎁",
+      "title": "to, for",
+      "description": "我**给**你打电话。 (Wǒ **gěi**) nǐ dǎ diànhuà. I make a phone call **to** you."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-1-english-to-make-a-phone-call",
+    "front": {
+      "icon": "",
+      "title": "打",
+      "description": "dǎ"
+    },
+    "back": {
+      "icon": "📞",
+      "title": "to make (a phone call)",
+      "description": "我**打**电话。 (Wǒ **dǎ**) diànhuà. I **make** a phone call."
+    }
+  }
+]

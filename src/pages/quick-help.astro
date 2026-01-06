@@ -1,0 +1,55 @@
+---
+import Layout from '../layouts/Layout-web.astro';
+import { getLangFromUrl, useTranslations } from '../utils/i18n';
+import QuickHelpContent from '../components/help/QuickHelpContent.astro';
+import LanguageSwitcher from '../components/home/LanguageSwitcher.astro';
+
+// Get current language
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+
+// Page title translation
+const pageTitle = {
+  en: 'Quick Help — NinjaLingo',
+  th: 'คู่มือด่วน — NinjaLingo',
+};
+---
+
+<script>
+  // Auto-detect browser language and redirect if needed (only for English default page)
+  import { getPreferredLanguage } from '../utils/i18n';
+
+  function detectAndRedirect() {
+    // Only run on client side and for English page (no /th/ in URL)
+    if (
+      typeof window === 'undefined' ||
+      window.location.pathname.includes('/th/')
+    )
+      return;
+
+    const preferredLang = getPreferredLanguage();
+
+    // If user prefers Thai but is on English page, redirect
+    if (
+      preferredLang === 'th' &&
+      !window.location.pathname.startsWith('/th/')
+    ) {
+      window.location.href = '/th/quick-help';
+    }
+  }
+
+  // Initialize page when DOM is ready
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', detectAndRedirect);
+  } else {
+    // DOM is already ready
+    detectAndRedirect();
+  }
+</script>
+
+<Layout title={t('title', pageTitle)} lang={lang}>
+  <main class="overflow-auto min-h-screen bg-white">
+    <LanguageSwitcher currentLang={lang} />
+    <QuickHelpContent lang={lang} />
+  </main>
+</Layout>

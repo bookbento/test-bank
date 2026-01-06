@@ -1,0 +1,847 @@
+[
+  {
+    "id": "ielts-by-category-business-colleague",
+    "front": {
+      "icon": "",
+      "title": "Colleague",
+      "description": "ˈkɒliːɡ"
+    },
+    "back": {
+      "icon": "🤝",
+      "title": "n. เพื่อนร่วมงาน",
+      "description": "My **colleague** helped me with the presentation."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-convene",
+    "front": {
+      "icon": "",
+      "title": "Convene",
+      "description": "/kənˈviːn/"
+    },
+    "back": {
+      "icon": "🤝",
+      "title": "v. เรียกประชุม",
+      "description": "The team will **Convene** for a meeting at 3 PM."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-outsource",
+    "front": {
+      "icon": "",
+      "title": "Outsource",
+      "description": "ˈaʊtsɔːrs"
+    },
+    "back": {
+      "icon": "🤝",
+      "title": "v. จ้างเหมา",
+      "description": "We decided to **outsource** the marketing work to a specialized agency."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-budget",
+    "front": {
+      "icon": "",
+      "title": "Budget",
+      "description": "ˈbʌdʒɪt"
+    },
+    "back": {
+      "icon": "💰",
+      "title": "n. งบประมาณ",
+      "description": "We need to **Budget** our expenses carefully this month."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-frugal",
+    "front": {
+      "icon": "",
+      "title": "Frugal",
+      "description": "ˈfruːɡəl"
+    },
+    "back": {
+      "icon": "💰",
+      "title": "adj. ประหยัด",
+      "description": "A **frugal** person saves money by living simply."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-facilitate",
+    "front": {
+      "icon": "",
+      "title": "Facilitate",
+      "description": "/fəˈsɪlɪteɪt/"
+    },
+    "back": {
+      "icon": "🤝",
+      "title": "v. อำนวยความสะดวก",
+      "description": "The software will **facilitate** data analysis."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-niche-market",
+    "front": {
+      "icon": "",
+      "title": "Niche Market",
+      "description": "/nɪʃ ˈmɑːrkɪt/"
+    },
+    "back": {
+      "icon": "🎯",
+      "title": "n. ตลาดเฉพาะกลุ่ม",
+      "description": "The company found its **Niche Market** selling organic, handmade soaps."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-emerging-markets",
+    "front": {
+      "icon": "",
+      "title": "Emerging Markets",
+      "description": "ɪˈmɜːrdʒɪŋ ˈmɑːrkɪts"
+    },
+    "back": {
+      "icon": "📈",
+      "title": "n. ตลาดเกิดใหม่",
+      "description": "**Emerging Markets** are often seen as high-growth opportunities."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-expand",
+    "front": {
+      "icon": "",
+      "title": "Expand",
+      "description": "ɪkˈspænd"
+    },
+    "back": {
+      "icon": "↔️",
+      "title": "v. ขยาย",
+      "description": "The company plans to **expand** into new markets next year."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-launch",
+    "front": {
+      "icon": "",
+      "title": "Launch",
+      "description": "lɔːntʃ"
+    },
+    "back": {
+      "icon": "🚀",
+      "title": "n. เปิดตัว",
+      "description": "We will **Launch** the new product next month."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-disruption",
+    "front": {
+      "icon": "",
+      "title": "Disruption",
+      "description": "dɪsˈrʌpʃən"
+    },
+    "back": {
+      "icon": "💥",
+      "title": "n. การหยุดชะงัก",
+      "description": "The sudden **disruption** of the power supply caused widespread confusion."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-exorbitant",
+    "front": {
+      "icon": "",
+      "title": "Exorbitant",
+      "description": "ɪɡˈzɔːrbɪtənt"
+    },
+    "back": {
+      "icon": "💸",
+      "title": "adj. แพงเกินไป",
+      "description": "The price of the luxury car was truly **exorbitant**."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-qualification",
+    "front": {
+      "icon": "",
+      "title": "Qualification",
+      "description": "ˌkwɑːlɪfɪˈkeɪʃən"
+    },
+    "back": {
+      "icon": "🎓",
+      "title": "n. คุณสมบัติ",
+      "description": "The candidate's **qualification** for the job was outstanding."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-to-go-bust",
+    "front": {
+      "icon": "",
+      "title": "To go bust",
+      "description": "tə ɡoʊ bʌst"
+    },
+    "back": {
+      "icon": "bankrupt 💥",
+      "title": "v. เจ๊ง",
+      "description": "The company is expected **to go bust** if sales don't improve."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-cash-flow",
+    "front": {
+      "icon": "",
+      "title": "Cash flow",
+      "description": "/kæʃ floʊ/"
+    },
+    "back": {
+      "icon": "💸",
+      "title": "n. กระแสเงินสด",
+      "description": "Please remember to **close** the door."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-accountant",
+    "front": {
+      "icon": "",
+      "title": "Accountant",
+      "description": "/əˈkaʊntənt/"
+    },
+    "back": {
+      "icon": "🧑‍💻",
+      "title": "n. นักบัญชี",
+      "description": "The company hired a new **Accountant**."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-acquisition",
+    "front": {
+      "icon": "",
+      "title": "Acquisition",
+      "description": "ˌækwɪˈzɪʃən"
+    },
+    "back": {
+      "icon": "🤝",
+      "title": "n. การเข้าซื้อกิจการ",
+      "description": "The company's latest **acquisition** significantly expanded its market share."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-benchmark",
+    "front": {
+      "icon": "",
+      "title": "Benchmark",
+      "description": "ˈbɛntʃmɑːrk"
+    },
+    "back": {
+      "icon": "🏆",
+      "title": "n. เกณฑ์มาตรฐาน",
+      "description": "This report will serve as a **Benchmark** for future performance evaluations."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-business-plan",
+    "front": {
+      "icon": "",
+      "title": "Business plan",
+      "description": "/ˈbɪznɪs plæn/"
+    },
+    "back": {
+      "icon": "📈",
+      "title": "n. แผนธุรกิจ",
+      "description": "She meticulously crafted a detailed **Business plan** for her new venture."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-client",
+    "front": {
+      "icon": "",
+      "title": "Client",
+      "description": "/ˈklaɪənt/"
+    },
+    "back": {
+      "icon": "🤝",
+      "title": "n. ลูกค้า",
+      "description": "The **client** approved the proposal."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-communication",
+    "front": {
+      "icon": "",
+      "title": "Communication",
+      "description": "/kəˌmjuːnɪˈkeɪʃən/"
+    },
+    "back": {
+      "icon": "🗣️",
+      "title": "n. การสื่อสาร",
+      "description": "Effective **Communication** is vital for teamwork."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-contract",
+    "front": {
+      "icon": "",
+      "title": "Contract",
+      "description": "ˈkɒntrækt"
+    },
+    "back": {
+      "icon": "📜",
+      "title": "n. สัญญา",
+      "description": "The parties signed a **contract** for the sale of the property."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-corporation",
+    "front": {
+      "icon": "",
+      "title": "Corporation",
+      "description": "/ˌkɔːrpəˈreɪʃən/"
+    },
+    "back": {
+      "icon": "🏢",
+      "title": "n. บริษัท",
+      "description": "The **Corporation** held its annual meeting."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-data",
+    "front": {
+      "icon": "",
+      "title": "Data",
+      "description": "ˈdeɪtə"
+    },
+    "back": {
+      "icon": "📊",
+      "title": "n. ข้อมูล",
+      "description": "The cat **quickly** ran across the room."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-deadline",
+    "front": {
+      "icon": "",
+      "title": "Deadline",
+      "description": "ˈdɛdˌlaɪn"
+    },
+    "back": {
+      "icon": "🗓️",
+      "title": "n. กำหนดส่ง",
+      "description": "The **deadline** for the project is approaching quickly."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-demand",
+    "front": {
+      "icon": "",
+      "title": "Demand",
+      "description": "dɪˈmænd"
+    },
+    "back": {
+      "icon": "📈",
+      "title": "n. อุปสงค์",
+      "description": "There is a high **demand** for fresh produce in the summer months."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-department",
+    "front": {
+      "icon": "",
+      "title": "Department",
+      "description": "/dɪˈpɑːrtmənt/"
+    },
+    "back": {
+      "icon": "🏢",
+      "title": "n. แผนก",
+      "description": "The sales **Department** exceeded its quarterly goals."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-economy",
+    "front": {
+      "icon": "",
+      "title": "Economy",
+      "description": "ɪˈkɑːnəmi"
+    },
+    "back": {
+      "icon": "📈",
+      "title": "n. เศรษฐกิจ",
+      "description": "The nation's **economy** is experiencing a period of growth."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-entrepreneur",
+    "front": {
+      "icon": "",
+      "title": "Entrepreneur",
+      "description": "ˌɑːntrəprəˈnɜːr"
+    },
+    "back": {
+      "icon": "📈",
+      "title": "n. ผู้ประกอบการ",
+      "description": "She is a talented **entrepreneur**."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-ethics",
+    "front": {
+      "icon": "",
+      "title": "Ethics",
+      "description": "ˈɛθɪks"
+    },
+    "back": {
+      "icon": "⚖️",
+      "title": "n. จริยธรรม",
+      "description": "The company's success was built on a foundation of strong **Ethics**."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-finance",
+    "front": {
+      "icon": "",
+      "title": "Finance",
+      "description": "/ˈfaɪnæns/"
+    },
+    "back": {
+      "icon": "💰",
+      "title": "n. การเงิน",
+      "description": "She pursued a career in **Finance**."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-goal",
+    "front": {
+      "icon": "",
+      "title": "Goal",
+      "description": "/ɡoʊl/"
+    },
+    "back": {
+      "icon": "🥅",
+      "title": "n. เป้าหมาย",
+      "description": "My **goal** is to finish this project by Friday."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-human-resources",
+    "front": {
+      "icon": "",
+      "title": "Human resources",
+      "description": "/ˌhjuːmən ˈriːsɔːrsɪz/"
+    },
+    "back": {
+      "icon": "🤝",
+      "title": "n. ทรัพยากรบุคคล",
+      "description": "The **Human resources** department is responsible for hiring and training employees."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-idea",
+    "front": {
+      "icon": "",
+      "title": "Idea",
+      "description": "/aɪˈdiːə/"
+    },
+    "back": {
+      "icon": "💡",
+      "title": "n. แนวคิด",
+      "description": "That's a great **Idea**."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-investment",
+    "front": {
+      "icon": "",
+      "title": "Investment",
+      "description": "/ɪnˈvɛstmənt/"
+    },
+    "back": {
+      "icon": "💰",
+      "title": "n. การลงทุน",
+      "description": "A wise **investment** in education can lead to a brighter future."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-job",
+    "front": {
+      "icon": "",
+      "title": "Job",
+      "description": "/dʒɒb/"
+    },
+    "back": {
+      "icon": "💼",
+      "title": "n. งาน",
+      "description": "My **Job** is to write."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-leadership",
+    "front": {
+      "icon": "",
+      "title": "Leadership",
+      "description": "ˈliːdərʃɪp"
+    },
+    "back": {
+      "icon": "👑",
+      "title": "n. ความเป็นผู้นำ",
+      "description": "Effective **Leadership** is crucial for team success."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-management",
+    "front": {
+      "icon": "",
+      "title": "Management",
+      "description": "ˈmænɪdʒmənt"
+    },
+    "back": {
+      "icon": "💼",
+      "title": "n. การจัดการ",
+      "description": "The project requires **effective** management."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-market",
+    "front": {
+      "icon": "",
+      "title": "Market",
+      "description": "ˈmɑːrkɪt"
+    },
+    "back": {
+      "icon": "🛒",
+      "title": "n. ตลาด",
+      "description": "The **Market** is expected to open at 9 AM tomorrow."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-marketing",
+    "front": {
+      "icon": "",
+      "title": "Marketing",
+      "description": "ˈmɑːrkɪtɪŋ"
+    },
+    "back": {
+      "icon": "📈",
+      "title": "n. การตลาด",
+      "description": "**Marketing** is crucial for business growth."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-negotiation",
+    "front": {
+      "icon": "",
+      "title": "Negotiation",
+      "description": "nɪˌɡoʊʃiˈeɪʃən"
+    },
+    "back": {
+      "icon": "🤝",
+      "title": "n. การเจรจา",
+      "description": "The business deal required careful **negotiation** between the two parties."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-network",
+    "front": {
+      "icon": "",
+      "title": "Network",
+      "description": "ˈnɛtwɜːrk"
+    },
+    "back": {
+      "icon": "🌐",
+      "title": "n. เครือข่าย",
+      "description": "The company's **network** extends globally."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-objective",
+    "front": {
+      "icon": "",
+      "title": "Objective",
+      "description": "/əbˈdʒɛktɪv/"
+    },
+    "back": {
+      "icon": "🎯",
+      "title": "n. วัตถุประสงค์",
+      "description": "My main **objective** is to finish this project by Friday."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-partnership",
+    "front": {
+      "icon": "",
+      "title": "Partnership",
+      "description": "/ˈpɑːrtnərʃɪp/"
+    },
+    "back": {
+      "icon": "🤝",
+      "title": "n. ห้างหุ้นส่วน",
+      "description": "Their **partnership** led to a successful business venture."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-performance",
+    "front": {
+      "icon": "",
+      "title": "Performance",
+      "description": "pərˈfɔːrməns"
+    },
+    "back": {
+      "icon": "📊",
+      "title": "n. ประสิทธิภาพ",
+      "description": "The **performance** of the new engine was exceptional."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-presentation",
+    "front": {
+      "icon": "",
+      "title": "Presentation",
+      "description": "/ˌprɛzənˈteɪʃən/"
+    },
+    "back": {
+      "icon": "🗣️",
+      "title": "n. การนำเสนอ",
+      "description": "The **presentation** was very informative."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-product",
+    "front": {
+      "icon": "",
+      "title": "Product",
+      "description": "/ˈprɒdʌkt/"
+    },
+    "back": {
+      "icon": "📦",
+      "title": "n. สินค้า",
+      "description": "Please pass me the **salt**."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-profit",
+    "front": {
+      "icon": "",
+      "title": "Profit",
+      "description": "ˈprɒfɪt"
+    },
+    "back": {
+      "icon": "💰",
+      "title": "n. กำไร",
+      "description": "The cat jumped over the **fence**."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-quality",
+    "front": {
+      "icon": "",
+      "title": "Quality",
+      "description": "ˈkwɒlɪti"
+    },
+    "back": {
+      "icon": "⭐",
+      "title": "n. คุณภาพ",
+      "description": "The company prioritizes **Quality** in all its products."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-research",
+    "front": {
+      "icon": "",
+      "title": "Research",
+      "description": "ˈriːsɜːtʃ"
+    },
+    "back": {
+      "icon": "🔬",
+      "title": "n. งานวิจัย",
+      "description": "She conducted extensive **Research** for her thesis."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-revenue",
+    "front": {
+      "icon": "",
+      "title": "Revenue",
+      "description": "ˈrɛvənuː"
+    },
+    "back": {
+      "icon": "💸",
+      "title": "n. รายได้",
+      "description": "The company's **Revenue** increased last quarter."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-risk",
+    "front": {
+      "icon": "",
+      "title": "Risk",
+      "description": "/rɪsk/"
+    },
+    "back": {
+      "icon": "⚠️",
+      "title": "n. ความเสี่ยง",
+      "description": "**Risk** is an inherent part of investing."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-salary",
+    "front": {
+      "icon": "",
+      "title": "Salary",
+      "description": "ˈsæləri"
+    },
+    "back": {
+      "icon": "💰",
+      "title": "n. เงินเดือน",
+      "description": "His monthly **salary** is due on the 15th."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-sales",
+    "front": {
+      "icon": "",
+      "title": "Sales",
+      "description": "seɪlz"
+    },
+    "back": {
+      "icon": "💰",
+      "title": "n. การขาย",
+      "description": "Please **confirm** your attendance by Friday."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-service",
+    "front": {
+      "icon": "",
+      "title": "Service",
+      "description": "/ˈsɜːrvɪs/"
+    },
+    "back": {
+      "icon": "🤝",
+      "title": "n. บริการ",
+      "description": "Excellent customer **service** is crucial for customer satisfaction."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-skill",
+    "front": {
+      "icon": "",
+      "title": "Skill",
+      "description": "skɪl"
+    },
+    "back": {
+      "icon": "💪",
+      "title": "n. ทักษะ",
+      "description": "She demonstrated great **skill** in playing the piano."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-strategy",
+    "front": {
+      "icon": "",
+      "title": "Strategy",
+      "description": "ˈstrætədʒi"
+    },
+    "back": {
+      "icon": "📊",
+      "title": "n. กลยุทธ์",
+      "description": "Our **Strategy** for success is to work together."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-supplier",
+    "front": {
+      "icon": "",
+      "title": "Supplier",
+      "description": "səˈplaɪər"
+    },
+    "back": {
+      "icon": "🚚",
+      "title": "n. ผู้จัดหา",
+      "description": "Our primary **supplier** provides all of our raw materials."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-target",
+    "front": {
+      "icon": "",
+      "title": "Target",
+      "description": "ˈtɑːrɡɪt"
+    },
+    "back": {
+      "icon": "🎯",
+      "title": "n. เป้าหมาย",
+      "description": "We need to set a clear **Target** for our sales goals this quarter."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-team",
+    "front": {
+      "icon": "",
+      "title": "Team",
+      "description": "/tiːm/"
+    },
+    "back": {
+      "icon": "👥",
+      "title": "n. ทีม",
+      "description": "The **Team** worked together to complete the project on time."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-technology",
+    "front": {
+      "icon": "",
+      "title": "Technology",
+      "description": "tɛkˈnɒlədʒi"
+    },
+    "back": {
+      "icon": "💻",
+      "title": "n. เทคโนโลยี",
+      "description": "The cat **quickly** ran across the yard."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-time-management",
+    "front": {
+      "icon": "",
+      "title": "Time management",
+      "description": "/taɪm ˈmænɪdʒmənt/"
+    },
+    "back": {
+      "icon": "⏰",
+      "title": "n. การบริหารเวลา",
+      "description": "Effective **Time management** is crucial for productivity."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-training",
+    "front": {
+      "icon": "",
+      "title": "Training",
+      "description": "ˈtreɪnɪŋ"
+    },
+    "back": {
+      "icon": "🏋️",
+      "title": "n. การฝึกอบรม",
+      "description": "The **Training** session was very informative."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-value",
+    "front": {
+      "icon": "",
+      "title": "Value",
+      "description": "/ˈvæl.juː/"
+    },
+    "back": {
+      "icon": "💎",
+      "title": "n. มูลค่า",
+      "description": "Please **confirm** your availability."
+    }
+  },
+  {
+    "id": "ielts-by-category-business-vision",
+    "front": {
+      "icon": "",
+      "title": "Vision",
+      "description": "ˈvɪʒən"
+    },
+    "back": {
+      "icon": "👁️",
+      "title": "n. วิสัยทัศน์",
+      "description": "The company's **Vision** for the future includes expanding into new markets."
+    }
+  }
+]

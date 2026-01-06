@@ -1,0 +1,47 @@
+---
+import { useTranslatedPath, type Lang } from '../../utils/i18n';
+
+interface Props {
+  currentLang: Lang;
+}
+
+const { currentLang } = Astro.props;
+const translatePath = useTranslatedPath(currentLang);
+
+// Get the target language (opposite of current)
+const targetLang: Lang = currentLang === 'en' ? 'th' : 'en';
+
+// Detect current page and create appropriate target path
+const pathname = Astro.url.pathname;
+let currentPage = '/home'; // default
+
+if (pathname.includes('quick-help')) {
+  currentPage = '/quick-help';
+} else if (pathname.includes('help') && !pathname.includes('quick-help')) {
+  currentPage = '/help';
+} else if (
+  pathname.includes('home') ||
+  pathname === '/' ||
+  pathname === '/th' ||
+  pathname === '/th/'
+) {
+  currentPage = '/home';
+}
+
+const targetPath = translatePath(currentPage, targetLang);
+
+// Language labels
+const languageLabels = {
+  en: '🇬🇧 English',
+  th: '🇹🇭 ไทย',
+};
+---
+
+<div class="fixed top-4 right-4 z-50">
+  <a
+    href={targetPath}
+    class="inline-flex items-center gap-2 px-3 py-2 bg-white/90 backdrop-blur-sm border border-gray-200 rounded-full text-sm font-medium text-gray-700 hover:bg-white hover:text-gray-900 transition-all shadow-sm"
+  >
+    {languageLabels[targetLang]}
+  </a>
+</div>

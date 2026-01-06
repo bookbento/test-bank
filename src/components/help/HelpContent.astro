@@ -1,0 +1,341 @@
+---
+import { useTranslations, type Lang } from '../../utils/i18n';
+
+interface Props {
+  lang: Lang;
+}
+
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+---
+
+<div class="max-w-4xl mx-auto py-12 px-6">
+  <div class="flex items-center justify-between gap-4">
+    <h1 class="text-3xl font-bold mb-4">
+      {
+        t('title', {
+          en: 'Help & How Review Works',
+          th: 'วิธีใช้งาน & การทบทวนทำงานอย่างไร',
+        })
+      }
+    </h1>
+    <a
+      href={t('homeUrl', { en: '/home', th: '/th/home' })}
+      class="text-sm text-gray-600 underline hidden md:inline"
+    >
+      {t('homeLink', { en: 'Home', th: 'หน้าหลัก' })}
+    </a>
+  </div>
+
+  <div class="prose mb-6">
+    <p>
+      {
+        t('description', {
+          en: 'This page explains the review flow and what each review button does. Use this to understand how your choices affect scheduling.',
+          th: 'หน้านี้จะอธิบายขั้นตอนการทบทวนและการทำงานของปุ่มแต่ละอัน ใช้เพื่อเข้าใจว่าการเลือกของคุณมีผลต่อการกำหนดเวลาอย่างไร',
+        })
+      }
+    </p>
+  </div>
+
+  <section class="mb-8">
+    <h2 class="text-xl font-semibold mb-3">
+      {t('appFlowTitle', { en: 'App flow', th: 'ขั้นตอนการใช้งาน' })}
+    </h2>
+    <div class="bg-white p-4 rounded-lg shadow-sm flex items-center gap-6">
+      <img
+        src="/assets/help-flow.svg"
+        alt={t('flowAlt', {
+          en: 'App flow: Card Set → Dashboard → Review → Success',
+          th: 'ขั้นตอนการใช้งาน: เลือกชุดการ์ด → หน้าแดชบอร์ด → ทบทวน → สำเร็จ',
+        })}
+        class="w-48 h-auto"
+      />
+      <div>
+        <p class="text-gray-700">
+          {
+            t('flowDescription', {
+              en: "Start by choosing a Card Set. From the set's Dashboard, start a Review session. During Review you'll rate cards using the five buttons. When you're done, the Success screen summarizes progress.",
+              th: 'เริ่มต้นด้วยการเลือกชุดการ์ด จากหน้าแดชบอร์ดของชุดการ์ด ให้เริ่มเซสชันทบทวน ระหว่างการทบทวนคุณจะให้คะแนนการ์ดโดยใช้ปุ่มทั้งห้า เมื่อเสร็จแล้ว หน้าจอสำเร็จจะสรุปความคืบหน้า',
+            })
+          }
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Front Side Buttons -->
+  <section class="mb-8">
+    <h2 class="text-2xl font-semibold mb-4 text-gray-800">
+      {t('frontSideTitle', { en: 'Front Side', th: 'หน้าหน้าการ์ด' })}
+    </h2>
+    <p class="text-gray-600 mb-4">
+      {
+        t('frontSideDescription', {
+          en: 'When you see the question and need to decide how to proceed:',
+          th: 'เมื่อคุณเห็นคำถามและต้องตัดสินใจว่าจะดำเนินการอย่างไร:',
+        })
+      }
+    </p>
+
+    <dl class="grid grid-cols-1 md:grid-cols-2 gap-6">
+      <div class="p-4 border rounded-lg bg-white shadow-sm">
+        <dt class="font-semibold flex items-center gap-2 text-lg">
+          👀 {t('showMeTitle', { en: 'Show me', th: 'แสดงคำตอบ' })}
+        </dt>
+        <dd class="text-sm text-gray-600 mt-2">
+          {
+            t('showMeDescription', {
+              en: "Reveal the back of the card or a hint when you're not sure or want to check your answer. After viewing, you'll rate how well you remembered it (Easy/Good/Again) — that choice determines the card's future scheduling.",
+              th: 'เปิดดูด้านหลังของการ์ดหรือใบ้เมื่อคุณไม่แน่ใจหรือต้องการตรวจสอบคำตอบของคุณ หลังจากดูแล้ว คุณจะให้คะแนนว่าคุณจำได้ดีแค่ไหน (ง่าย/ดี/อีกครั้ง) — การเลือกนั้นจะกำหนดการกำหนดเวลาการ์ดในอนาคต',
+            })
+          }
+        </dd>
+      </div>
+      <div class="p-4 border rounded-lg bg-white shadow-sm">
+        <dt class="font-semibold flex items-center gap-2 text-lg">
+          💪 {t('confidentTitle', { en: 'Confident', th: 'มั่นใจ' })}
+        </dt>
+        <dd class="text-sm text-gray-600 mt-2">
+          {
+            t('confidentDescription', {
+              en: 'Use this when you can recall the answer instantly and accurately. The scheduler treats this as a strong success and will increase spacing significantly before the next review. This is the fastest way to advance through well-known cards.',
+              th: 'ใช้เมื่อคุณสามารถจำคำตอบได้ทันทีและแม่นยำ ระบบจะถือว่าเป็นความสำเร็จที่แข็งแกร่งและจะเพิ่มช่วงห่างอย่างมากก่อนการทบทวนครั้งต่อไป วิธีนี้เป็นวิธีที่เร็วที่สุดในการก้าวหน้าผ่านการ์ดที่รู้จักดี',
+            })
+          }
+        </dd>
+      </div>
+    </dl>
+  </section>
+
+  <!-- Back Side Buttons -->
+  <section class="mb-8">
+    <h2 class="text-2xl font-semibold mb-4 text-gray-800">
+      {t('backSideTitle', { en: 'Back Side', th: 'หน้าหลังการ์ด' })}
+    </h2>
+    <p class="text-gray-600 mb-4">
+      {
+        t('backSideDescription', {
+          en: 'After seeing the answer, rate how well you remembered based on your performance:',
+          th: 'หลังจากเห็นคำตอบแล้ว ให้ประเมินว่าคุณจำได้ดีแค่ไหนตามผลงานของคุณ:',
+        })
+      }
+    </p>
+
+    <dl class="grid grid-cols-1 md:grid-cols-3 gap-6">
+      <div class="p-4 border rounded-lg bg-white shadow-sm">
+        <dt class="font-semibold flex items-center gap-2 text-lg">
+          🔁 {t('againTitle', { en: 'Again', th: 'อีกครั้ง' })}
+        </dt>
+        <dd class="text-sm text-gray-600 mt-2">
+          {
+            t('againDescription', {
+              en: "You didn't remember it well or want more practice. Re-queue the card in the current session so you can try it again. This doesn't advance the spaced repetition interval but helps with immediate reinforcement.",
+              th: 'คุณจำไม่ได้ดีหรือต้องการฝึกฝนเพิ่มเติม จัดคิวการ์ดใหม่ในเซสชันปัจจุบันเพื่อให้คุณลองอีกครั้ง สิ่งนี้ไม่ได้เลื่อนช่วงการทำซ้ำ แต่ช่วยเสริมแรงทันที',
+            })
+          }
+        </dd>
+      </div>
+      <div class="p-4 border rounded-lg bg-white shadow-sm">
+        <dt class="font-semibold flex items-center gap-2 text-lg">
+          🙂 {t('goodTitle', { en: 'Good', th: 'ดี' })}
+        </dt>
+        <dd class="text-sm text-gray-600 mt-2">
+          {
+            t('goodDescription', {
+              en: 'You remembered it but with some effort or after thinking about it. The scheduler will moderately increase the interval for this card, so it will be shown less often than immediately, but not as much as <strong>Easy</strong>.',
+              th: 'คุณจำได้แต่ต้องใช้ความพยายามบ้างหรือหลังจากคิดดู ระบบจะเพิ่มช่วงเวลาของการ์ดนี้ในระดับปานกลาง จึงจะแสดงน้อยกว่าทันที แต่ไม่มากเท่า <strong>ง่าย</strong>',
+            })
+          }
+        </dd>
+      </div>
+      <div class="p-4 border rounded-lg bg-white shadow-sm">
+        <dt class="font-semibold flex items-center gap-2 text-lg">
+          ✨ {t('easyTitle', { en: 'Easy', th: 'ง่าย' })}
+        </dt>
+        <dd class="text-sm text-gray-600 mt-2">
+          {
+            t('easyDescription', {
+              en: "You recalled it with little effort and felt confident. The scheduler will significantly lengthen the interval before this specific card's next review — meaning this card will be shown much less frequently.",
+              th: 'คุณจำได้โดยไม่ต้องใช้ความพยายามมากและรู้สึกมั่นใจ ระบบจะยืดช่วงเวลาก่อนการทบทวนครั้งต่อไปของการ์ดนี้อย่างมาก — หมายความว่าการ์ดนี้จะแสดงน้อยลงมาก',
+            })
+          }
+        </dd>
+      </div>
+    </dl>
+  </section>
+
+  <section class="mb-8">
+    <h2 class="text-xl font-semibold mb-3">
+      {
+        t('schedulingTitle', {
+          en: 'How ratings affect scheduling',
+          th: 'การให้คะแนนมีผลต่อการกำหนดเวลาอย่างไร',
+        })
+      }
+    </h2>
+    <div class="bg-blue-50 p-6 rounded-lg">
+      <p class="text-gray-700 mb-3 font-medium">
+        {
+          t('schedulingDescription', {
+            en: "We use a spaced-repetition scheduler (SM-2 inspired). Here's how each choice affects when you'll see the card again:",
+            th: 'เราใช้ตัวจัดการ spaced-repetition (แรงบันดาลใจจาก SM-2) นี่คือวิธีที่แต่ละตัวเลือกมีผลต่อการที่คุณจะเห็นการ์ดอีกครั้ง:',
+          })
+        }
+      </p>
+      <ul class="list-disc list-inside text-gray-700 space-y-2">
+        <li>
+          <strong
+            >{
+              t('frontSideLabel', { en: 'Front Side:', th: 'หน้าหน้าการ์ด:' })
+            }</strong
+          >
+          <ul class="list-disc list-inside ml-4 mt-1 space-y-1">
+            <li>
+              <strong
+                >{
+                  t('confidentLabel', { en: 'Confident', th: 'มั่นใจ' })
+                }</strong
+              >
+              {
+                t('confidentScheduling', {
+                  en: ' signals near mastery and increases spacing significantly for that card.',
+                  th: ' ส่งสัญญาณว่าใกล้เชี่ยวชาญแล้วและเพิ่มช่วงห่างอย่างมากสำหรับการ์ดนั้น',
+                })
+              }
+            </li>
+            <li>
+              <strong
+                >{t('showMeLabel', { en: 'Show me', th: 'แสดงคำตอบ' })}</strong
+              >
+              {
+                t('showMeScheduling', {
+                  en: ' reveals the answer, then you rate with back-side buttons.',
+                  th: ' เปิดเผยคำตอบ จากนั้นคุณให้คะแนนด้วยปุ่มด้านหลัง',
+                })
+              }
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong
+            >{
+              t('backSideLabel', { en: 'Back Side:', th: 'หน้าหลังการ์ด:' })
+            }</strong
+          >
+          <ul class="list-disc list-inside ml-4 mt-1 space-y-1">
+            <li>
+              <strong
+                >{
+                  t('againSchedulingLabel', { en: 'Again', th: 'อีกครั้ง' })
+                }</strong
+              >
+              {
+                t('againScheduling', {
+                  en: ' keeps the card in the current session for immediate repetition.',
+                  th: ' เก็บการ์ดไว้ในเซสชันปัจจุบันเพื่อทำซ้ำทันที',
+                })
+              }
+            </li>
+            <li>
+              <strong>{t('goodEasyLabel', { en: 'Good', th: 'ดี' })}</strong>
+              {t('andLabel', { en: ' and ', th: ' และ ' })}
+              <strong>{t('easyLabel', { en: 'Easy', th: 'ง่าย' })}</strong>
+              {
+                t('goodEasyScheduling', {
+                  en: ' increase the review interval for that specific card — meaning it will be scheduled further into the future and shown less frequently.',
+                  th: ' เพิ่มช่วงการทบทวนสำหรับการ์ดเฉพาะนั้น — หมายความว่าจะถูกกำหนดไว้ในอนาคตที่ไกลออกไปและแสดงให้เห็นน้อยลง',
+                })
+              }
+            </li>
+            <li>
+              <strong>{t('easyVsGoodLabel', { en: 'Easy', th: 'ง่าย' })}</strong
+              >
+              {
+                t('easyVsGood', {
+                  en: ' increases the interval much more than ',
+                  th: ' เพิ่มช่วงเวลามากกว่า ',
+                })
+              }
+              <strong>{t('goodLabel', { en: 'Good', th: 'ดี' })}</strong>.
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="mb-8">
+    <h2 class="text-xl font-semibold mb-3">
+      {t('examplesTitle', { en: 'Examples & Tips', th: 'ตัวอย่าง & เคล็ดลับ' })}
+    </h2>
+    <div class="bg-gray-50 p-6 rounded-lg">
+      <h3 class="font-semibold mb-3 text-gray-800">
+        {
+          t('practicalExamples', {
+            en: 'Practical Examples:',
+            th: 'ตัวอย่างการใช้งานจริง:',
+          })
+        }
+      </h3>
+      <ol class="list-decimal list-inside text-gray-700 space-y-2">
+        <li>
+          <strong
+            >{
+              t('example1Label', { en: 'Front Side:', th: 'หน้าหน้าการ์ด:' })
+            }</strong
+          >
+          {
+            t('example1', {
+              en: ' See "爱" (Chinese character) → If you instantly know it means "love", press <strong>Confident</strong>. If unsure, press <strong>Show me</strong> to reveal the answer.',
+              th: ' เห็น "爱" (อักษรจีน) → ถ้าคุณรู้ทันทีว่าหมายถึง "รัก" ให้กด <strong>มั่นใจ</strong> ถ้าไม่แน่ใจ ให้กด <strong>แสดงคำตอบ</strong> เพื่อเปิดเผยคำตอบ',
+            })
+          }
+        </li>
+        <li>
+          <strong
+            >{
+              t('example2Label', { en: 'Back Side:', th: 'หน้าหลังการ์ด:' })
+            }</strong
+          >
+          {
+            t('example2', {
+              en: ' After seeing the answer, if you got it right easily, press <strong>Easy</strong>. If you struggled but remembered, press <strong>Good</strong>. If you want more practice, press <strong>Again</strong>.',
+              th: ' หลังจากเห็นคำตอบแล้ว ถ้าคุณตอบถูกอย่างง่ายดาย ให้กด <strong>ง่าย</strong> ถ้าคุณดิ้นรนแต่จำได้ ให้กด <strong>ดี</strong> ถ้าคุณต้องการฝึกฝนเพิ่มเติม ให้กด <strong>อีกครั้ง</strong>',
+            })
+          }
+        </li>
+        <li>
+          {
+            t('example3', {
+              en: "If you press <strong>Again</strong> multiple times on a card, you'll see that same card several times in this session until you choose a higher rating.",
+              th: 'ถ้าคุณกด <strong>อีกครั้ง</strong> หลายครั้งในการ์ดใบเดียว คุณจะเห็นการ์ดใบเดียวกันหลายครั้งในเซสชันนี้จนกว่าคุณจะเลือกคะแนนที่สูงกว่า',
+            })
+          }
+        </li>
+        <li>
+          {
+            t('example4', {
+              en: "When you press <strong>Easy</strong>, that card will usually be scheduled much later (for example, next week instead of tomorrow). The exact timing depends on the card's history and algorithm.",
+              th: 'เมื่อคุณกด <strong>ง่าย</strong> การ์ดนั้นมักจะถูกกำหนดเวลาในภายหลัง (เช่น สัปดาหน้าแทนที่จะเป็นพรุ่งนี้) เวลาที่แน่นอนขึ้นอยู่กับประวัติของการ์ดและอัลกอริธึม',
+            })
+          }
+        </li>
+      </ol>
+    </div>
+  </section>
+
+  <div class="mt-6">
+    <a
+      href={t('quickHelpUrl', { en: '/quick-help', th: '/th/quick-help' })}
+      class="text-primary-600 underline"
+    >
+      {
+        t('quickHelpLink', {
+          en: 'Back to Quick Help',
+          th: 'กลับไปคู่มือด่วน',
+        })
+      }
+    </a>
+  </div>
+</div>

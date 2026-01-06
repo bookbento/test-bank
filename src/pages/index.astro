@@ -1,0 +1,46 @@
+---
+import Layout from '../layouts/Layout.astro';
+import FlashcardApp from '../components/flashcard/FlashcardApp.tsx';
+---
+
+<Layout title="NinjaLingo - Master Languages Like a Ninja">
+  <!-- Loading state shown before React hydrates -->
+  <div
+    id="loading-screen"
+    class="min-h-screen bg-gradient-to-br from-blue-50 via-yellow-50 to-green-50 flex items-center justify-center"
+  >
+    <div class="text-center">
+      <div
+        class="animate-spin rounded-full h-12 w-12 border-b-2 border-primary-500 mx-auto mb-4"
+      >
+      </div>
+      <p class="text-lg font-rounded text-gray-600">Loading flashcards...</p>
+    </div>
+  </div>
+
+  <FlashcardApp client:load />
+</Layout>
+
+<script>
+  // Initialize app analytics and handle loading screen
+  import { initializeAppAnalytics } from '../utils/appAnalytics';
+
+  function initializeApp() {
+    // Initialize analytics for flashcard app (no cookie consent required)
+    initializeAppAnalytics();
+
+    // Hide loading screen when React starts hydrating
+    const loadingScreen = document.getElementById('loading-screen');
+    if (loadingScreen) {
+      loadingScreen.style.display = 'none';
+    }
+  }
+
+  // Initialize app when DOM is ready
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initializeApp);
+  } else {
+    // DOM is already ready
+    initializeApp();
+  }
+</script>

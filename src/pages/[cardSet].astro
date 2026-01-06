@@ -1,0 +1,41 @@
+---
+import Layout from '../layouts/Layout.astro';
+import FlashcardApp from '../components/flashcard/FlashcardApp.tsx';
+
+export async function getStaticPaths() {
+  // Load card sets to generate static paths
+  try {
+    // Use direct import instead of fetch for build-time static generation
+    const cardSetsData = await import('../../public/data/card_set.json').then(
+      (module) => module.default
+    );
+
+    // Generate paths for each card set - cardSetsData is an array
+    const paths = cardSetsData.map((cardSet: any) => ({
+      params: { cardSet: cardSet.id },
+      props: {
+        cardSetId: cardSet.id,
+        cardSetName: cardSet.name,
+        cardSetDescription: cardSet.description,
+      },
+    }));
+
+    return paths;
+  } catch (error) {
+    console.error('Error loading card sets for static paths:', error);
+    return [];
+  }
+}
+
+const { cardSet } = Astro.params;
+const { cardSetId, cardSetName, cardSetDescription } = Astro.props;
+---
+
+<Layout title={`${cardSetName || cardSet} - NinjaLingo`}>
+  <FlashcardApp
+    client:load
+    preloadCardSet={cardSetId || cardSet}
+    cardSetName={cardSetName}
+    cardSetDescription={cardSetDescription}
+  />
+</Layout>

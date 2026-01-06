@@ -1,0 +1,112 @@
+---
+import EmojiSVG from '../EmojiSVG.astro';
+import { useTranslations, type Lang } from '../../utils/i18n';
+
+interface Props {
+  lang: Lang;
+}
+
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+
+// How It Works section translations
+const translations = {
+  title: {
+    en: 'Ninja Training Method',
+    th: 'วิธีฝึกแบบนินจาลิงโก',
+  },
+  step1: {
+    title: {
+      en: '1. Assess Your Strike',
+      th: '1. ประเมินความยาก',
+    },
+    description: {
+      en: `Very easy, perfect recall = 5 points<br />
+      Remember but not sure = 4 points<br />
+      Can't remember at all = 0 points<br />
+      <span class="text-blue-600">Sensei learns your skill level</span>`,
+      th: `ง่ายมาก จำได้แม่น = 5 แต้ม<br />
+      จำได้แต่ไม่แน่ใจ = 4 แต้ม<br />
+      ยังจำไม่ได้เลย = 0 แต้ม<br />
+      <span class="text-blue-600">เซนเซ เรียนรู้ระดับฝีมือของคุณ</span>`,
+    },
+  },
+  step2: {
+    title: {
+      en: '2. Schedule Training for Each Word',
+      th: '2. จัดตารางฝึกแต่ละคำ',
+    },
+    description: {
+      en: `Very easy = Review again later<br />
+           Remember but unsure = Review soon<br />
+           Can't remember = Review immediately<br />
+           <span class="text-blue-600">Each word gets its perfect timing</span>`,
+      th: `ง่ายมาก = อีกซักพักค่อยทบทวน<br />
+           จำได้แต่ไม่แน่ใจ = ทบทวนเร็วๆ นี้<br />
+           ยังจำไม่ได้ = เอามาทบทวนเลย<br />
+           <span class="text-blue-600">แต่ละคำจะได้จังหวะที่สมบูรณ์แบบ</span>`,
+    },
+  },
+  step3: {
+    title: {
+      en: '3. Strike at Perfect Moment',
+      th: '3. ทบทวนในจังหวะที่สมบูรณ์แบบ',
+    },
+    description: {
+      en: `Review when memory is <strong>"about to fade"</strong><br />
+          Not too early, not too late<br />
+          <span class="text-blue-600">Maximum efficiency, lasting results</span>`,
+      th: `ทบทวนเมื่อความทรงจำ<strong>"กำลังจะจางหาย"</strong><br />
+          ไม่เร็วเกิน ไม่ช้าเกิน<br />
+          <span class="text-blue-600">ได้ประสิทธิภาพสูงสุด ผลลัพธ์ยั่งยืน</span>`,
+    },
+  },
+};
+---
+
+<section class="px-6 lg:px-12 py-8 md:py-16 bg-white/50">
+  <div class="max-w-6xl mx-auto mt-12 px-6 pt-1 pb-9 rounded-xl">
+    <h2 class="text-3xl font-semibold text-gray-800 my-8 text-center">
+      {t('title', translations.title)}
+      <EmojiSVG emoji="️⚙️" size={24} />
+    </h2>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+      <div class="p-8 bg-white rounded-xl shadow-sm border space-y-4">
+        <div class="text-5xl flex justify-center">
+          <EmojiSVG emoji="📝" size={60} />
+        </div>
+        <h4 class="text-xl font-semibold text-gray-800">
+          {t('step1.title', translations.step1.title)}
+        </h4>
+        <p
+          class="text-gray-600"
+          set:html={t('step1.description', translations.step1.description)}
+        />
+      </div>
+      <div class="p-8 bg-white rounded-xl shadow-sm border space-y-4">
+        <div class="text-5xl flex justify-center">
+          <EmojiSVG emoji="🧮" size={60} />
+        </div>
+        <h4 class="text-xl font-semibold text-gray-800">
+          {t('step2.title', translations.step2.title)}
+        </h4>
+        <p
+          class="text-gray-600"
+          set:html={t('step2.description', translations.step2.description)}
+        />
+      </div>
+      <div class="p-8 bg-white rounded-xl shadow-sm border space-y-4">
+        <div class="text-5xl flex justify-center">
+          <EmojiSVG emoji="🎯" size={60} />
+        </div>
+        <h4 class="text-xl font-semibold text-gray-800">
+          {t('step3.title', translations.step3.title)}
+        </h4>
+        <p
+          class="text-gray-600"
+          set:html={t('step3.description', translations.step3.description)}
+        />
+      </div>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,113 @@
+---
+import { useTranslations, type Lang } from '../../utils/i18n';
+import { getRelativeLocaleUrl } from 'astro:i18n';
+
+interface Props {
+  lang: Lang;
+}
+
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+
+// Get current locale from Astro
+const currentLocale = Astro.currentLocale;
+
+// Hero section translations
+const translations = {
+  heading: {
+    en: 'Master Languages Like a Ninja',
+    th: 'เรียนภาษาแบบนินจา',
+  },
+  subheading: {
+    en: 'Fast • Smart • Effective 🥷',
+    th: 'จำได้เร็ว • จำได้นาน 🥷',
+  },
+  description: {
+    en: "Struggling to remember vocabulary? NinjaLingo's spaced repetition tecnique ensures you learn at the perfect moment. Strike when your brain is ready to absorb knowledge.",
+    th: 'กำลังพยายามท่องจำคำศัพท์อยู่ใช่มั้ย? NinjaLingo ใช้เทคนิค spaced repetition จะช่วยคำนวนช่วงเวลาในการทวนคำศัพท์แต่ละคำ ทำให้ไม่ต้องทวนทีละเยอะๆ ทำให้ใช้เวลาแต่ละครั้งน้อย แต่กลับจำได้มากขึ้น และนานขึ้น',
+  },
+  cta: {
+    en: '🥷 Start Your Ninja Training',
+    th: '🥷 เริ่มฝึกทบทวนคำศัพท์กัน',
+  },
+  benefits: {
+    en: 'Lightning fast • Stealth efficient • Ninja effective',
+    th: 'ใช้เวลาน้อย • จดจำได้นาน • ได้ผลแบบนินจา',
+  },
+  help: {
+    en: 'Help',
+    th: 'วิธีใช้งาน',
+  },
+};
+
+// Language-specific floating labels
+const floatingLabels = {
+  smartLearning: {
+    en: 'Ninja Training 🥷',
+    th: 'ฝึกแบบนินจา 🥷',
+  },
+  aiPowered: {
+    en: 'AI Sensei',
+    th: 'เซนเซ AI',
+  },
+};
+---
+
+<section
+  class="flex items-center justify-center min-h-screen 2xl:min-h-[70vh] lg:px-12"
+>
+  <div
+    class="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-12 items-center"
+  >
+    <!-- Text -->
+    <div class="text-center lg:text-left space-y-6 my-16 md:my-0">
+      <h1
+        class="text-3xl sm:text-4xl lg:text-5xl font-bold text-gray-800 leading-tight"
+      >
+        {t('heading', translations.heading)}
+        <span
+          class="py-2 block bg-gradient-to-r from-red-600 via-orange-600 to-yellow-600 bg-clip-text text-transparent"
+        >
+          {t('subheading', translations.subheading)}
+        </span>
+      </h1>
+      <p class="text-lg sm:text-xl text-gray-700 font-medium">
+        {t('description', translations.description)}
+      </p>
+      <div class="flex items-center justify-center lg:justify-start gap-4">
+        <a
+          href="/"
+          class="inline-block bg-green-600 text-white px-6 py-3 rounded-full text-lg font-semibold shadow-lg hover:shadow-xl transform hover:scale-105 transition"
+        >
+          {t('cta', translations.cta)}
+        </a>
+        <a
+          href={getRelativeLocaleUrl(currentLocale || 'en', 'quick-help')}
+          class="inline-block text-gray-700 px-4 py-2 rounded-full border border-gray-200 bg-white hover:bg-gray-50 text-sm font-medium transition"
+          >{t('help', translations.help)}</a
+        >
+      </div>
+      <p class="text-gray-500 text-sm">
+        {t('benefits', translations.benefits)}
+      </p>
+    </div>
+    <!-- Visual -->
+    <div class="relative max-w-lg mx-auto">
+      <img
+        src="/screenshot.png"
+        alt="NinjaLingo app interface"
+        class="w-full h-auto"
+      />
+      <div
+        class="absolute -top-3 -right-3 bg-green-100 text-green-700 px-3 py-1 rounded-full text-sm font-medium animate-bounce"
+      >
+        {t('smartLearning', floatingLabels.smartLearning)}
+      </div>
+      <div
+        class="absolute -bottom-3 -left-3 bg-blue-100 text-blue-700 px-3 py-1 rounded-full text-sm font-medium animate-pulse"
+      >
+        {t('aiPowered', floatingLabels.aiPowered)}
+      </div>
+    </div>
+  </div>
+</section>

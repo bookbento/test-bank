@@ -1,0 +1,63 @@
+---
+import Layout from '../../layouts/Layout-web.astro';
+import { getLangFromUrl, useTranslations } from '../../utils/i18n';
+
+// Import home components
+import LanguageSwitcher from '../../components/home/LanguageSwitcher.astro';
+import HeroSection from '../../components/home/HeroSection.astro';
+import ProblemSection from '../../components/home/ProblemSection.astro';
+import HowItWorksSection from '../../components/home/HowItWorksSection.astro';
+import DecksSection from '../../components/home/DecksSection.astro';
+import BenefitsSection from '../../components/home/BenefitsSection.astro';
+import FeedbackBubble from '../../components/home/FeedbackBubble.astro';
+
+// Import Privacy Notice component
+import PrivacyNotice from '../../components/common/PrivacyNotice.tsx';
+
+// Get current language (will be 'th' for this page)
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+
+// Page title translation
+const pageTitle = {
+  en: 'NinjaLingo - Master Languages Like a Ninja',
+  th: 'NinjaLingo - เรียนภาษาแบบนินจา',
+};
+---
+
+<script>
+  // Initialize analytics for Thai home page
+  import { initializeHomeAnalytics } from '../../utils/homeAnalytics';
+
+  function initializePage() {
+    // Initialize analytics with cookie consent
+    initializeHomeAnalytics();
+  }
+
+  // Initialize page when DOM is ready
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initializePage);
+  } else {
+    // DOM is already ready
+    initializePage();
+  }
+</script>
+
+<style></style>
+
+<Layout title={t('title', pageTitle)} lang={lang}>
+  <main class="overflow-auto min-h-screen bg-white">
+    <LanguageSwitcher currentLang={lang} />
+    <HeroSection lang={lang} />
+    <ProblemSection lang={lang} />
+    <HowItWorksSection lang={lang} />
+    <DecksSection lang={lang} />
+    <BenefitsSection lang={lang} />
+  </main>
+
+  <!-- Feedback Bubble -->
+  <FeedbackBubble />
+
+  <!-- Privacy Notice Banner - Only shown on marketing pages -->
+  <PrivacyNotice lang={lang} client:load />
+</Layout>
