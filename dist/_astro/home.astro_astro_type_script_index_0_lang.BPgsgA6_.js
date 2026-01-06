@@ -1,0 +1,1 @@
+import{i as t}from"./homeAnalytics.Dh0FzxD4.js";import"./analyticsService.XC7CoLNz.js";import"./PrivacyNotice.DBw64lRh.js";import"./jsx-runtime.D_zvdyIk.js";import"./index.BmW6Ki2V.js";function i(){t()}document.readyState==="loading"?document.addEventListener("DOMContentLoaded",i):i();

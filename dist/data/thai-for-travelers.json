@@ -1,0 +1,3640 @@
+[
+  {
+    "id": "thai-for-traveler-banana",
+    "front": {
+      "icon": "",
+      "title": "กล้วย",
+      "description": "glûuai"
+    },
+    "back": {
+      "icon": "🍌",
+      "title": "banana",
+      "description": "I want a banana. (ฉันอยากได้**กล้วย** - Čhǎn yàak dâi **glûuai**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-bag",
+    "front": {
+      "icon": "",
+      "title": "กระเป๋า",
+      "description": "grà-bpǎo"
+    },
+    "back": {
+      "icon": "🛍️",
+      "title": "bag / luggage",
+      "description": "Where is my bag? (**กระเป๋า**ของฉันอยู่ไหน - **Grà-bpǎo** kɔ̌ɔng čhǎn yùu nǎi?)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-pants",
+    "front": {
+      "icon": "",
+      "title": "กางเกง",
+      "description": "gaang-geeng"
+    },
+    "back": {
+      "icon": "👖",
+      "title": "pants / trousers",
+      "description": "These pants are too big. (**กางเกง**ตัวนี้ใหญ่เกินไป - **Gaang-geeng** dtua níi yài geern bpai.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-eat",
+    "front": {
+      "icon": "",
+      "title": "กิน",
+      "description": "gin"
+    },
+    "back": {
+      "icon": "🍴",
+      "title": "to eat",
+      "description": "Let's go eat! (ไป**กิน**ข้าวกันเถอะ - Bpai **gin** kâao gan tèr.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-chair",
+    "front": {
+      "icon": "",
+      "title": "เก้าอี้",
+      "description": "gâo-îi"
+    },
+    "back": {
+      "icon": "🪑",
+      "title": "chair",
+      "description": "Please sit on the chair. (กรุณานั่งบน**เก้าอี้** - Gà-rú-naa nâng bon **gâo-îi.**)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-curry",
+    "front": {
+      "icon": "",
+      "title": "แกง",
+      "description": "gɛɛng"
+    },
+    "back": {
+      "icon": "🍛",
+      "title": "curry",
+      "description": "I love green curry. (ฉันชอบ**แกง**เขียวหวาน - Čhǎn chɔ̂ɔp **gɛɛng** kǐěao-wǎan.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-glass",
+    "front": {
+      "icon": "",
+      "title": "แก้ว",
+      "description": "gɛ̂ɛo"
+    },
+    "back": {
+      "icon": "🥛",
+      "title": "glass / cup",
+      "description": "Can I have a glass of water? (ขอน้ำหนึ่ง**แก้ว**ได้ไหม - Kɔ̌ɔ náam nʉ̀ng **gɛ̂ɛo** dâi mǎi?)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-keep",
+    "front": {
+      "icon": "",
+      "title": "เก็บ",
+      "description": "gèp"
+    },
+    "back": {
+      "icon": "🔒",
+      "title": "to keep / to collect / to store",
+      "description": "Please keep this for me. (กรุณา**เก็บ**สิ่งนี้ไว้ให้ฉัน - Gà-rú-naa **gèp** sìng níi wái hâi čhǎn.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-too-much",
+    "front": {
+      "icon": "",
+      "title": "เกิน",
+      "description": "geern"
+    },
+    "back": {
+      "icon": "📈",
+      "title": "too much / beyond / over",
+      "description": "It's too expensive. (มันแพง**เกิน**ไป - Man pʰɛɛng **geern** bpai.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-be-born",
+    "front": {
+      "icon": "",
+      "title": "เกิด",
+      "description": "gə̀ət"
+    },
+    "back": {
+      "icon": "✨",
+      "title": "to be born / to happen",
+      "description": "When were you born? (คุณ**เกิด**เมื่อไหร่ - Kʰun **gə̀ət** mʉ̂a-rài?)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-chicken",
+    "front": {
+      "icon": "",
+      "title": "ไก่",
+      "description": "gài"
+    },
+    "back": {
+      "icon": "🐔",
+      "title": "chicken",
+      "description": "I want fried chicken. (ฉันอยากได้**ไก่**ทอด - Čhǎn yàak dâi **gài** tɔ̂ɔt.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-near",
+    "front": {
+      "icon": "",
+      "title": "ใกล้",
+      "description": "glâi"
+    },
+    "back": {
+      "icon": "📍",
+      "title": "near / close",
+      "description": "Is it close to here? (มัน**ใกล้**ที่นี่ไหม - Man **glâi** tʰîi-nîi mǎi?)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-far",
+    "front": {
+      "icon": "",
+      "title": "ไกล",
+      "description": "glai"
+    },
+    "back": {
+      "icon": "🗺️",
+      "title": "far",
+      "description": "Is it far? (มัน**ไกล**ไหม - Man **glai** mǎi?)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-guide",
+    "front": {
+      "icon": "",
+      "title": "ไกด์",
+      "description": "gái"
+    },
+    "back": {
+      "icon": "👤",
+      "title": "guide (person)",
+      "description": "We need a tour guide. (เราต้องการ**ไกด์**นำเที่ยว - Rao dtɔ̂ng-gaan **gái** nam-tîěao.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-thank-you",
+    "front": {
+      "icon": "",
+      "title": "ขอบคุณ",
+      "description": "kɔ̀ɔp-kʰun"
+    },
+    "back": {
+      "icon": "🙏",
+      "title": "thank you",
+      "description": "**ขอบคุณ**สำหรับความช่วยเหลือ - (**Kɔ̀ɔp-kʰun** sǎm-ràp kʰwaam chûuai-lʉ̌a.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-thing",
+    "front": {
+      "icon": "",
+      "title": "ของ",
+      "description": "kʰɔ̌ɔng"
+    },
+    "back": {
+      "icon": "🎁",
+      "title": "thing / object / possession",
+      "description": "This is my thing. (นี่คือ**ของ**ของฉัน - Nîi kʰʉʉ **kʰɔ̌ɔng** kʰɔ̌ɔng čhǎn.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-ask-for",
+    "front": {
+      "icon": "",
+      "title": "ขอ",
+      "description": "kʰɔ̌ɔ"
+    },
+    "back": {
+      "icon": "🤲",
+      "title": "to ask for / to request",
+      "description": "May I ask for a napkin? (**ขอ**ผ้าเช็ดปากหน่อย - **Kʰɔ̌ɔ** pʰâa chét bpàak nɔ̀i.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-sorry",
+    "front": {
+      "icon": "",
+      "title": "ขอโทษ",
+      "description": "kʰɔ̌ɔ-tôot"
+    },
+    "back": {
+      "icon": "😔",
+      "title": "sorry / excuse me",
+      "description": "**ขอโทษ**ครับ/ค่ะ (**Kʰɔ̌ɔ-tôot** kʰráp/kâ.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-right-direction",
+    "front": {
+      "icon": "",
+      "title": "ขวา",
+      "description": "kʰwǎa"
+    },
+    "back": {
+      "icon": "➡️",
+      "title": "right (direction)",
+      "description": "Turn right. (เลี้ยว**ขวา** - Líeao **kʰwǎa**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-sell",
+    "front": {
+      "icon": "",
+      "title": "ขาย",
+      "description": "kʰǎai"
+    },
+    "back": {
+      "icon": "💰",
+      "title": "to sell",
+      "description": "Do you sell coffee? (คุณ**ขาย**กาแฟไหม - Kʰun **kʰǎai** gaa-fɛɛ mǎi?)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-rice",
+    "front": {
+      "icon": "",
+      "title": "ข้าว",
+      "description": "kʰâao"
+    },
+    "back": {
+      "icon": "🍚",
+      "title": "rice / meal",
+      "description": "I want to eat rice. (ฉันอยาก**กิน**ข้าว - Čhǎn yàak **gin** kʰâao.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-enter",
+    "front": {
+      "icon": "",
+      "title": "เข้า",
+      "description": "kʰâo"
+    },
+    "back": {
+      "icon": "🚪",
+      "title": "to enter / to go in",
+      "description": "Please come in. (เชิญ**เข้า**มา - Čʰəən **kʰâo** maa.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-mortar",
+    "front": {
+      "icon": "",
+      "title": "ครก",
+      "description": "kʰrók"
+    },
+    "back": {
+      "icon": "🍲",
+      "title": "mortar",
+      "description": "She uses a mortar to pound chili paste. (เธอใช้**ครก**ตำน้ำพริก - Tʰəə chái **kʰrók** dtam náam-pʰrík.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-person",
+    "front": {
+      "icon": "",
+      "title": "คน",
+      "description": "kʰon"
+    },
+    "back": {
+      "icon": "🧑",
+      "title": "person / people",
+      "description": "There are many people. (มี**คน**เยอะแยะ - Mii **kʰon** yə́ yɛ́.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-family",
+    "front": {
+      "icon": "",
+      "title": "ครอบครัว",
+      "description": "kʰrɔ̂ɔp-kʰruua"
+    },
+    "back": {
+      "icon": "👨‍👩‍👧‍👦",
+      "title": "family",
+      "description": "I love my family. (ฉันรัก**ครอบครัว**ของฉัน - Čhǎn rák **kʰrɔ̂ɔp-kʰruua** kʰɔ̌ɔng čhǎn.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-male-ending",
+    "front": {
+      "icon": "",
+      "title": "ครับ",
+      "description": "kʰráp"
+    },
+    "back": {
+      "icon": "🗣️",
+      "title": "male particle (polite ending)",
+      "description": "Yes, I understand. (ใช่, ผมเข้าใจ**ครับ** - Čʰâi, pʰǒm kʰâo-jai **kʰráp**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-female-ending",
+    "front": {
+      "icon": "",
+      "title": "ค่ะ",
+      "description": "kʰâ"
+    },
+    "back": {
+      "icon": "🗣️",
+      "title": "female particle (polite ending)",
+      "description": "Yes, I understand. (ใช่, ฉันเข้าใจ**ค่ะ** - Čʰâi, čhǎn kʰâo-jai **kʰâ**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-happiness",
+    "front": {
+      "icon": "",
+      "title": "ความสุข",
+      "description": "kʰwaam-sùk"
+    },
+    "back": {
+      "icon": "😊",
+      "title": "happiness",
+      "description": "I wish you happiness. (ฉันขอให้คุณมี**ความสุข** - Čhǎn kʰɔ̌ɔ hâi kʰun mii **kʰwaam-sùk**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-wave",
+    "front": {
+      "icon": "",
+      "title": "คลื่น",
+      "description": "kʰlʉ̂ʉn"
+    },
+    "back": {
+      "icon": "🌊",
+      "title": "wave",
+      "description": "The waves are big. (**คลื่น**ใหญ่มาก - **Kʰlʉ̂ʉn** yài mâak.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-think",
+    "front": {
+      "icon": "",
+      "title": "คิด",
+      "description": "kʰít"
+    },
+    "back": {
+      "icon": "🤔",
+      "title": "to think",
+      "description": "What are you thinking? (คุณ**คิด**อะไรอยู่ - Kʰun **kʰít** a-rai yùu?)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-night",
+    "front": {
+      "icon": "",
+      "title": "คืน",
+      "description": "kʰʉʉn"
+    },
+    "back": {
+      "icon": "🌃",
+      "title": "night / to return",
+      "description": "Good night. (ราตรีสวัสดิ์ - Raa-dtrii sà-wàt.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-confused",
+    "front": {
+      "icon": "",
+      "title": "งง",
+      "description": "ngong"
+    },
+    "back": {
+      "icon": "😵‍💫",
+      "title": "confused / dizzy",
+      "description": "I'm confused. (ฉัน**งง** - Čhǎn **ngong**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-easy",
+    "front": {
+      "icon": "",
+      "title": "ง่าย",
+      "description": "ngâi"
+    },
+    "back": {
+      "icon": "👍",
+      "title": "easy",
+      "description": "It's easy. (มัน**ง่าย** - Man **ngâi**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-work",
+    "front": {
+      "icon": "",
+      "title": "งาน",
+      "description": "ngaan"
+    },
+    "back": {
+      "icon": "💼",
+      "title": "work / job / event",
+      "description": "I have to go to work. (ฉันต้องไป**งาน** - Čhǎn dtɔ̂ng bpai **ngaan**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-money",
+    "front": {
+      "icon": "",
+      "title": "เงิน",
+      "description": "ngəən"
+    },
+    "back": {
+      "icon": "💵",
+      "title": "money / silver",
+      "description": "I don't have money. (ฉันไม่มี**เงิน** - Čhǎn mâi mii **ngəən**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-plate",
+    "front": {
+      "icon": "",
+      "title": "จาน",
+      "description": "jaan"
+    },
+    "back": {
+      "icon": "🍽️",
+      "title": "plate / dish",
+      "description": "I need a plate. (ฉันต้องการ**จาน** - Čhǎn dtɔ̂ng-gaan **jaan**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-pay",
+    "front": {
+      "icon": "",
+      "title": "จ่าย",
+      "description": "jàai"
+    },
+    "back": {
+      "icon": "💳",
+      "title": "to pay",
+      "description": "I want to pay. (ฉันต้องการ**จ่าย** - Čhǎn dtɔ̂ng-gaan **jàai**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-real",
+    "front": {
+      "icon": "",
+      "title": "จริง",
+      "description": "jing"
+    },
+    "back": {
+      "icon": "💯",
+      "title": "real / true",
+      "description": "Is it true? (**จริง**เหรอ - **Jing** rə̌ə?)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-park",
+    "front": {
+      "icon": "",
+      "title": "จอด",
+      "description": "jɔ̀ɔt"
+    },
+    "back": {
+      "icon": "🅿️",
+      "title": "to park",
+      "description": "Where can I park? (ฉัน**จอด**รถที่ไหนได้บ้าง - Čhǎn **jɔ̀ɔt** rót tʰîi nǎi dâi bâang?)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-from",
+    "front": {
+      "icon": "",
+      "title": "จาก",
+      "description": "jàak"
+    },
+    "back": {
+      "icon": "✈️",
+      "title": "from / since / away from",
+      "description": "I am from Thailand. (ฉันมา**จาก**ประเทศไทย - Čhǎn maa **jàak** bprà-têet tʰai.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-flirt",
+    "front": {
+      "icon": "",
+      "title": "จีบ",
+      "description": "jìip"
+    },
+    "back": {
+      "icon": "😉",
+      "title": "to flirt / to court",
+      "description": "He is flirting with her. (เขา**จีบ**เธอ - Kʰáw **jìip** tʰəə.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-i-female",
+    "front": {
+      "icon": "",
+      "title": "ฉัน",
+      "description": "čhǎn"
+    },
+    "back": {
+      "icon": "👩",
+      "title": "I / me (female, neutral)",
+      "description": "**ฉัน**หิว (**Čhǎn** hǐu.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-clever",
+    "front": {
+      "icon": "",
+      "title": "ฉลาด",
+      "description": "čhà-làat"
+    },
+    "back": {
+      "icon": "🧠",
+      "title": "clever / smart / intelligent",
+      "description": "You are smart. (คุณ**ฉลาด** - Kʰun **čhà-làat**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-indifferent",
+    "front": {
+      "icon": "",
+      "title": "เฉยๆ",
+      "description": "čhə̌əy-čhə̌əy"
+    },
+    "back": {
+      "icon": "😐",
+      "title": "so-so / indifferent / neutral",
+      "description": "How are you? I'm so-so. (สบายดีไหม **เฉยๆ** - Sà-baai dii mǎi? **Čhə̌əy-čhə̌əy**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-win",
+    "front": {
+      "icon": "",
+      "title": "ชนะ",
+      "description": "chá-ná"
+    },
+    "back": {
+      "icon": "🏆",
+      "title": "to win / to defeat",
+      "description": "We won! (พวกเรา**ชนะ** - Pʰûuak rao **chá-ná**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-like",
+    "front": {
+      "icon": "",
+      "title": "ชอบ",
+      "description": "chɔ̂ɔp"
+    },
+    "back": {
+      "icon": "❤️",
+      "title": "to like / to prefer",
+      "description": "I like this. (ฉัน**ชอบ**อันนี้ - Čhǎn **chɔ̂ɔp** an níi.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-man",
+    "front": {
+      "icon": "",
+      "title": "ชาย",
+      "description": "chaai"
+    },
+    "back": {
+      "icon": "🧑‍💼",
+      "title": "man / male",
+      "description": "He is a man. (เขาเป็นผู้**ชาย** - Kʰáw bpen pʰûu **chaai**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-elephant",
+    "front": {
+      "icon": "",
+      "title": "ช้าง",
+      "description": "cháang"
+    },
+    "back": {
+      "icon": "🐘",
+      "title": "elephant",
+      "description": "I saw an elephant. (ฉันเห็น**ช้าง** - Čhǎn hěn **cháang**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-slowly",
+    "front": {
+      "icon": "",
+      "title": "ช้าๆ",
+      "description": "cháa-cháa"
+    },
+    "back": {
+      "icon": "🐢",
+      "title": "slowly / gently",
+      "description": "Please speak slowly. (กรุณาพูด**ช้าๆ** - Gà-rú-naa pʰûut **cháa-cháa**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-life",
+    "front": {
+      "icon": "",
+      "title": "ชีวิต",
+      "description": "chii-wít"
+    },
+    "back": {
+      "icon": "🧘",
+      "title": "life",
+      "description": "Life is beautiful. (**ชีวิต**สวยงาม - **Chii-wít** sǔuai-ngaam.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-happy-emotion",
+    "front": {
+      "icon": "",
+      "title": "ดีใจ",
+      "description": "dii-jai"
+    },
+    "back": {
+      "icon": "😃",
+      "title": "happy / delighted (emotion)",
+      "description": "I'm happy to see you. (ฉัน**ดีใจ**ที่ได้เจอคุณ - Čhǎn **dii-jai** tʰîi dâi jəə kʰun.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-wait-a-moment",
+    "front": {
+      "icon": "",
+      "title": "เดี๋ยวก่อน",
+      "description": "dǐěao-gɔ̀ɔn"
+    },
+    "back": {
+      "icon": "⏳",
+      "title": "wait a moment / hold on",
+      "description": "**เดี๋ยวก่อน**นะ (**Dǐěao-gɔ̀ɔn** ná.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-now",
+    "front": {
+      "icon": "",
+      "title": "เดี๋ยวนี้",
+      "description": "dǐěao-níi"
+    },
+    "back": {
+      "icon": "⏰",
+      "title": "now / immediately",
+      "description": "Do it now. (ทำ**เดี๋ยวนี้** - Tʰam **dǐěao-níi**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-black",
+    "front": {
+      "icon": "",
+      "title": "ดำ",
+      "description": "dam"
+    },
+    "back": {
+      "icon": "⚫",
+      "title": "black / dark",
+      "description": "I like black color. (ฉันชอบสี**ดำ** - Čhǎn chɔ̂ɔp sǐi **dam**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-boy",
+    "front": {
+      "icon": "",
+      "title": "เด็กผู้ชาย",
+      "description": "dèk pʰûu-chaai"
+    },
+    "back": {
+      "icon": "👦",
+      "title": "boy",
+      "description": "He is a boy. (เขาเป็น**เด็กผู้ชาย** - Kʰáw bpen **dèk pʰûu-chaai**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-girl",
+    "front": {
+      "icon": "",
+      "title": "เด็กผู้หญิง",
+      "description": "dèk pʰûu-yǐng"
+    },
+    "back": {
+      "icon": "👧",
+      "title": "girl",
+      "description": "She is a girl. (เธอเป็น**เด็กผู้หญิง** - Tʰəə bpen **dèk pʰûu-yǐng**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-east",
+    "front": {
+      "icon": "",
+      "title": "ตะวันออก",
+      "description": "dta-wan-ɔ̀ɔk"
+    },
+    "back": {
+      "icon": "🌅",
+      "title": "east",
+      "description": "The sun rises in the east. (ดวงอาทิตย์ขึ้นทาง**ตะวันออก** - Duang aa-tít kʰʉ̂n tʰaang **dta-wan-ɔ̀ɔk**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-west",
+    "front": {
+      "icon": "",
+      "title": "ตะวันตก",
+      "description": "dta-wan-dtòk"
+    },
+    "back": {
+      "icon": "🌇",
+      "title": "west",
+      "description": "The sun sets in the west. (ดวงอาทิตย์ตกทาง**ตะวันตก** - Duang aa-tít dtòk tʰaang **dta-wan-dtòk**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-pencil",
+    "front": {
+      "icon": "",
+      "title": "ดินสอ",
+      "description": "din-sɔ̌ɔ"
+    },
+    "back": {
+      "icon": "✏️",
+      "title": "pencil",
+      "description": "I need a pencil. (ฉันต้องการ**ดินสอ** - Čhǎn dtɔ̂ng-gaan **din-sɔ̌ɔ**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-drink",
+    "front": {
+      "icon": "",
+      "title": "ดื่ม",
+      "description": "dʉ̀ʉm"
+    },
+    "back": {
+      "icon": "🥤",
+      "title": "to drink",
+      "description": "I want to drink water. (ฉันอยาก**ดื่ม**น้ำ - Čhǎn yàak **dʉ̀ʉm** náam.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-walk",
+    "front": {
+      "icon": "",
+      "title": "เดิน",
+      "description": "dəən"
+    },
+    "back": {
+      "icon": "🚶",
+      "title": "to walk",
+      "description": "Let's walk there. (ไป**เดิน**ที่นั่นกันเถอะ - Bpai **dəən** tʰîi nân gan tʰə̀.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-can",
+    "front": {
+      "icon": "",
+      "title": "ได้",
+      "description": "dâi"
+    },
+    "back": {
+      "icon": "✅",
+      "title": "can / able to / to get / to receive",
+      "description": "Can you help me? (คุณช่วยฉัน**ได้**ไหม - Kʰun chûuai čhǎn **dâi** mǎi?)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-good",
+    "front": {
+      "icon": "",
+      "title": "ดี",
+      "description": "dii"
+    },
+    "back": {
+      "icon": "🌟",
+      "title": "good / well / nice",
+      "description": "It's good. (มัน**ดี** - Man **dii**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-watch",
+    "front": {
+      "icon": "",
+      "title": "ดู",
+      "description": "duu"
+    },
+    "back": {
+      "icon": "👀",
+      "title": "to look / to watch / to see",
+      "description": "Look at this! (**ดู**นี่สิ - **Duu** nîi sì!)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-child",
+    "front": {
+      "icon": "",
+      "title": "เด็ก",
+      "description": "dèk"
+    },
+    "back": {
+      "icon": "👶",
+      "title": "child / young person",
+      "description": "I see a child. (ฉันเห็น**เด็ก** - Čhǎn hěn **dèk**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-month",
+    "front": {
+      "icon": "",
+      "title": "เดือน",
+      "description": "dʉan"
+    },
+    "back": {
+      "icon": "🗓️",
+      "title": "month / moon",
+      "description": "Next month. (**เดือน**หน้า - **Dʉan** nâa.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-market",
+    "front": {
+      "icon": "",
+      "title": "ตลาด",
+      "description": "dtà-làat"
+    },
+    "back": {
+      "icon": "🛍️",
+      "title": "market",
+      "description": "I go to the market. (ฉันไป**ตลาด** - Čhǎn bpai **dtà-làat**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-ticket",
+    "front": {
+      "icon": "",
+      "title": "ตั๋ว",
+      "description": "dtǔua"
+    },
+    "back": {
+      "icon": "🎫",
+      "title": "ticket",
+      "description": "I need a ticket. (ฉันต้องการ**ตั๋ว** - Čhǎn dtɔ̂ng-gaan **dtǔua**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-body",
+    "front": {
+      "icon": "",
+      "title": "ตัว",
+      "description": "dtuua"
+    },
+    "back": {
+      "icon": "🧍",
+      "title": "body / self / classifier for animals/clothing",
+      "description": "My body is tired. (**ตัว**ของฉันเหนื่อย - **Dtuua** kʰɔ̌ɔng čhǎn nʉ̀ay.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-cabinet",
+    "front": {
+      "icon": "",
+      "title": "ตู้",
+      "description": "dtûu"
+    },
+    "back": {
+      "icon": "🗄️",
+      "title": "cabinet / cupboard / wardrobe",
+      "description": "The cabinet is full. (**ตู้**เต็มแล้ว - **Dtûu** dtem lɛ́ɛo.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-straight",
+    "front": {
+      "icon": "",
+      "title": "ตรง",
+      "description": "dtrong"
+    },
+    "back": {
+      "icon": "⬆️",
+      "title": "straight / direct / exactly",
+      "description": "Go straight. (ไป**ตรง**ไป - Bpai **dtrong** bpai.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-answer",
+    "front": {
+      "icon": "",
+      "title": "ตอบ",
+      "description": "dtɔ̀ɔp"
+    },
+    "back": {
+      "icon": "💬",
+      "title": "to answer / to reply",
+      "description": "Please answer me. (กรุณา**ตอบ**ฉัน - Gà-rú-naa **dtɔ̀ɔp** čhǎn.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-next",
+    "front": {
+      "icon": "",
+      "title": "ต่อ",
+      "description": "dtɔ̀ɔ"
+    },
+    "back": {
+      "icon": "🔄",
+      "title": "next / to connect / continue",
+      "description": "Next time. (**ต่อ**ไป - **Dtɔ̀ɔ** bpai.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-cheap",
+    "front": {
+      "icon": "",
+      "title": "ถูก",
+      "description": "tùuk"
+    },
+    "back": {
+      "icon": "💸",
+      "title": "cheap / correct",
+      "description": "It's cheap. (มัน**ถูก** - Man **tùuk**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-road",
+    "front": {
+      "icon": "",
+      "title": "ถนน",
+      "description": "tʰà-nǒn"
+    },
+    "back": {
+      "icon": "🛣️",
+      "title": "road / street",
+      "description": "Where is the main road? (**ถนน**ใหญ่ไปทางไหน - **Tʰà-nǒn** yài bpai tʰaang nǎi?)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-bag-sack",
+    "front": {
+      "icon": "",
+      "title": "ถุง",
+      "description": "tǔng"
+    },
+    "back": {
+      "icon": "🛍️",
+      "title": "bag / sack",
+      "description": "I need a bag. (ฉันต้องการ**ถุง** - Čhǎn dtɔ̂ng-gaan **tǔng**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-eat-formal",
+    "front": {
+      "icon": "",
+      "title": "ทาน",
+      "description": "tʰaan"
+    },
+    "back": {
+      "icon": "🍽️",
+      "title": "to eat (formal)",
+      "description": "Let's eat dinner. (ไป**ทาน**อาหารเย็นกันเถอะ - Bpai **tʰaan** aa-hǎan yen gan tʰə̀.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-do",
+    "front": {
+      "icon": "",
+      "title": "ทำ",
+      "description": "tʰam"
+    },
+    "back": {
+      "icon": "🛠️",
+      "title": "to do / to make",
+      "description": "What are you doing? (คุณ**ทำ**อะไรอยู่ - Kʰun **tʰam** a-rai yùu?)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-here",
+    "front": {
+      "icon": "",
+      "title": "ที่นี่",
+      "description": "tʰîi-nîi"
+    },
+    "back": {
+      "icon": "📍",
+      "title": "here",
+      "description": "I live here. (ฉันอยู่**ที่นี่** - Čhǎn yùu **tʰîi-nîi**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-where",
+    "front": {
+      "icon": "",
+      "title": "ที่ไหน",
+      "description": "tʰîi-nǎi"
+    },
+    "back": {
+      "icon": "❓",
+      "title": "where",
+      "description": "Where is the restroom? (ห้องน้ำอยู่**ที่ไหน** - Hɔ̂ng-náam yùu **tʰîi-nǎi**?)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-direction",
+    "front": {
+      "icon": "",
+      "title": "ทิศทาง",
+      "description": "tʰít-tʰaang"
+    },
+    "back": {
+      "icon": "🧭",
+      "title": "direction",
+      "description": "Which direction? (**ทิศทาง**ไหน - **Tʰít-tʰaang** nǎi?)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-tv",
+    "front": {
+      "icon": "",
+      "title": "ทีวี",
+      "description": "tʰii-wii"
+    },
+    "back": {
+      "icon": "📺",
+      "title": "TV",
+      "description": "I watch TV. (ฉัน**ดูทีวี** - Čhǎn **duu tʰii-wii**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-foot",
+    "front": {
+      "icon": "",
+      "title": "เท้า",
+      "description": "táao"
+    },
+    "back": {
+      "icon": "🦶",
+      "title": "foot / feet",
+      "description": "My foot hurts. (**เท้า**ของฉันเจ็บ - **Táao** kʰɔ̌ɔng čhǎn jèp.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-travel",
+    "front": {
+      "icon": "",
+      "title": "เที่ยว",
+      "description": "tʰîěao"
+    },
+    "back": {
+      "icon": "🏖️",
+      "title": "to travel / to tour / to go out",
+      "description": "Where are you traveling? (คุณไป**เที่ยว**ที่ไหน - Kʰun bpai **tʰîěao** tʰîi nǎi?)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-call",
+    "front": {
+      "icon": "",
+      "title": "โทร",
+      "description": "tʰoo"
+    },
+    "back": {
+      "icon": "📱",
+      "title": "to call / to telephone",
+      "description": "I will call you. (ฉันจะ**โทร**หาคุณ - Čhǎn jà **tʰoo** hǎa kʰun.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-table",
+    "front": {
+      "icon": "",
+      "title": "โต๊ะ",
+      "description": "dtó"
+    },
+    "back": {
+      "icon": " میز",
+      "title": "table / desk",
+      "description": "The book is on the table. (หนังสืออยู่บน**โต๊ะ** - Nǎng-sʉ̌ʉ yùu bon **dtó**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-bird",
+    "front": {
+      "icon": "",
+      "title": "นก",
+      "description": "nók"
+    },
+    "back": {
+      "icon": "🐦",
+      "title": "bird",
+      "description": "I see a bird. (ฉันเห็น**นก** - Čhǎn hěn **nók**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-sleep",
+    "front": {
+      "icon": "",
+      "title": "นอน",
+      "description": "nɔɔn"
+    },
+    "back": {
+      "icon": "😴",
+      "title": "to sleep / to lie down",
+      "description": "I want to sleep. (ฉันอยาก**นอน** - Čhǎn yàak **nɔɔn**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-appointment",
+    "front": {
+      "icon": "",
+      "title": "นัด",
+      "description": "nát"
+    },
+    "back": {
+      "icon": "🗓️",
+      "title": "appointment / to make an appointment",
+      "description": "I have an appointment. (ฉันมี**นัด** - Čhǎn mii **nát**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-water",
+    "front": {
+      "icon": "",
+      "title": "น้ำ",
+      "description": "náam"
+    },
+    "back": {
+      "icon": "💧",
+      "title": "water / liquid",
+      "description": "I want water. (ฉันอยากได้**น้ำ** - Čhǎn yàak dâi **náam**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-clock",
+    "front": {
+      "icon": "",
+      "title": "นาฬิกา",
+      "description": "naa-lí-gaa"
+    },
+    "back": {
+      "icon": "⌚",
+      "title": "clock / watch",
+      "description": "What time is it? (**นาฬิกา**กี่โมง - **Naa-lí-gaa** gìi moong?)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-minute",
+    "front": {
+      "icon": "",
+      "title": "นาที",
+      "description": "naa-tʰii"
+    },
+    "back": {
+      "icon": "⏱️",
+      "title": "minute",
+      "description": "Wait for 5 minutes. (รอ 5 **นาที** - Rɔɔ hâa **naa-tʰii**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-cute",
+    "front": {
+      "icon": "",
+      "title": "น่ารัก",
+      "description": "nâa-rák"
+    },
+    "back": {
+      "icon": "🥰",
+      "title": "cute / lovely / adorable",
+      "description": "It's so cute. (มัน**น่ารัก**จัง - Man **nâa-rák** jang.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-sit",
+    "front": {
+      "icon": "",
+      "title": "นั่ง",
+      "description": "nâng"
+    },
+    "back": {
+      "icon": "🪑",
+      "title": "to sit",
+      "description": "Please sit down. (กรุณา**นั่ง**ลง - Gà-rú-naa **nâng** long.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-north",
+    "front": {
+      "icon": "",
+      "title": "เหนือ",
+      "description": "nʉ̌ʉa"
+    },
+    "back": {
+      "icon": "⬆️",
+      "title": "north / above",
+      "description": "The north of Thailand. (**เหนือ**ประเทศไทย - **Nʉ̌ʉa** bprà-têet tʰai.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-in",
+    "front": {
+      "icon": "",
+      "title": "ใน",
+      "description": "nai"
+    },
+    "back": {
+      "icon": "📦",
+      "title": "in / inside / within",
+      "description": "It's in the box. (มันอยู่**ใน**กล่อง - Man yùu **nai** glɔ̀ɔng.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-outside",
+    "front": {
+      "icon": "",
+      "title": "นอก",
+      "description": "nɔ̂ɔk"
+    },
+    "back": {
+      "icon": "🚪",
+      "title": "outside / exterior",
+      "description": "Wait outside. (รอ**นอก** - Rɔɔ **nɔ̂ɔk**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-baht",
+    "front": {
+      "icon": "",
+      "title": "บาท",
+      "description": "bàat"
+    },
+    "back": {
+      "icon": "💵",
+      "title": "Baht (Thai currency)",
+      "description": "It costs 100 Baht. (ราคา 100 **บาท** - Raa-kʰaa nʉ̀ng rɔ́ɔi **bàat**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-afternoon",
+    "front": {
+      "icon": "",
+      "title": "บ่าย",
+      "description": "bàai"
+    },
+    "back": {
+      "icon": "☀️",
+      "title": "afternoon / p.m.",
+      "description": "In the afternoon. (ตอน**บ่าย** - Dtɔɔn **bàai**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-house",
+    "front": {
+      "icon": "",
+      "title": "บ้าน",
+      "description": "bâan"
+    },
+    "back": {
+      "icon": "🏠",
+      "title": "house / home",
+      "description": "I go home. (ฉันกลับ**บ้าน** - Čhǎn glàp **bâan**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-bill",
+    "front": {
+      "icon": "",
+      "title": "บิล",
+      "description": "bin"
+    },
+    "back": {
+      "icon": "🧾",
+      "title": "bill / receipt",
+      "description": "Can I have the bill? (ขอ**บิล**หน่อย - Kɔ̌ɔ **bin** nɔ̀i.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-tell",
+    "front": {
+      "icon": "",
+      "title": "บอก",
+      "description": "bɔ̀ɔk"
+    },
+    "back": {
+      "icon": "🗣️",
+      "title": "to tell / to inform / to say",
+      "description": "Tell me. (**บอก**ฉัน - **Bɔ̀ɔk** čhǎn.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-door",
+    "front": {
+      "icon": "",
+      "title": "ประตู",
+      "description": "bprà-dtuu"
+    },
+    "back": {
+      "icon": "🚪",
+      "title": "door / gate",
+      "description": "Open the door. (**เปิดประตู** - **Bpə̀ət bprà-dtuu**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-sick",
+    "front": {
+      "icon": "",
+      "title": "ป่วย",
+      "description": "bpùuai"
+    },
+    "back": {
+      "icon": "🤒",
+      "title": "sick / ill",
+      "description": "I am sick. (ฉัน**ป่วย** - Čhǎn **bpùuai**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-fish",
+    "front": {
+      "icon": "",
+      "title": "ปลา",
+      "description": "bplaa"
+    },
+    "back": {
+      "icon": "🐠",
+      "title": "fish",
+      "description": "I eat fish. (ฉันกิน**ปลา** - Čhǎn gin **bplaa**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-close",
+    "front": {
+      "icon": "",
+      "title": "ปิด",
+      "description": "bpìt"
+    },
+    "back": {
+      "icon": "🔒",
+      "title": "to close / to turn off",
+      "description": "Close the door. (**ปิด**ประตู - **Bpìt** bprà-dtuu.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-open",
+    "front": {
+      "icon": "",
+      "title": "เปิด",
+      "description": "bpə̀ət"
+    },
+    "back": {
+      "icon": "🔓",
+      "title": "to open / to turn on",
+      "description": "Open the door. (**เปิด**ประตู - **Bpə̀ət** bprà-dtuu.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-year",
+    "front": {
+      "icon": "",
+      "title": "ปี",
+      "description": "bpii"
+    },
+    "back": {
+      "icon": "📅",
+      "title": "year",
+      "description": "Next year. (**ปี**หน้า - **Bpii** nâa.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-pen",
+    "front": {
+      "icon": "",
+      "title": "ปากกา",
+      "description": "bpàak-gaa"
+    },
+    "back": {
+      "icon": "🖊️",
+      "title": "pen",
+      "description": "I need a pen. (ฉันต้องการ**ปากกา** - Čhǎn dtɔ̂ng-gaan **bpàak-gaa**.)"
+    },
+    "id": "thai-for-traveler-rain",
+    "front": {
+      "icon": "",
+      "title": "ฝน",
+      "description": "fǒn"
+    },
+    "back": {
+      "icon": "🌧️",
+      "title": "rain",
+      "description": "It's raining. (**ฝน**ตก - **Fǒn** dtòk.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-vegetable",
+    "front": {
+      "icon": "",
+      "title": "ผัก",
+      "description": "pʰàk"
+    },
+    "back": {
+      "icon": "🥦",
+      "title": "vegetable",
+      "description": "I like vegetables. (ฉันชอบ**ผัก** - Čhǎn chɔ̂ɔp **pʰàk**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-cloth",
+    "front": {
+      "icon": "",
+      "title": "ผ้า",
+      "description": "pʰâa"
+    },
+    "back": {
+      "icon": "🧶",
+      "title": "cloth / fabric",
+      "description": "I need a towel. (**ผ้า**เช็ดตัว - **Pʰâa** chét-dtuua.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-man-person",
+    "front": {
+      "icon": "",
+      "title": "ผู้ชาย",
+      "description": "pʰûu-chaai"
+    },
+    "back": {
+      "icon": "👨",
+      "title": "man (person)",
+      "description": "That man is tall. (**ผู้ชาย**คนนั้นสูง - **Pʰûu-chaai** kʰon nán sǔung.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-woman",
+    "front": {
+      "icon": "",
+      "title": "ผู้หญิง",
+      "description": "pʰûu-yǐng"
+    },
+    "back": {
+      "icon": "👩",
+      "title": "woman (person)",
+      "description": "That woman is beautiful. (**ผู้หญิง**คนนั้นสวย - **Pʰûu-yǐng** kʰon nán sǔuai.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-wrong",
+    "front": {
+      "icon": "",
+      "title": "ผิด",
+      "description": "pʰìt"
+    },
+    "back": {
+      "icon": "❌",
+      "title": "wrong / incorrect",
+      "description": "That's wrong. (นั่น**ผิด** - Nân **pʰìt**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-hair-i-male",
+    "front": {
+      "icon": "",
+      "title": "ผม",
+      "description": "pʰǒm"
+    },
+    "back": {
+      "icon": "👨",
+      "title": "hair / I / me (male)",
+      "description": "**ผม**เป็นคนไทย (**Pʰǒm** bpen kʰon-tʰai.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-rest",
+    "front": {
+      "icon": "",
+      "title": "พัก",
+      "description": "pʰák"
+    },
+    "back": {
+      "icon": "🛌",
+      "title": "to rest / to stay",
+      "description": "I need to rest. (ฉันต้องการ**พัก**ผ่อน - Čhǎn dtɔ̂ng-gaan **pʰák** pʰɔ̀ɔn.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-speak",
+    "front": {
+      "icon": "",
+      "title": "พูด",
+      "description": "pʰûut"
+    },
+    "back": {
+      "icon": "💬",
+      "title": "to speak / to talk",
+      "description": "Can you speak Thai? (คุณ**พูด**ภาษาไทยได้ไหม - Kʰun **pʰûut** pʰaa-sǎa tʰai dâi mǎi?)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-friend",
+    "front": {
+      "icon": "",
+      "title": "เพื่อน",
+      "description": "pʰʉ̂ʉan"
+    },
+    "back": {
+      "icon": "🧑‍🤝‍🧑",
+      "title": "friend",
+      "description": "I'm meeting my friend. (ฉันกำลังเจอ**เพื่อน** - Čhǎn gam-lang jəə **pʰʉ̂ʉan**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-meet",
+    "front": {
+      "icon": "",
+      "title": "พบ",
+      "description": "pʰóp"
+    },
+    "back": {
+      "icon": "👋",
+      "title": "to meet / to find",
+      "description": "Nice to meet you. (ยินดีที่ได้**พบ** - Yin-dii tʰîi dâi **pʰóp**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-language",
+    "front": {
+      "icon": "",
+      "title": "ภาษา",
+      "description": "pʰaa-sǎa"
+    },
+    "back": {
+      "icon": "🌐",
+      "title": "language",
+      "description": "I like Thai language. (ฉันชอบ**ภาษา**ไทย - Čhǎn chɔ̂ɔp **pʰaa-sǎa** tʰai.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-come",
+    "front": {
+      "icon": "",
+      "title": "มา",
+      "description": "maa"
+    },
+    "back": {
+      "icon": "🚶",
+      "title": "to come / to arrive",
+      "description": "Come here. (**มา**นี่ - **Maa** nîi.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-much",
+    "front": {
+      "icon": "",
+      "title": "มาก",
+      "description": "mâak"
+    },
+    "back": {
+      "icon": "➕",
+      "title": "much / many / very",
+      "description": "Thank you very much. (ขอบคุณ**มาก** - Kʰɔ̀ɔp-kʰun **mâak**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-hand",
+    "front": {
+      "icon": "",
+      "title": "มือ",
+      "description": "mʉʉ"
+    },
+    "back": {
+      "icon": "✋",
+      "title": "hand",
+      "description": "Wash your hands. (ล้าง**มือ** - Láang **mʉʉ**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-when",
+    "front": {
+      "icon": "",
+      "title": "เมื่อไหร่",
+      "description": "mʉ̂a-rài"
+    },
+    "back": {
+      "icon": "❓",
+      "title": "when",
+      "description": "When will you come? (คุณจะ**มา**เมื่อไหร่ - Kʰun jà maa **mʉ̂a-rài**?)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-mother",
+    "front": {
+      "icon": "",
+      "title": "แม่",
+      "description": "mɛ̂ɛ"
+    },
+    "back": {
+      "icon": "👩",
+      "title": "mother",
+      "description": "My mother is cooking. (**แม่**ของฉันกำลังทำอาหาร - **Mɛ̂ɛ** kʰɔ̌ɔng čhǎn gam-lang tʰam aa-hǎan.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-o-clock",
+    "front": {
+      "icon": "",
+      "title": "โมง",
+      "description": "moong"
+    },
+    "back": {
+      "icon": "🕒",
+      "title": "o'clock (for hours 1-11 a.m. and 1-6 p.m.)",
+      "description": "3 o'clock in the afternoon. (บ่าย 3 **โมง** - Bàai sǎam **moong**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-no",
+    "front": {
+      "icon": "",
+      "title": "ไม่",
+      "description": "mâi"
+    },
+    "back": {
+      "icon": "🚫",
+      "title": "no / not",
+      "description": "No, I don't want it. (**ไม่**, ฉันไม่ต้องการ - **Mâi**, čhǎn mâi dtɔ̂ng-gaan.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-have",
+    "front": {
+      "icon": "",
+      "title": "มี",
+      "description": "mii"
+    },
+    "back": {
+      "icon": "💰",
+      "title": "to have / to possess / there is/are",
+      "description": "I have a car. (ฉัน**มี**รถ - Čhǎn **mii** rót.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-horse",
+    "front": {
+      "icon": "",
+      "title": "ม้า",
+      "description": "máa"
+    },
+    "back": {
+      "icon": "🐎",
+      "title": "horse",
+      "description": "I ride a horse. (ฉันขี่**ม้า** - Čhǎn kʰìi **máa**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-medicine",
+    "front": {
+      "icon": "",
+      "title": "ยา",
+      "description": "yaa"
+    },
+    "back": {
+      "icon": "💊",
+      "title": "medicine / drug",
+      "description": "I need medicine. (ฉันต้องการ**ยา** - Čhǎn dtɔ̂ng-gaan **yaa**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-difficult",
+    "front": {
+      "icon": "",
+      "title": "ยาก",
+      "description": "yâak"
+    },
+    "back": {
+      "icon": "🤯",
+      "title": "difficult / hard",
+      "description": "It's difficult. (มัน**ยาก** - Man **yâak**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-be-at",
+    "front": {
+      "icon": "",
+      "title": "อยู่",
+      "description": "yùu"
+    },
+    "back": {
+      "icon": "📍",
+      "title": "to be at / to live / to be present",
+      "description": "Where are you? (คุณ**อยู่**ที่ไหน - Kʰun **yùu** tʰîi nǎi?)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-cool",
+    "front": {
+      "icon": "",
+      "title": "เย็น",
+      "description": "yen"
+    },
+    "back": {
+      "icon": "🧊",
+      "title": "cool / evening / cold",
+      "description": "It's cool today. (วันนี้**เย็น**สบาย - Wa**n** níi **yen** sà-baai.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-a-lot",
+    "front": {
+      "icon": "",
+      "title": "เยอะ",
+      "description": "yə́"
+    },
+    "back": {
+      "icon": "➕",
+      "title": "a lot / many / much",
+      "description": "There are many people. (มีคน**เยอะ** - Mii kʰon **yə́**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-car",
+    "front": {
+      "icon": "",
+      "title": "รถ",
+      "description": "rót"
+    },
+    "back": {
+      "icon": "🚗",
+      "title": "car / vehicle",
+      "description": "I drive a car. (ฉันขับ**รถ** - Čhǎn kʰàp **rót**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-wait",
+    "front": {
+      "icon": "",
+      "title": "รอ",
+      "description": "rɔɔ"
+    },
+    "back": {
+      "icon": "⏳",
+      "title": "to wait",
+      "description": "Wait for me. (**รอ**ฉัน - **Rɔɔ** čhǎn.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-shop",
+    "front": {
+      "icon": "",
+      "title": "ร้าน",
+      "description": "ráan"
+    },
+    "back": {
+      "icon": "🏪",
+      "title": "shop / store / restaurant",
+      "description": "Where is the shop? (**ร้าน**อยู่ไหน - **Ráan** yùu nǎi?)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-hot",
+    "front": {
+      "icon": "",
+      "title": "ร้อน",
+      "description": "rɔ́ɔn"
+    },
+    "back": {
+      "icon": "🔥",
+      "title": "hot",
+      "description": "The weather is hot. (อากาศ**ร้อน** - Aa-gàat **rɔ́ɔn**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-umbrella",
+    "front": {
+      "icon": "",
+      "title": "ร่ม",
+      "description": "rôm"
+    },
+    "back": {
+      "icon": "☂️",
+      "title": "umbrella",
+      "description": "I need an umbrella. (ฉันต้องการ**ร่ม** - Čhǎn dtɔ̂ng-gaan **rôm**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-know",
+    "front": {
+      "icon": "",
+      "title": "รู้",
+      "description": "rúu"
+    },
+    "back": {
+      "icon": "💡",
+      "title": "to know / to understand",
+      "description": "I know. (ฉัน**รู้** - Čhǎn **rúu**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-price",
+    "front": {
+      "icon": "",
+      "title": "ราคา",
+      "description": "raa-kʰaa"
+    },
+    "back": {
+      "icon": "🏷️",
+      "title": "price / cost",
+      "description": "What is the price? (**ราคา**เท่าไหร่ - **Raa-kʰaa** tʰâo-rài?)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-love",
+    "front": {
+      "icon": "",
+      "title": "รัก",
+      "description": "rák"
+    },
+    "back": {
+      "icon": "💖",
+      "title": "to love",
+      "description": "I love you. (ฉัน**รัก**คุณ - Čhǎn **rák** kʰun.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-receive",
+    "front": {
+      "icon": "",
+      "title": "รับ",
+      "description": "ráp"
+    },
+    "back": {
+      "icon": "🤝",
+      "title": "to receive / to take / to accept",
+      "description": "I accept. (ฉัน**รับ** - Čhǎn **ráp**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-fast",
+    "front": {
+      "icon": "",
+      "title": "เร็ว",
+      "description": "reo"
+    },
+    "back": {
+      "icon": "⚡",
+      "title": "fast / quick",
+      "description": "Go fast. (ไป**เร็ว** - Bpai **reo**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-go-down",
+    "front": {
+      "icon": "",
+      "title": "ลง",
+      "description": "long"
+    },
+    "back": {
+      "icon": "⬇️",
+      "title": "to go down / to descend",
+      "description": "Go down. (**ลง**ไป - **Long** bpai.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-wind",
+    "front": {
+      "icon": "",
+      "title": "ลม",
+      "description": "lom"
+    },
+    "back": {
+      "icon": "🌬️",
+      "title": "wind / air",
+      "description": "The wind is strong. (**ลม**แรง - **Lom** rɛɛng.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-wash",
+    "front": {
+      "icon": "",
+      "title": "ล้าง",
+      "description": "láang"
+    },
+    "back": {
+      "icon": "🧼",
+      "title": "to wash / to clean",
+      "description": "Wash your hands. (**ล้าง**มือ - **Láang** mʉʉ.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-forget",
+    "front": {
+      "icon": "",
+      "title": "ลืม",
+      "description": "lʉʉm"
+    },
+    "back": {
+      "icon": "💭",
+      "title": "to forget",
+      "description": "I forgot. (ฉัน**ลืม** - Čhǎn **lʉʉm**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-try",
+    "front": {
+      "icon": "",
+      "title": "ลอง",
+      "description": "lɔɔng"
+    },
+    "back": {
+      "icon": "🧐",
+      "title": "to try / to test",
+      "description": "Try this. (**ลอง**อันนี้ - **Lɔɔng** an níi.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-at-all",
+    "front": {
+      "icon": "",
+      "title": "เลย",
+      "description": "ləəi"
+    },
+    "back": {
+      "icon": "➡️",
+      "title": "at all (emphatic) / immediately / past",
+      "description": "Not at all. (ไม่**เลย** - Mâi **ləəi**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-small",
+    "front": {
+      "icon": "",
+      "title": "เล็ก",
+      "description": "lék"
+    },
+    "back": {
+      "icon": "🤏",
+      "title": "small / little",
+      "description": "The car is small. (รถ**เล็ก** - Ró**t lék**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-turn",
+    "front": {
+      "icon": "",
+      "title": "เลี้ยว",
+      "description": "líeao"
+    },
+    "back": {
+      "icon": "↪️",
+      "title": "to turn / to corner",
+      "description": "Turn left. (**เลี้ยว**ซ้าย - **Líeao** sáai.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-play",
+    "front": {
+      "icon": "",
+      "title": "เล่น",
+      "description": "lêen"
+    },
+    "back": {
+      "icon": "🎮",
+      "title": "to play",
+      "description": "Let's play. (ไป**เล่น**กันเถอะ - Bpai **lêen** gan tʰə̀.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-exchange",
+    "front": {
+      "icon": "",
+      "title": "แลก",
+      "description": "lɛ̂ɛk"
+    },
+    "back": {
+      "icon": "💱",
+      "title": "to exchange / to swap",
+      "description": "I want to exchange money. (ฉันต้องการ**แลก**เงิน - Čhǎn dtɔ̂ng-gaan **lɛ̂ɛk** ngəən.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-already",
+    "front": {
+      "icon": "",
+      "title": "แล้ว",
+      "description": "lɛ́ɛo"
+    },
+    "back": {
+      "icon": "👍",
+      "title": "already / finished (past tense marker)",
+      "description": "I'm done. (ฉันเสร็จ**แล้ว** - Čhǎn sè**t lɛ́ɛo**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-day",
+    "front": {
+      "icon": "",
+      "title": "วัน",
+      "description": "wan"
+    },
+    "back": {
+      "icon": "☀️",
+      "title": "day / date",
+      "description": "What day is today? (**วัน**นี้**วัน**อะไร - **Wan** níi **wan** a-rai?)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-time",
+    "front": {
+      "icon": "",
+      "title": "เวลา",
+      "description": "wee-laa"
+    },
+    "back": {
+      "icon": "⏰",
+      "title": "time",
+      "description": "What time is it? (**เวลา**เท่าไหร่ - **Wee-laa** tʰâo-rài?)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-that",
+    "front": {
+      "icon": "",
+      "title": "ว่า",
+      "description": "wâa"
+    },
+    "back": {
+      "icon": "💬",
+      "title": "that (conjunction) / to say / to tell",
+      "description": "He said that... (เขา**ว่า**... - Kʰáw **wâa**...)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-hello",
+    "front": {
+      "icon": "",
+      "title": "สวัสดี",
+      "description": "sà-wàt-dii"
+    },
+    "back": {
+      "icon": "🙏",
+      "title": "hello / goodbye",
+      "description": "**สวัสดี**ครับ/ค่ะ (**Sà-wàt-dii** kʰráp/kâ.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-clean",
+    "front": {
+      "icon": "",
+      "title": "สะอาด",
+      "description": "sà-àat"
+    },
+    "back": {
+      "icon": "✨",
+      "title": "clean",
+      "description": "The room is clean. (ห้อง**สะอาด** - Hɔ̂ng **sà-àat**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-fun",
+    "front": {
+      "icon": "",
+      "title": "สนุก",
+      "description": "sà-nùk"
+    },
+    "back": {
+      "icon": "😄",
+      "title": "fun / enjoyable",
+      "description": "It's fun. (มัน**สนุก** - Man **sà-nùk**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-beautiful",
+    "front": {
+      "icon": "",
+      "title": "สวย",
+      "description": "sǔuai"
+    },
+    "back": {
+      "icon": "🌸",
+      "title": "beautiful / pretty",
+      "description": "She is beautiful. (เธอ**สวย** - Tʰəə **sǔuai**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-order",
+    "front": {
+      "icon": "",
+      "title": "สั่ง",
+      "description": "sàng"
+    },
+    "back": {
+      "icon": "📝",
+      "title": "to order (food/goods)",
+      "description": "I want to order food. (ฉันอยาก**สั่ง**อาหาร - Čhǎn yàak **sàng** aa-hǎan.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-color",
+    "front": {
+      "icon": "",
+      "title": "สี",
+      "description": "sǐi"
+    },
+    "back": {
+      "icon": "🌈",
+      "title": "color",
+      "description": "What color is this? (**สี**อะไร - **Sǐi** a-rai?)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-four",
+    "front": {
+      "icon": "",
+      "title": "สี่",
+      "description": "sìi"
+    },
+    "back": {
+      "icon": "4️⃣",
+      "title": "four",
+      "description": "Four cars. (รถ**สี่**คัน - Ró**t sìi** kʰan.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-send",
+    "front": {
+      "icon": "",
+      "title": "ส่ง",
+      "description": "sòng"
+    },
+    "back": {
+      "icon": "📦",
+      "title": "to send / to deliver",
+      "description": "Send it to me. (**ส่ง**มันให้ฉัน - **Sòng** man hâi čhǎn.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-put-on",
+    "front": {
+      "icon": "",
+      "title": "ใส่",
+      "description": "sài"
+    },
+    "back": {
+      "icon": "👕",
+      "title": "to put (in/on) / to wear",
+      "description": "Put it in the bag. (**ใส่**มันในกระเป๋า - **Sài** man nai grà-bpǎo.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-shirt",
+    "front": {
+      "icon": "",
+      "title": "เสื้อ",
+      "description": "sʉ̂a"
+    },
+    "back": {
+      "icon": "👚",
+      "title": "shirt / top",
+      "description": "I like this shirt. (ฉันชอบ**เสื้อ**ตัวนี้ - Čhǎn chɔ̂ɔp **sʉ̂a** dtuua níi.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-clear",
+    "front": {
+      "icon": "",
+      "title": "ใส",
+      "description": "sǎi"
+    },
+    "back": {
+      "icon": "💧",
+      "title": "clear / transparent",
+      "description": "Clear water. (น้ำ**ใส** - Náam **sǎi**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-dog",
+    "front": {
+      "icon": "",
+      "title": "หมา",
+      "description": "mǎa"
+    },
+    "back": {
+      "icon": "🐕",
+      "title": "dog",
+      "description": "I have a dog. (ฉันมี**หมา** - Čhǎn mii **mǎa**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-room",
+    "front": {
+      "icon": "",
+      "title": "ห้อง",
+      "description": "hɔ̂ɔng"
+    },
+    "back": {
+      "icon": "🏠",
+      "title": "room",
+      "description": "Where is the room? (**ห้อง**อยู่ไหน - **Hɔ̂ɔng** yùu nǎi?)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-cold",
+    "front": {
+      "icon": "",
+      "title": "หนาว",
+      "description": "nǎao"
+    },
+    "back": {
+      "icon": "🥶",
+      "title": "cold (weather/air)",
+      "description": "It's cold. (มัน**หนาว** - Man **nǎao**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-book",
+    "front": {
+      "icon": "",
+      "title": "หนังสือ",
+      "description": "nǎng-sʉ̌ʉ"
+    },
+    "back": {
+      "icon": "📚",
+      "title": "book",
+      "description": "I read a book. (ฉันอ่าน**หนังสือ** - Čhǎn àan **nǎng-sʉ̌ʉ**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-lost",
+    "front": {
+      "icon": "",
+      "title": "หาย",
+      "description": "hǎai"
+    },
+    "back": {
+      "icon": "❓",
+      "title": "lost / to disappear / recovered (from sickness)",
+      "description": "My wallet is lost. (กระเป๋าสตางค์**หาย** - Grà-bpǎo sà-dtaang **hǎai**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-carry",
+    "front": {
+      "icon": "",
+      "title": "หาม",
+      "description": "hǎam"
+    },
+    "back": {
+      "icon": "🚶",
+      "title": "to carry (by two or more people)",
+      "description": "They carry the patient. (พวกเขา**หาม**คนไข้ - Pʰûuak kʰáw **hǎam** kʰon-kʰâi.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-female",
+    "front": {
+      "icon": "",
+      "title": "หญิง",
+      "description": "yǐng"
+    },
+    "back": {
+      "icon": "♀️",
+      "title": "female / woman",
+      "description": "That woman is beautiful. (ผู้**หญิง**คนนั้นสวย - Pʰûu **yǐng** kʰon nán sǔuai.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-hungry",
+    "front": {
+      "icon": "",
+      "title": "หิว",
+      "description": "hǐu"
+    },
+    "back": {
+      "icon": "🍔",
+      "title": "hungry",
+      "description": "I'm hungry. (ฉัน**หิว** - Čhǎn **hǐu**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-head",
+    "front": {
+      "icon": "",
+      "title": "หัว",
+      "description": "hǔua"
+    },
+    "back": {
+      "icon": "🤯",
+      "title": "head / top / beginning",
+      "description": "My head hurts. (**หัว**ของฉันเจ็บ - **Hǔua** kʰɔ̌ɔng čhǎn jèp.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-sweet",
+    "front": {
+      "icon": "",
+      "title": "หวาน",
+      "description": "wǎan"
+    },
+    "back": {
+      "icon": "🍭",
+      "title": "sweet",
+      "description": "It's too sweet. (มัน**หวาน**เกินไป - Man **wǎan** geern bpai.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-look-for",
+    "front": {
+      "icon": "",
+      "title": "หา",
+      "description": "hǎa"
+    },
+    "back": {
+      "icon": "🔎",
+      "title": "to look for / to search / to visit",
+      "description": "I'm looking for a map. (ฉันกำลัง**หา**แผนที่ - Čhǎn gam-lang **hǎa** pʰɛ̌ɛn-tʰîi.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-new",
+    "front": {
+      "icon": "",
+      "title": "ใหม่",
+      "description": "mài"
+    },
+    "back": {
+      "icon": "🆕",
+      "title": "new",
+      "description": "I have a new phone. (ฉันมีโทรศัพท์**ใหม่** - Čhǎn mii tʰoo-rá-sàp **mài**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-finished",
+    "front": {
+      "icon": "",
+      "title": "หมด",
+      "description": "mòt"
+    },
+    "back": {
+      "icon": "🔚",
+      "title": "finished / all gone / whole",
+      "description": "The money is gone. (เงิน**หมด**แล้ว - Ngəən **mòt** lɛ́ɛo.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-doctor",
+    "front": {
+      "icon": "",
+      "title": "หมอ",
+      "description": "mɔ̌ɔ"
+    },
+    "back": {
+      "icon": "🧑‍⚕️",
+      "title": "doctor",
+      "description": "I need to see a doctor. (ฉันต้องไปหา**หมอ** - Čhǎn dtɔ̂ng bpai hǎa **mɔ̌ɔ**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-turn-around",
+    "front": {
+      "icon": "",
+      "title": "หัน",
+      "description": "hǎn"
+    },
+    "back": {
+      "icon": "↩️",
+      "title": "to turn (around) / to face",
+      "description": "Turn around. (**หัน**หลัง - **Hǎn** lǎang.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-remaining",
+    "front": {
+      "icon": "",
+      "title": "เหลือ",
+      "description": "lʉ̌ʉa"
+    },
+    "back": {
+      "icon": " оставшихся",
+      "title": "remaining / left over",
+      "description": "Is there any food left? (มีอาหาร**เหลือ**ไหม - Mii aa-hǎan **lʉ̌ʉa** mǎi?)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-delicious",
+    "front": {
+      "icon": "",
+      "title": "อร่อย",
+      "description": "à-rɔ̀ɔi"
+    },
+    "back": {
+      "icon": "😋",
+      "title": "delicious / tasty",
+      "description": "It's delicious. (มัน**อร่อย** - Man **à-rɔ̀ɔi**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-take-a-bath",
+    "front": {
+      "icon": "",
+      "title": "อาบน้ำ",
+      "description": "àap-náam"
+    },
+    "back": {
+      "icon": "🚿",
+      "title": "to take a bath / to shower",
+      "description": "I want to take a bath. (ฉันอยาก**อาบน้ำ** - Čhǎn yàak **àap-náam**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-food",
+    "front": {
+      "icon": "",
+      "title": "อาหาร",
+      "description": "aa-hǎan"
+    },
+    "back": {
+      "icon": "🍲",
+      "title": "food / meal",
+      "description": "I like Thai food. (ฉันชอบ**อาหาร**ไทย - Čhǎn chɔ̂ɔp **aa-hǎan** tʰai.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-read",
+    "front": {
+      "icon": "",
+      "title": "อ่าน",
+      "description": "àan"
+    },
+    "back": {
+      "icon": "📖",
+      "title": "to read",
+      "description": "I like to read. (ฉันชอบ**อ่าน** - Čhǎn chɔ̂ɔp **àan**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-full-stomach",
+    "front": {
+      "icon": "",
+      "title": "อิ่ม",
+      "description": "ìm"
+    },
+    "back": {
+      "icon": "😌",
+      "title": "full (stomach)",
+      "description": "I'm full. (ฉัน**อิ่ม** - Čhǎn **ìm**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-weather",
+    "front": {
+      "icon": "",
+      "title": "อากาศ",
+      "description": "aa-gàat"
+    },
+    "back": {
+      "icon": "☀️",
+      "title": "weather / air",
+      "description": "The weather is good. (**อากาศ**ดี - **Aa-gàat** dii.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-want",
+    "front": {
+      "icon": "",
+      "title": "อยาก",
+      "description": "yàak"
+    },
+    "back": {
+      "icon": "🤩",
+      "title": "to want / to desire",
+      "description": "I want to go home. (ฉัน**อยาก**กลับบ้าน - Čhǎn **yàak** glàp bâan.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-what",
+    "front": {
+      "icon": "",
+      "title": "อะไร",
+      "description": "a-rai"
+    },
+    "back": {
+      "icon": "❓",
+      "title": "what",
+      "description": "What is this? (นี่คือ**อะไร** - Nîi kʰʉʉ **a-rai**?)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-teacher",
+    "front": {
+      "icon": "",
+      "title": "อาจารย์",
+      "description": "aa-jaan"
+    },
+    "back": {
+      "icon": "🧑‍🏫",
+      "title": "teacher / professor (more formal than 'kʰruu')",
+      "description": "My teacher is kind. (**อาจารย์**ของฉันใจดี - **Aa-jaan** kʰɔ̌ɔng čhǎn jai-dii.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-age",
+    "front": {
+      "icon": "",
+      "title": "อายุ",
+      "description": "aa-yú"
+    },
+    "back": {
+      "icon": "🎂",
+      "title": "age",
+      "description": "What is your age? (**อายุ**เท่าไหร่ - **Aa-yú** tʰâo-rài?)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-classifier-general",
+    "front": {
+      "icon": "",
+      "title": "อัน",
+      "description": "an"
+    },
+    "back": {
+      "icon": "🔖",
+      "title": "item / piece / classifier for small/general items",
+      "description": "I want this one. (ฉันต้องการ**อัน**นี้ - Čhǎn dtɔ̂ng-gaan **an** níi.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-english",
+    "front": {
+      "icon": "",
+      "title": "อังกฤษ",
+      "description": "ang-grìt"
+    },
+    "back": {
+      "icon": "🇬🇧",
+      "title": "English / England",
+      "description": "Do you speak English? (คุณพูด**อังกฤษ**ได้ไหม - Kʰun pʰûut **ang-grìt** dâi mǎi?)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-take",
+    "front": {
+      "icon": "",
+      "title": "เอา",
+      "description": "ao"
+    },
+    "back": {
+      "icon": "✋",
+      "title": "to take / to want / to get",
+      "description": "I'll take this. (ฉัน**เอา**อันนี้ - Čhǎn **ao** an níi.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-exit",
+    "front": {
+      "icon": "",
+      "title": "ออก",
+      "description": "ɔ̀ɔk"
+    },
+    "back": {
+      "icon": "🚪",
+      "title": "to go out / to exit / outside",
+      "description": "Go outside. (**ออก**ไป - **Ɔ̀ɔk** bpai.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-he-she",
+    "front": {
+      "icon": "",
+      "title": "เขา",
+      "description": "kʰáw"
+    },
+    "back": {
+      "icon": "👤",
+      "title": "he / she / they",
+      "description": "**เขา**ไปไหน (**Kʰáw** bpai nǎi?)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-mountain",
+    "front": {
+      "icon": "",
+      "title": "เขา",
+      "description": "kʰǎw"
+    },
+    "back": {
+      "icon": "⛰️",
+      "title": "mountain / hill",
+      "description": "The mountain is tall. (**เขา**สูง - **Kʰǎw** sǔung.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-enter-in",
+    "front": {
+      "icon": "",
+      "title": "เข้า",
+      "description": "kʰâo"
+    },
+    "back": {
+      "icon": "🚪",
+      "title": "to enter / inside",
+      "description": "Come in. (**เข้า**มา - **Kʰâo** maa.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-egg",
+    "front": {
+      "icon": "",
+      "title": "ไข่",
+      "description": "kʰài"
+    },
+    "back": {
+      "icon": "🥚",
+      "title": "egg",
+      "description": "I want a fried egg. (**ไข่**ดาว - **Kʰài** daao.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-teacher-formal",
+    "front": {
+      "icon": "",
+      "title": "ครู",
+      "description": "kʰruu"
+    },
+    "back": {
+      "icon": "🧑‍🏫",
+      "title": "teacher (less formal than 'aa-jaan')",
+      "description": "I respect my teacher. (ฉันเคารพ**ครู** - Čhǎn kʰaw-róp **kʰruu**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-should",
+    "front": {
+      "icon": "",
+      "title": "ควร",
+      "description": "kʰuuan"
+    },
+    "back": {
+      "icon": "✔️",
+      "title": "should / ought to",
+      "description": "You should go. (คุณ**ควร**ไป - Kʰun **kʰuuan** bpai.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-love-noun",
+    "front": {
+      "icon": "",
+      "title": "ความรัก",
+      "description": "kʰwaam-rák"
+    },
+    "back": {
+      "icon": "💖",
+      "title": "love (noun)",
+      "description": "Love is beautiful. (**ความรัก**สวยงาม - **Kʰwaam-rák** sǔuai-ngaam.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-word",
+    "front": {
+      "icon": "",
+      "title": "คำ",
+      "description": "kʰam"
+    },
+    "back": {
+      "icon": "💬",
+      "title": "word / speech / classifier for words",
+      "description": "I know this word. (ฉันรู้**คำ**นี้ - Čhǎn rúu **kʰam** níi.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-easy-simple",
+    "front": {
+      "icon": "",
+      "title": "ง่ายๆ",
+      "description": "ngâi-ngâi"
+    },
+    "back": {
+      "icon": "👍",
+      "title": "easy / simple",
+      "description": "It's simple. (มัน**ง่ายๆ** - Man **ngâi-ngâi**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-from-now-on",
+    "front": {
+      "icon": "",
+      "title": "จากนี้",
+      "description": "jàak-níi"
+    },
+    "back": {
+      "icon": "➡️",
+      "title": "from now on / after this",
+      "description": "**จากนี้**ไป (**Jàak-níi** bpai.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-bicycle",
+    "front": {
+      "icon": "",
+      "title": "จักรยาน",
+      "description": "jàk-grà-yaan"
+    },
+    "back": {
+      "icon": "🚲",
+      "title": "bicycle",
+      "description": "I ride a bicycle. (ฉันขี่**จักรยาน** - Čhǎn kʰìi **jàk-grà-yaan**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-kangaroo",
+    "front": {
+      "icon": "",
+      "title": "จิงโจ้",
+      "description": "jing-jôo"
+    },
+    "back": {
+      "icon": "🦘",
+      "title": "kangaroo",
+      "description": "The kangaroo is jumping. (**จิงโจ้**กำลังกระโดด - **Jing-jôo** gam-lang grà-dòt.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-sincere",
+    "front": {
+      "icon": "",
+      "title": "จริงใจ",
+      "description": "jing-jai"
+    },
+    "back": {
+      "icon": "❤️",
+      "title": "sincere / genuine / heartfelt",
+      "description": "He is sincere. (เขา**จริงใจ** - Kʰáw **jing-jai**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-pain",
+    "front": {
+      "icon": "",
+      "title": "เจ็บ",
+      "description": "jèp"
+    },
+    "back": {
+      "icon": "🩹",
+      "title": "pain / hurt / sore",
+      "description": "It hurts. (มัน**เจ็บ** - Man **jèp**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-kind-hearted",
+    "front": {
+      "icon": "",
+      "title": "ใจดี",
+      "description": "jai-dii"
+    },
+    "back": {
+      "icon": "😊",
+      "title": "kind-hearted / generous",
+      "description": "She is kind-hearted. (เธอ**ใจดี** - Tʰəə **jai-dii**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-spoon",
+    "front": {
+      "icon": "",
+      "title": "ช้อน",
+      "description": "chɔ́ɔn"
+    },
+    "back": {
+      "icon": "🥄",
+      "title": "spoon",
+      "description": "I need a spoon. (ฉันต้องการ**ช้อน** - Čhǎn dtɔ̂ng-gaan **chɔ́ɔn**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-help",
+    "front": {
+      "icon": "",
+      "title": "ช่วย",
+      "description": "chûuai"
+    },
+    "back": {
+      "icon": "🤝",
+      "title": "to help / please (request)",
+      "description": "Can you help me? (**ช่วย**ฉันหน่อย - **Chûuai** čhǎn nɔ̀i?)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-tea",
+    "front": {
+      "icon": "",
+      "title": "ชา",
+      "description": "chaa"
+    },
+    "back": {
+      "icon": "☕",
+      "title": "tea",
+      "description": "I want some tea. (ฉันอยากได้**ชา** - Čhǎn yàak dâi **chaa**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-slow",
+    "front": {
+      "icon": "",
+      "title": "ช้า",
+      "description": "cháa"
+    },
+    "back": {
+      "icon": "🐢",
+      "title": "slow",
+      "description": "The train is slow. (รถไฟ**ช้า** - Ró**t fai cháa**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-daily-life",
+    "front": {
+      "icon": "",
+      "title": "ชีวิตประจำวัน",
+      "description": "chii-wít bprà-jam-wan"
+    },
+    "back": {
+      "icon": "🗓️",
+      "title": "daily life / everyday life",
+      "description": "My daily life is busy. (**ชีวิตประจำวัน**ของฉันยุ่ง - **Chii-wít bprà-jam-wan** kʰɔ̌ɔng čhǎn yûng.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-alley",
+    "front": {
+      "icon": "",
+      "title": "ซอย",
+      "description": "sɔɔi"
+    },
+    "back": {
+      "icon": "🏘️",
+      "title": "alley / side street",
+      "description": "The shop is in the alley. (**ร้าน**อยู่**ซอย** - **Ráan** yùu **sɔɔi**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-flower",
+    "front": {
+      "icon": "",
+      "title": "ดอกไม้",
+      "description": "dɔ̀ɔk-mái"
+    },
+    "back": {
+      "icon": "🌺",
+      "title": "flower",
+      "description": "I like flowers. (ฉันชอบ**ดอกไม้** - Čhǎn chɔ̂ɔp **dɔ̀ɔk-mái**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-front",
+    "front": {
+      "icon": "",
+      "title": "ด้านหน้า",
+      "description": "dâan-nâa"
+    },
+    "back": {
+      "icon": "👤",
+      "title": "front / in front of",
+      "description": "In front of the house. (**ด้านหน้า**บ้าน - **Dâan-nâa** bâan.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-back",
+    "front": {
+      "icon": "",
+      "title": "ด้านหลัง",
+      "description": "dâan-lǎang"
+    },
+    "back": {
+      "icon": "🔙",
+      "title": "back / behind",
+      "description": "Behind the house. (**ด้านหลัง**บ้าน - **Dâan-lǎang** bâan.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-flea-market",
+    "front": {
+      "icon": "",
+      "title": "ตลาดนัด",
+      "description": "dtà-làat-nát"
+    },
+    "back": {
+      "icon": "🛍️",
+      "title": "flea market / weekend market",
+      "description": "I go to the flea market. (ฉันไป**ตลาดนัด** - Čhǎn bpai **dtà-làat-nát**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-tree",
+    "front": {
+      "icon": "",
+      "title": "ต้นไม้",
+      "description": "dtôn-mái"
+    },
+    "back": {
+      "icon": "🌳",
+      "title": "tree / plant",
+      "description": "There is a tree. (มี**ต้นไม้** - Mii **dtôn-mái**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-main-road",
+    "front": {
+      "icon": "",
+      "title": "ถนนใหญ่",
+      "description": "tʰà-nǒn-yài"
+    },
+    "back": {
+      "icon": "🛣️",
+      "title": "main road / highway",
+      "description": "The main road is busy. (**ถนนใหญ่**รถเยอะ - **Tʰà-nǒn-yài** ró**t yə́**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-sea",
+    "front": {
+      "icon": "",
+      "title": "ทะเล",
+      "description": "tʰá-lee"
+    },
+    "back": {
+      "icon": "🌊",
+      "title": "sea / ocean / beach",
+      "description": "I like the sea. (ฉันชอบ**ทะเล** - Čhǎn chɔ̂ɔp **tʰá-lee**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-that-one",
+    "front": {
+      "icon": "",
+      "title": "นั่น",
+      "description": "nân"
+    },
+    "back": {
+      "icon": "👆",
+      "title": "that one (near listener)",
+      "description": "Give me that one. (เอา**นั่น**มาให้ฉัน - Ao **nân** maa hâi čhǎn.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-that-is-it",
+    "front": {
+      "icon": "",
+      "title": "นั่นแหละ",
+      "description": "nân-lɛ̀"
+    },
+    "back": {
+      "icon": "🎯",
+      "title": "that's it / exactly / that one",
+      "description": "**นั่นแหละ**ที่ฉันหมายถึง (**Nân-lɛ̀** tʰîi čhǎn mǎai tʰʉ̌ng.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-this-one",
+    "front": {
+      "icon": "",
+      "title": "นี้นะ",
+      "description": "níi-ná"
+    },
+    "back": {
+      "icon": "👇",
+      "title": "this one (emphatic)",
+      "description": "I want this one. (ฉันอยากได้**นี้นะ** - Čhǎn yàak dâi **níi-ná**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-boring",
+    "front": {
+      "icon": "",
+      "title": "น่าเบื่อ",
+      "description": "nâa-bʉ̀ʉa"
+    },
+    "back": {
+      "icon": "😴",
+      "title": "boring / tedious",
+      "description": "The movie is boring. (หนัง**น่าเบื่อ** - Nǎng **nâa-bʉ̀ʉa**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-scary",
+    "front": {
+      "icon": "",
+      "title": "น่ากลัว",
+      "description": "nâa-glua"
+    },
+    "back": {
+      "icon": "😨",
+      "title": "scary / frightening",
+      "description": "It's scary. (มัน**น่ากลัว** - Man **nâa-glua**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-appetizing",
+    "front": {
+      "icon": "",
+      "title": "น่ากิน",
+      "description": "nâa-gin"
+    },
+    "back": {
+      "icon": "🤤",
+      "title": "appetizing / looks delicious",
+      "description": "The food looks delicious. (อาหาร**น่ากิน** - Aa-hǎan **nâa-gin**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-sugar",
+    "front": {
+      "icon": "",
+      "title": "น้ำตาล",
+      "description": "náam-dtaan"
+    },
+    "back": {
+      "icon": "🍚",
+      "title": "sugar",
+      "description": "Do you want sugar? (คุณอยากได้**น้ำตาล**ไหม - Kʰun yàak dâi **náam-dtaan** mǎi?)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-oil",
+    "front": {
+      "icon": "",
+      "title": "น้ำมัน",
+      "description": "náam-man"
+    },
+    "back": {
+      "icon": "⛽",
+      "title": "oil / gasoline / cooking oil",
+      "description": "I need gasoline. (ฉันต้องการ**น้ำมัน** - Čhǎn dtɔ̂ng-gaan **náam-man**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-ice",
+    "front": {
+      "icon": "",
+      "title": "น้ำแข็ง",
+      "description": "náam-kʰɛ̌ng"
+    },
+    "back": {
+      "icon": "🧊",
+      "title": "ice",
+      "description": "I want ice water. (ฉันอยากได้**น้ำแข็ง** - Čhǎn yàak dâi **náam-kʰɛ̌ng**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-squid",
+    "front": {
+      "icon": "",
+      "title": "ปลาหมึก",
+      "description": "bplaa-mʉ̀k"
+    },
+    "back": {
+      "icon": "🦑",
+      "title": "squid / octopus",
+      "description": "I eat grilled squid. (ฉันกิน**ปลาหมึก**ย่าง - Čhǎn gin **bplaa-mʉ̀k** yâang.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-blanket",
+    "front": {
+      "icon": "",
+      "title": "ผ้าห่ม",
+      "description": "pʰâa-hòm"
+    },
+    "back": {
+      "icon": "🛌",
+      "title": "blanket",
+      "description": "I need a blanket. (ฉันต้องการ**ผ้าห่ม** - Čhǎn dtɔ̂ng-gaan **pʰâa-hòm**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-towel",
+    "front": {
+      "icon": "",
+      "title": "ผ้าเช็ดตัว",
+      "description": "pʰâa-chét-dtuua"
+    },
+    "back": {
+      "icon": "🧖",
+      "title": "towel",
+      "description": "I need a towel. (ฉันต้องการ**ผ้าเช็ดตัว** - Čhǎn dtɔ̂ng-gaan **pʰâa-chét-dtuua**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-chili",
+    "front": {
+      "icon": "",
+      "title": "พริก",
+      "description": "pʰrík"
+    },
+    "back": {
+      "icon": "🌶️",
+      "title": "chili pepper",
+      "description": "I don't eat chili. (ฉันไม่กิน**พริก** - Čhǎn mâi gin **pʰrík**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-enough",
+    "front": {
+      "icon": "",
+      "title": "พอ",
+      "description": "pʰɔɔ"
+    },
+    "back": {
+      "icon": "😌",
+      "title": "enough / sufficient",
+      "description": "That's enough. (**พอ**แล้ว - **Pʰɔɔ** lɛ́ɛo.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-miss",
+    "front": {
+      "icon": "",
+      "title": "พลาด",
+      "description": "pʰlâat"
+    },
+    "back": {
+      "icon": "❌",
+      "title": "to miss (an event/opportunity) / to make a mistake",
+      "description": "I missed the train. (ฉัน**พลาด**รถไฟ - Čhǎn **pʰlâat** rót-fai.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-football",
+    "front": {
+      "icon": "",
+      "title": "ฟุตบอล",
+      "description": "fút-bɔɔn"
+    },
+    "back": {
+      "icon": "⚽",
+      "title": "football / soccer",
+      "description": "I play football. (ฉัน**เล่นฟุตบอล** - Čhǎn **lêen fút-bɔɔn**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-dark",
+    "front": {
+      "icon": "",
+      "title": "มืด",
+      "description": "mʉ̂ʉt"
+    },
+    "back": {
+      "icon": "🌑",
+      "title": "dark / unlit",
+      "description": "It's dark. (มัน**มืด** - Man **mʉ̂ʉt**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-cloud",
+    "front": {
+      "icon": "",
+      "title": "เมฆ",
+      "description": "mêek"
+    },
+    "back": {
+      "icon": "☁️",
+      "title": "cloud",
+      "description": "There are many clouds. (มี**เมฆ**เยอะ - Mii **mêek** yə́.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-female-seller",
+    "front": {
+      "icon": "",
+      "title": "แม่ค้า",
+      "description": "mɛ̂ɛ-kʰáa"
+    },
+    "back": {
+      "icon": "👩‍💼",
+      "title": "female seller / vendor",
+      "description": "The vendor is selling fruit. (**แม่ค้า**กำลังขายผลไม้ - **Mɛ̂ɛ-kʰáa** gam-lang kʰǎai pʰǒn-lá-mái.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-bus",
+    "front": {
+      "icon": "",
+      "title": "รถเมล์",
+      "description": "rót-mee"
+    },
+    "back": {
+      "icon": "🚌",
+      "title": "bus (city bus)",
+      "description": "I take the bus. (ฉันนั่ง**รถเมล์** - Čhǎn nâng **rót-mee**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-skytrain",
+    "front": {
+      "icon": "",
+      "title": "รถไฟฟ้า",
+      "description": "rót-fái-fáa"
+    },
+    "back": {
+      "icon": "🚈",
+      "title": "electric train / skytrain (BTS) / subway (MRT)",
+      "description": "The skytrain is fast. (**รถไฟฟ้า**เร็ว - **Rót-fái-fáa** reo.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-taxi",
+    "front": {
+      "icon": "",
+      "title": "รถแท็กซี่",
+      "description": "rót-tʰɛ́k-sîi"
+    },
+    "back": {
+      "icon": "🚕",
+      "title": "taxi",
+      "description": "I need a taxi. (ฉันต้องการ**รถแท็กซี่** - Čhǎn dtɔ̂ng-gaan **rót-tʰɛ́k-sîi**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-restaurant",
+    "front": {
+      "icon": "",
+      "title": "ร้านอาหาร",
+      "description": "ráan-aa-hǎan"
+    },
+    "back": {
+      "icon": "🍴",
+      "title": "restaurant",
+      "description": "Where is the restaurant? (**ร้านอาหาร**อยู่ไหน - **Ráan-aa-hǎan** yùu nǎi?)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-school",
+    "front": {
+      "icon": "",
+      "title": "โรงเรียน",
+      "description": "roong-riian"
+    },
+    "back": {
+      "icon": "🏫",
+      "title": "school",
+      "description": "I go to school. (ฉันไป**โรงเรียน** - Čhǎn bpai **roong-riian**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-hospital",
+    "front": {
+      "icon": "",
+      "title": "โรงพยาบาล",
+      "description": "roong-pʰá-yaa-baan"
+    },
+    "back": {
+      "icon": "🏥",
+      "title": "hospital",
+      "description": "I go to the hospital. (ฉันไป**โรงพยาบาล** - Čhǎn bpai **roong-pʰá-yaa-baan**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-uncle",
+    "front": {
+      "icon": "",
+      "title": "ลุง",
+      "description": "lung"
+    },
+    "back": {
+      "icon": "👴",
+      "title": "uncle (older brother of mother or father)",
+      "description": "My uncle is kind. (**ลุง**ของฉันใจดี - **Lung** kʰɔ̌ɔng čhǎn jai-dii.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-wash-hands",
+    "front": {
+      "icon": "",
+      "title": "ล้างมือ",
+      "description": "láang-mʉʉ"
+    },
+    "back": {
+      "icon": "🧼",
+      "title": "to wash hands",
+      "description": "Wash your hands first. (**ล้างมือ**ก่อน - **Láang-mʉʉ** gɔ̀ɔn.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-temple",
+    "front": {
+      "icon": "",
+      "title": "วัด",
+      "description": "wát"
+    },
+    "back": {
+      "icon": "🏯",
+      "title": "temple / monastery",
+      "description": "I go to the temple. (ฉันไป**วัด** - Čhǎn bpai **wát**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-free",
+    "front": {
+      "icon": "",
+      "title": "ว่าง",
+      "description": "wâang"
+    },
+    "back": {
+      "icon": "😌",
+      "title": "free / available (time/space)",
+      "description": "Are you free? (คุณ**ว่าง**ไหม - Kʰun **wâang** mǎi?)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-run",
+    "front": {
+      "icon": "",
+      "title": "วิ่ง",
+      "description": "wîng"
+    },
+    "back": {
+      "icon": "🏃",
+      "title": "to run",
+      "description": "I like to run. (ฉันชอบ**วิ่ง** - Čhǎn chɔ̂ɔp **wîng**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-weekend",
+    "front": {
+      "icon": "",
+      "title": "สุดสัปดาห์",
+      "description": "sùt-sàp-daa"
+    },
+    "back": {
+      "icon": "📅",
+      "title": "weekend",
+      "description": "What are you doing this weekend? (**สุดสัปดาห์**นี้คุณจะทำอะไร - **Sùt-sàp-daa** níi kʰun jà tʰam a-rai?)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-happy-blissful",
+    "front": {
+      "icon": "",
+      "title": "สุขสันต์",
+      "description": "sùk-sǎn"
+    },
+    "back": {
+      "icon": "🥳",
+      "title": "happy / blissful (formal/holiday greeting)",
+      "description": "Happy Birthday. (**สุขสันต์**วันเกิด - **Sùk-sǎn** wan-gə̀ət.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-tired",
+    "front": {
+      "icon": "",
+      "title": "เหนื่อย",
+      "description": "nʉ̀ay"
+    },
+    "back": {
+      "icon": "😩",
+      "title": "tired / exhausted",
+      "description": "I am tired. (ฉัน**เหนื่อย** - Čhǎn **nʉ̀ay**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-like-similar",
+    "front": {
+      "icon": "",
+      "title": "เหมือน",
+      "description": "mʉ̌ʉan"
+    },
+    "back": {
+      "icon": "👤",
+      "title": "like / similar to / same as",
+      "description": "It's like this. (มัน**เหมือน**แบบนี้ - Man **mʉ̌ʉan** bɛ̀ɛp níi.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-see",
+    "front": {
+      "icon": "",
+      "title": "เห็น",
+      "description": "hěn"
+    },
+    "back": {
+      "icon": "👀",
+      "title": "to see / to view",
+      "description": "I see you. (ฉัน**เห็น**คุณ - Čhǎn **hěn** kʰun.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-to-give",
+    "front": {
+      "icon": "",
+      "title": "ให้",
+      "description": "hâi"
+    },
+    "back": {
+      "icon": "🎁",
+      "title": "to give / to allow / for",
+      "description": "Give me water. (**ให้**น้ำฉัน - **Hâi** náam čhǎn.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-bathroom",
+    "front": {
+      "icon": "",
+      "title": "ห้องน้ำ",
+      "description": "hɔ̂ɔng-náam"
+    },
+    "back": {
+      "icon": "🚽",
+      "title": "restroom / bathroom / toilet",
+      "description": "Where is the restroom? (**ห้องน้ำ**อยู่ไหน - **Hɔ̂ɔng-náam** yùu nǎi?)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-kitchen",
+    "front": {
+      "icon": "",
+      "title": "ห้องครัว",
+      "description": "hɔ̂ɔng-kʰruua"
+    },
+    "back": {
+      "icon": "🍳",
+      "title": "kitchen",
+      "description": "My kitchen is big. (**ห้องครัว**ของฉันใหญ่ - **Hɔ̂ɔng-kʰruua** kʰɔ̌ɔng čhǎn yài.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-bedroom",
+    "front": {
+      "icon": "",
+      "title": "ห้องนอน",
+      "description": "hɔ̂ɔng-nɔɔn"
+    },
+    "back": {
+      "icon": "🛏️",
+      "title": "bedroom",
+      "description": "I sleep in the bedroom. (ฉัน**นอน**ใน**ห้องนอน** - Čhǎn **nɔɔn** nai **hɔ̂ɔng-nɔɔn**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-meeting-room",
+    "front": {
+      "icon": "",
+      "title": "ห้องประชุม",
+      "description": "hɔ̂ɔng-bprà-čʰum"
+    },
+    "back": {
+      "icon": "🧑‍💼",
+      "title": "meeting room",
+      "description": "The meeting is in the meeting room. (การประชุมอยู่ใน**ห้องประชุม** - Gaan bprà-čʰum yùu nai **hɔ̂ɔng-bprà-čʰum**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-library",
+    "front": {
+      "icon": "",
+      "title": "ห้องสมุด",
+      "description": "hɔ̂ɔng-sà-mùt"
+    },
+    "back": {
+      "icon": "📚",
+      "title": "library",
+      "description": "I go to the library. (ฉันไป**ห้องสมุด** - Čhǎn bpai **hɔ̂ɔng-sà-mùt**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-breakfast",
+    "front": {
+      "icon": "",
+      "title": "อาหารเช้า",
+      "description": "aa-hǎan-cháao"
+    },
+    "back": {
+      "icon": "🍳",
+      "title": "breakfast",
+      "description": "I eat breakfast. (ฉันกิน**อาหารเช้า** - Čhǎn gin **aa-hǎan-cháao**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-lunch",
+    "front": {
+      "icon": "",
+      "title": "อาหารกลางวัน",
+      "description": "aa-hǎan-glaang-wan"
+    },
+    "back": {
+      "icon": "🍲",
+      "title": "lunch",
+      "description": "I eat lunch. (ฉันกิน**อาหารกลางวัน** - Čhǎn gin **aa-hǎan-glaang-wan**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-dinner",
+    "front": {
+      "icon": "",
+      "title": "อาหารเย็น",
+      "description": "aa-hǎan-yen"
+    },
+    "back": {
+      "icon": "🍜",
+      "title": "dinner / supper",
+      "description": "I eat dinner. (ฉันกิน**อาหารเย็น** - Čhǎn gin **aa-hǎan-yen**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-perhaps",
+    "front": {
+      "icon": "",
+      "title": "อาจจะ",
+      "description": "àat-jà"
+    },
+    "back": {
+      "icon": "🤔",
+      "title": "perhaps / maybe",
+      "description": "Maybe I'll go. (ฉัน**อาจจะ**ไป - Čhǎn **àat-jà** bpai.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-again",
+    "front": {
+      "icon": "",
+      "title": "อีก",
+      "description": "ìik"
+    },
+    "back": {
+      "icon": "🔁",
+      "title": "again / more / another",
+      "description": "Again, please. (**อีก**ครั้ง - **Ìik** kʰráng.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-detour",
+    "front": {
+      "icon": "",
+      "title": "อ้อม",
+      "description": "ɔ̂ɔm"
+    },
+    "back": {
+      "icon": "↩️",
+      "title": "to go around / detour",
+      "description": "We took a detour. (เราไป**อ้อม** - Rao bpai **ɔ̂ɔm**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-very-many",
+    "front": {
+      "icon": "",
+      "title": "เยอะแยะ",
+      "description": "yə́-yɛ́"
+    },
+    "back": {
+      "icon": "➕",
+      "title": "very many / abundant",
+      "description": "There are very many people. (มีคน**เยอะแยะ** - Mii kʰon **yə́-yɛ́**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-this-evening",
+    "front": {
+      "icon": "",
+      "title": "เย็นนี้",
+      "description": "yen-níi"
+    },
+    "back": {
+      "icon": "🌙",
+      "title": "this evening",
+      "description": "See you this evening. (เจอคุณ**เย็นนี้** - Jəə kʰun **yen-níi**.)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-number",
+    "front": {
+      "icon": "",
+      "title": "เลข",
+      "description": "lêek"
+    },
+    "back": {
+      "icon": "🔢",
+      "title": "number / digit",
+      "description": "What is the number? (**เลข**อะไร - **Lêek** a-rai?)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-free-time",
+    "front": {
+      "icon": "",
+      "title": "เวลาว่าง",
+      "description": "wee-laa-wâang"
+    },
+    "back": {
+      "icon": "😌",
+      "title": "free time / leisure time",
+      "description": "What do you do in your free time? (**เวลาว่าง**คุณทำอะไร - **Wee-laa-wâang** kʰun tʰam a-rai?)"
+    }
+  },
+  {
+    "id": "thai-for-traveler-sound",
+    "front": {
+      "icon": "",
+      "title": "เสียง",
+      "description": "sǐang"
+    },
+    "back": {
+      "icon": "🔊",
+      "title": "sound / voice",
+      "description": "The sound is loud. (**เสียง**ดัง - **Sǐang** dang.)"
+    }
+  }
+]

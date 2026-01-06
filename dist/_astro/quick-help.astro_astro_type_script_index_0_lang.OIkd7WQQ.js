@@ -1,0 +1,1 @@
+import{g as t}from"./i18n.DcSPgnPY.js";function e(){if(typeof window>"u"||window.location.pathname.includes("/th/"))return;t()==="th"&&!window.location.pathname.startsWith("/th/")&&(window.location.href="/th/quick-help")}document.readyState==="loading"?document.addEventListener("DOMContentLoaded",e):e();

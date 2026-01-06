@@ -1,0 +1,1 @@
+import{i}from"./appAnalytics.Cx1M9UdX.js";import"./analyticsService.XC7CoLNz.js";function n(){i();const e=document.getElementById("loading-screen");e&&(e.style.display="none")}document.readyState==="loading"?document.addEventListener("DOMContentLoaded",n):n();

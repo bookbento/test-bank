@@ -1,0 +1,414 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Analytics Testing - NinjaLingo</title>
+    <style>
+      body {
+        font-family:
+          -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: #333;
+      }
+      .container {
+        background: white;
+        padding: 30px;
+        border-radius: 12px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+      }
+      h1 {
+        color: #2d3748;
+        margin-bottom: 30px;
+        text-align: center;
+      }
+      .test-section {
+        margin: 20px 0;
+        padding: 20px;
+        border: 2px solid #e2e8f0;
+        border-radius: 8px;
+        background: #f8fafc;
+      }
+      .test-section h3 {
+        color: #4a5568;
+        margin-top: 0;
+      }
+      button {
+        background: #4299e1;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        margin: 5px;
+        border-radius: 6px;
+        cursor: pointer;
+        font-weight: 500;
+      }
+      button:hover {
+        background: #3182ce;
+      }
+      .success {
+        color: #38a169;
+        font-weight: 600;
+      }
+      .error {
+        color: #e53e3e;
+        font-weight: 600;
+      }
+      .info {
+        color: #3182ce;
+        font-weight: 500;
+      }
+      #console-output {
+        background: #1a202c;
+        color: #e2e8f0;
+        padding: 15px;
+        border-radius: 6px;
+        font-family: 'Monaco', 'Consolas', monospace;
+        font-size: 12px;
+        height: 300px;
+        overflow-y: auto;
+        white-space: pre-wrap;
+      }
+      .nav-links {
+        text-align: center;
+        margin: 20px 0;
+      }
+      .nav-links a {
+        display: inline-block;
+        margin: 0 10px;
+        padding: 8px 16px;
+        background: #805ad5;
+        color: white;
+        text-decoration: none;
+        border-radius: 6px;
+      }
+      .nav-links a:hover {
+        background: #6b46c1;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>🧪 NinjaLingo Analytics Testing Suite</h1>
+
+      <div class="nav-links">
+        <a href="/">📱 Flashcard App</a>
+        <a href="/home">🏠 Marketing Home</a>
+        <a href="/th/home">🏠 Thai Home</a>
+      </div>
+
+      <div
+        class="test-section"
+        style="background: #fff3cd; border-color: #ffeaa7"
+      >
+        <h3>📋 Testing Information</h3>
+        <p>
+          <strong>Development Mode:</strong> Analytics service exposed globally
+          for testing. Console shows detailed logs.
+        </p>
+        <p>
+          <strong>Production Mode:</strong> Analytics service not exposed
+          (security). Events sent directly to Firebase Analytics.
+        </p>
+        <p><strong>Current Mode:</strong> <span id="current-mode"></span></p>
+      </div>
+      <div class="test-section">
+        <h3>📊 Analytics Service Status</h3>
+        <button onclick="checkAnalyticsStatus()">Check Status</button>
+        <div id="status-result"></div>
+      </div>
+
+      <div class="test-section">
+        <h3>🎯 Manual Event Testing</h3>
+        <button onclick="testManualEvent()">Track Manual Event</button>
+        <button onclick="testButtonClick()">Track Button Click</button>
+        <button onclick="testPageView()">Track Page View</button>
+        <button onclick="testNavigation()">Track Navigation</button>
+      </div>
+
+      <div class="test-section">
+        <h3>👤 User Type Testing</h3>
+        <button onclick="testGuestUser()">Set Guest User</button>
+        <button onclick="testAuthUser()">Set Authenticated User</button>
+        <button onclick="checkUserType()">Check User Type</button>
+      </div>
+
+      <div class="test-section">
+        <h3>🍪 Cookie Consent Testing</h3>
+        <button onclick="testCookieShown()">Cookie Shown</button>
+        <button onclick="testCookieAccepted()">Cookie Accepted</button>
+        <button onclick="testCookieDeclined()">Cookie Declined</button>
+      </div>
+
+      <div class="test-section">
+        <h3>📱 Flashcard App Events</h3>
+        <button onclick="testFlashcardEvent()">Test Flashcard Event</button>
+        <button onclick="testCardSetSelection()">
+          Test Card Set Selection
+        </button>
+        <button onclick="testReviewSession()">Test Review Session</button>
+      </div>
+
+      <div class="test-section">
+        <h3>🔍 Console Output</h3>
+        <button onclick="clearConsole()">Clear Console</button>
+        <button onclick="exportLogs()">Export Logs</button>
+        <div id="console-output"></div>
+      </div>
+    </div>
+
+    <script>
+      // Capture console logs
+      const consoleOutput = document.getElementById('console-output');
+      const originalLog = console.log;
+      const originalError = console.error;
+      const originalWarn = console.warn;
+
+      function addToConsole(type, message) {
+        const timestamp = new Date().toLocaleTimeString();
+        const prefix = type === 'error' ? '❌' : type === 'warn' ? '⚠️' : '📋';
+        consoleOutput.innerHTML += `[${timestamp}] ${prefix} ${message}\n`;
+        consoleOutput.scrollTop = consoleOutput.scrollHeight;
+      }
+
+      console.log = function (...args) {
+        addToConsole('log', args.join(' '));
+        originalLog.apply(console, args);
+      };
+
+      console.error = function (...args) {
+        addToConsole('error', args.join(' '));
+        originalError.apply(console, args);
+      };
+
+      console.warn = function (...args) {
+        addToConsole('warn', args.join(' '));
+        originalWarn.apply(console, args);
+      };
+
+      // Test functions
+      function checkAnalyticsStatus() {
+        const statusDiv = document.getElementById('status-result');
+
+        // Check if we're in development mode
+        const isDev =
+          window.location.hostname === 'localhost' ||
+          window.location.hostname === '127.0.0.1';
+
+        if (typeof window.analyticsService !== 'undefined') {
+          statusDiv.innerHTML = `
+                    <div class="success">✅ Analytics Service: Available (Development Mode)</div>
+                    <div class="info">📊 Enabled: ${window.analyticsService.isEnabled()}</div>
+                    <div class="info">👤 User Type: ${window.analyticsService.getUserType()}</div>
+                `;
+          console.log('✅ Analytics service check complete');
+        } else if (isDev) {
+          statusDiv.innerHTML = `
+                    <div class="error">❌ Analytics Service: Not Available in Development</div>
+                    <div class="info">🔧 The service should be exposed globally in dev mode</div>
+                    <div class="info">📝 Check if the service is properly imported in your pages</div>
+                `;
+          console.error('❌ Analytics service not found in development mode');
+        } else {
+          // Production mode - this is expected
+          statusDiv.innerHTML = `
+                    <div class="info">🔒 Production Mode Detected</div>
+                    <div class="info">📊 Analytics service not exposed globally (security)</div>
+                    <div class="success">✅ Analytics is working in production via Firebase</div>
+                    <div class="info">🔍 Check Firebase Analytics dashboard for real events</div>
+                `;
+          console.log(
+            'ℹ️ Production mode: Analytics service not exposed globally (expected)'
+          );
+        }
+      }
+
+      function testManualEvent() {
+        if (window.analyticsService) {
+          window.analyticsService.trackEvent('manual_test_event', {
+            test_type: 'manual_browser_test',
+            timestamp: new Date().toISOString(),
+            user_agent: navigator.userAgent.substring(0, 50),
+          });
+          console.log('✅ Manual event tracked');
+        } else {
+          const isDev =
+            window.location.hostname === 'localhost' ||
+            window.location.hostname === '127.0.0.1';
+          if (isDev) {
+            console.error(
+              '❌ Analytics service not available in development mode'
+            );
+          } else {
+            console.log(
+              'ℹ️ Production mode: Analytics events sent directly to Firebase (not visible in console)'
+            );
+          }
+        }
+      }
+
+      function testButtonClick() {
+        if (window.analyticsService) {
+          window.analyticsService.trackButtonClick(
+            'test_button_analytics_page',
+            '/analytics-test',
+            {
+              section: 'testing_suite',
+              button_type: 'test',
+            }
+          );
+          console.log('✅ Button click tracked');
+        }
+      }
+
+      function testPageView() {
+        if (window.analyticsService) {
+          window.analyticsService.trackPageView(
+            '/analytics-test-page',
+            'Analytics Test Page'
+          );
+          console.log('✅ Page view tracked');
+        }
+      }
+
+      function testNavigation() {
+        if (window.analyticsService) {
+          window.analyticsService.trackAppNavigation('test_from', 'test_to', {
+            navigation_type: 'manual_test',
+            test_context: true,
+          });
+          console.log('✅ Navigation tracked');
+        }
+      }
+
+      function testGuestUser() {
+        if (window.analyticsService) {
+          window.analyticsService.setGuestUser();
+          console.log('✅ Set to guest user');
+        }
+      }
+
+      function testAuthUser() {
+        if (window.analyticsService) {
+          const mockUser = { uid: 'test-user-' + Date.now() };
+          window.analyticsService.setAuthenticatedUser(mockUser);
+          console.log('✅ Set to authenticated user');
+        }
+      }
+
+      function checkUserType() {
+        if (window.analyticsService) {
+          console.log(
+            '👤 Current user type:',
+            window.analyticsService.getUserType()
+          );
+        }
+      }
+
+      function testCookieShown() {
+        if (window.analyticsService) {
+          window.analyticsService.trackCookieConsent('shown');
+          console.log('✅ Cookie consent shown tracked');
+        }
+      }
+
+      function testCookieAccepted() {
+        if (window.analyticsService) {
+          window.analyticsService.trackCookieConsent('accepted');
+          console.log('✅ Cookie consent accepted tracked');
+        }
+      }
+
+      function testCookieDeclined() {
+        if (window.analyticsService) {
+          window.analyticsService.trackCookieConsent('declined');
+          console.log('✅ Cookie consent declined tracked');
+        }
+      }
+
+      function testFlashcardEvent() {
+        if (window.trackFlashcardEvent) {
+          window.trackFlashcardEvent('test_flashcard_interaction', {
+            test: true,
+            card_id: 'test-card-123',
+            difficulty: 'easy',
+          });
+          console.log('✅ Flashcard event tracked');
+        } else {
+          console.log(
+            'ℹ️ Flashcard tracking functions not available (check app context)'
+          );
+        }
+      }
+
+      function testCardSetSelection() {
+        if (window.trackCardSetSelection) {
+          window.trackCardSetSelection('test-card-set-456', {
+            card_count: 25,
+            language: 'test-lang',
+            difficulty_level: 'intermediate',
+          });
+          console.log('✅ Card set selection tracked');
+        } else {
+          console.log(
+            'ℹ️ Card set tracking functions not available (check app context)'
+          );
+        }
+      }
+
+      function testReviewSession() {
+        if (window.trackReviewSession) {
+          window.trackReviewSession('start', {
+            session_size: 10,
+            card_set_id: 'test-set-789',
+          });
+          console.log('✅ Review session tracked');
+        } else {
+          console.log(
+            'ℹ️ Review session tracking functions not available (check app context)'
+          );
+        }
+      }
+
+      function clearConsole() {
+        consoleOutput.innerHTML = '';
+        console.log('🧹 Console cleared');
+      }
+
+      function exportLogs() {
+        const logs = consoleOutput.innerText;
+        const blob = new Blob([logs], { type: 'text/plain' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = `analytics-test-logs-${new Date().toISOString().slice(0, 19)}.txt`;
+        a.click();
+        URL.revokeObjectURL(url);
+        console.log('📄 Logs exported');
+      }
+
+      // Auto-run status check on load
+      window.addEventListener('load', () => {
+        setTimeout(() => {
+          console.log('🧪 Analytics Testing Suite Loaded');
+
+          // Show current mode
+          const isDev =
+            window.location.hostname === 'localhost' ||
+            window.location.hostname === '127.0.0.1';
+          const modeSpan = document.getElementById('current-mode');
+          if (modeSpan) {
+            modeSpan.innerHTML = isDev
+              ? '<span class="info">🔧 Development (localhost)</span>'
+              : '<span class="success">🔒 Production</span>';
+          }
+
+          checkAnalyticsStatus();
+        }, 1000);
+      });
+    </script>
+  </body>
+</html>

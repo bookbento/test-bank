@@ -1,0 +1,821 @@
+[
+  {
+    "id": "ielts-by-category-health-binge-drinking",
+    "front": {
+      "icon": "",
+      "title": "Binge Drinking",
+      "description": "/bɪndʒ ˈdrɪŋkɪŋ/"
+    },
+    "back": {
+      "icon": "🍺",
+      "title": "n. ดื่มเหล้าหนัก",
+      "description": "**Binge drinking** can have serious health consequences."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-balanced-diet",
+    "front": {
+      "icon": "",
+      "title": "Balanced Diet",
+      "description": "ˈbælənst ˈdaɪət"
+    },
+    "back": {
+      "icon": "⚕️",
+      "title": "n. อาหารสมดุล",
+      "description": "Eating a **Balanced Diet** is crucial for maintaining good health."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-strain",
+    "front": {
+      "icon": "",
+      "title": "Strain",
+      "description": "/streɪn/"
+    },
+    "back": {
+      "icon": "🩹",
+      "title": "n. อาการปวดตึง",
+      "description": "Please avoid putting too much **strain** on your back when lifting heavy objects."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-diagnose",
+    "front": {
+      "icon": "",
+      "title": "Diagnose",
+      "description": "/ˈdaɪəɡnoʊs/"
+    },
+    "back": {
+      "icon": "🩺",
+      "title": "v. วินิจฉัย",
+      "description": "The doctor will **diagnose** the patient's condition."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-underlying-health-issues",
+    "front": {
+      "icon": "",
+      "title": "Underlying Health Issues",
+      "description": "ʌndərˈlaɪɪŋ hɛlθ ˈɪʃuːz"
+    },
+    "back": {
+      "icon": "❤️",
+      "title": "adj. ปัญหาสุขภาพพื้นฐาน",
+      "description": "Eating a balanced diet is important for good **Health**."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-mental-health",
+    "front": {
+      "icon": "",
+      "title": "Mental Health",
+      "description": "[ˈmɛntəl hɛlθ]"
+    },
+    "back": {
+      "icon": "🧠",
+      "title": "n. สุขภาพจิต",
+      "description": "Prioritizing **Health** leads to a better quality of life."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-prevent",
+    "front": {
+      "icon": "",
+      "title": "Prevent",
+      "description": "/prɪˈvɛnt/"
+    },
+    "back": {
+      "icon": "🚫",
+      "title": "v. ป้องกัน",
+      "description": "Regular exercise can help **prevent** many health issues."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-obesity",
+    "front": {
+      "icon": "",
+      "title": "Obesity",
+      "description": "oʊˈbiːsɪti"
+    },
+    "back": {
+      "icon": "🍔",
+      "title": "n. โรคอ้วน",
+      "description": "**Obesity** is a major health concern worldwide."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-rapid-weight-gain",
+    "front": {
+      "icon": "",
+      "title": "Rapid Weight Gain",
+      "description": "ˈræpɪd weɪt ɡeɪn"
+    },
+    "back": {
+      "icon": "⚖️",
+      "title": "n. น้ำหนักเพิ่มเร็ว",
+      "description": "Rapid **Weight Gain** can be a symptom of various underlying health issues."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-nutrients",
+    "front": {
+      "icon": "",
+      "title": "Nutrients",
+      "description": "ˈnjuːtriənts"
+    },
+    "back": {
+      "icon": "🍎",
+      "title": "n. สารอาหาร",
+      "description": "Proper **Nutrients** are essential for a healthy diet."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-contaminated",
+    "front": {
+      "icon": "",
+      "title": "Contaminated",
+      "description": "/kənˈtæmɪneɪtɪd/"
+    },
+    "back": {
+      "icon": "☣️",
+      "title": "v. ปนเปื้อน",
+      "description": "The food was **contaminated** with bacteria."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-isolation",
+    "front": {
+      "icon": "",
+      "title": "Isolation",
+      "description": "/ˌaɪsəˈleɪʃən/"
+    },
+    "back": {
+      "icon": "🫥",
+      "title": "n. การแยกตัว",
+      "description": "During the pandemic, many people experienced a sense of **isolation**."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-quarantine",
+    "front": {
+      "icon": "",
+      "title": "Quarantine",
+      "description": "ˈkwɒrəntiːn"
+    },
+    "back": {
+      "icon": "🦠",
+      "title": "n. กักตัว",
+      "description": "The city imposed a **quarantine** to prevent the spread of the virus."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-processed-food",
+    "front": {
+      "icon": "",
+      "title": "Processed food",
+      "description": "ˈproʊsɛst fud"
+    },
+    "back": {
+      "icon": "🍔",
+      "title": "n. อาหารแปรรูป",
+      "description": "Eating too much **Processed food** can be detrimental to your health."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-running-a-temperature",
+    "front": {
+      "icon": "",
+      "title": "Running a temperature",
+      "description": "/ˈrʌnɪŋ ə ˈtɛmprətʃər/"
+    },
+    "back": {
+      "icon": "🤒",
+      "title": "n. มีไข้",
+      "description": "The doctor said I had a **temperature** of 102 degrees."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-abdominal-pain",
+    "front": {
+      "icon": "",
+      "title": "Abdominal pain",
+      "description": "/æbˈdɒmɪnəl peɪn/"
+    },
+    "back": {
+      "icon": "🤕",
+      "title": "n. ปวดท้อง",
+      "description": "The patient experienced **abdominal pain** after eating."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-allergic-reaction",
+    "front": {
+      "icon": "",
+      "title": "Allergic reaction",
+      "description": "/əˈlɜːrdʒɪk riˈækʃən/"
+    },
+    "back": {
+      "icon": "🤧",
+      "title": "n. อาการแพ้",
+      "description": "Make sure to bring your **passport** for the trip."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-antidepressant",
+    "front": {
+      "icon": "",
+      "title": "Antidepressant",
+      "description": "/ˌæntidɪˈprɛsənt/"
+    },
+    "back": {
+      "icon": "💊",
+      "title": "n. ยาแก้ซึมเศร้า",
+      "description": "The doctor prescribed an **antidepressant** to help with her mood."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-anxiety",
+    "front": {
+      "icon": "",
+      "title": "Anxiety",
+      "description": "/æŋˈzaɪəti/"
+    },
+    "back": {
+      "icon": "😥",
+      "title": "n. ความวิตกกังวล",
+      "description": "He felt a surge of **anxiety** before his job interview."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-asthma-attack",
+    "front": {
+      "icon": "",
+      "title": "Asthma attack",
+      "description": "ˈæzmə əˈtæk"
+    },
+    "back": {
+      "icon": "🫁",
+      "title": "n. หอบหืดกำเริบ",
+      "description": "He had an **asthma attack** after running the marathon."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-blood-clot",
+    "front": {
+      "icon": "",
+      "title": "Blood clot",
+      "description": "blʌd klɒt"
+    },
+    "back": {
+      "icon": "🚫",
+      "title": "n. ลิ่มเลือด",
+      "description": "The doctor explained that a **blood clot** can be a serious medical condition."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-brain-injury",
+    "front": {
+      "icon": "",
+      "title": "Brain injury",
+      "description": "/bɹeɪn ˈɪndʒəɹi/"
+    },
+    "back": {
+      "icon": "🤕",
+      "title": "n. การบาดเจ็บทางสมอง",
+      "description": "A **brain injury** can have lasting effects."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-cancer-screening",
+    "front": {
+      "icon": "",
+      "title": "Cancer screening",
+      "description": "ˈkænsər ˈskriːnɪŋ"
+    },
+    "back": {
+      "icon": "🩺",
+      "title": "n. การตรวจคัดกรองมะเร็ง",
+      "description": "Regular exercise is good for your **Health**."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-chronic-illness",
+    "front": {
+      "icon": "",
+      "title": "Chronic illness",
+      "description": "ˈkrɒnɪk ˈɪlnəs"
+    },
+    "back": {
+      "icon": "🤒",
+      "title": "n. โรคเรื้อรัง",
+      "description": "His **chronic illness** made daily activities difficult."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-clinical-trial",
+    "front": {
+      "icon": "",
+      "title": "Clinical trial",
+      "description": "/ˈklɪnɪkəl ˈtraɪəl/"
+    },
+    "back": {
+      "icon": "🩺",
+      "title": "n. การทดลองทางคลินิก",
+      "description": "The patient enrolled in a **clinical trial** for a new cancer treatment."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-concussion",
+    "front": {
+      "icon": "",
+      "title": "Concussion",
+      "description": "kənˈkʌʃən"
+    },
+    "back": {
+      "icon": "🤕",
+      "title": "n. สมองกระทบกระเทือน",
+      "description": "The player suffered a **concussion** after a hard hit."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-dental-checkup",
+    "front": {
+      "icon": "",
+      "title": "Dental checkup",
+      "description": "/ˈdɛntəl ˈtʃɛkʌp/"
+    },
+    "back": {
+      "icon": "🦷",
+      "title": "n. ตรวจสุขภาพฟัน",
+      "description": "I need to schedule a **dental checkup** soon."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-dependency",
+    "front": {
+      "icon": "",
+      "title": "Dependency",
+      "description": "dɪˈpɛndənsi"
+    },
+    "back": {
+      "icon": "🔗",
+      "title": "n. การพึ่งพา",
+      "description": "The project's success has a strong **dependency** on team collaboration."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-dermatitis",
+    "front": {
+      "icon": "",
+      "title": "Dermatitis",
+      "description": "/ˌdɜːrməˈtaɪtɪs/"
+    },
+    "back": {
+      "icon": "🤚",
+      "title": "n. ผิวหนังอักเสบ",
+      "description": "The doctor diagnosed the patient with **dermatitis** after examining the skin rash."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-dietary-supplement",
+    "front": {
+      "icon": "",
+      "title": "Dietary supplement",
+      "description": "ˈdaɪətɛri ˈsʌplɪmənt"
+    },
+    "back": {
+      "icon": "💊",
+      "title": "n. ผลิตภัณฑ์เสริมอาหาร",
+      "description": "I take a **dietary supplement** every morning."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-ear-infection",
+    "front": {
+      "icon": "",
+      "title": "Ear infection",
+      "description": "ɪər ɪnˈfɛkʃən"
+    },
+    "back": {
+      "icon": "👂",
+      "title": "n. หูอักเสบ",
+      "description": "She had an **ear infection** that required antibiotics."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-fatigue",
+    "front": {
+      "icon": "",
+      "title": "Fatigue",
+      "description": "fəˈtiɡ"
+    },
+    "back": {
+      "icon": "😴",
+      "title": "n. ความเหนื่อยล้า",
+      "description": "The athlete experienced **fatigue** after the intense workout."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-feverish",
+    "front": {
+      "icon": "",
+      "title": "Feverish",
+      "description": "ˈfiːvərɪʃ"
+    },
+    "back": {
+      "icon": "🤒",
+      "title": "adj. เป็นไข้",
+      "description": "He felt **feverish** after a long day in the sun."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-food-poisoning",
+    "front": {
+      "icon": "",
+      "title": "Food poisoning",
+      "description": "/ˈfuːd ˈpɔɪzənɪŋ/"
+    },
+    "back": {
+      "icon": "🤢",
+      "title": "n. อาหารเป็นพิษ",
+      "description": "After eating the undercooked chicken, she suffered from **Food poisoning**."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-fracture",
+    "front": {
+      "icon": "",
+      "title": "Fracture",
+      "description": "[ˈfræktʃər]"
+    },
+    "back": {
+      "icon": "🦴",
+      "title": "n. กระดูกหัก",
+      "description": "The doctor confirmed a **fracture** in her wrist."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-genetic-disorder",
+    "front": {
+      "icon": "",
+      "title": "Genetic disorder",
+      "description": "/dʒəˈnɛtɪk dɪsˈɔrdər/"
+    },
+    "back": {
+      "icon": "🧬",
+      "title": "n. โรคทางพันธุกรรม",
+      "description": "Cystic fibrosis is a common **genetic disorder**."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-hair-loss",
+    "front": {
+      "icon": "",
+      "title": "Hair loss",
+      "description": "hɛr lɔs"
+    },
+    "back": {
+      "icon": "👴",
+      "title": "n. ผมร่วง",
+      "description": "**Hair loss** can be a concern for many people."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-headache",
+    "front": {
+      "icon": "",
+      "title": "Headache",
+      "description": "ˈhɛdeɪk"
+    },
+    "back": {
+      "icon": "🤕",
+      "title": "n. ปวดหัว",
+      "description": "I have a terrible **headache** after staring at the screen all day."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-hearing-loss",
+    "front": {
+      "icon": "",
+      "title": "Hearing loss",
+      "description": "ˈhɪərɪŋ lɔs"
+    },
+    "back": {
+      "icon": "🧏‍♀️",
+      "title": "n. หูหนวก",
+      "description": "Protect your ears to prevent **Hearing loss**."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-high-blood-pressure",
+    "front": {
+      "icon": "",
+      "title": "High blood pressure",
+      "description": "haɪ blʌd ˈprɛʃər"
+    },
+    "back": {
+      "icon": "❤️",
+      "title": "n. ความดันโลหิตสูง",
+      "description": "**Health** is important for a long life."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-immune-system-deficiency",
+    "front": {
+      "icon": "",
+      "title": "Immune system deficiency",
+      "description": "/ɪˈmjuːn ˈsɪstəm dɪˈfɪʃənsi/"
+    },
+    "back": {
+      "icon": "🤧",
+      "title": "n. ภูมิคุ้มกันบกพร่อง",
+      "description": "She was diagnosed with **Immune system deficiency** after recurrent infections."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-infant-mortality-rate",
+    "front": {
+      "icon": "",
+      "title": "Infant mortality rate",
+      "description": "ˈɪnfənt mɔːrˈtælɪti reɪt"
+    },
+    "back": {
+      "icon": "⚕️",
+      "title": "n. อัตราการตายของทารก",
+      "description": "The **infant mortality rate** has decreased significantly over the last decade."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-joint-pain",
+    "front": {
+      "icon": "",
+      "title": "Joint pain",
+      "description": "dʒɔɪnt peɪn"
+    },
+    "back": {
+      "icon": "🦴",
+      "title": "n. ปวดข้อ",
+      "description": "She experiences **joint pain** in her knees after long walks."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-kidney-stones",
+    "front": {
+      "icon": "",
+      "title": "Kidney stones",
+      "description": "ˈkɪdni stoʊnz"
+    },
+    "back": {
+      "icon": "🪨",
+      "title": "n. นิ่วในไต",
+      "description": "The patient was diagnosed with **Kidney stones**."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-life-expectancy",
+    "front": {
+      "icon": "",
+      "title": "Life expectancy",
+      "description": "/laɪf ɪkˈspɛktənsi/"
+    },
+    "back": {
+      "icon": "❤️",
+      "title": "n. อายุขัย",
+      "description": "The average **Life expectancy** in Japan is among the highest in the world."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-malaria",
+    "front": {
+      "icon": "",
+      "title": "Malaria",
+      "description": "məˈlɛəriə"
+    },
+    "back": {
+      "icon": "🦟",
+      "title": "n. มาลาเรีย",
+      "description": "The **Malaria** parasite is transmitted through mosquito bites."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-mental-health-disorder",
+    "front": {
+      "icon": "",
+      "title": "Mental health disorder",
+      "description": "ˈmɛntəl hɛlθ dɪsˈɔːrdər"
+    },
+    "back": {
+      "icon": "🧠",
+      "title": "n. ความผิดปกติทางจิต",
+      "description": "He felt a surge of **joy** as he crossed the finish line."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-migraine",
+    "front": {
+      "icon": "",
+      "title": "Migraine",
+      "description": "ˈmaɪɡreɪn"
+    },
+    "back": {
+      "icon": "🤕",
+      "title": "n. ไมเกรน",
+      "description": "I had a **migraine** yesterday."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-muscle-strain",
+    "front": {
+      "icon": "",
+      "title": "Muscle strain",
+      "description": "ˈmʌsl streɪn"
+    },
+    "back": {
+      "icon": "🤕",
+      "title": "n. กล้ามเนื้ออักเสบ",
+      "description": "He experienced a **muscle strain** after lifting heavy weights."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-nearsightedness",
+    "front": {
+      "icon": "",
+      "title": "Nearsightedness",
+      "description": "/ˈnɪərˌsaɪtɪdnəs/"
+    },
+    "back": {
+      "icon": "🤓",
+      "title": "n. สายตาสั้น",
+      "description": "My **nearsightedness** makes it hard to see distant objects clearly."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-oral-cancer",
+    "front": {
+      "icon": "",
+      "title": "Oral cancer",
+      "description": "ˈɔːrəl ˈkænsər"
+    },
+    "back": {
+      "icon": "😷",
+      "title": "n. มะเร็งช่องปาก",
+      "description": "Early detection of **oral cancer** can significantly improve treatment outcomes."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-panic-attack",
+    "front": {
+      "icon": "",
+      "title": "Panic attack",
+      "description": "ˈpænɪk əˈtæk"
+    },
+    "back": {
+      "icon": "😱",
+      "title": "n. แพนิค",
+      "description": "She felt a sudden **panic attack** before her presentation."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-physical-therapy",
+    "front": {
+      "icon": "",
+      "title": "Physical therapy",
+      "description": "ˈfɪzɪkəl ˈθɛrəpi"
+    },
+    "back": {
+      "icon": "💪",
+      "title": "n. กายภาพบำบัด",
+      "description": "He underwent a rigorous course of **Physical therapy** to regain strength in his knee."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-preventive-care",
+    "front": {
+      "icon": "",
+      "title": "Preventive care",
+      "description": "/prɪˈvɛntɪv kɛər/"
+    },
+    "back": {
+      "icon": "🩺",
+      "title": "n. การดูแลป้องกัน",
+      "description": "**Preventive care** is essential for maintaining good health."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-radiation-therapy",
+    "front": {
+      "icon": "",
+      "title": "Radiation therapy",
+      "description": "ˌreɪdiˈeɪʃən ˈθɛrəpi"
+    },
+    "back": {
+      "icon": "☢️",
+      "title": "n. รังสีรักษา",
+      "description": "She underwent **Radiation therapy** for cancer treatment."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-skin-cancer",
+    "front": {
+      "icon": "",
+      "title": "Skin cancer",
+      "description": "skɪn ˈkænsər"
+    },
+    "back": {
+      "icon": "🎗️",
+      "title": "n. มะเร็งผิวหนัง",
+      "description": "Early detection of **Skin cancer** is crucial for successful treatment."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-sleep-apnea",
+    "front": {
+      "icon": "",
+      "title": "Sleep apnea",
+      "description": "/ˈsliːp ˈæpniə/"
+    },
+    "back": {
+      "icon": "😴",
+      "title": "n. ภาวะหยุดหายใจขณะหลับ",
+      "description": "**Sleep apnea** can lead to restless nights."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-sore-throat",
+    "front": {
+      "icon": "",
+      "title": "Sore throat",
+      "description": "/sɔːr θroʊt/"
+    },
+    "back": {
+      "icon": "🤒",
+      "title": "n. เจ็บคอ",
+      "description": "I woke up with a bad **sore throat** this morning."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-stroke",
+    "front": {
+      "icon": "",
+      "title": "Stroke",
+      "description": "stroʊk"
+    },
+    "back": {
+      "icon": "🤕",
+      "title": "n. โรคหลอดเลือดสมอง",
+      "description": "A **stroke** can have devastating effects on the brain."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-sunburn",
+    "front": {
+      "icon": "",
+      "title": "Sunburn",
+      "description": "ˈsʌnbɜːrn"
+    },
+    "back": {
+      "icon": "🥵",
+      "title": "n. ผิวไหม้แดด",
+      "description": "After a long day at the beach, I got a terrible **sunburn**."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-vaccination",
+    "front": {
+      "icon": "",
+      "title": "Vaccination",
+      "description": "/ˌvæksɪˈneɪʃən/"
+    },
+    "back": {
+      "icon": "💉",
+      "title": "n. การฉีดวัคซีน",
+      "description": "The annual **vaccination** drive helps protect the community."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-weight-loss",
+    "front": {
+      "icon": "",
+      "title": "Weight loss",
+      "description": "/weɪt lɔs/"
+    },
+    "back": {
+      "icon": "⚖️",
+      "title": "n. ลดน้ำหนัก",
+      "description": "She found that consistent exercise was key for successful **Weight loss**."
+    }
+  },
+  {
+    "id": "ielts-by-category-health-wound-infection",
+    "front": {
+      "icon": "",
+      "title": "Wound infection",
+      "description": "wuːnd ɪnˈfɛkʃən"
+    },
+    "back": {
+      "icon": "🤕",
+      "title": "n. แผลติดเชื้อ",
+      "description": "The patient developed a **wound infection** after surgery."
+    }
+  }
+]

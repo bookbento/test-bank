@@ -1,0 +1,2901 @@
+[
+  {
+    "id": "chinese-essencial-in-communication-3-thai-cloudy-day",
+    "front": {
+      "icon": "",
+      "title": "阴天",
+      "description": "yīntiān"
+    },
+    "back": {
+      "icon": "☁️",
+      "title": "วันฟ้าครึ้ม",
+      "description": "今天是**阴天**。 (Jīntiān shì **yīn tiān**.) วันนี้เป็น**วันที่มีเมฆมาก**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-weather",
+    "front": {
+      "icon": "",
+      "title": "天气",
+      "description": "tiānqì"
+    },
+    "back": {
+      "icon": "☀️",
+      "title": "สภาพอากาศ",
+      "description": "今天**天气**很好。 (Jīntiān **tiānqì** hěn hǎo.) วันนี้**อากาศ**ดีมาก"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-weather-forecast",
+    "front": {
+      "icon": "",
+      "title": "天气预报",
+      "description": "tiānqì yùbào"
+    },
+    "back": {
+      "icon": "📺",
+      "title": "พยากรณ์อากาศ",
+      "description": "今天的**天气预报**说会下雨。 (Jīntiān de **tiānqì yùbào** shuō huì xià yǔ.) พยากรณ์**อากาศ**วันนี้บอกว่าฝนจะตก"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-forecast",
+    "front": {
+      "icon": "",
+      "title": "预报",
+      "description": "yùbào"
+    },
+    "back": {
+      "icon": "🔮",
+      "title": "พยากรณ์",
+      "description": "明天有**预报**。 (míngtiān yǒu **yùbào**.) พรุ่งนี้มี**พยากรณ์**อากาศ"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-be-likely-to",
+    "front": {
+      "icon": "",
+      "title": "会",
+      "description": "huì"
+    },
+    "back": {
+      "icon": "🤔",
+      "title": "จะ",
+      "description": "我**会**说汉语。 (Wǒ **huì** shuō Hànyǔ.) ฉัน**พูด**ภาษาจีนได้"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-rain",
+    "front": {
+      "icon": "",
+      "title": "下雨",
+      "description": "xià yǔ"
+    },
+    "back": {
+      "icon": "🌧️",
+      "title": "ฝนตก",
+      "description": "今天**下雨**。 (Jīntiān **xiàyǔ**.) วันนี้**ฝน**ตก"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-heavy-rain",
+    "front": {
+      "icon": "",
+      "title": "大雨",
+      "description": "dà yǔ"
+    },
+    "back": {
+      "icon": "⛈️",
+      "title": "ฝนตกหนัก",
+      "description": "外面下着**大雨**。 (wàimian xiàzhe **dàyǔ**.) ข้างนอกฝนตก**หนัก**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-light-rain-drizzle",
+    "front": {
+      "icon": "",
+      "title": "小雨",
+      "description": "xiǎo yǔ"
+    },
+    "back": {
+      "icon": "☔",
+      "title": "ฝนปรอย",
+      "description": "今天有**小雨**。 (Jīntiān yǒu **xiǎoyǔ**.) วันนี้มี**ฝนปรอยๆ**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-why",
+    "front": {
+      "icon": "",
+      "title": "为什么",
+      "description": "wèishénme"
+    },
+    "back": {
+      "icon": "❓",
+      "title": "ทำไม",
+      "description": "你**为什么**喜欢学中文？ (Nǐ **wèishénme** xǐhuān xué Zhōngwén?) คุณชอบเรียนภาษาจีน**ทำไม**?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-measure-word",
+    "front": {
+      "icon": "",
+      "title": "把",
+      "description": "bǎ"
+    },
+    "back": {
+      "icon": "🔑",
+      "title": "จับ",
+      "description": "我**把**书放在桌子上了。 (Wǒ **bǎ** shū fàng zài zhuōzi le.) ฉัน**วาง**หนังสือไว้บนโต๊ะแล้ว"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-umbrella",
+    "front": {
+      "icon": "",
+      "title": "伞",
+      "description": "sǎn"
+    },
+    "back": {
+      "icon": "☂️",
+      "title": "ร่ม",
+      "description": "这把**伞**是我的。 (zhè bǎ **sǎn** shì wǒ de.) ร่มคันนี้เป็นของฉัน"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-here",
+    "front": {
+      "icon": "",
+      "title": "这里",
+      "description": "zhèlǐ"
+    },
+    "back": {
+      "icon": "📍",
+      "title": "ที่นี่",
+      "description": "我**这里**有本书。 (wǒ **zhèlǐ** yǒu běn shū.) ฉันมีหนังสืออยู่ที่**นี่**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-scenery",
+    "front": {
+      "icon": "",
+      "title": "风景",
+      "description": "fēngjǐng"
+    },
+    "back": {
+      "icon": "🏞️",
+      "title": "ทิวทัศน์",
+      "description": "这里的**风景**很美。 (Zhèlǐ de **fēngjǐng** hěn měi.) ทิวทัศน์ที่นี่สวยงามมาก"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-beautiful",
+    "front": {
+      "icon": "",
+      "title": "美",
+      "description": "měi"
+    },
+    "back": {
+      "icon": "💖",
+      "title": "สวย",
+      "description": "这朵花很**美**。 (Zhè duǒ huā hěn **měi**.) ดอกไม้นี้สวยมาก**สวย**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-air",
+    "front": {
+      "icon": "",
+      "title": "空气",
+      "description": "kōngqì"
+    },
+    "back": {
+      "icon": "💨",
+      "title": "อากาศ",
+      "description": "这里的**空气**很新鲜。 (Zhèlǐ de **kōngqì** hěn xīnxiān.) **อากาศ**ที่นี่สดชื่นมาก"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-fresh",
+    "front": {
+      "icon": "",
+      "title": "新鲜",
+      "description": "xīnxian"
+    },
+    "back": {
+      "icon": "🌱",
+      "title": "สด",
+      "description": "这个水果很**新鲜**。 (Zhège shuǐguǒ hěn **xīnxiān**.) ผลไม้นี้สดมาก**สด**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-regrettable",
+    "front": {
+      "icon": "",
+      "title": "可惜",
+      "description": "kěxī"
+    },
+    "back": {
+      "icon": "😔",
+      "title": "น่าเสียดาย",
+      "description": "这件衣服很漂亮，**可惜**太贵了。 (Zhè jiàn yīfu hěn piàoliang, **kěxī** tài guì le.) เสื้อผ้าตัวนี้สวยมาก **น่าเสียดาย**ที่แพงเกินไป"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-climb-a-mountain",
+    "front": {
+      "icon": "",
+      "title": "爬山",
+      "description": "pá shān"
+    },
+    "back": {
+      "icon": "⛰️",
+      "title": "ปีนเขา",
+      "description": "我喜欢**爬山**。 (Wǒ xǐhuān **páshān**.) ฉันชอบ**ปีนเขา**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-auxiliary-word",
+    "front": {
+      "icon": "",
+      "title": "了",
+      "description": "le"
+    },
+    "back": {
+      "icon": "✅",
+      "title": "แล้ว",
+      "description": "我吃**了**饭。 (wǒ chī **le** fàn.) ฉันกินข้าว**แล้ว**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-stop",
+    "front": {
+      "icon": "",
+      "title": "停",
+      "description": "tíng"
+    },
+    "back": {
+      "icon": "🛑",
+      "title": "หยุด",
+      "description": "请**停**一下。 (qǐng **tíng** yī xià.) กรุณา**หยุด**สักครู่"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-picnic",
+    "front": {
+      "icon": "",
+      "title": "野餐",
+      "description": "yěcān"
+    },
+    "back": {
+      "icon": "🧺",
+      "title": "ปิกนิก",
+      "description": "我们明天去**野餐**吧。 (Wǒmen míngtiān qù **yěcān** ba.) พรุ่งนี้เราไป**ปิกนิก**กันนะ"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-wind",
+    "front": {
+      "icon": "",
+      "title": "风",
+      "description": "fēng"
+    },
+    "back": {
+      "icon": "🌬️",
+      "title": "ลม",
+      "description": "今天的**风**很大。 (Jīntiān de **fēng** hěn dà.) วันนี้ลม**แรง**มาก"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-go-down-a-mountain",
+    "front": {
+      "icon": "",
+      "title": "下山",
+      "description": "xià shān"
+    },
+    "back": {
+      "icon": "🔽",
+      "title": "ลงจากเขา",
+      "description": "我们明天**下山**。 (wǒmen míngtiān **xiàshān**.) พรุ่งนี้เราจะ**ลงจากเขา**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-rainbow",
+    "front": {
+      "icon": "",
+      "title": "彩虹",
+      "description": "cǎihóng"
+    },
+    "back": {
+      "icon": "🌈",
+      "title": "รุ้ง",
+      "description": "天上有一道美丽的**彩虹**。 (tiān shàng yǒu yī dào měi lì de **cǎi hóng**.) บนท้องฟ้ามี**รุ้ง**กินน้ำที่สวยงาม"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-botanical-garden",
+    "front": {
+      "icon": "",
+      "title": "植物园",
+      "description": "zhíwùyuán"
+    },
+    "back": {
+      "icon": "🌳",
+      "title": "สวนพฤกษศาสตร์",
+      "description": "我喜欢去**植物园**。 (wǒ xǐhuān qù **zhíwùyuán**.) ฉันชอบไป**สวนพฤกษศาสตร์**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-the-wind-blows",
+    "front": {
+      "icon": "",
+      "title": "刮风",
+      "description": "guā fēng"
+    },
+    "back": {
+      "icon": "💨",
+      "title": "ลมพัด",
+      "description": "今天**刮风**了。 (Jīntiān **guāfēng** le.) วันนี้ลม**พัด**แล้ว"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-clear-day",
+    "front": {
+      "icon": "",
+      "title": "晴天",
+      "description": "qíngtiān"
+    },
+    "back": {
+      "icon": "☀️",
+      "title": "ท้องฟ้าแจ่มใส",
+      "description": "今天是**晴天**。 (Jīntiān shì **qíngtiān**.) วันนี้เป็น**วันฟ้าใส**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-daytime",
+    "front": {
+      "icon": "",
+      "title": "白天",
+      "description": "báitiān"
+    },
+    "back": {
+      "icon": "🌞",
+      "title": "กลางวัน",
+      "description": "**白天**我很忙。 (**bái tiān** wǒ hěn máng.) ฉันยุ่งมากใน**ตอนกลางวัน**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-sunny",
+    "front": {
+      "icon": "",
+      "title": "晴",
+      "description": "qíng"
+    },
+    "back": {
+      "icon": "😎",
+      "title": "แดดออก",
+      "description": "今天天气很**晴**。 (Jīntiān tiānqì hěn **qíng**.) วันนี้อากาศแจ่ม**ใส**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-change",
+    "front": {
+      "icon": "",
+      "title": "转",
+      "description": "zhuǎn"
+    },
+    "back": {
+      "icon": "🔄",
+      "title": "เปลี่ยน",
+      "description": "他**转**过身，看到了她。 (Tā **zhuǎn** guò shēn, kàn dào le tā.) เขา**หัน**หลังกลับและเห็นเธอ"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-cloudy",
+    "front": {
+      "icon": "",
+      "title": "阴",
+      "description": "yīn"
+    },
+    "back": {
+      "icon": "🌥️",
+      "title": "หยิน",
+      "description": "今天天气很**阴**。 (Jīntiān tiānqì hěn **yīn**.) วันนี้อากาศ**มืดครึ้ม**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-noon",
+    "front": {
+      "icon": "",
+      "title": "中午",
+      "description": "zhōngwǔ"
+    },
+    "back": {
+      "icon": "🕛",
+      "title": "เที่ยง",
+      "description": "我们**中午**吃午饭。 (wǒ men **zhōng wǔ** chī wǔ fàn.) เรากินข้าวกลางวันตอน**เที่ยง**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-shower",
+    "front": {
+      "icon": "",
+      "title": "阵雨",
+      "description": "zhènyǔ"
+    },
+    "back": {
+      "icon": "🌦️",
+      "title": "ฝนปรอย",
+      "description": "今天有**阵雨**。 (Jīntiān yǒu **zhènyǔ**.) วันนี้มี**ฝนตกปรอยๆ**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-north-wind",
+    "front": {
+      "icon": "",
+      "title": "北风",
+      "description": "běifēng"
+    },
+    "back": {
+      "icon": "⬆️",
+      "title": "ลมเหนือ",
+      "description": "**北风**吹过，天气很冷。 (**Běifēng** chuīguò, tiānqì hěn lěng.) **ลมเหนือ**พัดผ่าน อากาศหนาวมาก"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-force",
+    "front": {
+      "icon": "",
+      "title": "级",
+      "description": "jí"
+    },
+    "back": {
+      "icon": "💪",
+      "title": "ระดับ",
+      "description": "这是我的第一个**级**别。 (zhè shì wǒ de dì yī gè **jíbié**.) นี่คือระดับแรกของฉัน"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-most",
+    "front": {
+      "icon": "",
+      "title": "最",
+      "description": "zuì"
+    },
+    "back": {
+      "icon": "⭐",
+      "title": "ที่สุด",
+      "description": "这是**最**好的。 (Zhè shì **zuì** hǎo de.) นี่คือสิ่งที่ดีที่สุด"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-temperature",
+    "front": {
+      "icon": "",
+      "title": "气温",
+      "description": "qìwēn"
+    },
+    "back": {
+      "icon": "🌡️",
+      "title": "อุณหภูมิ",
+      "description": "今天的**气温**很高。 (Jīntiān de **qìwēn** hěn gāo.) วันนี้อากาศ**ร้อน**มาก"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-degree",
+    "front": {
+      "icon": "",
+      "title": "度",
+      "description": "dù"
+    },
+    "back": {
+      "icon": "📏",
+      "title": "ระดับ",
+      "description": "今天的温度是二十五**度**。 (Jīntiān de wēndù shì èrshíwǔ **dù**.) วันนี้อุณหภูมิยี่สิบห้า**องศา**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-night-time",
+    "front": {
+      "icon": "",
+      "title": "夜间",
+      "description": "yèjiān"
+    },
+    "back": {
+      "icon": "🌙",
+      "title": "เวลากลางคืน",
+      "description": "我在**夜间**工作。 (wǒ zài **yèjiān** gōngzuò.) ฉันทำงานใน**เวลากลางคืน**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-morning",
+    "front": {
+      "icon": "",
+      "title": "早上",
+      "description": "zǎoshang"
+    },
+    "back": {
+      "icon": "🌅",
+      "title": "ตอนเช้า",
+      "description": "我**早上**吃早餐。 (wǒ **zǎoshang** chī zǎocān.) ฉันกินอาหารเช้าใน**ตอนเช้า**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-jog",
+    "front": {
+      "icon": "",
+      "title": "跑步",
+      "description": "pǎobù"
+    },
+    "back": {
+      "icon": "🏃",
+      "title": "วิ่ง",
+      "description": "我喜欢**跑步**。 (Wǒ xǐhuān **pǎobù**.) ฉันชอบ**วิ่ง**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-habit",
+    "front": {
+      "icon": "",
+      "title": "习惯",
+      "description": "xíguàn"
+    },
+    "back": {
+      "icon": "🧘",
+      "title": "เคยชิน",
+      "description": "他**习惯**早起。 (Tā **xíguàn** zǎoqǐ.) เขา**เคยชิน**กับการตื่นเช้า"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-take-exercise",
+    "front": {
+      "icon": "",
+      "title": "锻炼",
+      "description": "duànliàn"
+    },
+    "back": {
+      "icon": "💪",
+      "title": "ออกกำลังกาย",
+      "description": "我每天都**锻炼**身体。 (Wǒ měitiān dōu **duànliàn** shēntǐ.) ฉัน**ออกกำลังกาย**ทุกวัน"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-breakfast",
+    "front": {
+      "icon": "",
+      "title": "早饭",
+      "description": "zǎofàn"
+    },
+    "back": {
+      "icon": "🍳",
+      "title": "อาหารเช้า",
+      "description": "我喜欢吃**早饭**。 (Wǒ xǐhuān chī **zǎofàn**.) ฉันชอบกิน**อาหารเช้า**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-should",
+    "front": {
+      "icon": "",
+      "title": "该",
+      "description": "gāi"
+    },
+    "back": {
+      "icon": "🧭",
+      "title": "ควร",
+      "description": "你**该**走了。 (nǐ **gāi** zǒu le.) คุณ**ควร**ไปแล้ว"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-common",
+    "front": {
+      "icon": "",
+      "title": "一般",
+      "description": "yìbān"
+    },
+    "back": {
+      "icon": "👍",
+      "title": "ทั่วไป",
+      "description": "我**一般**早上七点起床。 (Wǒ **yībān** zǎoshang qī diǎn qǐchuáng.) ฉันตื่นนอนตอนเจ็ดโมงเช้า**โดยทั่วไป**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-used-in-a-declarative-sentence-for-emphasis",
+    "front": {
+      "icon": "",
+      "title": "可",
+      "description": "kě"
+    },
+    "back": {
+      "icon": "❗",
+      "title": "ได้",
+      "description": "我可以帮你。 (wǒ kěyǐ **bāng** nǐ.) ฉัน**ช่วย**คุณได้"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-chinese-dish",
+    "front": {
+      "icon": "",
+      "title": "中国菜",
+      "description": "Zhōngguó cài"
+    },
+    "back": {
+      "icon": "🍜",
+      "title": "อาหารจีน",
+      "description": "我喜欢吃**中国菜**。 (Wǒ xǐhuān chī **Zhōngguócài**.) ฉันชอบกิน**อาหารจีน**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-taste-of-food",
+    "front": {
+      "icon": "",
+      "title": "口味",
+      "description": "kǒuwèi"
+    },
+    "back": {
+      "icon": "😋",
+      "title": "รสชาติ",
+      "description": "这个菜的**口味**很好。 (Zhège càid de **kǒuwèi** hěn hǎo.) อาหารจานนี้มี**รสชาติ**ดีมาก"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-hot-spicy",
+    "front": {
+      "icon": "",
+      "title": "辣",
+      "description": "là"
+    },
+    "back": {
+      "icon": "🌶️",
+      "title": "เผ็ด",
+      "description": "这道菜很**辣**。 (Zhè dào cài hěn **là**.) อาหารจานนี้**เผ็ด**มาก"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-love",
+    "front": {
+      "icon": "",
+      "title": "爱",
+      "description": "ài"
+    },
+    "back": {
+      "icon": "❤️",
+      "title": "รัก",
+      "description": "我**爱**你。 (wǒ **ài** nǐ.) ฉัน**รัก**คุณ"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-sour-sweet",
+    "front": {
+      "icon": "",
+      "title": "酸甜",
+      "description": "suāntián"
+    },
+    "back": {
+      "icon": "🍬",
+      "title": "เปรี้ยวหวาน",
+      "description": "这道菜尝起来**酸甜**可口。 (Zhè dào cài cháng qǐ lái **suāntián** kěkǒu.) อาหารจานนี้รสชาติ**เปรี้ยวหวาน**อร่อย"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-light",
+    "front": {
+      "icon": "",
+      "title": "清淡",
+      "description": "qīngdàn"
+    },
+    "back": {
+      "icon": "🥗",
+      "title": "รสอ่อน",
+      "description": "这道菜很**清淡**。 (Zhè dào cài hěn **qīngdàn**.) อาหารจานนี้**เบา**มาก"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-greasy",
+    "front": {
+      "icon": "",
+      "title": "油腻",
+      "description": "yóunì"
+    },
+    "back": {
+      "icon": "🤢",
+      "title": "มันเยิ้ม",
+      "description": "这道菜有点**油腻**。 (Zhè dào cài yǒudiǎn **yóunì**.) อาหารจานนี้ค่อนข้าง**มันเยิ้ม**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-measure-word",
+    "front": {
+      "icon": "",
+      "title": "只",
+      "description": "zhī"
+    },
+    "back": {
+      "icon": "🐾",
+      "title": "แค่",
+      "description": "我**只**喜欢你。 (Wǒ **zhǐ** xǐhuan nǐ.) ฉัน**แค่**ชอบคุณ"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-hand",
+    "front": {
+      "icon": "",
+      "title": "手",
+      "description": "shǒu"
+    },
+    "back": {
+      "icon": "✋",
+      "title": "มือ",
+      "description": "我**手**上拿着一本书。 (wǒ **shǒu** shàng názhe yī běn shū.) ฉันถือหนังสืออยู่ในมือ (**มือ**)."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-write",
+    "front": {
+      "icon": "",
+      "title": "写",
+      "description": "xiě"
+    },
+    "back": {
+      "icon": "✍️",
+      "title": "เขียน",
+      "description": "我喜欢**写**字。 (Wǒ xǐhuān **xiě** zì.) ฉันชอบ**เขียน**หนังสือ"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-characters-written-with-a-writing-brush",
+    "front": {
+      "icon": "",
+      "title": "毛笔字",
+      "description": "máobǐ zì"
+    },
+    "back": {
+      "icon": "🖌️",
+      "title": "พู่กันจีน",
+      "description": "我喜欢写**毛笔字**。 (Wǒ xǐhuān xiě **máobǐzì**.) ฉันชอบเขียน**พู่กันจีน**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-chinese-writing-brush",
+    "front": {
+      "icon": "",
+      "title": "毛笔",
+      "description": "máobǐ"
+    },
+    "back": {
+      "icon": "🖋️",
+      "title": "พู่กัน",
+      "description": "我用**毛笔**写字。 (Wǒ yòng **máobǐ** xiězì.) ฉันเขียนหนังสือด้วย**พู่กัน**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-character",
+    "front": {
+      "icon": "",
+      "title": "字",
+      "description": "zì"
+    },
+    "back": {
+      "icon": "🔠",
+      "title": "ตัวอักษร",
+      "description": "这个**字**怎么写？ (Zhège **zì** zěnme xiě?) คำว่า \"**字**\" นี้เขียนอย่างไร"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-performance",
+    "front": {
+      "icon": "",
+      "title": "演出",
+      "description": "yǎnchū"
+    },
+    "back": {
+      "icon": "🎭",
+      "title": "การแสดง",
+      "description": "这支乐队的**演出**很精彩。 (Zhè zhī yuèduì de **yǎnchū** hěn jīngcǎi.) การ**แสดง**ของวงดนตรีวงนี้ยอดเยี่ยมมาก"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-in-the-process-of",
+    "front": {
+      "icon": "",
+      "title": "正在",
+      "description": "zhèngzài"
+    },
+    "back": {
+      "icon": "⏳",
+      "title": "กำลัง",
+      "description": "我**正在**学习中文。 (Wǒ **zhèngzài** xuéxí Zhōngwén.) ฉัน**กำลัง**เรียนภาษาจีน"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-practice",
+    "front": {
+      "icon": "",
+      "title": "练习",
+      "description": "liànxí"
+    },
+    "back": {
+      "icon": "📚",
+      "title": "การฝึกซ้อม",
+      "description": "我每天都**练习**说汉语。 (Wǒ měitiān dōu **liànxí** shuō Hànyǔ.) ฉัน**ฝึก**พูดภาษาจีนทุกวัน"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-not-easy",
+    "front": {
+      "icon": "",
+      "title": "不容易",
+      "description": "bù róngyì"
+    },
+    "back": {
+      "icon": "😥",
+      "title": "ไม่ง่าย",
+      "description": "学中文**不容易**。 (Xué Zhōngwén **bù róngyì**.) การเรียนภาษาจีน**ไม่ง่าย**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-easy",
+    "front": {
+      "icon": "",
+      "title": "容易",
+      "description": "róngyì"
+    },
+    "back": {
+      "icon": "💡",
+      "title": "ง่าย",
+      "description": "学中文**容易**。 (xué zhōng wén **róngyì**.) เรียนภาษาจีนเป็นเรื่อง**ง่าย**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-pour",
+    "front": {
+      "icon": "",
+      "title": "倒",
+      "description": "dào"
+    },
+    "back": {
+      "icon": "💧",
+      "title": "ล้ม",
+      "description": "请把水**倒**掉。 (qǐng bǎ shuǐ **dǎo** diào.) กรุณาเทน้ำทิ้งไป (เท)"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-cup-measure-word",
+    "front": {
+      "icon": "",
+      "title": "杯",
+      "description": "bēi"
+    },
+    "back": {
+      "icon": "☕",
+      "title": "ถ้วย",
+      "description": "我有一**杯**水。 (Wǒ yǒu yī **bēi** shuǐ.) ฉันมีน้ำหนึ่ง**แก้ว**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-right-now",
+    "front": {
+      "icon": "",
+      "title": "在",
+      "description": "zài"
+    },
+    "back": {
+      "icon": "⌚",
+      "title": "ที่",
+      "description": "我**在**家。 (wǒ **zài** jiā.) ฉัน**อยู่**บ้าน"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-modal-word",
+    "front": {
+      "icon": "",
+      "title": "呀",
+      "description": "ya"
+    },
+    "back": {
+      "icon": "🗣️",
+      "title": "อ๊ะ",
+      "description": "是**呀**！ (shì **ya**!) ใช่**เลย**!"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-modal-word",
+    "front": {
+      "icon": "",
+      "title": "呢",
+      "description": "ne"
+    },
+    "back": {
+      "icon": "💬",
+      "title": "นะ",
+      "description": "你吃了吗**呢**？ (Nǐ chīle ma**ne**?) คุณกินหรือยัง**นะ**?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-disturb",
+    "front": {
+      "icon": "",
+      "title": "打扰",
+      "description": "dǎrǎo"
+    },
+    "back": {
+      "icon": "🔇",
+      "title": "รบกวน",
+      "description": "对不起，**打扰**了。 (Duìbuqǐ, **dǎrǎo** le.) ขอโทษที่**รบกวน**ครับ"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-oneself",
+    "front": {
+      "icon": "",
+      "title": "自己",
+      "description": "zìjǐ"
+    },
+    "back": {
+      "icon": "👤",
+      "title": "ตัวเอง",
+      "description": "你应该**自己**做。 (nǐ yīng gāi **zì jǐ** zuò.) คุณควรทำด้วย**ตัวเอง**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-station-stop",
+    "front": {
+      "icon": "",
+      "title": "车站",
+      "description": "chēzhàn"
+    },
+    "back": {
+      "icon": "🚌",
+      "title": "สถานีรถไฟ",
+      "description": "我在**车站**等你。 (Wǒ zài **chēzhàn** děng nǐ.) ฉันจะรอคุณที่**ป้ายรถเมล์**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-the-entrance-to-a-hutong",
+    "front": {
+      "icon": "",
+      "title": "胡同口儿",
+      "description": "hútòng kǒur"
+    },
+    "back": {
+      "icon": "➡️",
+      "title": "ปากซอย",
+      "description": "我在**胡同口儿**等你。 (wǒ zài **hú tòng kǒu er** děng nǐ.) ฉันจะรอคุณอยู่ที่**ปากซอย**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-hutong-lane-alley",
+    "front": {
+      "icon": "",
+      "title": "胡同",
+      "description": "hútòng"
+    },
+    "back": {
+      "icon": "🏘️",
+      "title": "ตรอก",
+      "description": "北京的**胡同**很有特色。 (Běijīng de **hútòng** hěn yǒu tèsè.) **ตรอก**ซอยในปักกิ่งมีเอกลักษณ์เฉพาะตัว"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-downtown",
+    "front": {
+      "icon": "",
+      "title": "市中心",
+      "description": "shì zhōngxīn"
+    },
+    "back": {
+      "icon": "🏙️",
+      "title": "ใจกลางเมือง",
+      "description": "我在**市中心**工作。 (Wǒ zài **shì zhōng xīn** gōng zuò.) ฉันทำงานอยู่**ใจกลางเมือง**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-center",
+    "front": {
+      "icon": "",
+      "title": "中心",
+      "description": "zhōngxīn"
+    },
+    "back": {
+      "icon": "🎯",
+      "title": "ศูนย์กลาง",
+      "description": "购物**中心**离我家很近。 (gòuwù **zhōngxīn** lí wǒ jiā hěn jìn.) ศูนย์การค้าอยู่ใกล้บ้านฉันมาก"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-seem-be-like",
+    "front": {
+      "icon": "",
+      "title": "好像",
+      "description": "hǎoxiàng"
+    },
+    "back": {
+      "icon": "🧐",
+      "title": "ดูเหมือนว่า",
+      "description": "你**好像**很高兴。 (nǐ **hǎoxiàng** hěn gāoxìng.) คุณดูมีความสุข**เหมือนจะ**มาก"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-green-plot",
+    "front": {
+      "icon": "",
+      "title": "绿地",
+      "description": "lǜdì"
+    },
+    "back": {
+      "icon": "🌿",
+      "title": "พื้นที่สีเขียว",
+      "description": "我们公园里有很大的**绿地**。 (Wǒmen gōngyuán lǐ yǒu hěn dà de **lǜdì**.) ในสวนสาธารณะของเรามีพื้นที่**สีเขียว**ขนาดใหญ่"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-garden",
+    "front": {
+      "icon": "",
+      "title": "花园",
+      "description": "huāyuán"
+    },
+    "back": {
+      "icon": "🌸",
+      "title": "สวน",
+      "description": "我喜欢在**花园**里散步。 (Wǒ xǐhuān zài **huāyuán** lǐ sànbù.) ฉันชอบเดินเล่นใน**สวน**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-of-an-old-couple-husband-or-wife",
+    "front": {
+      "icon": "",
+      "title": "老伴儿",
+      "description": "lǎobànr"
+    },
+    "back": {
+      "icon": "👵",
+      "title": "คู่ชีวิต",
+      "description": "我的**老伴儿**喜欢去公园散步。 (Wǒ de **lǎobànr** xǐhuān qù gōngyuán sànbù.) **คู่ชีวิต**ของฉันชอบไปเดินเล่นที่สวนสาธารณะ"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-side",
+    "front": {
+      "icon": "",
+      "title": "旁边",
+      "description": "pángbiān"
+    },
+    "back": {
+      "icon": "➡️",
+      "title": "ข้างๆ",
+      "description": "我的书包在桌子**旁边**。 (wǒ de shūbāo zài zhuōzi **pángbiān**.) กระเป๋าของฉันอยู่**ข้างๆ**โต๊ะ"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-supermarket",
+    "front": {
+      "icon": "",
+      "title": "超市",
+      "description": "chāoshì"
+    },
+    "back": {
+      "icon": "🛒",
+      "title": "ซูเปอร์มาร์เก็ต",
+      "description": "我去**超市**买菜。 (Wǒ qù **chāoshì** mǎi cài.) ฉันไปซื้อกับข้าวที่**ซูเปอร์มาร์เก็ต**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-restaurant",
+    "front": {
+      "icon": "",
+      "title": "饭馆儿",
+      "description": "fànguǎnr"
+    },
+    "back": {
+      "icon": "🍽️",
+      "title": "ร้านอาหาร",
+      "description": "我们在**饭馆儿**吃饭。 (wǒ men zài **fànguǎnr** chīfàn.) เรากินข้าวที่**ร้านอาหาร**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-taste",
+    "front": {
+      "icon": "",
+      "title": "尝",
+      "description": "cháng"
+    },
+    "back": {
+      "icon": "👅",
+      "title": "ชิม",
+      "description": "你**尝**尝这个菜，很好吃。 (Nǐ **cháng** chang zhège cài, hěn hào chī.) คุณ**ลอง**ชิมอาหารจานนี้ดู อร่อยมาก"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-house",
+    "front": {
+      "icon": "",
+      "title": "房子",
+      "description": "fángzi"
+    },
+    "back": {
+      "icon": "🏠",
+      "title": "บ้าน",
+      "description": "他買了一棟**房子**。 (Tā mǎile yī dòng **fángzi**.) เขาซื้อ**บ้าน**หนึ่งหลัง"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-suburban-district",
+    "front": {
+      "icon": "",
+      "title": "郊区",
+      "description": "jiāoqū"
+    },
+    "back": {
+      "icon": "🌳",
+      "title": "ชานเมือง",
+      "description": "我住在**郊区**。 (Wǒ zhù zài **jiāoqū**.) ฉันอาศัยอยู่ใน**ชานเมือง**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-beauty-parlor",
+    "front": {
+      "icon": "",
+      "title": "美容院",
+      "description": "měiróngyuàn"
+    },
+    "back": {
+      "icon": "💅",
+      "title": "ร้านเสริมสวย",
+      "description": "我想去**美容院**。 (wǒ xiǎng qù **měiróngyuàn**.) ฉันอยากไป**ร้านเสริมสวย**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-traffic",
+    "front": {
+      "icon": "",
+      "title": "交通",
+      "description": "jiāotōng"
+    },
+    "back": {
+      "icon": "🚦",
+      "title": "การจราจร",
+      "description": "北京的**交通**很方便。 (Běijīng de **jiāotōng** hěn fāngbiàn.) การ**คมนาคม**ในปักกิ่งสะดวกมาก"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-subway-station",
+    "front": {
+      "icon": "",
+      "title": "地铁站",
+      "description": "dìtiě zhàn"
+    },
+    "back": {
+      "icon": "🚇",
+      "title": "สถานีรถไฟใต้ดิน",
+      "description": "我在**地铁站**等你。 (Wǒ zài **dìtiězhàn** děng nǐ.) ฉันจะรอคุณที่**สถานีรถไฟใต้ดิน**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-town-city",
+    "front": {
+      "icon": "",
+      "title": "城里",
+      "description": "chénglǐ"
+    },
+    "back": {
+      "icon": "📍",
+      "title": "ในเมือง",
+      "description": "我住在**城里**。 (Wǒ zhù zài **chéng lǐ**.) ฉันอาศัยอยู่ใน**เมือง**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-need-to-take",
+    "front": {
+      "icon": "",
+      "title": "要",
+      "description": "yào"
+    },
+    "back": {
+      "icon": "⏳",
+      "title": "ต้อง",
+      "description": "我**要**去商店。 (wǒ **yào** qù shāngdiàn.) ฉัน**จะ**ไปร้านค้า"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-neighbor",
+    "front": {
+      "icon": "",
+      "title": "邻居",
+      "description": "línjū"
+    },
+    "back": {
+      "icon": "🧑‍🤝‍🧑",
+      "title": "เพื่อนบ้าน",
+      "description": "我的**邻居**人很好。 (Wǒ de **línjū** rén hěn hǎo.) **เพื่อนบ้าน**ของฉันใจดีมาก"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-go-back",
+    "front": {
+      "icon": "",
+      "title": "回",
+      "description": "huí"
+    },
+    "back": {
+      "icon": "🔙",
+      "title": "กลับ",
+      "description": "我**回**家了。 (wǒ **huí** jiā le.) ฉัน**กลับ**บ้านแล้ว"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-post-office",
+    "front": {
+      "icon": "",
+      "title": "邮局",
+      "description": "yóujú"
+    },
+    "back": {
+      "icon": "📮",
+      "title": "ไปรษณีย์",
+      "description": "我去**邮局**寄信。 (wǒ qù **yóujú** jì xìn.) ฉันไป**ที่ทำการไปรษณีย์**เพื่อส่งจดหมาย"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-fetch",
+    "front": {
+      "icon": "",
+      "title": "取",
+      "description": "qǔ"
+    },
+    "back": {
+      "icon": "📥",
+      "title": "เอา",
+      "description": "我要**取**回我的书。 (Wǒ yào **qǔ** huí wǒ de shū.) ฉันต้องการ**เอา**หนังสือของฉันคืน"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-password",
+    "front": {
+      "icon": "",
+      "title": "密码",
+      "description": "mìmǎ"
+    },
+    "back": {
+      "icon": "🔒",
+      "title": "รหัสผ่าน",
+      "description": "请告诉我你的**密码**。 (Qǐng gào sù wǒ nǐ de **mìmǎ**.) โปรดบอก**รหัสผ่าน**ของคุณให้ฉันทราบ"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-delivery-locker",
+    "front": {
+      "icon": "",
+      "title": "快递柜",
+      "description": "kuàidìguì"
+    },
+    "back": {
+      "icon": "📦",
+      "title": "ตู้รับพัสดุ",
+      "description": "包裹在**快递柜**里。 (Bāoguǒ zài **kuàidigùi** lǐ.) พัสดุอยู่ใน**ตู้เก็บของ**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-screen",
+    "front": {
+      "icon": "",
+      "title": "屏幕",
+      "description": "píngmù"
+    },
+    "back": {
+      "icon": "🖥️",
+      "title": "หน้าจอ",
+      "description": "我的手机**屏幕**坏了。 (wǒ de shǒujī **píngmù** huàile.) หน้าจอโทรศัพท์ของฉันเสีย"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-fill-in",
+    "front": {
+      "icon": "",
+      "title": "填",
+      "description": "tián"
+    },
+    "back": {
+      "icon": "✍️",
+      "title": "กรอก",
+      "description": "请**填**写表格。 (qǐng **tián** xiě biǎo gé.) กรุณา**กรอก**แบบฟอร์ม"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-chinese-dumpling",
+    "front": {
+      "icon": "",
+      "title": "饺子",
+      "description": "jiǎozi"
+    },
+    "back": {
+      "icon": "🥟",
+      "title": "เกี๊ยว",
+      "description": "我喜欢吃**饺子**。 (Wǒ xǐhuān chī **jiǎozi**.) ฉันชอบกิน**เกี๊ยว**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-just",
+    "front": {
+      "icon": "",
+      "title": "刚",
+      "description": "gāng"
+    },
+    "back": {
+      "icon": "⏱️",
+      "title": "เพิ่งจะ",
+      "description": "我**刚**到家。 (wǒ **gāng** dàojiā.) ฉันเพิ่ง**ถึง**บ้าน"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-relation",
+    "front": {
+      "icon": "",
+      "title": "关系",
+      "description": "guānxi"
+    },
+    "back": {
+      "icon": "🤝",
+      "title": "ความสัมพันธ์",
+      "description": "今天是**阴天**。 (Jīntiān shì **yīntiān**.) วันนี้เป็นวัน**ท้องฟ้ามืดครึ้ม**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-visit",
+    "front": {
+      "icon": "",
+      "title": "看望",
+      "description": "kànwàng"
+    },
+    "back": {
+      "icon": "🧑‍🤝‍🧑",
+      "title": "เยี่ยม",
+      "description": "我明天会去**看望**我的奶奶。 (Wǒ míngtiān huì qù **kànwàng** wǒ de nǎinai.) พรุ่งนี้ฉันจะไป**เยี่ยม**คุณย่าของฉัน"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-courtyard-house",
+    "front": {
+      "icon": "",
+      "title": "四合院",
+      "description": "Sìhéyuàn"
+    },
+    "back": {
+      "icon": "🏠",
+      "title": "บ้านจีนโบราณ",
+      "description": "我家住在**四合院**里。 (Wǒ jiā zhù zài **sìhéyuàn** lǐ.) บ้านของฉันอยู่ใน**ซื่อเหอเยวี่ยน**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-courtyard",
+    "front": {
+      "icon": "",
+      "title": "院儿",
+      "description": "yuànr"
+    },
+    "back": {
+      "icon": "🪴",
+      "title": "=AI(\"Give the most accurate and common single Thai word or short phrase translation\",B107)",
+      "description": "我们家的后**院儿**很大。 (Wǒmen jiā de hòu**yuànr** hěn dà.) สวนหลังบ้านของเราใหญ่มาก"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-north-facing-house",
+    "front": {
+      "icon": "",
+      "title": "北房",
+      "description": "běifáng"
+    },
+    "back": {
+      "icon": "↖️",
+      "title": "บ้านทางเหนือ",
+      "description": "我家住在**北房**。 (Wǒ jiā zhù zài **běi fáng**.) บ้านของฉันอยู่ทาง**ทิศเหนือ**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-south-facing-house",
+    "front": {
+      "icon": "",
+      "title": "南房",
+      "description": "nánfáng"
+    },
+    "back": {
+      "icon": "↙️",
+      "title": "ห้องใต้",
+      "description": "我家在**南房**。 (Wǒ jiā zài **nánfáng**.) บ้านของฉันอยู่ทาง**ห้องใต้**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-go-over",
+    "front": {
+      "icon": "",
+      "title": "过去",
+      "description": "guòqu"
+    },
+    "back": {
+      "icon": "🚶",
+      "title": "ที่ผ่านมา",
+      "description": "我**过去**常常去那里。 (Wǒ **guòqù** chángcháng qù nàlǐ.) ฉันเคยไปที่นั่นบ่อยๆ ใน**อดีต**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-post-to-send",
+    "front": {
+      "icon": "",
+      "title": "寄",
+      "description": "jì"
+    },
+    "back": {
+      "icon": "📧",
+      "title": "ส่ง",
+      "description": "我把书**寄**给你。 (wǒ bǎ shū **jì** gěi nǐ.) ฉันจะ**ส่ง**หนังสือไปให้คุณ"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-measure-word-for-paper",
+    "front": {
+      "icon": "",
+      "title": "张",
+      "description": "zhāng"
+    },
+    "back": {
+      "icon": "📄",
+      "title": "ตระกูล",
+      "description": "这**张**桌子是我的。 (Zhè **zhāng** zhuōzi shì wǒ de.) โต๊ะตัว**นี้**เป็นของฉัน"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-postcard",
+    "front": {
+      "icon": "",
+      "title": "明信片",
+      "description": "míngxìnpiàn"
+    },
+    "back": {
+      "icon": "🖼️",
+      "title": "โปสการ์ด",
+      "description": "我寄了一张**明信片**给我的朋友。 (Wǒ jìle yī zhāng **míngxìnpiàn** gěi wǒ de péngyǒu.) ฉันส่ง**ไปรษณียบัตร**ให้เพื่อนของฉัน"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-letter",
+    "front": {
+      "icon": "",
+      "title": "信",
+      "description": "xìn"
+    },
+    "back": {
+      "icon": "✉️",
+      "title": "จดหมาย",
+      "description": "今天是**阴天**。 (Jīntiān shì **yīntiān**.) วันนี้เป็น**วันฟ้าครึ้ม**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-water-transport",
+    "front": {
+      "icon": "",
+      "title": "水路",
+      "description": "shuǐlù"
+    },
+    "back": {
+      "icon": "🚢",
+      "title": "เส้นทางน้ำ",
+      "description": "这条**水路**很窄。 (Zhè tiáo **shuǐlù** hěn zhǎi.) ทาง**น้ำ**แคบมาก"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-air-transport",
+    "front": {
+      "icon": "",
+      "title": "航空",
+      "description": "hángkōng"
+    },
+    "back": {
+      "icon": "✈️",
+      "title": "การบิน",
+      "description": "中国**航空**公司很大。 (Zhōngguó **hángkōng** gōngsī hěn dà.) บริษัท **การบิน** ของจีนใหญ่มาก"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-stamp",
+    "front": {
+      "icon": "",
+      "title": "邮票",
+      "description": "yóupiào"
+    },
+    "back": {
+      "icon": "🏷️",
+      "title": "แสตมป์",
+      "description": "我喜欢收集**邮票**。 (Wǒ xǐhuān shōují **yóupiào**.) ฉันชอบสะสม**แสตมป์**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-parcel",
+    "front": {
+      "icon": "",
+      "title": "包裹",
+      "description": "bāoguǒ"
+    },
+    "back": {
+      "icon": "🎁",
+      "title": "พัสดุ",
+      "description": "这个**包裹**很重。 (Zhège **bāoguǒ** hěn zhòng.) **พัสดุ**นี้หนักมาก"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-need",
+    "front": {
+      "icon": "",
+      "title": "需要",
+      "description": "xūyào"
+    },
+    "back": {
+      "icon": "🙏",
+      "title": "ต้องการ",
+      "description": "我**需要**去洗手间。 (Wǒ **xūyào** qù xǐshǒujiān.) ฉัน**ต้องการ**ไปห้องน้ำ"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-how-long",
+    "front": {
+      "icon": "",
+      "title": "多长时间",
+      "description": "duō cháng shíjiān"
+    },
+    "back": {
+      "icon": "❓",
+      "title": "นานแค่ไหน",
+      "description": "你学中文**多长时间**了？ (nǐ xué zhōngwén **duō cháng shíjiān** le?) คุณเรียนภาษาจีนมา**นานแค่ไหน**แล้ว?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-long",
+    "front": {
+      "icon": "",
+      "title": "长",
+      "description": "cháng"
+    },
+    "back": {
+      "icon": "📏",
+      "title": "ยาว",
+      "description": "她有**长**头发。 (Tā yǒu **cháng** tóufa.) เธอมีผม**ยาว**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-express-delivery",
+    "front": {
+      "icon": "",
+      "title": "特快专递",
+      "description": "tèkuài zhuǎndì"
+    },
+    "back": {
+      "icon": "🚀",
+      "title": "ไปรษณีย์ด่วนพิเศษ",
+      "description": "我需要寄一份**特快专递**到上海。 (wǒ xū yào jì yī fèn **tè kuài zhuān dì** dào shàng hǎi.) ฉันต้องการส่งพัสดุ**ด่วนพิเศษ**ไปเซี่ยงไฮ้"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-tea",
+    "front": {
+      "icon": "",
+      "title": "茶叶",
+      "description": "cháyè"
+    },
+    "back": {
+      "icon": "🍵",
+      "title": "ใบชา",
+      "description": "我喜欢喝**茶叶**。 (wǒ xǐhuan hē **cháyè**.) ฉันชอบดื่ม**ชา**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-weigh",
+    "front": {
+      "icon": "",
+      "title": "称",
+      "description": "chēng"
+    },
+    "back": {
+      "icon": "⚖️",
+      "title": "เรียกว่า",
+      "description": "他**称**赞这道菜很好吃。 (Tā **chēng**zàn zhè dào cài hěn hào chī.) เขา**ชื่นชม**ว่าอาหารจานนี้อร่อยมาก"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-fast-mail",
+    "front": {
+      "icon": "",
+      "title": "快递",
+      "description": "kuàidì"
+    },
+    "back": {
+      "icon": "🏍️",
+      "title": "ส่งด่วน",
+      "description": "我要寄**快递**。 (wǒ yào jì **kuài dì**.) ฉันต้องการส่ง**พัสดุ**ด่วน"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-week",
+    "front": {
+      "icon": "",
+      "title": "周",
+      "description": "zhōu"
+    },
+    "back": {
+      "icon": "🗓️",
+      "title": "สัปดาห์",
+      "description": "今天我**周**游世界。 (Jīntiān wǒ **zhōu**yóu shìjiè.) วันนี้ฉันท่องเที่ยวรอบโลก**_**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-parcel-form",
+    "front": {
+      "icon": "",
+      "title": "包裹单",
+      "description": "bāoguǒdān"
+    },
+    "back": {
+      "icon": "📝",
+      "title": "ใบส่งของ",
+      "description": "请给我您的**包裹单**。 (Qǐng gěi wǒ nín de **bāoguǒdān**.) โปรดให้ **ใบนำส่งพัสดุ** ของคุณกับฉัน"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-addressee",
+    "front": {
+      "icon": "",
+      "title": "收件人",
+      "description": "shōujiànrén"
+    },
+    "back": {
+      "icon": "🏷️",
+      "title": "ผู้รับ",
+      "description": "请填写**收件人**的地址。 (qǐng tiánxiě **shōujiànrén** de dìzhǐ.) กรุณากรอกที่อยู่ของ**ผู้รับ**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-address",
+    "front": {
+      "icon": "",
+      "title": "地址",
+      "description": "dìzhǐ"
+    },
+    "back": {
+      "icon": "🗺️",
+      "title": "ที่อยู่",
+      "description": "我的**地址**是北京路1号。 (wǒ de **dì zhǐ** shì běi jīng lù yī hào.) ที่อยู่ของฉันคือถนนปักกิ่งหมายเลข 1."
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-what-a-coincidence",
+    "front": {
+      "icon": "",
+      "title": "真巧",
+      "description": "zhēn qiǎo"
+    },
+    "back": {
+      "icon": "😮",
+      "title": "บังเอิญ",
+      "description": "今天真巧。 (Jīntiān zhēn **qiǎo**.) **วันนี้**บังเอิญจัง"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-us-dollar",
+    "front": {
+      "icon": "",
+      "title": "美元",
+      "description": "Měiyuán"
+    },
+    "back": {
+      "icon": "💵",
+      "title": "ดอลลาร์สหรัฐ",
+      "description": "这是**美元**。 (Zhè shì **měiyuán**.) นี่คือ**ดอลลาร์**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-exchange-rate",
+    "front": {
+      "icon": "",
+      "title": "汇率",
+      "description": "huìlǜ"
+    },
+    "back": {
+      "icon": "💱",
+      "title": "อัตราแลกเปลี่ยน",
+      "description": "今天的**汇率**是多少？ (Jīntiān de **huìlǜ** shì duōshǎo?) วันนี้**อัตราแลกเปลี่ยน**เท่าไหร่?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-exchange",
+    "front": {
+      "icon": "",
+      "title": "换",
+      "description": "huàn"
+    },
+    "back": {
+      "icon": "↔️",
+      "title": "เปลี่ยน",
+      "description": "请帮我**换**一下零钱。 (Qǐng bāng wǒ **huàn** yīxià língqián.) กรุณาช่วยฉัน**แลก**เงินหน่อย"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-japanese-yen",
+    "front": {
+      "icon": "",
+      "title": "日元",
+      "description": "Rìyuán"
+    },
+    "back": {
+      "icon": "💴",
+      "title": "เยน",
+      "description": "我需要把美元换成**日元**。 (Wǒ xūyào bǎ měiyuán huànchéng **rìyuán**.) ฉันต้องการแลกเงินดอลลาร์เป็น**เยน**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-yesterday",
+    "front": {
+      "icon": "",
+      "title": "昨天",
+      "description": "zuótiān"
+    },
+    "back": {
+      "icon": "⏪",
+      "title": "เมื่อวาน",
+      "description": "我**昨天**去学校了。 (Wǒ **zuótiān** qù xuéxiàole.) ฉันไปโรงเรียนมา**เมื่อวานนี้**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-same",
+    "front": {
+      "icon": "",
+      "title": "一样",
+      "description": "yīyàng"
+    },
+    "back": {
+      "icon": "👯",
+      "title": "เหมือนกัน",
+      "description": "你和我长得**一样**。 (Nǐ hé wǒ zhǎng de **yīyàng**.) คุณกับฉันหน้าตา**เหมือนกัน**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-department-store",
+    "front": {
+      "icon": "",
+      "title": "百货商场",
+      "description": "bǎihuò shāngchǎng"
+    },
+    "back": {
+      "icon": "🛍️",
+      "title": "ห้างสรรพสินค้า",
+      "description": "我喜欢去**百货商场**买东西。 (Wǒ xǐhuān qù **bǎihuò shāngchǎng** mǎi dōngxi.) ฉันชอบไปซื้อของที่**ห้างสรรพสินค้า**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-market-mall",
+    "front": {
+      "icon": "",
+      "title": "商场",
+      "description": "shāngchǎng"
+    },
+    "back": {
+      "icon": "🏬",
+      "title": "ห้างสรรพสินค้า",
+      "description": "我去**商场**买东西。 (Wǒ qù **shāngchǎng** mǎi dōngxi.) ฉันไปซื้อของที่**ห้างสรรพสินค้า**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-clothes-clothing",
+    "front": {
+      "icon": "",
+      "title": "衣服",
+      "description": "yīfu"
+    },
+    "back": {
+      "icon": "👕",
+      "title": "เสื้อผ้า",
+      "description": "这件**衣服**很漂亮。 (zhè jiàn **yī fú** hěn piào liang.) ชุดนี้สวยมาก"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-franchised-store",
+    "front": {
+      "icon": "",
+      "title": "专卖店",
+      "description": "zhuānmàidiàn"
+    },
+    "back": {
+      "icon": "💎",
+      "title": "ร้านเฉพาะ",
+      "description": "这是一家电器**专卖店**。 (Zhè shì yī jiā diànqì **zhuānmàidiàn**.) นี่คือร้านค้า**เฉพาะทาง**เครื่องใช้ไฟฟ้า"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-sometimes",
+    "front": {
+      "icon": "",
+      "title": "有时候",
+      "description": "yǒu shíhou"
+    },
+    "back": {
+      "icon": "🤷",
+      "title": "บางครั้ง",
+      "description": "我**有时候**会去公园散步。 (Wǒ **yǒushíhou** huì qù gōngyuán sànbù.) บางครั้งฉันจะไปเดินเล่นที่สวนสาธารณะ"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-customize",
+    "front": {
+      "icon": "",
+      "title": "定做",
+      "description": "dìngzuò"
+    },
+    "back": {
+      "icon": "🧵",
+      "title": "สั่งทำ",
+      "description": "我们可以为你**定做**一套西装。 (Wǒmen kěyǐ wéi nǐ **dìngzuò** yī tào xīzhuāng.) เราสามารถ**ตัดชุด**สูทให้คุณได้"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-similar",
+    "front": {
+      "icon": "",
+      "title": "差不多",
+      "description": "chàbuduō"
+    },
+    "back": {
+      "icon": "🆗",
+      "title": "เกือบจะ",
+      "description": "我的中文**差不多**。 (Wǒ de Zhōngwén **chàbuduō**.) ภาษาจีนของฉัน**เกือบจะ**ดีแล้ว"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-deposit-money",
+    "front": {
+      "icon": "",
+      "title": "存钱",
+      "description": "cún qián"
+    },
+    "back": {
+      "icon": "💰",
+      "title": "เก็บเงิน",
+      "description": "我每个月都会**存钱**。 (Wǒ měi gè yuè dōu huì **cúnqián**.) ฉันจะ**เก็บเงิน**ทุกเดือน"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-deposit",
+    "front": {
+      "icon": "",
+      "title": "存",
+      "description": "cún"
+    },
+    "back": {
+      "icon": "🏦",
+      "title": "เก็บ",
+      "description": "请把钱**存**起来。 (Qǐng bǎ qián **cún** qǐlái.) กรุณา**เก็บ**เงินไว้"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-foreign-currency",
+    "front": {
+      "icon": "",
+      "title": "外币",
+      "description": "wàibì"
+    },
+    "back": {
+      "icon": "🌐",
+      "title": "เงินตราต่างประเทศ",
+      "description": "我需要兑换**外币**。 (Wǒ xūyào duìhuàn **wàibì**.) ฉันต้องการแลกเปลี่ยน**สกุลเงินต่างประเทศ**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-bank-card",
+    "front": {
+      "icon": "",
+      "title": "银行卡",
+      "description": "yínhángkǎ"
+    },
+    "back": {
+      "icon": "💳",
+      "title": "บัตรเครดิต",
+      "description": "我需要一张**银行卡**。 (wǒ xū yào yī zhāng **yín háng kǎ**.) ฉันต้องการ**บัตรธนาคาร**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-manage",
+    "front": {
+      "icon": "",
+      "title": "办",
+      "description": "bàn"
+    },
+    "back": {
+      "icon": "📝",
+      "title": "ทำ",
+      "description": "你**办**事，我放心。 (nǐ **bàn** shì, wǒ fàngxīn.) คุณ**จัดการ**เรื่องนี้ ผมวางใจ"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-set-up",
+    "front": {
+      "icon": "",
+      "title": "设置",
+      "description": "shèzhì"
+    },
+    "back": {
+      "icon": "⚙️",
+      "title": "ตั้งค่า",
+      "description": "请**设置**一个闹钟。 (Qǐng **shèzhì** yīgè náozhōng.) กรุณา**ตั้ง**นาฬิกาปลุก"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-withdraw-money",
+    "front": {
+      "icon": "",
+      "title": "取钱",
+      "description": "qǔ qián"
+    },
+    "back": {
+      "icon": "🏧",
+      "title": "ถอนเงิน",
+      "description": "我要去银行**取钱**。 (Wǒ yào qù yínháng **qǔqián**.) ฉันจะไปธนาคารเพื่อ**ถอนเงิน**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-overcoat",
+    "front": {
+      "icon": "",
+      "title": "大衣",
+      "description": "dàyī"
+    },
+    "back": {
+      "icon": "🧥",
+      "title": "เสื้อโค้ต",
+      "description": "我穿上**大衣**去上班。 (wǒ chuān shàng **dàyī** qù shàngbān.) ฉันใส่**เสื้อโค้ท**ไปทำงาน"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-suggest",
+    "front": {
+      "icon": "",
+      "title": "建议",
+      "description": "jiànyì"
+    },
+    "back": {
+      "icon": "🗣️",
+      "title": "แนะนำ",
+      "description": "我有一个**建议**。 (Wǒ yǒu yí ge **jiànyì**.) ฉันมีข้อ**เสนอแนะ**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-youth",
+    "front": {
+      "icon": "",
+      "title": "年轻人",
+      "description": "niánqīngrén"
+    },
+    "back": {
+      "icon": "🧑‍🤝‍🧑",
+      "title": "คนหนุ่มสาว",
+      "description": "我看到一群**年轻人**。 (wǒ kàn dào yī qún **niánqīngrén**.) ฉันเห็น**คนหนุ่มสาว**กลุ่มหนึ่ง"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-price",
+    "front": {
+      "icon": "",
+      "title": "价钱",
+      "description": "jiàqián"
+    },
+    "back": {
+      "icon": "💲",
+      "title": "ราคา",
+      "description": "这个苹果的**价钱**是多少？ (Zhège píngguǒ de **jiàqián** shì duōshao?) แอปเปิ้ลลูกนี้ราคาเท่าไหร่**คะ**?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-gift",
+    "front": {
+      "icon": "",
+      "title": "礼物",
+      "description": "lǐwù"
+    },
+    "back": {
+      "icon": "🎁",
+      "title": "ของขวัญ",
+      "description": "我买了一个**礼物**送给她。 (Wǒ mǎi le yī gè **lǐwù** sòng gěi tā.) ฉันซื้อ**ของขวัญ**ให้เธอ"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-go-shopping",
+    "front": {
+      "icon": "",
+      "title": "逛街",
+      "description": "guàngjiē"
+    },
+    "back": {
+      "icon": "🛍️",
+      "title": "เดินช้อปปิ้ง",
+      "description": "我喜欢和朋友一起去**逛街**。 (Wǒ xǐhuān hé péngyǒu yīqǐ qù **guàngjiē**.) ฉันชอบไป**เดินช้อปปิ้ง**กับเพื่อน"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-second-hand-store",
+    "front": {
+      "icon": "",
+      "title": "旧货商店",
+      "description": "jiùhuò shāngdiàn"
+    },
+    "back": {
+      "icon": "♻️",
+      "title": "ร้านขายของเก่า",
+      "description": "我喜欢去**旧货商店**淘旧物。 (wǒ xǐhuān qù **jiùhuò shāngdiàn** táo jiùwù.) ฉันชอบไปร้านขายของเก่าเพื่อหาของเก่า"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-stroll",
+    "front": {
+      "icon": "",
+      "title": "逛",
+      "description": "guàng"
+    },
+    "back": {
+      "icon": "🚶",
+      "title": "เดินเล่น",
+      "description": "我喜欢**逛**街。 (Wǒ xǐhuān **guàng** jiē.) ฉันชอบ**เดินเล่น**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-old",
+    "front": {
+      "icon": "",
+      "title": "老",
+      "description": "lǎo"
+    },
+    "back": {
+      "icon": "👴",
+      "title": "แก่",
+      "description": "他是一个**老**人。 (Tā shì yī gè **lǎo** rén.) เขาเป็นคน**แก่**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-record",
+    "front": {
+      "icon": "",
+      "title": "唱片",
+      "description": "chàngpiàn"
+    },
+    "back": {
+      "icon": "💿",
+      "title": "แผ่นเสียง",
+      "description": "我喜欢听**唱片**。 (Wǒ xǐhuān tīng **chàngpiàn**.) ฉันชอบฟัง**แผ่นเสียง**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-old-fashioned",
+    "front": {
+      "icon": "",
+      "title": "老式",
+      "description": "lǎoshì"
+    },
+    "back": {
+      "icon": "🕰️",
+      "title": "เก่า",
+      "description": "这是一款很**老式**的收音机。 (Zhè shì yī kuǎn hěn **lǎoshì** de shōuyīnjī.) นี่คือวิทยุที่**ล้าสมัย**มาก"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-camera",
+    "front": {
+      "icon": "",
+      "title": "照相机",
+      "description": "zhàoxiàngjī"
+    },
+    "back": {
+      "icon": "📸",
+      "title": "กล้องถ่ายรูป",
+      "description": "我有一个**照相机**。 (wǒ yǒu yí gè **zhàoxiàngjī**。) ฉันมี**กล้องถ่ายรูป**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-complexion-face",
+    "front": {
+      "icon": "",
+      "title": "脸色",
+      "description": "liǎnsè"
+    },
+    "back": {
+      "icon": "😔",
+      "title": "สีหน้า",
+      "description": "他的**脸色**苍白。 (tā de **liǎnsè** cāngbái.) สีหน้าของเขา**ซีด**ขาว"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-catch-a-cold",
+    "front": {
+      "icon": "",
+      "title": "感冒",
+      "description": "gǎnmào"
+    },
+    "back": {
+      "icon": "🤧",
+      "title": "เป็นหวัด",
+      "description": "我**感冒**了。 (wǒ **gǎnmào** le.) ฉัน**เป็นหวัด**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-serious",
+    "front": {
+      "icon": "",
+      "title": "严重",
+      "description": "yánzhòng"
+    },
+    "back": {
+      "icon": "⚠️",
+      "title": "ร้ายแรง",
+      "description": "这个问题很**严重**。 (Zhè ge wèn tí hěn **yán zhòng**.) ปัญหานี้**ร้ายแรง**มาก"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-throat",
+    "front": {
+      "icon": "",
+      "title": "嗓子",
+      "description": "sǎngzi"
+    },
+    "back": {
+      "icon": "🗣️",
+      "title": "ลำคอ",
+      "description": "他**嗓子**疼。 (Tā **sǎngzi** téng.) เขาเจ็บ**คอ**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-hurt",
+    "front": {
+      "icon": "",
+      "title": "疼",
+      "description": "téng"
+    },
+    "back": {
+      "icon": "🤕",
+      "title": "ปวด",
+      "description": "我腿很**疼**。 (wǒ tuǐ hěn **téng**.) ขาของฉันเจ็บมาก**เจ็บ**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-have-a-fever",
+    "front": {
+      "icon": "",
+      "title": "发烧",
+      "description": "fāshāo"
+    },
+    "back": {
+      "icon": "🔥",
+      "title": "มีไข้",
+      "description": "他**发烧**了。 (tā **fāshāo** le.) เขา**เป็นไข้**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-register",
+    "front": {
+      "icon": "",
+      "title": "挂号",
+      "description": "guà hào"
+    },
+    "back": {
+      "icon": "📋",
+      "title": "ลงทะเบียน",
+      "description": "请您先去**挂号**。 (Qǐng nín xiān qù **guàhào**.) กรุณาไปที่แผนก**ลงทะเบียน**ก่อน"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-register",
+    "front": {
+      "icon": "",
+      "title": "挂",
+      "description": "guà"
+    },
+    "back": {
+      "icon": "🏷️",
+      "title": "แขวน",
+      "description": "我把衣服**挂**在衣架上。 (Wǒ bǎ yīfu **guà** zài yījià shàng.) ฉัน**แขวน**เสื้อผ้าบนไม้แขวนเสื้อ"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-section",
+    "front": {
+      "icon": "",
+      "title": "科",
+      "description": "kē"
+    },
+    "back": {
+      "icon": "🏥",
+      "title": "แผนก",
+      "description": "你主修什么**科**？ (nǐ zhǔ xiū shén me **kē**?) คุณเรียนวิชาเอกอะไร**คะ**?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-internal-medicine",
+    "front": {
+      "icon": "",
+      "title": "内科",
+      "description": "nèikē"
+    },
+    "back": {
+      "icon": "🩺",
+      "title": "อายุรกรรม",
+      "description": "他是**内科**医生。 (Tā shì **nèikē** yīshēng.) เขาเป็นแพทย์**อายุรศาสตร์**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-surgical-department",
+    "front": {
+      "icon": "",
+      "title": "外科",
+      "description": "wàikē"
+    },
+    "back": {
+      "icon": "🔪",
+      "title": "ศัลยกรรม",
+      "description": "他是一名**外科**医生。 (Tā shì yī míng **wàikē** yīshēng.) เขาเป็นหมอ**ศัลยแพทย์**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-head",
+    "front": {
+      "icon": "",
+      "title": "头",
+      "description": "tóu"
+    },
+    "back": {
+      "icon": "🧠",
+      "title": "หัว",
+      "description": "我的**头**很痛。 (wǒ de **tóu** hěn tòng.) ฉันปวด**หัว**มาก"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-cough",
+    "front": {
+      "icon": "",
+      "title": "咳嗽",
+      "description": "késou"
+    },
+    "back": {
+      "icon": "🤧",
+      "title": "ไอ",
+      "description": "我**咳嗽**了。 (Wǒ **késou** le.) ฉัน**ไอ**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-measure",
+    "front": {
+      "icon": "",
+      "title": "量",
+      "description": "liáng"
+    },
+    "back": {
+      "icon": "📏",
+      "title": "ปริมาณ",
+      "description": "你的衣服有**量**吗？ (nǐ de yīfu yǒu **liàng** ma?) เสื้อผ้าของคุณมี**ปริมาณ**ไหม"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-temperature",
+    "front": {
+      "icon": "",
+      "title": "体温",
+      "description": "tǐwēn"
+    },
+    "back": {
+      "icon": "🌡️",
+      "title": "อุณหภูมิร่างกาย",
+      "description": "量一下**体温**。 (liáng yī xià **tǐwēn**.) วัด**อุณหภูมิ**หน่อย"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-take-medicine",
+    "front": {
+      "icon": "",
+      "title": "吃药",
+      "description": "chī yào"
+    },
+    "back": {
+      "icon": "💊",
+      "title": "กินยา",
+      "description": "我需要**吃药**。 (wǒ xūyào **chīyào**.) ฉันต้อง**กินยา**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-medicine",
+    "front": {
+      "icon": "",
+      "title": "药",
+      "description": "yào"
+    },
+    "back": {
+      "icon": "🧪",
+      "title": "ยา",
+      "description": "你吃**药**了吗？ (Nǐ chī **yào** le ma?) คุณกิน**ยา**หรือยัง?"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-measure-word",
+    "front": {
+      "icon": "",
+      "title": "片",
+      "description": "piàn"
+    },
+    "back": {
+      "icon": "⬜",
+      "title": "ชิ้น",
+      "description": "给我一片西瓜。 (Gěi wǒ yī piàn **xīguā**.) ขอ**แตงโม**ชิ้นหนึ่ง"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-antiphlogistic-drug",
+    "front": {
+      "icon": "",
+      "title": "消炎药",
+      "description": "xiāoyán yào"
+    },
+    "back": {
+      "icon": "🛡️",
+      "title": "ยาแก้อักเสบ",
+      "description": "我需要**消炎药**。 (Wǒ xūyào **xiāoyányào**.) ฉันต้องการ**ยาแก้อักเสบ**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-get-inflamed",
+    "front": {
+      "icon": "",
+      "title": "发炎",
+      "description": "fāyán"
+    },
+    "back": {
+      "icon": "🔴",
+      "title": "อักเสบ",
+      "description": "我的喉咙**发炎**了。 (Wǒ de hóulóng **fāyán** le.) เจ็บคอของฉัน**อักเสบ**แล้ว"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-effect",
+    "front": {
+      "icon": "",
+      "title": "效果",
+      "description": "xiàoguǒ"
+    },
+    "back": {
+      "icon": "✨",
+      "title": "ผล, อิทธิพล, ประสิทธิภาพ",
+      "description": "这个药的**效果**很好。 (Zhège yào de **xiàoguǒ** hěn hǎo.) ยาตัวนี้มี**ประสิทธิภาพ**ดีมาก"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-western-medicine",
+    "front": {
+      "icon": "",
+      "title": "西药",
+      "description": "xīyào"
+    },
+    "back": {
+      "icon": "💊",
+      "title": "ยาฝรั่ง",
+      "description": "医生开了**西药**给我。 (Yīshēng kāile **xīyào** gěi wǒ.) หมอสั่ง**ยาแผนปัจจุบัน**ให้ฉัน"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-traditional-chinese-medicine",
+    "front": {
+      "icon": "",
+      "title": "中药",
+      "description": "zhōngyào"
+    },
+    "back": {
+      "icon": "🌿",
+      "title": "ยาจีน",
+      "description": "今天是一个**阴天**。 (Jīntiān shì yí ge **yīntiān**.) วันนี้เป็นวัน**ที่มืดครึ้ม**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-measure-word",
+    "front": {
+      "icon": "",
+      "title": "粒",
+      "description": "lì"
+    },
+    "back": {
+      "icon": "🟡",
+      "title": "เม็ด",
+      "description": "这瓶水里有**粒**沙子。 (Zhè píng shuǐ lǐ yǒu **lì** shāzi.) ในขวดน้ำนี้มีทรายอยู่เป็น**เม็ด**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-before-meal",
+    "front": {
+      "icon": "",
+      "title": "饭前",
+      "description": "fàn qián"
+    },
+    "back": {
+      "icon": "🍽️",
+      "title": "ก่อนอาหาร",
+      "description": "我**饭前**洗手。 (wǒ **fànqián** xǐshǒu.) ฉันล้างมือก่อน**อาหาร**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-please-come-in",
+    "front": {
+      "icon": "",
+      "title": "请进",
+      "description": "qǐng jìn"
+    },
+    "back": {
+      "icon": "🚪",
+      "title": "เชิญเข้ามา",
+      "description": "**请进**，请坐。 (**Qǐng jìn**, qǐng zuò.) **เชิญเข้ามา**นั่งได้เลย"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-come-into",
+    "front": {
+      "icon": "",
+      "title": "进",
+      "description": "jìn"
+    },
+    "back": {
+      "icon": "➡️",
+      "title": "เข้า",
+      "description": "我**进**去。 (wǒ **jìn** qù.) ฉัน**เข้าไป**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-clear-up",
+    "front": {
+      "icon": "",
+      "title": "收拾",
+      "description": "shōushi"
+    },
+    "back": {
+      "icon": "🧹",
+      "title": "จัดของ",
+      "description": "请帮我把房间**收拾**一下。 (Qǐng bāng wǒ bǎ fángjiān **shōushi** yīxià.) ช่วยจัดห้องให้ฉันหน่อย"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-wash",
+    "front": {
+      "icon": "",
+      "title": "洗",
+      "description": "xǐ"
+    },
+    "back": {
+      "icon": "🧼",
+      "title": "ล้าง",
+      "description": "我喜欢**洗**澡。 (Wǒ xǐhuān **xǐ** zǎo.) ฉันชอบอาบ**น้ำ**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-sweep",
+    "front": {
+      "icon": "",
+      "title": "打扫",
+      "description": "dǎsǎo"
+    },
+    "back": {
+      "icon": "🧽",
+      "title": "ทำความสะอาด",
+      "description": "我每天**打扫**房间。 (Wǒ měitiān **dǎsǎo** fángjiān.) ฉัน**ทำความสะอาด**ห้องทุกวัน"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-wipe",
+    "front": {
+      "icon": "",
+      "title": "擦",
+      "description": "cā"
+    },
+    "back": {
+      "icon": "🧤",
+      "title": "เช็ด",
+      "description": "我**擦**干净了桌子。 (Wǒ **cā** gānjìng le zhuōzi.) ฉัน**เช็ด**โต๊ะสะอาดแล้ว"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-floor",
+    "front": {
+      "icon": "",
+      "title": "地板",
+      "description": "dìbǎn"
+    },
+    "back": {
+      "icon": "🏠",
+      "title": "พื้น",
+      "description": "我擦**地板**。 (Wǒ cā **dìbǎn**.) ฉันเช็ด**พื้น**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-take-a-photograph",
+    "front": {
+      "icon": "",
+      "title": "摄影",
+      "description": "shèyǐng"
+    },
+    "back": {
+      "icon": "📷",
+      "title": "การถ่ายภาพ",
+      "description": "我喜欢**摄影**。 (Wǒ xǐhuān **shèyǐng**.) ฉันชอบ**ถ่ายภาพ**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-play-tennis",
+    "front": {
+      "icon": "",
+      "title": "打网球",
+      "description": "dǎ wǎngqiú"
+    },
+    "back": {
+      "icon": "🎾",
+      "title": "เล่นเทนนิส",
+      "description": "我喜欢**打网球**。 (wǒ xǐhuān **dǎ wǎngqiú**.) ฉันชอบ**เล่นเทนนิส**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-play",
+    "front": {
+      "icon": "",
+      "title": "打",
+      "description": "dǎ"
+    },
+    "back": {
+      "icon": "🏏",
+      "title": "ตี",
+      "description": "他喜欢**打**篮球。 (Tā xǐhuan **dǎ** lánqiú.) เขาชอบ**เล่น**บาสเกตบอล"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-tennis",
+    "front": {
+      "icon": "",
+      "title": "网球",
+      "description": "wǎngqiú"
+    },
+    "back": {
+      "icon": "🎽",
+      "title": "เทนนิส",
+      "description": "我喜欢打**网球**。 (Wǒ xǐhuān dǎ **wǎngqiú**.) ฉันชอบเล่น**เทนนิส**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-sport",
+    "front": {
+      "icon": "",
+      "title": "运动",
+      "description": "yùndòng"
+    },
+    "back": {
+      "icon": "🏅",
+      "title": "การออกกำลังกาย",
+      "description": "他喜欢每天做**运动**。 (Tā xǐhuān měitiān zuò **yùndòng**.) เขาชอบออกกำลังกายทุกวัน"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-football",
+    "front": {
+      "icon": "",
+      "title": "足球",
+      "description": "zúqiú"
+    },
+    "back": {
+      "icon": "⚽",
+      "title": "ฟุตบอล",
+      "description": "我喜欢踢**足球**。 (Wǒ xǐhuān tī **zúqiú**.) ฉันชอบเตะ**ฟุตบอล**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-often",
+    "front": {
+      "icon": "",
+      "title": "经常",
+      "description": "jīngcháng"
+    },
+    "back": {
+      "icon": "🔄",
+      "title": "บ่อยๆ",
+      "description": "我**经常**去图书馆。 (wǒ **jīngcháng** qù túshūguǎn.) ฉันไปห้องสมุดบ่อยๆ"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-play-football",
+    "front": {
+      "icon": "",
+      "title": "踢足球",
+      "description": "tī zúqiú"
+    },
+    "back": {
+      "icon": "🥅",
+      "title": "เตะฟุตบอล",
+      "description": "我喜欢**踢足球**。 (Wǒ xǐhuān **tī zúqiú**.) ฉันชอบ**เตะฟุตบอล**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-kick",
+    "front": {
+      "icon": "",
+      "title": "踢",
+      "description": "tī"
+    },
+    "back": {
+      "icon": "🦵",
+      "title": "เตะ",
+      "description": "我喜欢**踢**足球。 (Wǒ xǐhuān **tī** zúqiú.) ฉันชอบ**เตะ**ฟุตบอล"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-ball-game",
+    "front": {
+      "icon": "",
+      "title": "球赛",
+      "description": "qiúsài"
+    },
+    "back": {
+      "icon": "🏟️",
+      "title": "การแข่งขันฟุตบอล",
+      "description": "我喜欢看**球赛**。 (Wǒ xǐhuān kàn **qiúsài**.) ฉันชอบดู**การแข่งขันกีฬา**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-movie",
+    "front": {
+      "icon": "",
+      "title": "电影",
+      "description": "diànyǐng"
+    },
+    "back": {
+      "icon": "🎬",
+      "title": "ภาพยนตร์",
+      "description": "我喜欢看**电影**。 (Wǒ xǐhuān kàn **diànyǐng**.) ฉันชอบดู**หนัง**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-perform",
+    "front": {
+      "icon": "",
+      "title": "演",
+      "description": "yǎn"
+    },
+    "back": {
+      "icon": "🎭",
+      "title": "แสดง",
+      "description": "我在**演**出。 (Wǒ zài **yǎn**chū.) ฉันกำลัง**แสดง**อยู่"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-seafood",
+    "front": {
+      "icon": "",
+      "title": "海鲜",
+      "description": "hǎixiān"
+    },
+    "back": {
+      "icon": "🦞",
+      "title": "อาหารทะเล",
+      "description": "我喜欢吃**海鲜**。 (Wǒ xǐhuān chī **hǎixiān**.) ฉันชอบกิน**อาหารทะเล**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-rice-noodles",
+    "front": {
+      "icon": "",
+      "title": "米线",
+      "description": "mǐxiàn"
+    },
+    "back": {
+      "icon": "🍜",
+      "title": "ข้าวซอย",
+      "description": "我喜欢吃**米线**。 (Wǒ xǐhuān chī **mǐxiàn**.) ฉันชอบกิน**เส้นหมี่**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-snack",
+    "front": {
+      "icon": "",
+      "title": "小吃",
+      "description": "xiǎochī"
+    },
+    "back": {
+      "icon": "🥨",
+      "title": "ของว่าง",
+      "description": "我喜欢吃中国**小吃**。 (Wǒ xǐhuān chī Zhōngguó **xiǎochī**.) ฉันชอบกินของว่างจีน"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-like-that-so",
+    "front": {
+      "icon": "",
+      "title": "那么",
+      "description": "nàme"
+    },
+    "back": {
+      "icon": "🤔",
+      "title": "ดังนั้น",
+      "description": "这件衣服**那么**贵。 (Zhè jiàn yīfu **nàme** guì.) เสื้อตัวนี้แพง**มาก**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-go-away-on-a-business-trip",
+    "front": {
+      "icon": "",
+      "title": "出差",
+      "description": "chūchāi"
+    },
+    "back": {
+      "icon": "💼",
+      "title": "เดินทางไปทำงาน",
+      "description": "我明天要**出差**。 (Wǒ míngtiān yào **chūchāi**.) พรุ่งนี้ฉันต้องไป**ทำงานนอกสถานที่**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-guangdong",
+    "front": {
+      "icon": "",
+      "title": "广东",
+      "description": "Guǎngdōng"
+    },
+    "back": {
+      "icon": "🇨🇳",
+      "title": "กวางตุ้ง",
+      "description": "我是**广东**人。 (Wǒ shì **Guǎngdōng** rén.) ฉันเป็นคน**กวางตุ้ง**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-yunnan",
+    "front": {
+      "icon": "",
+      "title": "云南",
+      "description": "Yúnnán"
+    },
+    "back": {
+      "icon": "🏞️",
+      "title": "ยูนนาน",
+      "description": "我喜欢去**云南**旅游。 (Wǒ xǐhuān qù **Yúnnán** lǚyóu.) ฉันชอบไปเที่ยวที่**ยูนนาน**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-sichuan",
+    "front": {
+      "icon": "",
+      "title": "四川",
+      "description": "Sìchuān"
+    },
+    "back": {
+      "icon": "🐼",
+      "title": "เสฉวน",
+      "description": "我喜欢吃**四川**菜。 (Wǒ xǐhuān chī **Sìchuān** cài.) ฉันชอบกินอาหาร**เสฉวน**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-all-along",
+    "front": {
+      "icon": "",
+      "title": "从来",
+      "description": "cónglái"
+    },
+    "back": {
+      "icon": "🕰️",
+      "title": "ไม่เคย",
+      "description": "我**从来**没去过中国。 (wǒ **cónglái** méi qùguò Zhōngguó.) ฉันไม่เคยไปประเทศจีน**เลย**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-that-time",
+    "front": {
+      "icon": "",
+      "title": "当时",
+      "description": "dāngshí"
+    },
+    "back": {
+      "icon": "📅",
+      "title": "ในตอนนั้น",
+      "description": "我**当时**不在家。 (wǒ **dāngshí** bù zàijiā.) ตอนนั้น**ฉัน**ไม่อยู่บ้าน"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-interview",
+    "front": {
+      "icon": "",
+      "title": "采访",
+      "description": "cǎifǎng"
+    },
+    "back": {
+      "icon": "🎤",
+      "title": "สัมภาษณ์",
+      "description": "记者**采访**了市长。 (jìzhě **cǎifǎng** le shìzhǎng.) นักข่าว**สัมภาษณ์**นายกเทศมนตรี"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-be-wounded",
+    "front": {
+      "icon": "",
+      "title": "受伤",
+      "description": "shòushāng"
+    },
+    "back": {
+      "icon": "🩹",
+      "title": "บาดเจ็บ",
+      "description": "我的腿**受伤**了。 (Wǒ de tuǐ **shòushāng** le.) ขาของฉัน**บาดเจ็บ**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-look-after",
+    "front": {
+      "icon": "",
+      "title": "照顾",
+      "description": "zhàogù"
+    },
+    "back": {
+      "icon": "🤗",
+      "title": "ดูแล",
+      "description": "我妈妈很会**照顾**我。 (Wǒ māma hěn huì **zhàogù** wǒ.) แม่ของฉัน**ดูแล**ฉันดีมาก"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-afterwards",
+    "front": {
+      "icon": "",
+      "title": "后来",
+      "description": "hòulái"
+    },
+    "back": {
+      "icon": "➡️",
+      "title": "ภายหลัง",
+      "description": "她**后来**成为了医生。 (Tā **hòulái** chéngwéi le yīshēng.) ภายหลัง**เธอ**ได้เป็นหมอ"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-love-each-other",
+    "front": {
+      "icon": "",
+      "title": "相爱",
+      "description": "xiāng'ài"
+    },
+    "back": {
+      "icon": "💕",
+      "title": "รักกัน",
+      "description": "他们**相爱**。 (tā men **xiāng ài**.) พวกเขา**รัก**กัน"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-to-forget",
+    "front": {
+      "icon": "",
+      "title": "忘",
+      "description": "wàng"
+    },
+    "back": {
+      "icon": "🧠",
+      "title": "ลืม",
+      "description": "我**忘**了。 (Wǒ **wàng** le.) ฉัน**ลืม**แล้ว"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-kung-fu-film",
+    "front": {
+      "icon": "",
+      "title": "武打片",
+      "description": "wǔdǎpiàn"
+    },
+    "back": {
+      "icon": "🥋",
+      "title": "หนังต่อสู้",
+      "description": "我喜欢看**武打片**。 (Wǒ xǐhuān kàn **wǔdápiàn**.) ฉันชอบดูหนัง**กำลังภายใน**"
+    }
+  },
+  {
+    "id": "chinese-essencial-in-communication-3-thai-love-movie",
+    "front": {
+      "icon": "",
+      "title": "爱情片",
+      "description": "àiqíngpiàn"
+    },
+    "back": {
+      "icon": "💖",
+      "title": "หนังรัก",
+      "description": "我喜欢看**爱情片**。 (wǒ xǐhuān kàn **àiqíng piàn**.) ฉันชอบดู**หนังรัก**"
+    }
+  }
+]

@@ -1,0 +1,1 @@
+function a(){if(typeof navigator>"u")return"en";const t=navigator.languages||[navigator.language];for(const n of t){if(n==="th"||n.startsWith("th-"))return"th";if(n==="en"||n.startsWith("en-"))return"en"}return"en"}export{a as g};

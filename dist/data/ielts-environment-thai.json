@@ -1,0 +1,834 @@
+[
+  {
+    "id": "ielts-by-category-environment-acid-rain",
+    "front": {
+      "icon": "",
+      "title": "Acid Rain",
+      "description": "ˈæsɪd reɪn"
+    },
+    "back": {
+      "icon": "🌧️",
+      "title": "adj. ฝนกรด",
+      "description": "**Acid Rain** is a serious environmental issue."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-climate",
+    "front": {
+      "icon": "",
+      "title": "Climate",
+      "description": "ˈklaɪmət"
+    },
+    "back": {
+      "icon": "🌍",
+      "title": "n. ภูมิอากาศ",
+      "description": "The **climate** in this region is quite mild."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-conservation",
+    "front": {
+      "icon": "",
+      "title": "Conservation",
+      "description": "/ˌkɒnsərˈveɪʃən/"
+    },
+    "back": {
+      "icon": "🌳",
+      "title": "n. การอนุรักษ์",
+      "description": "**Conservation** efforts are crucial for protecting endangered species."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-energy",
+    "front": {
+      "icon": "",
+      "title": "Energy",
+      "description": "ˈɛnərʤi"
+    },
+    "back": {
+      "icon": "⚡",
+      "title": "n. พลังงาน",
+      "description": "We need to conserve **Energy**."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-extinct",
+    "front": {
+      "icon": "",
+      "title": "Extinct",
+      "description": "/ɪkˈstɪŋkt/"
+    },
+    "back": {
+      "icon": "💀",
+      "title": "adj. สูญพันธุ์",
+      "description": "The dodo bird is **extinct**."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-ecosystem",
+    "front": {
+      "icon": "",
+      "title": "Ecosystem",
+      "description": "ˈiːkoʊˌsɪstəm"
+    },
+    "back": {
+      "icon": "🌳",
+      "title": "n. ระบบนิเวศ",
+      "description": "The forest is a complex **ecosystem**."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-pollution",
+    "front": {
+      "icon": "",
+      "title": "Pollution",
+      "description": "pəˈluːʃən"
+    },
+    "back": {
+      "icon": "🏭",
+      "title": "n. มลพิษ",
+      "description": "Air **pollution** is a major concern in urban areas."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-habitat",
+    "front": {
+      "icon": "",
+      "title": "Habitat",
+      "description": "ˈhæbɪtæt"
+    },
+    "back": {
+      "icon": "🌳",
+      "title": "n. ถิ่นที่อยู่",
+      "description": "The **habitat** of the monarch butterfly is threatened by deforestation."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-deforestation",
+    "front": {
+      "icon": "",
+      "title": "Deforestation",
+      "description": "dɪˌfɔrɪˈsteɪʃən"
+    },
+    "back": {
+      "icon": "🌳",
+      "title": "n. การตัดไม้ทำลายป่า",
+      "description": "**Deforestation** contributes to climate change."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-global-warming",
+    "front": {
+      "icon": "",
+      "title": "Global Warming",
+      "description": "/ˈɡloʊbəl ˈwɔːrmɪŋ/"
+    },
+    "back": {
+      "icon": "🌡️",
+      "title": "n. ภาวะโลกร้อน",
+      "description": "The increase in global average temperatures is known as **Global Warming**."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-radiation",
+    "front": {
+      "icon": "",
+      "title": "Radiation",
+      "description": "ˌreɪdiˈeɪʃən"
+    },
+    "back": {
+      "icon": "☢️",
+      "title": "n. รังสี",
+      "description": "Exposure to **radiation** can be harmful."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-sustainable",
+    "front": {
+      "icon": "",
+      "title": "Sustainable",
+      "description": "səˈsteɪnəbəl"
+    },
+    "back": {
+      "icon": "♻️",
+      "title": "adj. ยั่งยืน",
+      "description": "We need to find a **Sustainable** solution for our energy needs."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-nuclear-fallout",
+    "front": {
+      "icon": "",
+      "title": "Nuclear Fallout",
+      "description": "ˈnjuːkliər ˈfɔːlaʊt"
+    },
+    "back": {
+      "icon": "☢️",
+      "title": "n. กัมมันตรังสี",
+      "description": "The **Nuclear Fallout** forced the evacuation of the entire region."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-waste",
+    "front": {
+      "icon": "",
+      "title": "Waste",
+      "description": "/weɪst/"
+    },
+    "back": {
+      "icon": "🗑️",
+      "title": "n. ขยะ",
+      "description": "To reduce **waste**, we should recycle more."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-drought",
+    "front": {
+      "icon": "",
+      "title": "Drought",
+      "description": "/draʊt/"
+    },
+    "back": {
+      "icon": "🏜️",
+      "title": "n. ภัยแล้ง",
+      "description": "The **drought** led to a shortage of water."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-afforestation",
+    "front": {
+      "icon": "",
+      "title": "Afforestation",
+      "description": "əˌfɒrɪˈsteɪʃən"
+    },
+    "back": {
+      "icon": "🌳",
+      "title": "n. การปลูกป่า",
+      "description": "**Afforestation** is a key strategy for combating climate change."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-air-pollution",
+    "front": {
+      "icon": "",
+      "title": "Air pollution",
+      "description": "ɛr pəˈluːʃən"
+    },
+    "back": {
+      "icon": "🌁",
+      "title": "n. มลพิษทางอากาศ",
+      "description": "**Air pollution** is a major concern in many urban areas."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-biodiversity",
+    "front": {
+      "icon": "",
+      "title": "Biodiversity",
+      "description": "/ˌbaɪ.oʊ.daɪˈvɜːr.sɪ.ti/"
+    },
+    "back": {
+      "icon": "🌍",
+      "title": "n. ความหลากหลายทางชีวภาพ",
+      "description": "Protecting **biodiversity** is essential for a healthy planet."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-biosphere",
+    "front": {
+      "icon": "",
+      "title": "Biosphere",
+      "description": "/ˈbaɪoʊsfɪər/"
+    },
+    "back": {
+      "icon": "🌎",
+      "title": "n. ชีวาลัย",
+      "description": "The **biosphere** is a vast and interconnected system."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-biodegradable",
+    "front": {
+      "icon": "",
+      "title": "Biodegradable",
+      "description": "/ˌbaɪəʊdɪˈɡreɪdəbl/"
+    },
+    "back": {
+      "icon": "♻️",
+      "title": "adj. ย่อยสลายได้",
+      "description": "The plastic bottle is **biodegradable**."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-climate-action",
+    "front": {
+      "icon": "",
+      "title": "Climate action",
+      "description": "ˈklaɪmət ˈækʃən"
+    },
+    "back": {
+      "icon": "🌎",
+      "title": "n. การดำเนินการด้านสภาพภูมิอากาศ",
+      "description": "Protecting our natural **environment** is crucial for future generations."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-desertification",
+    "front": {
+      "icon": "",
+      "title": "Desertification",
+      "description": "/dɪˌzɜːrtɪfɪˈkeɪʃən/"
+    },
+    "back": {
+      "icon": "🏜️",
+      "title": "n. การแปรสภาพเป็นทะเลทราย",
+      "description": "**Desertification** is a major environmental concern."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-eco-friendly",
+    "front": {
+      "icon": "",
+      "title": "Eco-friendly",
+      "description": "ˌiːkoʊ ˈfrɛndli"
+    },
+    "back": {
+      "icon": "🌿",
+      "title": "adj. เป็นมิตรต่อสิ่งแวดล้อม",
+      "description": "We choose **Eco-friendly** products to help protect the planet."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-ecology",
+    "front": {
+      "icon": "",
+      "title": "Ecology",
+      "description": "ɪˈkɒlədʒi"
+    },
+    "back": {
+      "icon": "🌳",
+      "title": "n. นิเวศวิทยา",
+      "description": "**Ecology** is the study of how living things interact with their environment."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-endangered-species",
+    "front": {
+      "icon": "",
+      "title": "Endangered species",
+      "description": "ɪnˈdeɪndʒərd ˈspiːʃiːz"
+    },
+    "back": {
+      "icon": "🦧",
+      "title": "n. สัตว์ใกล้สูญพันธุ์",
+      "description": "The **Endangered species** list is growing."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-fossil-fuel",
+    "front": {
+      "icon": "",
+      "title": "Fossil fuel",
+      "description": "ˈfɒsl fjuːl"
+    },
+    "back": {
+      "icon": "🛢️",
+      "title": "n. เชื้อเพลิงฟอสซิล",
+      "description": "The **fossil fuel** industry is a major contributor to greenhouse gas emissions."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-greenhouse-gas",
+    "front": {
+      "icon": "",
+      "title": "Greenhouse gas",
+      "description": "ˈɡriːnˌhaʊs ɡæs"
+    },
+    "back": {
+      "icon": "💨",
+      "title": "n. ก๊าซเรือนกระจก",
+      "description": "Reducing **Greenhouse gas** emissions is crucial for a sustainable future."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-habitat-destruction",
+    "front": {
+      "icon": "",
+      "title": "Habitat destruction",
+      "description": "ˈhæbɪˌtæt dɪˈstrʌkʃən"
+    },
+    "back": {
+      "icon": "🏚️",
+      "title": "n. การทำลายแหล่งที่อยู่อาศัย",
+      "description": "**Habitat destruction** is a major cause of species extinction."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-hydropower",
+    "front": {
+      "icon": "",
+      "title": "Hydropower",
+      "description": "ˈhaɪdroʊˌpaʊər"
+    },
+    "back": {
+      "icon": "💧",
+      "title": "n. พลังน้ำ",
+      "description": "**Hydropower** is a clean and renewable energy source."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-land-degradation",
+    "front": {
+      "icon": "",
+      "title": "Land degradation",
+      "description": "[lænd dɛɡrəˈdeɪʃən]"
+    },
+    "back": {
+      "icon": "🏜️",
+      "title": "n. ความเสื่อมโทรมของที่ดิน",
+      "description": "**Land degradation** is a significant environmental concern."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-methane-emissions",
+    "front": {
+      "icon": "",
+      "title": "Methane emissions",
+      "description": "ˈmiːθeɪn ɪˈmɪʃənz"
+    },
+    "back": {
+      "icon": "💨",
+      "title": "n. การปล่อยก๊าซมีเทน",
+      "description": "Reducing **Methane emissions** is crucial for combating climate change."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-natural-disaster",
+    "front": {
+      "icon": "",
+      "title": "Natural disaster",
+      "description": "ˈnætʃərəl dɪˈzæstər"
+    },
+    "back": {
+      "icon": "🌪️",
+      "title": "n. ภัยพิบัติทางธรรมชาติ",
+      "description": "A **natural disaster** can cause widespread damage."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-nuclear-energy",
+    "front": {
+      "icon": "",
+      "title": "Nuclear energy",
+      "description": "/ˈnuːkliər ˈɛnərdʒi/"
+    },
+    "back": {
+      "icon": "⚛️",
+      "title": "n. พลังงานนิวเคลียร์",
+      "description": "**Nuclear energy** is a powerful source of electricity."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-ocean-acidification",
+    "front": {
+      "icon": "",
+      "title": "Ocean acidification",
+      "description": "ˈoʊʃən əˌsɪdɪfɪˈkeɪʃən"
+    },
+    "back": {
+      "icon": "🌊",
+      "title": "n. ภาวะมหาสมุทรเป็นกรด",
+      "description": "**Ocean acidification** is a significant environmental concern."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-ozone-layer",
+    "front": {
+      "icon": "",
+      "title": "Ozone layer",
+      "description": "ˈoʊzoʊn ˈleɪər"
+    },
+    "back": {
+      "icon": "🕳️",
+      "title": "n. ชั้นโอโซน",
+      "description": "The **Ozone layer** protects Earth from harmful ultraviolet radiation."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-overfishing",
+    "front": {
+      "icon": "",
+      "title": "Overfishing",
+      "description": "ˈoʊvərfɪʃɪŋ"
+    },
+    "back": {
+      "icon": "🎣",
+      "title": "n. การจับปลามากเกินไป",
+      "description": "**Overfishing** has severely impacted marine ecosystems."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-pollution-control",
+    "front": {
+      "icon": "",
+      "title": "Pollution control",
+      "description": "pəˈluːʃən kənˈtroʊl"
+    },
+    "back": {
+      "icon": "🚫",
+      "title": "n. การควบคุมมลพิษ",
+      "description": "The government is implementing stricter **pollution control** measures."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-renewable-energy",
+    "front": {
+      "icon": "",
+      "title": "Renewable energy",
+      "description": "/rɪˈnuːəbl ˈɛnərdʒi/"
+    },
+    "back": {
+      "icon": "♻️",
+      "title": "n. พลังงานหมุนเวียน",
+      "description": "**Renewable energy** sources are becoming increasingly important for our planet."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-recycling",
+    "front": {
+      "icon": "",
+      "title": "Recycling",
+      "description": "/ˌriːˈsaɪklɪŋ/"
+    },
+    "back": {
+      "icon": "♻️",
+      "title": "n. การรีไซเคิล",
+      "description": "**Recycling** helps protect our planet."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-renewable-resource",
+    "front": {
+      "icon": "",
+      "title": "Renewable resource",
+      "description": "rɪˈnuːəbl̩ ˈriːsɔːrs"
+    },
+    "back": {
+      "icon": "♻️",
+      "title": "n. ทรัพยากรหมุนเวียน",
+      "description": "Solar power is a **renewable resource**."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-soil-erosion",
+    "front": {
+      "icon": "",
+      "title": "Soil erosion",
+      "description": "/sɔɪl ɪˈroʊʒən/"
+    },
+    "back": {
+      "icon": "🌪️",
+      "title": "n. การพังทลายของดิน",
+      "description": "**Soil erosion** is a significant environmental concern."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-sustainable-agriculture",
+    "front": {
+      "icon": "",
+      "title": "Sustainable agriculture",
+      "description": "/səˈsteɪnəbl ˈæɡrɪkʌltʃər/"
+    },
+    "back": {
+      "icon": "🌱",
+      "title": "n. เกษตรยั่งยืน",
+      "description": "**Sustainable agriculture** aims to protect the environment while meeting food demands."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-sustainable-development",
+    "front": {
+      "icon": "",
+      "title": "Sustainable development",
+      "description": "səˈsteɪnəbəl dɪˈvɛləpmənt"
+    },
+    "back": {
+      "icon": "🌳",
+      "title": "n. การพัฒนาที่ยั่งยืน",
+      "description": "**Sustainable development** aims to meet the needs of the present without compromising the ability of future generations to meet their own needs."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-waste-management",
+    "front": {
+      "icon": "",
+      "title": "Waste management",
+      "description": "/weɪst ˈmænɪdʒmənt/"
+    },
+    "back": {
+      "icon": "🗑️",
+      "title": "n. การจัดการขยะ",
+      "description": "Protecting our natural **environment** is crucial for future generations."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-water-conservation",
+    "front": {
+      "icon": "",
+      "title": "Water conservation",
+      "description": "ˈwɔtər kɒnsərˈveɪʃən"
+    },
+    "back": {
+      "icon": "💧",
+      "title": "n. การอนุรักษ์น้ำ",
+      "description": "**Water conservation** is important for the environment."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-water-pollution",
+    "front": {
+      "icon": "",
+      "title": "Water pollution",
+      "description": "ˈwɔːtər pəˈluːʃən"
+    },
+    "back": {
+      "icon": "pollute: 🚱",
+      "title": "n. มลพิษทางน้ำ",
+      "description": "**Water pollution** is a serious environmental issue."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-wildlife",
+    "front": {
+      "icon": "",
+      "title": "Wildlife",
+      "description": "ˈwaɪldlaɪf"
+    },
+    "back": {
+      "icon": "🐘",
+      "title": "n. สัตว์ป่า",
+      "description": "Protecting local **wildlife** is crucial for maintaining a healthy ecosystem."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-carbon-footprint",
+    "front": {
+      "icon": "",
+      "title": "Carbon footprint",
+      "description": "ˈkɑːrbən ˈfʊtprɪnt"
+    },
+    "back": {
+      "icon": "👣",
+      "title": "n. รอยเท้าคาร์บอน",
+      "description": "Reducing your **carbon footprint** helps protect the environment."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-clean-energy",
+    "front": {
+      "icon": "",
+      "title": "Clean energy",
+      "description": "/kliːn ˈɛnərdʒi/"
+    },
+    "back": {
+      "icon": "🔋",
+      "title": "n. พลังงานสะอาด",
+      "description": "The nation is investing in **Clean energy** solutions for a sustainable future."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-environmental-impact",
+    "front": {
+      "icon": "",
+      "title": "Environmental impact",
+      "description": "/ɪnˌvaɪrənˈmɛntəl ˈɪmpækt/"
+    },
+    "back": {
+      "icon": "🌳",
+      "title": "n. ผลกระทบต่อสิ่งแวดล้อม",
+      "description": "The company aimed to reduce its **environmental impact** by using sustainable materials."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-green-technology",
+    "front": {
+      "icon": "",
+      "title": "Green technology",
+      "description": "ɡriːn tɛkˈnɒlədʒi"
+    },
+    "back": {
+      "icon": "♻️",
+      "title": "n. เทคโนโลยีสีเขียว",
+      "description": "The company is investing heavily in **Green technology** to reduce its carbon footprint."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-natural-resource",
+    "front": {
+      "icon": "",
+      "title": "Natural resource",
+      "description": "ˈnætʃərəl rɪˈsɔːrs"
+    },
+    "back": {
+      "icon": "🌳",
+      "title": "n. ทรัพยากรธรรมชาติ",
+      "description": "Water is a valuable **Natural resource**."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-organic-farming",
+    "front": {
+      "icon": "",
+      "title": "Organic farming",
+      "description": "ɔrˈɡænɪk ˈfɑːrmɪŋ"
+    },
+    "back": {
+      "icon": "🧑‍🌾",
+      "title": "n. เกษตรอินทรีย์",
+      "description": "**Organic farming** helps protect the environment."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-solar-energy",
+    "front": {
+      "icon": "",
+      "title": "Solar energy",
+      "description": "ˈsoʊlər ˈɛnərdʒi"
+    },
+    "back": {
+      "icon": "☀️",
+      "title": "n. พลังงานแสงอาทิตย์",
+      "description": "**Solar energy** is a renewable energy source."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-wind-power",
+    "front": {
+      "icon": "",
+      "title": "Wind power",
+      "description": "wɪnd ˈpaʊər"
+    },
+    "back": {
+      "icon": "🌬️",
+      "title": "n. พลังงานลม",
+      "description": "**Wind power** is a renewable energy source."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-zero-waste",
+    "front": {
+      "icon": "",
+      "title": "Zero waste",
+      "description": "ˈzɪəroʊ weɪst"
+    },
+    "back": {
+      "icon": "♻️",
+      "title": "n. ลดขยะให้เป็นศูนย์",
+      "description": "Our goal is to achieve a **Zero waste** lifestyle."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-biofuel",
+    "front": {
+      "icon": "",
+      "title": "Biofuel",
+      "description": "/ˈbaɪoʊˌfjuːəl/"
+    },
+    "back": {
+      "icon": "🌿",
+      "title": "n. เชื้อเพลิงชีวภาพ",
+      "description": "**Biofuel** is a renewable energy source derived from biomass."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-carbon-capture-and-storage",
+    "front": {
+      "icon": "",
+      "title": "Carbon capture and storage",
+      "description": "ˈkɑːrbən ˈkæptʃər ænd ˈstɔːrɪdʒ"
+    },
+    "back": {
+      "icon": "♻️",
+      "title": "n. การดักจับและกักเก็บคาร์บอน",
+      "description": "**Carbon capture and storage** is a crucial technology for reducing CO2 emissions."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-circular-economy",
+    "front": {
+      "icon": "",
+      "title": "Circular economy",
+      "description": "ˈsɜːrkjʊlər ɪˈkɒnəmi"
+    },
+    "back": {
+      "icon": "♻️",
+      "title": "n. เศรษฐกิจหมุนเวียน",
+      "description": "The **circular economy** aims to minimize waste and make the most of resources."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-climate-adaptation",
+    "front": {
+      "icon": "",
+      "title": "Climate adaptation",
+      "description": "ˈklaɪmət əˌdæpˈteɪʃən"
+    },
+    "back": {
+      "icon": "🌳",
+      "title": "n. การปรับตัวเข้ากับการเปลี่ยนแปลงสภาพภูมิอากาศ",
+      "description": "**Climate adaptation** is crucial for mitigating the impacts of global warming."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-climate-justice",
+    "front": {
+      "icon": "",
+      "title": "Climate justice",
+      "description": "ˈklaɪmət ˈdʒʌstɪs"
+    },
+    "back": {
+      "icon": "⚖️",
+      "title": "n. ความยุติธรรมด้านสภาพภูมิอากาศ",
+      "description": "Advocating for **Climate justice** is crucial for a sustainable future."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-deforestation-free",
+    "front": {
+      "icon": "",
+      "title": "Deforestation-free",
+      "description": "dɪˌfɔrəˈsteɪʃən friː"
+    },
+    "back": {
+      "icon": "🌳",
+      "title": "adj. ปลอดการตัดไม้ทำลายป่า",
+      "description": "We aim to ensure our products are from **deforestation-free** sources."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-ecosystem-based-adaptation",
+    "front": {
+      "icon": "",
+      "title": "Ecosystem-based adaptation",
+      "description": "ˌiːkoʊsɪstəm beɪst ˌædəpˈteɪʃən"
+    },
+    "back": {
+      "icon": "🌳",
+      "title": "n. การปรับตัวบนพื้นฐานของระบบนิเวศ",
+      "description": "**Ecosystem-based adaptation** helps communities prepare for climate change."
+    }
+  },
+  {
+    "id": "ielts-by-category-environment-environmental-education",
+    "front": {
+      "icon": "",
+      "title": "Environmental education",
+      "description": "ɪnˌvaɪrənˈmɛntəl ˌɛdʒuˈkeɪʃən"
+    },
+    "back": {
+      "icon": "🌱",
+      "title": "n. สิ่งแวดล้อมศึกษา",
+      "description": "**Environmental education** is crucial for fostering a sustainable future."
+    }
+  }
+]
