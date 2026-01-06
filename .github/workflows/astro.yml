@@ -27,27 +27,18 @@ jobs:
           run_install: false
 
       # 3️⃣ cache pnpm store (หลัง pnpm พร้อมแล้ว)
-      - name: Get pnpm store directory
-        shell: bash
-        run: |
-          STORE_PATH=$(pnpm store path)
-          echo "STORE_PATH=$STORE_PATH" >> $GITHUB_ENV
-
-      - name: Cache pnpm store
-        uses: actions/cache@v4
-        with:
-          path: ${{ env.STORE_PATH }}
-          key: ${{ runner.os }}-pnpm-${{ hashFiles('pnpm-lock.yaml') }}
-          restore-keys: |
-            ${{ runner.os }}-pnpm-
 
       # 4️⃣ install deps
       - name: Install dependencies
-        run: pnpm install --frozen-lockfile
+        run: |
+          cd frontend
+          pnpm install --frozen-lockfile
 
       # 5️⃣ build
-      - name: Build project
-        run: pnpm build
+      - name: Build
+        run: |
+          cd frontend
+          pnpm build
 
       # 6️⃣ deploy Firebase
       - name: Deploy to Firebase
@@ -60,5 +51,10 @@ jobs:
 
       - name: Debug pnpm store path
         run: |
-           echo "STORE_PATH = $STORE_PATH"
-           echo "ENV_STORE_PATH = ${{ env.STORE_PATH }}"
+          echo "STORE_PATH = $STORE_PATH"
+          echo "ENV_STORE_PATH = ${{ env.STORE_PATH }}"
+
+      - name: Debug workspace
+        run: |
+          ls
+          cat package.json || echo "no package.json here"
