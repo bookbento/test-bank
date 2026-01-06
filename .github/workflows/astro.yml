@@ -1,89 +1,58 @@
-# Sample workflow for building and deploying an Astro site to GitHub Pages
-name: Deploy Astro site to Pages
+name: Deploy to Firebase Hosting
 
 on:
   push:
-    branches: ['main']
-  workflow_dispatch:
-
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: 'pages'
-  cancel-in-progress: false
-
-env:
-  BUILD_PATH: '.'
+    branches:
+      - main
 
 jobs:
-  build:
-    name: Build
+  build_and_deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Setup pnpm
-        uses: pnpm/action-setup@v2
-        with:
-          version: latest
-
-      - name: Get pnpm store directory
-        id: pnpm-cache
-        shell: bash
-        run: |
-          echo "STORE_PATH=$(pnpm store path --silent)" >> $GITHUB_OUTPUT
-
+      # 1️⃣ setup node (ไม่ต้อง cache pnpm ตรงนี้)
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 18
-          cache: pnpm
-          cache-dependency-path: pnpm-lock.yaml
 
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v5
+      # 2️⃣ setup pnpm อย่างถูกต้อง
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v3
         with:
-          enablement: true
+          version: 9
+          run_install: false
 
+      # 3️⃣ cache pnpm store (หลัง pnpm พร้อมแล้ว)
+      - name: Get pnpm store directory
+        shell: bash
+        run: |
+          echo "STORE_PATH=$(pnpm store path)" >> $GITHUB_ENV
+
+      - name: Cache pnpm store
+        uses: actions/cache@v4
+        with:
+          path: ${{ env.STORE_PATH }}
+          key: ${{ runner.os }}-pnpm-${{ hashFiles('pnpm-lock.yaml') }}
+          restore-keys: |
+            ${{ runner.os }}-pnpm-
+
+      # 4️⃣ install deps
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
-        working-directory: ${{ env.BUILD_PATH }}
 
-      - name: Build with Astro
-        env:
-          PUBLIC_FIREBASE_API_KEY: ${{ secrets.FIREBASE_API_KEY }}
-          PUBLIC_FIREBASE_AUTH_DOMAIN: ${{ secrets.FIREBASE_AUTH_DOMAIN }}
-          PUBLIC_FIREBASE_PROJECT_ID: ${{ secrets.FIREBASE_PROJECT_ID }}
-          PUBLIC_FIREBASE_STORAGE_BUCKET: ${{ secrets.FIREBASE_STORAGE_BUCKET }}
-          PUBLIC_FIREBASE_MESSAGING_SENDER_ID: ${{ secrets.FIREBASE_MESSAGING_SENDER_ID }}
-          PUBLIC_FIREBASE_APP_ID: ${{ secrets.FIREBASE_APP_ID }}
-          PUBLIC_FIREBASE_MEASUREMENT_ID: ${{ secrets.FIREBASE_MEASUREMENT_ID }}
-        run: |
-          pnpm run build -- \
-            --site "${{ steps.pages.outputs.origin }}" \
-            --base "${{ steps.pages.outputs.base_path }}"
-        working-directory: ${{ env.BUILD_PATH }}
+      # 5️⃣ build
+      - name: Build project
+        run: pnpm build
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+      # 6️⃣ deploy Firebase
+      - name: Deploy to Firebase
+        uses: FirebaseExtended/action-hosting-deploy@v0
         with:
-          path: ${{ env.BUILD_PATH }}/dist
-
-  deploy:
-    name: Deploy
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+          repoToken: ${{ secrets.GITHUB_TOKEN }}
+          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+          channelId: live
+          projectId: YOUR_PROJECT_ID
